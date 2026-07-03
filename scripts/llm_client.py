@@ -5,9 +5,10 @@ import requests
 
 SILICONFLOW_BASE_URL = 'https://api.siliconflow.cn/v1'
 SILICONFLOW_MODEL = 'deepseek-ai/DeepSeek-V4-Flash'
+DEFAULT_TIMEOUT_SECONDS = 180
 
 
-def call_llm(prompt, system_prompt, timeout):
+def call_llm(prompt, system_prompt, timeout=DEFAULT_TIMEOUT_SECONDS):
     """Call SiliconFlow's OpenAI-compatible chat completions API."""
     headers = {
         'Authorization': f"Bearer {get_siliconflow_api_key()}",

@@ -173,6 +173,26 @@ class TranslateTests(unittest.TestCase):
 
             self.assertEqual(pending, ['pending', 'missing'])
 
+    def test_run_batch_uses_default_llm_timeout_signature(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            en_dir = root / 'data' / 'en'
+            zh_dir = root / 'data' / 'zh'
+            write_json(en_dir / 'pkg.json', en_record('pkg', 'desc'))
+
+            def fake_call_llm(prompt, system_prompt):
+                return '[{"i": 0, "zh": "译文"}]', None
+
+            attrs = {'DATA_EN_DIR': en_dir, 'DATA_ZH_DIR': zh_dir}
+            with patch.multiple(translate_script, **attrs), \
+                    patch.object(translate_script, 'call_llm', fake_call_llm), \
+                    contextlib.redirect_stdout(io.StringIO()):
+                done = translate_script.run_batch(1, 1, ['pkg'], 'now', 'system')
+
+            self.assertEqual(done, 1)
+            translated = json.loads((zh_dir / 'pkg.json').read_text())
+            self.assertEqual(translated['description_zh'], '译文')
+
 
 class MergeTests(unittest.TestCase):
     def test_merge_fails_when_translation_is_missing(self):
