@@ -1,0 +1,13 @@
+{
+  "name": "pi-ilo-lang",
+  "path": "/packages/pi-ilo-lang",
+  "url": "https://pi.dev/packages/pi-ilo-lang",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 221,
+  "date_ms": 1779201460982,
+  "description_en": "Pi extension for the ilo programming language: run programs, hold an interactive ilo serv session, and load the ilo skill so the agent knows the syntax.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

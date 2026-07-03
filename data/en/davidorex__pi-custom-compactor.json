@@ -1,0 +1,13 @@
+{
+  "name": "@davidorex/pi-custom-compactor",
+  "path": "/packages/@davidorex/pi-custom-compactor",
+  "url": "https://pi.dev/packages/@davidorex/pi-custom-compactor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 90,
+  "date_ms": 1774566766707,
+  "description_en": "Declarative YAML-driven structured compaction for pi coding agent — multi-pass extraction, artifact persistence, budget management, and work-mode-specific compaction specs",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

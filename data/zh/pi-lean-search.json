@@ -1,0 +1,6 @@
+{
+  "name": "pi-lean-search",
+  "description_en": "Pi extension. SearXNG search tool for Pi. Pairs with pi-lean-portal's /web toggle (soft peer — search-only installs are valid).",
+  "description_zh": "Pi 扩展。Pi 的 SearXNG 搜索工具。与 pi-lean-portal 的 /web 切换配对（软对等 — 仅搜索安装有效）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

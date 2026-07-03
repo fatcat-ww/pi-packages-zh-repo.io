@@ -1,0 +1,13 @@
+{
+  "name": "@lhl/pi-vertex",
+  "path": "/packages/@lhl/pi-vertex",
+  "url": "https://pi.dev/packages/@lhl/pi-vertex",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 119,
+  "date_ms": 1779302356727,
+  "description_en": "Google Vertex AI provider for Pi coding agent - supports Gemini, Claude, and all MaaS models",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

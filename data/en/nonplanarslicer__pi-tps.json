@@ -1,0 +1,11 @@
+{
+  "name": "@nonplanarslicer/pi-tps",
+  "path": "/packages/@nonplanarslicer/pi-tps",
+  "url": "https://pi.dev/packages/@nonplanarslicer/pi-tps",
+  "types": "",
+  "type_list": [],
+  "downloads": 36,
+  "date_ms": 1777545054252,
+  "description_en": "Show live TPS in the pi-coding-agent status bar without overwriting it",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

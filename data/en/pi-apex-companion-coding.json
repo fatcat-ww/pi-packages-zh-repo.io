@@ -1,0 +1,13 @@
+{
+  "name": "pi-apex-companion-coding",
+  "path": "/packages/pi-apex-companion-coding",
+  "url": "https://pi.dev/packages/pi-apex-companion-coding",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 29,
+  "date_ms": 1777045235856,
+  "description_en": "Apex Companion Coding extension package for pi / pi-mono with companion review, negotiation contracts, and mutation guardrails.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

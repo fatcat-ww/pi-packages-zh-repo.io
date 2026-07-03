@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-network-diagnostics",
+  "path": "/packages/@firstpick/pi-skill-network-diagnostics",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-network-diagnostics",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 412,
+  "date_ms": 1780954606068,
+  "description_en": "Agents should invoke this skill for connectivity, DNS, Pi-hole, port reachability, routing, firewall reachability, TLS/network timeouts, or service access failures. Provides structured network troubleshooting commands and interpretation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "checkpoint-pi",
+  "path": "/packages/checkpoint-pi",
+  "url": "https://pi.dev/packages/checkpoint-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 120,
+  "date_ms": 1778966983291,
+  "description_en": "Git-based checkpoint extension for pi-coding-agent - creates checkpoints at each turn for code state restoration",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

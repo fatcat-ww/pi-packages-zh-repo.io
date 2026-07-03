@@ -1,0 +1,13 @@
+{
+  "name": "@xynogen/pix-edit",
+  "path": "/packages/@xynogen/pix-edit",
+  "url": "https://pi.dev/packages/@xynogen/pix-edit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1283,
+  "date_ms": 1783045264992,
+  "description_en": "Pi tool — precise text replacement edit with diff rendering",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

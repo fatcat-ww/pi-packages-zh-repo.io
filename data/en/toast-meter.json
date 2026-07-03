@@ -1,0 +1,13 @@
+{
+  "name": "toast-meter",
+  "path": "/packages/toast-meter",
+  "url": "https://pi.dev/packages/toast-meter",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 637,
+  "date_ms": 1780816792808,
+  "description_en": "Pi footer/statusline token usage meter for AI coding agents, showing context window rot from smart zone to dumb zone",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

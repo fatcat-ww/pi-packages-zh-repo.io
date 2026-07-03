@@ -1,0 +1,13 @@
+{
+  "name": "@tryinget/pi-evalset-lab",
+  "path": "/packages/@tryinget/pi-evalset-lab",
+  "url": "https://pi.dev/packages/@tryinget/pi-evalset-lab",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 29,
+  "date_ms": 1778746249606,
+  "description_en": "pi extension for fixed-task-set eval runs and prompt/system comparisons",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-agent-goal",
+  "path": "/packages/pi-agent-goal",
+  "url": "https://pi.dev/packages/pi-agent-goal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 472,
+  "date_ms": 1781395217340,
+  "description_en": "Pi extension that gives coding agents persistent /goal workflows with branch-aware state, source imports, progress tools, and explicit start handoffs.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

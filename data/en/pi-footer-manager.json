@@ -1,0 +1,13 @@
+{
+  "name": "pi-footer-manager",
+  "path": "/packages/pi-footer-manager",
+  "url": "https://pi.dev/packages/pi-footer-manager",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 68,
+  "date_ms": 1779646288187,
+  "description_en": "One footer, many extensions: build flexible Pi footers from reusable fragments with configurable layout and built-in fragments instead of competing `setFooter()` calls. `pi-footer-manager` lets one extension own footer rendering while built-in and custom",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

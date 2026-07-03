@@ -1,0 +1,13 @@
+{
+  "name": "@mporenta/pi-trading-quant-chain",
+  "path": "/packages/@mporenta/pi-trading-quant-chain",
+  "url": "https://pi.dev/packages/@mporenta/pi-trading-quant-chain",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2223,
+  "date_ms": 1781895974969,
+  "description_en": "Pi extension package for a sequential ML/algo-trading quant agent chain.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-mlx-models",
+  "path": "/packages/pi-mlx-models",
+  "url": "https://pi.dev/packages/pi-mlx-models",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 229,
+  "date_ms": 1778071253713,
+  "description_en": "Local MLX model launcher extension for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

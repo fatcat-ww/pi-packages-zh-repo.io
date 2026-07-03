@@ -1,0 +1,13 @@
+{
+  "name": "@cmcconomy/pi-qwen-tool-parser",
+  "path": "/packages/@cmcconomy/pi-qwen-tool-parser",
+  "url": "https://pi.dev/packages/@cmcconomy/pi-qwen-tool-parser",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 41,
+  "date_ms": 1775079620507,
+  "description_en": "A pi-mono extension that parses Qwen XML formatted tool calls and provides a wrapper tool for execution",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

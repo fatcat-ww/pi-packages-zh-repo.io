@@ -1,0 +1,6 @@
+{
+  "name": "@patimweb/pi-email",
+  "description_en": "IMAP/SMTP email client extension for pi coding agent. Read, search, send, move, and delete emails from your inbox.",
+  "description_zh": "面向 pi 编码代理的 IMAP/SMTP 电子邮件客户端扩展。读取、搜索、发送、移动和删除收件箱中的邮件。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

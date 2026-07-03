@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-extension-fish-user-bash",
+  "description_en": "Use fish shell backend for Pi user bash commands (! and !!).",
+  "description_zh": "为 Pi 用户 bash 命令 (! 和 !!) 使用 fish shell 后端",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

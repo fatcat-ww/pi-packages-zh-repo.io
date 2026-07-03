@@ -1,0 +1,13 @@
+{
+  "name": "pi-agentsmd",
+  "path": "/packages/pi-agentsmd",
+  "url": "https://pi.dev/packages/pi-agentsmd",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 360,
+  "date_ms": 1782868257816,
+  "description_en": "Generate AGENTS.md contributor guides for Pi repositories.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

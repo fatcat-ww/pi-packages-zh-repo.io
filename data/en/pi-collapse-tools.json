@@ -1,0 +1,13 @@
+{
+  "name": "pi-collapse-tools",
+  "path": "/packages/pi-collapse-tools",
+  "url": "https://pi.dev/packages/pi-collapse-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 89,
+  "date_ms": 1778445527005,
+  "description_en": "Pi extension that hides tool output by default (expand with Cmd+O / Ctrl+O).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

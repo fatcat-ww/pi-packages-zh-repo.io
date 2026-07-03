@@ -1,0 +1,6 @@
+{
+  "name": "@qmxme/pi-git-guard",
+  "description_en": "Blocks destructive git operations (push, tag -d, reset --hard) in pi",
+  "description_zh": "阻止 pi 中的破坏性 git 操作（push、tag -d、reset --hard）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

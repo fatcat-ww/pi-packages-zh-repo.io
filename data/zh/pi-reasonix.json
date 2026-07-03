@@ -1,0 +1,6 @@
+{
+  "name": "pi-reasonix",
+  "description_en": "DeepSeek-native optimizations for Pi: cache-first prefix stabilization, tool-call repair, and cost control.",
+  "description_zh": "面向 Pi 的 DeepSeek 原生优化：缓存优先的前缀稳定、工具调用修复和成本控制。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

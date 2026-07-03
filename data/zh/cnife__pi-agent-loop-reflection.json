@@ -1,0 +1,6 @@
+{
+  "name": "@cnife/pi-agent-loop-reflection",
+  "description_en": "Inject reflection reminders into long-running pi agent loops",
+  "description_zh": "向长时间运行的 pi 代理循环中注入反思提醒",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

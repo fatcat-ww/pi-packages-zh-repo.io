@@ -1,0 +1,13 @@
+{
+  "name": "pi-claude-sandbox",
+  "path": "/packages/pi-claude-sandbox",
+  "url": "https://pi.dev/packages/pi-claude-sandbox",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 110,
+  "date_ms": 1777109130939,
+  "description_en": "Claude-style OS-level sandboxing for pi with interactive permission prompts. Coexists with pi-tool-display and other bash-overriding extensions. Forked from carderne/pi-sandbox.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

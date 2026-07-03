@@ -1,0 +1,6 @@
+{
+  "name": "slicefsm-omp",
+  "description_en": "slicefsm harness for omp: an omp/pi extension that enforces the slice FSM (block + log + per-turn tool gating + affordance) by bridging to the slicefsm python hook",
+  "description_zh": "omp 的 slicefsm 工具：一个 omp/pi 扩展，通过桥接到 slicefsm python 钩子来强制执行切片 FSM（块+日志+每轮工具门控+可负担性）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

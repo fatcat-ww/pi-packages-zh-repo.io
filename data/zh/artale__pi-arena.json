@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-arena",
+  "description_en": "Model benchmarking with domain-aware hallucination tracking, per-model leaderboards, and task templates. Track speed, quality, and pass rate across coding, reasoning, and general knowledge.",
+  "description_zh": "模型基准测试，带有领域感知的幻觉跟踪、每模型排行榜和任务模板。跟踪编码、推理和一般知识方面的速度、质量和通过率",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

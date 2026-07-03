@@ -1,0 +1,6 @@
+{
+  "name": "@chankov/agent-skills",
+  "description_en": "Production-grade engineering skills for AI coding agents. Ships skills, agent personas, slash commands, and pi extensions, with a thin CLI that hands off to the LLM-driven guided setup.",
+  "description_zh": "AI 编码代理的生产级工程技能。提供技能、代理角色、斜杠命令和 pi 扩展，带有薄 CLI，移交到 LLM 驱动的引导设置。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

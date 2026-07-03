@@ -1,0 +1,14 @@
+{
+  "name": "@artale/pi-real-engineering",
+  "path": "/packages/@artale/pi-real-engineering",
+  "url": "https://pi.dev/packages/@artale/pi-real-engineering",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 566,
+  "date_ms": 1781866407414,
+  "description_en": "Real Engineering Workflow for Pi: Plan → Build → Test → Review → Ship with verifier guardrails and receipts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

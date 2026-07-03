@@ -1,0 +1,13 @@
+{
+  "name": "@narumitw/pi-github-pr",
+  "path": "/packages/@narumitw/pi-github-pr",
+  "url": "https://pi.dev/packages/@narumitw/pi-github-pr",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 548,
+  "date_ms": 1782712247808,
+  "description_en": "Pi extension that shows GitHub pull request review, checks, and comment status.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

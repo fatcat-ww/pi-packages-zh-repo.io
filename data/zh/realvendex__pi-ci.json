@@ -1,0 +1,6 @@
+{
+  "name": "@realvendex/pi-ci",
+  "description_en": "Pi-native GitHub Actions workflow generator for pi.dev extensions — pre-configured test, lint, build, and publish jobs.",
+  "description_zh": "Pi 原生 GitHub Actions 工作流生成器，用于 pi.dev 扩展 — 预配置的测试、检查、构建和发布作业。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lumen-pi-extension",
+  "path": "/packages/lumen-pi-extension",
+  "url": "https://pi.dev/packages/lumen-pi-extension",
+  "types": "",
+  "type_list": [],
+  "downloads": 368,
+  "date_ms": 1780257552839,
+  "description_en": "Pi extension that opens lumen on the diff after each agent turn and feeds annotations back as the next user message",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

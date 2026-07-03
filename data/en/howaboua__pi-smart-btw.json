@@ -1,0 +1,13 @@
+{
+  "name": "@howaboua/pi-smart-btw",
+  "path": "/packages/@howaboua/pi-smart-btw",
+  "url": "https://pi.dev/packages/@howaboua/pi-smart-btw",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1109,
+  "date_ms": 1782244317145,
+  "description_en": "Async side-session questions for Pi with explicit injection into the main chat.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

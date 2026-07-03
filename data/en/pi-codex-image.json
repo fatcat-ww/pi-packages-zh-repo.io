@@ -1,0 +1,13 @@
+{
+  "name": "pi-codex-image",
+  "path": "/packages/pi-codex-image",
+  "url": "https://pi.dev/packages/pi-codex-image",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 44,
+  "date_ms": 1778170614327,
+  "description_en": "Pi extension that exposes Codex CLI image generation as a smoother codex_image tool.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-read-page",
+  "description_en": "Read webpages through a local browser and return Markdown for Pi coding agent.",
+  "description_zh": "通过本地浏览器阅读网页并返回 Markdown 给 Pi coding agent。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

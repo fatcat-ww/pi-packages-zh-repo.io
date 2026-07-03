@@ -1,0 +1,13 @@
+{
+  "name": "pi-skill-tavily",
+  "path": "/packages/pi-skill-tavily",
+  "url": "https://pi.dev/packages/pi-skill-tavily",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 77,
+  "date_ms": 1773337816445,
+  "description_en": "Tavily web search, extract, crawl, and research skills for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-skill-optimizer",
+  "description_en": "A Pi extension that cuts input-token cost every request — slims the <available_skills> catalog, the tools array, and noisy tool output — without hiding your skills. Provider-agnostic, config-driven, cross-OS.",
+  "description_zh": "一个 Pi 扩展，可减少每次请求的输入令牌成本 — 精简 <available_skills> 目录、工具数组和嘈杂的工具输出 — 同时不隐藏您的技能。提供商无关、配置驱动、跨操作系统。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

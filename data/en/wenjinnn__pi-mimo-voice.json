@@ -1,0 +1,11 @@
+{
+  "name": "@wenjinnn/pi-mimo-voice",
+  "path": "/packages/@wenjinnn/pi-mimo-voice",
+  "url": "https://pi.dev/packages/@wenjinnn/pi-mimo-voice",
+  "types": "",
+  "type_list": [],
+  "downloads": 2017,
+  "date_ms": 1780224756130,
+  "description_en": "Voice input and output for pi powered by Xiaomi MiMo V2.5 TTS",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

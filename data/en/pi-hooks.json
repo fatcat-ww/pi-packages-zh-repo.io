@@ -1,0 +1,11 @@
+{
+  "name": "pi-hooks",
+  "path": "/packages/pi-hooks",
+  "url": "https://pi.dev/packages/pi-hooks",
+  "types": "",
+  "type_list": [],
+  "downloads": 189,
+  "date_ms": 1778966975749,
+  "description_en": "Collection of pi extensions (checkpoint, lsp, permission, ralph-loop, repeat)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-exa-tools",
+  "path": "/packages/pi-exa-tools",
+  "url": "https://pi.dev/packages/pi-exa-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 90,
+  "date_ms": 1778188138744,
+  "description_en": "Adds Exa-backed web search and page fetching tools to Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

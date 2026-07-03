@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-statusbar",
+  "description_en": "Custom status bar for Pi. Shows context %, tokens, cost estimate, git branch, and uptime in the footer.",
+  "description_zh": "Pi 的自定义状态栏。在页脚显示上下文百分比、token、成本估算、git 分支和运行时间",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@shog-lab/pi-subagent",
+  "description_en": "Spawn focused sub-pi processes from inside pi. Registers a `spawn_subagent` tool: agent calls it with cwd + prompt, gets back the sub-agent's response. Fire-and-forget child pi via spawnPi. Previously bundled in @shog-lab/pi-toolkit 0.2.x.",
+  "description_zh": "从 pi 内部启动专注的子 pi 进程。注册一个 `spawn_subagent` 工具：代理使用 cwd + 提示词调用它，获取回子代理的响应。通过 spawnPi 启动即用即弃的子 pi。以前捆绑在 @shog-lab/pi-toolkit 0.2.x 中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

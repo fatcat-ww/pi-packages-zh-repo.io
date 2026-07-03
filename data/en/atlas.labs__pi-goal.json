@@ -1,0 +1,13 @@
+{
+  "name": "@atlas.labs/pi-goal",
+  "path": "/packages/@atlas.labs/pi-goal",
+  "url": "https://pi.dev/packages/@atlas.labs/pi-goal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 97,
+  "date_ms": 1778607034729,
+  "description_en": "Persistent goal tracking for Pi with /tree-compatible state, budgets, reusable prompts, and churn monitoring.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

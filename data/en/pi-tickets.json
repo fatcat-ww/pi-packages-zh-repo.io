@@ -1,0 +1,13 @@
+{
+  "name": "pi-tickets",
+  "path": "/packages/pi-tickets",
+  "url": "https://pi.dev/packages/pi-tickets",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 541,
+  "date_ms": 1781982267319,
+  "description_en": "Compact tk ticket workflow tools for Pi agents with low prompt overhead.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-openresolve",
+  "path": "/packages/pi-openresolve",
+  "url": "https://pi.dev/packages/pi-openresolve",
+  "types": "",
+  "type_list": [],
+  "downloads": 59,
+  "date_ms": 1775891431339,
+  "description_en": "Openresolve extension for pi (currently lists merge conflicts in TypeScript code)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

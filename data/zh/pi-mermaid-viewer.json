@@ -1,0 +1,6 @@
+{
+  "name": "pi-mermaid-viewer",
+  "description_en": "Render Mermaid diagrams from Pi user and assistant messages in the TUI",
+  "description_zh": "在 TUI 中渲染 Pi 用户和助手的 Mermaid 图表",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

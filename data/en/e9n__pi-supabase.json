@@ -1,0 +1,11 @@
+{
+  "name": "@e9n/pi-supabase",
+  "path": "/packages/@e9n/pi-supabase",
+  "url": "https://pi.dev/packages/@e9n/pi-supabase",
+  "types": "",
+  "type_list": [],
+  "downloads": 44,
+  "date_ms": 1771319514977,
+  "description_en": "Supabase integration for pi — read-only queries, table subscriptions, and pi-channels notifications",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

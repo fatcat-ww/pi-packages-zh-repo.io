@@ -1,0 +1,11 @@
+{
+  "name": "@alexanderfortin/pi-token-usage",
+  "path": "/packages/@alexanderfortin/pi-token-usage",
+  "url": "https://pi.dev/packages/@alexanderfortin/pi-token-usage",
+  "types": "",
+  "type_list": [],
+  "downloads": 331,
+  "date_ms": 1779440728293,
+  "description_en": "Pi coding agent extension for analyzing token usage and cost across session files",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

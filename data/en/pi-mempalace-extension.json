@@ -1,0 +1,13 @@
+{
+  "name": "pi-mempalace-extension",
+  "path": "/packages/pi-mempalace-extension",
+  "url": "https://pi.dev/packages/pi-mempalace-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 147,
+  "date_ms": 1776694539271,
+  "description_en": "Lean MemPalace integration for the Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

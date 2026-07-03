@@ -1,0 +1,13 @@
+{
+  "name": "pi-autopilot",
+  "path": "/packages/pi-autopilot",
+  "url": "https://pi.dev/packages/pi-autopilot",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783024526474,
+  "description_en": "Autopilot orchestration package for Pi: /autopilot, /autopilot-onboard, /autopilot-handoff, context budget activation, and child runner wiring.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

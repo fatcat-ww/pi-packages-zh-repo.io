@@ -1,0 +1,6 @@
+{
+  "name": "pi-subdir-context",
+  "description_en": "Automatically load AGENTS.md context from subdirectories in pi coding agent",
+  "description_zh": "自动从 Pi 编码代理的子目录加载 AGENTS.md 上下文",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

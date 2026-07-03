@@ -1,0 +1,6 @@
+{
+  "name": "@fgladisch/pi-zsh-shell",
+  "description_en": "Run Pi user bash commands through zsh with Pi-specific functions",
+  "description_zh": "通过带有 Pi 特定函数的 zsh 运行 Pi 用户 bash 命令。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

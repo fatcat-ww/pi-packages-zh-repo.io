@@ -1,0 +1,6 @@
+{
+  "name": "pi-inspect-image",
+  "description_en": "Pi extension that registers an inspect_image tool — analyzes local image files using a configurable vision-capable model via OpenAI-compatible API",
+  "description_zh": "注册 inspect_image 工具的 Pi 扩展 — 通过 OpenAI 兼容 API 使用可配置的视觉模型分析本地图像文件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

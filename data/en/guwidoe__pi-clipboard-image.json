@@ -1,0 +1,11 @@
+{
+  "name": "@guwidoe/pi-clipboard-image",
+  "path": "/packages/@guwidoe/pi-clipboard-image",
+  "url": "https://pi.dev/packages/@guwidoe/pi-clipboard-image",
+  "types": "",
+  "type_list": [],
+  "downloads": 73,
+  "date_ms": 1771956318586,
+  "description_en": "pi extension: paste clipboard images into the prompt across Windows, Linux, and macOS",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

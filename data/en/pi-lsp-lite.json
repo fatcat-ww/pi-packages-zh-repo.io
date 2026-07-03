@@ -1,0 +1,13 @@
+{
+  "name": "pi-lsp-lite",
+  "path": "/packages/pi-lsp-lite",
+  "url": "https://pi.dev/packages/pi-lsp-lite",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 184,
+  "date_ms": 1782824610262,
+  "description_en": "LSP diagnostics for pi — errors and warnings on every edit, same turn. Go, Rust, TypeScript, Python, C/C++.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

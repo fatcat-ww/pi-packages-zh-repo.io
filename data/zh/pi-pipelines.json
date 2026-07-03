@@ -1,0 +1,6 @@
+{
+  "name": "pi-pipelines",
+  "description_en": "Predefined, reusable agent loops for Pi: declarative YAML pipelines with review gates, scoring, and goal-loop convergence. Built on pi-subagents.",
+  "description_zh": "Pi 的预定义、可重用的代理循环：带有审查门、评分和目标循环收敛的声明式 YAML 管道。基于 pi-subagents 构建",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

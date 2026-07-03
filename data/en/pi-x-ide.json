@@ -1,0 +1,11 @@
+{
+  "name": "pi-x-ide",
+  "path": "/packages/pi-x-ide",
+  "url": "https://pi.dev/packages/pi-x-ide",
+  "types": "",
+  "type_list": [],
+  "downloads": 4789,
+  "date_ms": 1782862357664,
+  "description_en": "Pi extension package for IDE selection context integration.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

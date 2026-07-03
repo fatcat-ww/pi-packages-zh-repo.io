@@ -1,0 +1,6 @@
+{
+  "name": "pi-collapse-tools",
+  "description_en": "Pi extension that hides tool output by default (expand with Cmd+O / Ctrl+O).",
+  "description_zh": "Pi 扩展，默认隐藏工具输出（使用 Cmd+O / Ctrl+O 展开）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

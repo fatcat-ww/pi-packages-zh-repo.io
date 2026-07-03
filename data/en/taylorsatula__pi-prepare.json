@@ -1,0 +1,11 @@
+{
+  "name": "@taylorsatula/pi-prepare",
+  "path": "/packages/@taylorsatula/pi-prepare",
+  "url": "https://pi.dev/packages/@taylorsatula/pi-prepare",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782850421282,
+  "description_en": "Read-only prepare mode for Pi with clarifying questions, structured plan approval, tracked execution, and clean-workspace implementation dossiers.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

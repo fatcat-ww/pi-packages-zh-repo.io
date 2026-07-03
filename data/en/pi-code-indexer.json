@@ -1,0 +1,14 @@
+{
+  "name": "pi-code-indexer",
+  "path": "/packages/pi-code-indexer",
+  "url": "https://pi.dev/packages/pi-code-indexer",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 483,
+  "date_ms": 1780980831248,
+  "description_en": "AI 驱动的代码知识图谱 — 让 AI 编程助手更快、更准地理解和修改代码",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

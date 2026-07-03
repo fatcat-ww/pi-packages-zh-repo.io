@@ -1,0 +1,14 @@
+{
+  "name": "amp-themes",
+  "path": "/packages/amp-themes",
+  "url": "https://pi.dev/packages/amp-themes",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 941,
+  "date_ms": 1780559889315,
+  "description_en": "Amp-inspired Pi UI suite: theme, editor chrome, and compact tool display.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

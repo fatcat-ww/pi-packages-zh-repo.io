@@ -1,0 +1,11 @@
+{
+  "name": "pi-sonar",
+  "path": "/packages/pi-sonar",
+  "url": "https://pi.dev/packages/pi-sonar",
+  "types": "",
+  "type_list": [],
+  "downloads": 37,
+  "date_ms": 1776428789131,
+  "description_en": "SonarQube integration for pi coding agent — tools, skills, and workflows for finding and fixing sonar issues",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-readcache",
+  "path": "/packages/pi-readcache",
+  "url": "https://pi.dev/packages/pi-readcache",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 91,
+  "date_ms": 1771252493259,
+  "description_en": "🧠 Pi extension that optimizes read tool calls with replay-aware caching and compaction-safe trust reconstruction",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

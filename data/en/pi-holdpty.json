@@ -1,0 +1,13 @@
+{
+  "name": "pi-holdpty",
+  "path": "/packages/pi-holdpty",
+  "url": "https://pi.dev/packages/pi-holdpty",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 189,
+  "date_ms": 1780442951838,
+  "description_en": "Detached PTY sessions with regex watcher, exit notification, NDJSON events, ownership tracking, and Pi extension wiring. Fork of holdpty.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

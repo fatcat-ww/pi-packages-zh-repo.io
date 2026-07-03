@@ -1,0 +1,6 @@
+{
+  "name": "pi-patty-bg-tasks",
+  "description_en": "Background tasks extension for pi. Claude Code parity — auto-background after 120s, run_in_background flag, Ctrl+B manual background with live hint, streaming jobs attach, file-fd output capture, cooperative steering, agent_bg with progress streaming, and",
+  "description_zh": "Pi 的后台任务扩展。Claude Code 对等 — 120秒后自动后台运行，run_in_background 标志，Ctrl+B 手动后台运行并实时提示，流式作业附加，文件-fd 输出捕获，协作引导，agent_bg 与进度流式传输，以及",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

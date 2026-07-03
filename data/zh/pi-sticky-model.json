@@ -1,0 +1,6 @@
+{
+  "name": "pi-sticky-model",
+  "description_en": "Pi extension that keeps your selected model across /new, /resume, and /fork within the same session. Model resets on Ctrl+C.",
+  "description_zh": "Pi 扩展，在同一会话的 /new、/resume 和 /fork 中保持所选模型。Ctrl+C 时重置模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

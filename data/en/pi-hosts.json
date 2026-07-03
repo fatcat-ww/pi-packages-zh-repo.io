@@ -1,0 +1,13 @@
+{
+  "name": "pi-hosts",
+  "path": "/packages/pi-hosts",
+  "url": "https://pi.dev/packages/pi-hosts",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 60,
+  "date_ms": 1777425062903,
+  "description_en": "Run commands on remote hosts from Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

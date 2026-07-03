@@ -1,0 +1,13 @@
+{
+  "name": "kimicodeprovider",
+  "path": "/packages/kimicodeprovider",
+  "url": "https://pi.dev/packages/kimicodeprovider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 49,
+  "date_ms": 1769626552887,
+  "description_en": "pi-coding-agent extension for Kimi/Moonshot API with configurable base URL",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

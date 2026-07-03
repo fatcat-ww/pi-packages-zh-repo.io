@@ -1,0 +1,11 @@
+{
+  "name": "@harms-haus/pi-tasks",
+  "path": "/packages/@harms-haus/pi-tasks",
+  "url": "https://pi.dev/packages/@harms-haus/pi-tasks",
+  "types": "",
+  "type_list": [],
+  "downloads": 54,
+  "date_ms": 1779752388011,
+  "description_en": "pi-coding-agent extension: phased task workflow with dependency tracking and strict status gating",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

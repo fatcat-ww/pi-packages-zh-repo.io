@@ -1,0 +1,13 @@
+{
+  "name": "@bytesbrains/pi-auditor",
+  "path": "/packages/@bytesbrains/pi-auditor",
+  "url": "https://pi.dev/packages/@bytesbrains/pi-auditor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 56,
+  "date_ms": 1778881572821,
+  "description_en": "Audit repo files for RAG digestibility — find god files, measure chunk fragmentation, and generate split suggestions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

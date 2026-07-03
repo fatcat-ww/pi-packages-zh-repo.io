@@ -1,0 +1,13 @@
+{
+  "name": "pi-catppuccin-tui",
+  "path": "/packages/pi-catppuccin-tui",
+  "url": "https://pi.dev/packages/pi-catppuccin-tui",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 900,
+  "date_ms": 1780495621144,
+  "description_en": "Exact Catppuccin themes for Pi, plus optional Catppuccin TUI polish.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

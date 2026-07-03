@@ -1,0 +1,13 @@
+{
+  "name": "@smoose/pi-footer",
+  "path": "/packages/@smoose/pi-footer",
+  "url": "https://pi.dev/packages/@smoose/pi-footer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 156,
+  "date_ms": 1780021787516,
+  "description_en": "A compact footer/status bar extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

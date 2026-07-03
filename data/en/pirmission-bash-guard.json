@@ -1,0 +1,13 @@
+{
+  "name": "pirmission-bash-guard",
+  "path": "/packages/pirmission-bash-guard",
+  "url": "https://pi.dev/packages/pirmission-bash-guard",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 35,
+  "date_ms": 1778691587132,
+  "description_en": "Pi extension that replaces the bash tool with permission-gated execution and exact-match allowlist persistence.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

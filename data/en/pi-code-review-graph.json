@@ -1,0 +1,11 @@
+{
+  "name": "pi-code-review-graph",
+  "path": "/packages/pi-code-review-graph",
+  "url": "https://pi.dev/packages/pi-code-review-graph",
+  "types": "",
+  "type_list": [],
+  "downloads": 65,
+  "date_ms": 1779899087818,
+  "description_en": "Graph-aware local code review package for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

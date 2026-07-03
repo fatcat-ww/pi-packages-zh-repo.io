@@ -1,0 +1,13 @@
+{
+  "name": "pi-themes-rose-pine",
+  "path": "/packages/pi-themes-rose-pine",
+  "url": "https://pi.dev/packages/pi-themes-rose-pine",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 126,
+  "date_ms": 1777310052956,
+  "description_en": "Rosé Pine themes for pi (main, moon, dawn)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

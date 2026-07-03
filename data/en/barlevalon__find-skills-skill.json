@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/find-skills-skill",
+  "path": "/packages/@barlevalon/find-skills-skill",
+  "url": "https://pi.dev/packages/@barlevalon/find-skills-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 150,
+  "date_ms": 1780948720869,
+  "description_en": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express interest in extending capabilities. This skill should be use...",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

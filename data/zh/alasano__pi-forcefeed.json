@@ -1,0 +1,6 @@
+{
+  "name": "@alasano/pi-forcefeed",
+  "description_en": "Force-feed complete files into pi conversation context without read-tool truncation",
+  "description_zh": "强制将完整文件输入 pi 会话上下文，无需读取工具截断",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

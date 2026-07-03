@@ -1,0 +1,6 @@
+{
+  "name": "pi-graph-viz",
+  "description_en": "Interactive dependency graph visualizer for Pi. Renders AST call graphs (from pi-impact-analyzer or any JSON) as self-contained HTML with cycle detection and hierarchical layout.",
+  "description_zh": "Pi 的交互式依赖图可视化工具。将 AST 调用图（来自 pi-impact-analyzer 或任何 JSON）渲染为具有循环检测和分层布局的独立 HTML",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

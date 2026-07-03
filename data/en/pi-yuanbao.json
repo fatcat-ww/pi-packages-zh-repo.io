@@ -1,0 +1,13 @@
+{
+  "name": "pi-yuanbao",
+  "path": "/packages/pi-yuanbao",
+  "url": "https://pi.dev/packages/pi-yuanbao",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 421,
+  "date_ms": 1780625159752,
+  "description_en": "Pi extension: remote control Pi via Tencent Yuanbao (腾讯元宝) Bot API — WebSocket + Protobuf chat bridge",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@davehardy20/pi-quality-gates",
+  "path": "/packages/@davehardy20/pi-quality-gates",
+  "url": "https://pi.dev/packages/@davehardy20/pi-quality-gates",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 46,
+  "date_ms": 1779019894630,
+  "description_en": "Pi quality-gates bundle: post-turn linting, LSP diagnostics, and automated code review.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

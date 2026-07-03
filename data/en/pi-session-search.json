@@ -1,0 +1,13 @@
+{
+  "name": "pi-session-search",
+  "path": "/packages/pi-session-search",
+  "url": "https://pi.dev/packages/pi-session-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 688,
+  "date_ms": 1781116085045,
+  "description_en": "Index, summarize, and search past pi sessions. Covers both active and archived sessions, enabling semantic search and introspection over your coding history.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

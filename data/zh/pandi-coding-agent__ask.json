@@ -1,0 +1,6 @@
+{
+  "name": "@pandi-coding-agent/ask",
+  "description_en": "Pi extension with interactive decision tools (ask_choice, ask_confirm) the model can call to pop a TUI selector / confirm dialog and read back the choice.",
+  "description_zh": "Pi 扩展，带有交互式决策工具（ask_choice、ask_confirm），模型可以调用这些工具弹出 TUI 选择器 / 确认对话框并读回选择。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

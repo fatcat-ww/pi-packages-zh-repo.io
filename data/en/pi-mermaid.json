@@ -1,0 +1,13 @@
+{
+  "name": "pi-mermaid",
+  "path": "/packages/pi-mermaid",
+  "url": "https://pi.dev/packages/pi-mermaid",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 518,
+  "date_ms": 1771875213898,
+  "description_en": "🧜‍♀️ Pi extension that renders Mermaid diagrams as ASCII in the TUI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

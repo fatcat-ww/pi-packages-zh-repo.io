@@ -1,0 +1,6 @@
+{
+  "name": "@mcowger/pi-suppress-providers",
+  "description_en": "Pi extension that limits which providers appear in model selection by suppressing env vars for non-enabled providers",
+  "description_zh": "Pi 扩展，通过抑制未启用提供者的环境变量来限制模型选择中显示的提供者",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

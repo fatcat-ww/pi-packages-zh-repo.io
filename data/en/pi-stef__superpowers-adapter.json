@@ -1,0 +1,13 @@
+{
+  "name": "@pi-stef/superpowers-adapter",
+  "path": "/packages/@pi-stef/superpowers-adapter",
+  "url": "https://pi.dev/packages/@pi-stef/superpowers-adapter",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1445,
+  "date_ms": 1781836620122,
+  "description_en": "Bridges the superpowers skill system to pi's extension API with TodoWrite, Task, and Skill tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-architecture-review",
+  "path": "/packages/@firstpick/pi-skill-architecture-review",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-architecture-review",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 237,
+  "date_ms": 1780954571405,
+  "description_en": "Agents should invoke this skill for architecture reviews, module boundaries, dependency direction, coupling/cohesion, SOLID concerns, system design trade-offs, layering, service boundaries, or design decisions before implementation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

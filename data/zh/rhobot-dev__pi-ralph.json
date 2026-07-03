@@ -1,0 +1,6 @@
+{
+  "name": "@rhobot-dev/pi-ralph",
+  "description_en": "pi extension/package to manage ralph loops from within the pi TUI",
+  "description_zh": "在 pi TUI 内部管理 ralph 循环的 pi 扩展/包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@piotr-oles/pi-caveman",
+  "path": "/packages/@piotr-oles/pi-caveman",
+  "url": "https://pi.dev/packages/@piotr-oles/pi-caveman",
+  "types": "",
+  "type_list": [],
+  "downloads": 488,
+  "date_ms": 1782233561569,
+  "description_en": "Pi Agent extension: respond in caveman mode — cut ~75% output tokens while keeping full technical accuracy",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

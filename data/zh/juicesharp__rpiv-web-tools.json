@@ -1,0 +1,6 @@
+{
+  "name": "@juicesharp/rpiv-web-tools",
+  "description_en": "Pi extension. Web search and fetch for the model with pluggable providers (Brave, Tavily, Serper, Exa, You.com, Jina, Firecrawl, Perplexity, SearXNG, Ollama).",
+  "description_zh": "Pi 扩展。模型的网页搜索和获取功能，支持可插拔的提供商（Brave、Tavily、Serper、Exa、You.com、Jina、Firecrawl、Perplexity、SearXNG、Ollama）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

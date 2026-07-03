@@ -1,0 +1,13 @@
+{
+  "name": "@panzenbaby/pi-secure-extension",
+  "path": "/packages/@panzenbaby/pi-secure-extension",
+  "url": "https://pi.dev/packages/@panzenbaby/pi-secure-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 64,
+  "date_ms": 1777148572519,
+  "description_en": "A Pi extension that performs security audits on other extensions before install or update. Uses the currently selected AI model to analyze extension source code against configurable audit rules.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

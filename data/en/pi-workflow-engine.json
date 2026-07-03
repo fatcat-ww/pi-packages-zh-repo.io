@@ -1,0 +1,13 @@
+{
+  "name": "pi-workflow-engine",
+  "path": "/packages/pi-workflow-engine",
+  "url": "https://pi.dev/packages/pi-workflow-engine",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1614,
+  "date_ms": 1782810699807,
+  "description_en": "Zero-dependency Dynamax workflows for pi: live parallel subagents, typed handoffs, synthesized results.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

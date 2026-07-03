@@ -1,0 +1,13 @@
+{
+  "name": "pi-downshift",
+  "path": "/packages/pi-downshift",
+  "url": "https://pi.dev/packages/pi-downshift",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2455,
+  "date_ms": 1782918746720,
+  "description_en": "Start premium. Finish cheap. Downshift cuts long Pi Coding Agent session costs by switching from your premium model to an economy model when context gets expensive.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

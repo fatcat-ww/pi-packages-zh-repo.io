@@ -1,0 +1,13 @@
+{
+  "name": "pi-import-claude-history",
+  "path": "/packages/pi-import-claude-history",
+  "url": "https://pi.dev/packages/pi-import-claude-history",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 53,
+  "date_ms": 1777728595974,
+  "description_en": "Pi coding agent extension: import Claude Code JSONL sessions into Pi session format",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

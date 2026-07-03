@@ -1,0 +1,13 @@
+{
+  "name": "pi-knowledge",
+  "path": "/packages/pi-knowledge",
+  "url": "https://pi.dev/packages/pi-knowledge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2712,
+  "date_ms": 1782439020646,
+  "description_en": "Local-first RAG knowledge base for Pi agents with hybrid code/doc search, reranking, diagnostics, and large-project indexing",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

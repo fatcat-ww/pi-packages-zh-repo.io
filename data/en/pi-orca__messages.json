@@ -1,0 +1,13 @@
+{
+  "name": "@pi-orca/messages",
+  "path": "/packages/@pi-orca/messages",
+  "url": "https://pi.dev/packages/@pi-orca/messages",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 252,
+  "date_ms": 1779854970200,
+  "description_en": "Inter-session messaging with inbox delivery",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

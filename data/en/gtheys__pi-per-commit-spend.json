@@ -1,0 +1,11 @@
+{
+  "name": "@gtheys/pi-per-commit-spend",
+  "path": "/packages/@gtheys/pi-per-commit-spend",
+  "url": "https://pi.dev/packages/@gtheys/pi-per-commit-spend",
+  "types": "",
+  "type_list": [],
+  "downloads": 80,
+  "date_ms": 1779164649825,
+  "description_en": "Pi extension that tracks AI spend per git commit across sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-p2p-sync",
+  "description_en": "Standalone CLI that pulls a Pi agent config from one reachable machine onto another over SSH.",
+  "description_zh": "独立的 CLI，通过 SSH 将 Pi 代理配置从一台可访问的机器拉取到另一台机器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

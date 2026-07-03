@@ -1,0 +1,6 @@
+{
+  "name": "@recallnet/codecontext-pi",
+  "description_en": "pi steering extension for surfacing @context annotations during reads",
+  "description_zh": "pi转向扩展，在读取时显示@context注释",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

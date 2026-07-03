@@ -1,0 +1,6 @@
+{
+  "name": "@harms-haus/pi-cwd",
+  "description_en": "pi-coding-agent extension: change working directory with /cwd <path>",
+  "description_zh": "pi-coding-agent 扩展：使用 /cwd <path> 更改工作目录",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

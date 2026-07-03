@@ -1,0 +1,13 @@
+{
+  "name": "pi-acm",
+  "path": "/packages/pi-acm",
+  "url": "https://pi.dev/packages/pi-acm",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 128,
+  "date_ms": 1779095825985,
+  "description_en": "Active Context Management for pi — sliding window context management as a distributable pi extension",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

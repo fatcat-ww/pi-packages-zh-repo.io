@@ -1,0 +1,13 @@
+{
+  "name": "pi-subagents-j0k3r",
+  "path": "/packages/pi-subagents-j0k3r",
+  "url": "https://pi.dev/packages/pi-subagents-j0k3r",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 819,
+  "date_ms": 1782871158052,
+  "description_en": "Installable Pi package that adds markdown-defined subagents, delegated task tools, history, and model profiles.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

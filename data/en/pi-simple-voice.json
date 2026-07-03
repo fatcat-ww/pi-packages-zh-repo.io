@@ -1,0 +1,11 @@
+{
+  "name": "pi-simple-voice",
+  "path": "/packages/pi-simple-voice",
+  "url": "https://pi.dev/packages/pi-simple-voice",
+  "types": "",
+  "type_list": [],
+  "downloads": 141,
+  "date_ms": 1781342226793,
+  "description_en": "Streaming, verbatim Kokoro TTS for the Pi agent — speaks the assistant's output as it streams, no summarization.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

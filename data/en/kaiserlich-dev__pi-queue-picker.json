@@ -1,0 +1,11 @@
+{
+  "name": "@kaiserlich-dev/pi-queue-picker",
+  "path": "/packages/@kaiserlich-dev/pi-queue-picker",
+  "url": "https://pi.dev/packages/@kaiserlich-dev/pi-queue-picker",
+  "types": "",
+  "type_list": [],
+  "downloads": 41,
+  "date_ms": 1777818960925,
+  "description_en": "Pick between steering and follow-up when queuing messages in pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

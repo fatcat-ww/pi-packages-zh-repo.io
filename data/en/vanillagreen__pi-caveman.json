@@ -1,0 +1,13 @@
+{
+  "name": "@vanillagreen/pi-caveman",
+  "path": "/packages/@vanillagreen/pi-caveman",
+  "url": "https://pi.dev/packages/@vanillagreen/pi-caveman",
+  "types": "prompt",
+  "type_list": [
+    "prompt"
+  ],
+  "downloads": 513,
+  "date_ms": 1781280370686,
+  "description_en": "Native Pi caveman communication mode with session persistence, slash command control, status badge, and settings-manager integration.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

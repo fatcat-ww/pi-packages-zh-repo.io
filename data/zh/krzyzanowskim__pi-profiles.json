@@ -1,0 +1,6 @@
+{
+  "name": "@krzyzanowskim/pi-profiles",
+  "description_en": "Run Pi with isolated auth profiles while sharing the standard session store.",
+  "description_zh": "使用隔离的身份验证配置文件运行 Pi，同时共享标准会话存储。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

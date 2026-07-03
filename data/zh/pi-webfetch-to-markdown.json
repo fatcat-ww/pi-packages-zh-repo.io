@@ -1,0 +1,6 @@
+{
+  "name": "pi-webfetch-to-markdown",
+  "description_en": "Fetch web content as clean Markdown for AI consumption. Supports Cloudflare's Markdown for Agents content negotiation with Turndown fallback.",
+  "description_zh": "获取网页内容为干净的 Markdown 供 AI 使用。支持 Cloudflare 的 Markdown for Agents 内容协商，带有 Turndown 后备方案",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

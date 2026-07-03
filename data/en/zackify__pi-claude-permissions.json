@@ -1,0 +1,11 @@
+{
+  "name": "@zackify/pi-claude-permissions",
+  "path": "/packages/@zackify/pi-claude-permissions",
+  "url": "https://pi.dev/packages/@zackify/pi-claude-permissions",
+  "types": "",
+  "type_list": [],
+  "downloads": 199,
+  "date_ms": 1778204834611,
+  "description_en": "Claude-style permissions for pi with an opinionated small mode set and built-in plan mode.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

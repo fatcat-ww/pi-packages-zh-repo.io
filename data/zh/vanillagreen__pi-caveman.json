@@ -1,0 +1,6 @@
+{
+  "name": "@vanillagreen/pi-caveman",
+  "description_en": "Native Pi caveman communication mode with session persistence, slash command control, status badge, and settings-manager integration.",
+  "description_zh": "具有会话持久性、斜杠命令控制、状态徽章和设置管理器集成的原生 Pi caveman 通信模式。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

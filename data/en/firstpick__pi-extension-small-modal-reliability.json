@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-small-modal-reliability",
+  "path": "/packages/@firstpick/pi-extension-small-modal-reliability",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-small-modal-reliability",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 253,
+  "date_ms": 1782042726213,
+  "description_en": "Task-state, loop-detection, scratchpad, and verification harness for improving small-LLM reliability in Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

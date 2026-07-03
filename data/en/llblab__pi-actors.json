@@ -1,0 +1,13 @@
+{
+  "name": "@llblab/pi-actors",
+  "path": "/packages/@llblab/pi-actors",
+  "url": "https://pi.dev/packages/@llblab/pi-actors",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2569,
+  "date_ms": 1781768485897,
+  "description_en": "Local Actor Kernel for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

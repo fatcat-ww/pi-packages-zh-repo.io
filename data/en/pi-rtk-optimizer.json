@@ -1,0 +1,13 @@
+{
+  "name": "pi-rtk-optimizer",
+  "path": "/packages/pi-rtk-optimizer",
+  "url": "https://pi.dev/packages/pi-rtk-optimizer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 6359,
+  "date_ms": 1783049621302,
+  "description_en": "Pi extension that optimizes RTK command rewriting and tool output compaction for the coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

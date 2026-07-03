@@ -1,0 +1,13 @@
+{
+  "name": "pi-extension-raptor-mini",
+  "path": "/packages/pi-extension-raptor-mini",
+  "url": "https://pi.dev/packages/pi-extension-raptor-mini",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 44,
+  "date_ms": 1776080300498,
+  "description_en": "pi extension that adds GitHub Copilot's Raptor Mini (oswe-vscode-prime) model to pi's github-copilot provider.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

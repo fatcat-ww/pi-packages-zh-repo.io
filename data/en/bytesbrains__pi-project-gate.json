@@ -1,0 +1,13 @@
+{
+  "name": "@bytesbrains/pi-project-gate",
+  "path": "/packages/@bytesbrains/pi-project-gate",
+  "url": "https://pi.dev/packages/@bytesbrains/pi-project-gate",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 53,
+  "date_ms": 1779068951307,
+  "description_en": "Project orchestration gate for AI agents — structured issues, WIP limits, dependency blocking, and auto-generated release notes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

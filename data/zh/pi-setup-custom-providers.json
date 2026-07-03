@@ -1,0 +1,6 @@
+{
+  "name": "pi-setup-custom-providers",
+  "description_en": "Interactive wizard to manage custom LLM providers and models for pi coding agent",
+  "description_zh": "交互式向导，用于管理 Pi 编码代理的自定义 LLM 提供商和模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

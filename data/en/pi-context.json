@@ -1,0 +1,13 @@
+{
+  "name": "pi-context",
+  "path": "/packages/pi-context",
+  "url": "https://pi.dev/packages/pi-context",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 1309,
+  "date_ms": 1781685873830,
+  "description_en": "Agentic Context Management for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

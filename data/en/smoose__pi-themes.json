@@ -1,0 +1,14 @@
+{
+  "name": "@smoose/pi-themes",
+  "path": "/packages/@smoose/pi-themes",
+  "url": "https://pi.dev/packages/@smoose/pi-themes",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 93,
+  "date_ms": 1780026651340,
+  "description_en": "Theme pack for pi with file-based theme switching.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

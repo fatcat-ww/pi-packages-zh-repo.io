@@ -1,0 +1,13 @@
+{
+  "name": "@nanstey/pi-auth-profiles",
+  "path": "/packages/@nanstey/pi-auth-profiles",
+  "url": "https://pi.dev/packages/@nanstey/pi-auth-profiles",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 154,
+  "date_ms": 1781121243301,
+  "description_en": "Per-project auth profiles for pi — keep separate OAuth/API-key credentials per account and switch with /profile",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

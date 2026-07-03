@@ -1,0 +1,6 @@
+{
+  "name": "@narumitw/pi-goal",
+  "description_en": "Pi extension that keeps working on a /goal until the agent marks it complete.",
+  "description_zh": "Pi 扩展，持续处理 /goal 直到代理将其标记为完成。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

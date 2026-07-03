@@ -1,0 +1,13 @@
+{
+  "name": "pi-image-subagent",
+  "path": "/packages/pi-image-subagent",
+  "url": "https://pi.dev/packages/pi-image-subagent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 56,
+  "date_ms": 1776619946714,
+  "description_en": "Pi extension that gives non-vision models the ability to analyze images via a vision-capable subagent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

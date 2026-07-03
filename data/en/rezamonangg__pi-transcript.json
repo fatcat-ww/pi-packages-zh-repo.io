@@ -1,0 +1,11 @@
+{
+  "name": "@rezamonangg/pi-transcript",
+  "path": "/packages/@rezamonangg/pi-transcript",
+  "url": "https://pi.dev/packages/@rezamonangg/pi-transcript",
+  "types": "",
+  "type_list": [],
+  "downloads": 47,
+  "date_ms": 1780617475086,
+  "description_en": "View pi session transcript in bat via tmux split.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

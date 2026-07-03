@@ -1,0 +1,6 @@
+{
+  "name": "pi-agent-config",
+  "description_en": "Personal [pi](https://pi.dev) coding agent configuration: safety extensions, subagent definitions, skills, and prompt templates for a more powerful AI-assisted development workflow.",
+  "description_zh": "个人 [pi](https://pi.dev) 编码代理配置：安全扩展、子代理定义、技能和提示模板，用于更强大的 AI 辅助开发工作流。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

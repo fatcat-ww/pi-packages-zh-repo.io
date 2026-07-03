@@ -1,0 +1,6 @@
+{
+  "name": "pi-openapi-tools",
+  "description_en": "Pi extension that generates LLM tools from any OpenAPI/Swagger URL.",
+  "description_zh": "Pi扩展，从任何OpenAPI/Swagger URL生成LLM工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

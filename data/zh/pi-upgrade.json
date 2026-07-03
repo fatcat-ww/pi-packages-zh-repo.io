@@ -1,0 +1,6 @@
+{
+  "name": "pi-upgrade",
+  "description_en": "Pi extension that adds a /upgrade command to self-upgrade pi",
+  "description_zh": "Pi 扩展，添加 /upgrade 命令以自升级 pi",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

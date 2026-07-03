@@ -1,0 +1,6 @@
+{
+  "name": "pi-footer-manager",
+  "description_en": "One footer, many extensions: build flexible Pi footers from reusable fragments with configurable layout and built-in fragments instead of competing `setFooter()` calls. `pi-footer-manager` lets one extension own footer rendering while built-in and custom",
+  "description_zh": "一个页脚，多个扩展：使用可重用片段构建灵活的 Pi 页脚，具有可配置布局和内置片段，而不是竞争性的 `setFooter()` 调用。`pi-footer-manager` 让一个扩展拥有页脚渲染，同时内置和自定义",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

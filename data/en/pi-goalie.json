@@ -1,0 +1,13 @@
+{
+  "name": "pi-goalie",
+  "path": "/packages/pi-goalie",
+  "url": "https://pi.dev/packages/pi-goalie",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 21,
+  "date_ms": 1778367005597,
+  "description_en": "Autonomous goal DAG for pi — Codex-like /goal with dependency chains, steering, and queue management",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

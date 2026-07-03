@@ -1,0 +1,11 @@
+{
+  "name": "@wherever-dev/pi",
+  "path": "/packages/@wherever-dev/pi",
+  "url": "https://pi.dev/packages/@wherever-dev/pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 446,
+  "date_ms": 1781878580607,
+  "description_en": "Remote control extension for pi coding agent with HTTP/WebSocket API (wherever.dev)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

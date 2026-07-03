@@ -1,0 +1,11 @@
+{
+  "name": "@4meta5/pi-shell-cli",
+  "path": "/packages/@4meta5/pi-shell-cli",
+  "url": "https://pi.dev/packages/@4meta5/pi-shell-cli",
+  "types": "",
+  "type_list": [],
+  "downloads": 41,
+  "date_ms": 1771401291443,
+  "description_en": "CLI for generating reproducible pi project instances from pinned manifests.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

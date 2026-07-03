@@ -1,0 +1,14 @@
+{
+  "name": "@zosmaai/pi-llm-wiki",
+  "path": "/packages/@zosmaai/pi-llm-wiki",
+  "url": "https://pi.dev/packages/@zosmaai/pi-llm-wiki",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 2988,
+  "date_ms": 1782850964501,
+  "description_en": "Self-maintaining LLM Wiki for Pi — Karpathy-pattern knowledge base with immutable source capture, automated ingestion, search, linting, and Obsidian-compatible vault. auto-updating personal & company wiki.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

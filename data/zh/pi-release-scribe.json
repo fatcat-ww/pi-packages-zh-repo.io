@@ -1,0 +1,6 @@
+{
+  "name": "pi-release-scribe",
+  "description_en": "Generate human-readable release notes and CI/CD release drafts for Pi.",
+  "description_zh": "为 Pi 生成人类可读的发布说明和 CI/CD 发布草稿。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

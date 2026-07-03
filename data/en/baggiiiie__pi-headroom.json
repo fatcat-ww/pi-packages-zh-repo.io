@@ -1,0 +1,11 @@
+{
+  "name": "@baggiiiie/pi-headroom",
+  "path": "/packages/@baggiiiie/pi-headroom",
+  "url": "https://pi.dev/packages/@baggiiiie/pi-headroom",
+  "types": "",
+  "type_list": [],
+  "downloads": 76,
+  "date_ms": 1782444763986,
+  "description_en": "Tiny Pi extension for local [Headroom](https://github.com/headroomlabs-ai/headroom) compression.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

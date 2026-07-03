@@ -1,0 +1,6 @@
+{
+  "name": "@false00/pi-elasticsearch",
+  "description_en": "Production-focused Elasticsearch automation tools for the Pi coding agent — curated tools for search, documents, indices, cluster administration, security, lifecycle, and full API reach via the official JS client and raw REST access",
+  "description_zh": "面向生产的 Pi 编码代理 Elasticsearch 自动化工具 — 搜索、文档、索引、集群管理、安全、生命周期和通过官方 JS 客户端和原始 REST 访问的完整 API 的精选工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

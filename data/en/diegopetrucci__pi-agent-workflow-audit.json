@@ -1,0 +1,11 @@
+{
+  "name": "@diegopetrucci/pi-agent-workflow-audit",
+  "path": "/packages/@diegopetrucci/pi-agent-workflow-audit",
+  "url": "https://pi.dev/packages/@diegopetrucci/pi-agent-workflow-audit",
+  "types": "",
+  "type_list": [],
+  "downloads": 350,
+  "date_ms": 1782197100883,
+  "description_en": "A pi extension that runs an isolated repo workflow audit and returns only the final report to the main session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

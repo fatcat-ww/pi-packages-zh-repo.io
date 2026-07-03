@@ -1,0 +1,6 @@
+{
+  "name": "@vanillagreen/pi-background-tasks",
+  "description_en": "Pi extension for explicit non-blocking background shell tasks, log tails, and completion wakeups.",
+  "description_zh": "Pi 扩展，用于显式的非阻塞后台 shell 任务、日志跟踪和完成唤醒。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

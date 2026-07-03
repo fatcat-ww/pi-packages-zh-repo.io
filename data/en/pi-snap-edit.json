@@ -1,0 +1,13 @@
+{
+  "name": "pi-snap-edit",
+  "path": "/packages/pi-snap-edit",
+  "url": "https://pi.dev/packages/pi-snap-edit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1460,
+  "date_ms": 1781929206817,
+  "description_en": "Fast, precise, script-free edits for Pi agents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

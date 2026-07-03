@@ -1,0 +1,13 @@
+{
+  "name": "pi-super-curl",
+  "path": "/packages/pi-super-curl",
+  "url": "https://pi.dev/packages/pi-super-curl",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 99,
+  "date_ms": 1777408964619,
+  "description_en": "HTTP request extension for pi shitty coding agent with auto-config, JWT generation, and named endpoints",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

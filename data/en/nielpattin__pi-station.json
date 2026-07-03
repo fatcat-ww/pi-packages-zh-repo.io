@@ -1,0 +1,13 @@
+{
+  "name": "@nielpattin/pi-station",
+  "path": "/packages/@nielpattin/pi-station",
+  "url": "https://pi.dev/packages/@nielpattin/pi-station",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 699,
+  "date_ms": 1782625261138,
+  "description_en": "Station bar status extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

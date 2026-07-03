@@ -1,0 +1,11 @@
+{
+  "name": "@tombell/pi-codex-plugins",
+  "path": "/packages/@tombell/pi-codex-plugins",
+  "url": "https://pi.dev/packages/@tombell/pi-codex-plugins",
+  "types": "",
+  "type_list": [],
+  "downloads": 506,
+  "date_ms": 1780243974686,
+  "description_en": "Discover enabled Codex plugins and expose them as Pi skills and prompts",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

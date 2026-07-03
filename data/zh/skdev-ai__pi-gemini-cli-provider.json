@@ -1,0 +1,6 @@
+{
+  "name": "@skdev-ai/pi-gemini-cli-provider",
+  "description_en": "Gemini LLM provider for Pi/GSD via A2A protocol with MCP tool bridge",
+  "description_zh": "通过A2A协议和MCP工具桥为Pi/GSD提供Gemini LLM提供商",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

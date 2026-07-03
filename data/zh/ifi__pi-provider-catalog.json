@@ -1,0 +1,6 @@
+{
+  "name": "@ifi/pi-provider-catalog",
+  "description_en": "Experimental multi-provider package for pi backed by the OpenCode models.dev catalog.",
+  "description_zh": "由 OpenCode models.dev 目录支持的实验性多提供商 pi 后端包。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

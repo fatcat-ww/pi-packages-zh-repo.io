@@ -1,0 +1,11 @@
+{
+  "name": "@harms-haus/pi-cwd",
+  "path": "/packages/@harms-haus/pi-cwd",
+  "url": "https://pi.dev/packages/@harms-haus/pi-cwd",
+  "types": "",
+  "type_list": [],
+  "downloads": 64,
+  "date_ms": 1779751647484,
+  "description_en": "pi-coding-agent extension: change working directory with /cwd <path>",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

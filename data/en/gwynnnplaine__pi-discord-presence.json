@@ -1,0 +1,13 @@
+{
+  "name": "@gwynnnplaine/pi-discord-presence",
+  "path": "/packages/@gwynnnplaine/pi-discord-presence",
+  "url": "https://pi.dev/packages/@gwynnnplaine/pi-discord-presence",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782669256578,
+  "description_en": "Discord Rich Presence for Pi — shows live agent activity (editing, reading, running commands) in your Discord status, with project, model, and a session timer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

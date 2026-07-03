@@ -1,0 +1,13 @@
+{
+  "name": "pi-perf",
+  "path": "/packages/pi-perf",
+  "url": "https://pi.dev/packages/pi-perf",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782498851590,
+  "description_en": "Pi-native performance benchmarking toolkit for pi.dev extensions — profiling, benchmarking, and CI reporting",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

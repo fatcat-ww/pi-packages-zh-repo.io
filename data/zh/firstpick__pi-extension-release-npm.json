@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-extension-release-npm",
+  "description_en": "Pi command to run npm package release workflow with publish confirmation.",
+  "description_zh": "Pi 命令，用于运行 npm 包发布工作流并进行发布确认。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

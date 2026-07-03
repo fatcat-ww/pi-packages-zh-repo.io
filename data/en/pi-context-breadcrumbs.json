@@ -1,0 +1,13 @@
+{
+  "name": "pi-context-breadcrumbs",
+  "path": "/packages/pi-context-breadcrumbs",
+  "url": "https://pi.dev/packages/pi-context-breadcrumbs",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 232,
+  "date_ms": 1780142252197,
+  "description_en": "Nested path-sensitive context loading for Pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

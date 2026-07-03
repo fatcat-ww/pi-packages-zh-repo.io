@@ -1,0 +1,13 @@
+{
+  "name": "pi-bench",
+  "path": "/packages/pi-bench",
+  "url": "https://pi.dev/packages/pi-bench",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 147,
+  "date_ms": 1778705303516,
+  "description_en": "LLM benchmark toolkit for pi coding agent. Probes every available model with real streaming API calls and ranks by latency, cost, and output quality. Provides curated model chain and blacklist for smart model selection in pi-recap and other extensions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

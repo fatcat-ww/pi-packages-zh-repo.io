@@ -1,0 +1,6 @@
+{
+  "name": "@0xkahi/pi-model-select",
+  "description_en": "Pi extension that adds /select-model with favourites and provider-filtered model search",
+  "description_zh": "Pi 扩展，添加了带有收藏夹和提供商过滤模型搜索的 /select-model 命令。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

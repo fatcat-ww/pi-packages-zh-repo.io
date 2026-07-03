@@ -1,0 +1,6 @@
+{
+  "name": "@zhushanwen/pi-goal",
+  "description_en": "Codex-style /goal command for Pi — persistent goal-driven autonomous loop with evidence-based completion, token/time budgets, blocked detection, and steering templates.",
+  "description_zh": "Pi 的 Codex 风格 /goal 命令 — 具有基于证据的完成、令牌/时间预算、阻塞检测和引导模板的持久目标驱动自主循环",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

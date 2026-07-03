@@ -1,0 +1,6 @@
+{
+  "name": "pi-path-guard",
+  "description_en": "Pi extension package that normalizes path-like tool arguments and enriches filesystem/edit failures.",
+  "description_zh": "Pi 扩展包，规范化类路径的工具参数并增强文件系统/编辑失败。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

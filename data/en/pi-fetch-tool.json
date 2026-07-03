@@ -1,0 +1,13 @@
+{
+  "name": "pi-fetch-tool",
+  "path": "/packages/pi-fetch-tool",
+  "url": "https://pi.dev/packages/pi-fetch-tool",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 362,
+  "date_ms": 1780815691361,
+  "description_en": "Pi extension: register a web_fetch tool that turns any URL into LLM-friendly JSON-LD or Markdown. Tier 0 (JSON-LD), Tier 1 (Readability), Tier 2 (agent-browser / macOS WKWebView).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

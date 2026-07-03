@@ -1,0 +1,13 @@
+{
+  "name": "@bytesbrains/pi-telegram-bridge",
+  "path": "/packages/@bytesbrains/pi-telegram-bridge",
+  "url": "https://pi.dev/packages/@bytesbrains/pi-telegram-bridge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 240,
+  "date_ms": 1779037386139,
+  "description_en": "Telegram bot bridge for pi agents — send messages, ask questions, and listen for human replies via Telegram.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

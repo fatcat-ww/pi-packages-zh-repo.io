@@ -1,0 +1,13 @@
+{
+  "name": "@vtstech/pi-tgz-installer",
+  "path": "/packages/@vtstech/pi-tgz-installer",
+  "url": "https://pi.dev/packages/@vtstech/pi-tgz-installer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 62,
+  "date_ms": 1778100709321,
+  "description_en": "Pi extension that does one thing and does it well. Installs pi-packages from .tgz archives. Adds /tgz-install command for installing Pi packages from .tgz URLs or local files",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

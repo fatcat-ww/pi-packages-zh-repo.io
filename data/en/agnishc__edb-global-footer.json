@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-global-footer",
+  "path": "/packages/@agnishc/edb-global-footer",
+  "url": "https://pi.dev/packages/@agnishc/edb-global-footer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 636,
+  "date_ms": 1782119179761,
+  "description_en": "Pi extension: two-line status footer showing path, git branch, token usage, and model",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

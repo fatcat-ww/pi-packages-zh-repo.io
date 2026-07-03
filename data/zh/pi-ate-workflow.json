@@ -1,0 +1,6 @@
+{
+  "name": "pi-ate-workflow",
+  "description_en": "Workflow orchestration extension for pi-coding-agent — subagent spawning, research workflow, output capture",
+  "description_zh": "pi-coding-agent 的工作流编排扩展 — 子代理生成、研究工作流、输出捕获",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

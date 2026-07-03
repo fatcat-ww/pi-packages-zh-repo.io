@@ -1,0 +1,13 @@
+{
+  "name": "@hyperprior/pi-ssh",
+  "path": "/packages/@hyperprior/pi-ssh",
+  "url": "https://pi.dev/packages/@hyperprior/pi-ssh",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 41,
+  "date_ms": 1771219076604,
+  "description_en": "Remote command execution via SSH",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

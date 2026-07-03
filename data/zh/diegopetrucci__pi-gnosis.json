@@ -1,0 +1,6 @@
+{
+  "name": "@diegopetrucci/pi-gnosis",
+  "description_en": "A pi extension that exposes the gnosis repo-local knowledge base CLI as an agent tool.",
+  "description_zh": "一个 pi 扩展，将 gnosis 仓库本地知识库 CLI 作为代理工具暴露",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

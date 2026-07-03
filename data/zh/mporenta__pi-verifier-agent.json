@@ -1,0 +1,6 @@
+{
+  "name": "@mporenta/pi-verifier-agent",
+  "description_en": "Pi extension package for a read-only verifier agent that runs beside a builder session.",
+  "description_zh": "一个只读验证器代理的 Pi 扩展包，在构建器会话旁边运行",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

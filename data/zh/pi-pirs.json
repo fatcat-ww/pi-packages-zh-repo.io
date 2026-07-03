@@ -1,0 +1,6 @@
+{
+  "name": "pi-pirs",
+  "description_en": "Pi extension that tracks bash tool token usage with stats, grouping, and export",
+  "description_zh": "跟踪 bash 工具令牌使用情况的 Pi 扩展，具有统计、分组和导出功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

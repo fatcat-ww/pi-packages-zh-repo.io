@@ -1,0 +1,6 @@
+{
+  "name": "pi-openspec-status",
+  "description_en": "Pi coding agent extension that displays OpenSpec change status — active change, artifact completion, and task progress — as a persistent TUI widget.",
+  "description_zh": "显示 OpenSpec 更改状态的 Pi 编码代理扩展 — 活跃更改、工件完成和任务进度 — 作为持久 TUI 小部件。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

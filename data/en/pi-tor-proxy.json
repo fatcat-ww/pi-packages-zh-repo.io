@@ -1,0 +1,13 @@
+{
+  "name": "pi-tor-proxy",
+  "path": "/packages/pi-tor-proxy",
+  "url": "https://pi.dev/packages/pi-tor-proxy",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 551,
+  "date_ms": 1782010345805,
+  "description_en": "Self-contained Pi extension to route all requests through Tor - auto-downloads and manages Tor binary",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

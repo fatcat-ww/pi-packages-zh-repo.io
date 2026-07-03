@@ -1,0 +1,13 @@
+{
+  "name": "pi-worktree-tui-status",
+  "path": "/packages/pi-worktree-tui-status",
+  "url": "https://pi.dev/packages/pi-worktree-tui-status",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 56,
+  "date_ms": 1779486989074,
+  "description_en": "TUI-only worktree and experiment status indicator for Pi; detects agent tool paths without managing them",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

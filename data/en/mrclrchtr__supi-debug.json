@@ -1,0 +1,13 @@
+{
+  "name": "@mrclrchtr/supi-debug",
+  "path": "/packages/@mrclrchtr/supi-debug",
+  "url": "https://pi.dev/packages/@mrclrchtr/supi-debug",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2384,
+  "date_ms": 1783012918089,
+  "description_en": "SuPi Debug extension — shared debug event inspection for SuPi extensions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

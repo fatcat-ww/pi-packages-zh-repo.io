@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/caveman-skill",
+  "path": "/packages/@barlevalon/caveman-skill",
+  "url": "https://pi.dev/packages/@barlevalon/caveman-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 98,
+  "date_ms": 1780948676750,
+  "description_en": "Ultra-compressed communication mode. Cuts token usage ~75% by speaking like caveman while keeping full technical accuracy. Supports intensity levels: lite, full (default), ultra, wenyan-lite, wenyan-full, wenyan-ultra...",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-protected-paths",
+  "path": "/packages/pi-protected-paths",
+  "url": "https://pi.dev/packages/pi-protected-paths",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 51,
+  "date_ms": 1778426573093,
+  "description_en": "Blocks write/edit/read of sensitive files (.env, .git, node_modules, SSH keys, credentials, and more)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

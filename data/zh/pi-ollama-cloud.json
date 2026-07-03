@@ -1,0 +1,6 @@
+{
+  "name": "pi-ollama-cloud",
+  "description_en": "Ollama Cloud provider plugin for [Pi](https://github.com/badlogic/pi-mono) coding agent.",
+  "description_zh": "[Pi](https://github.com/badlogic/pi-mono) 编码代理的 Ollama Cloud 提供商插件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

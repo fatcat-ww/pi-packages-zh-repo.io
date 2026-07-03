@@ -1,0 +1,11 @@
+{
+  "name": "pi-image-gen-openai",
+  "path": "/packages/pi-image-gen-openai",
+  "url": "https://pi.dev/packages/pi-image-gen-openai",
+  "types": "",
+  "type_list": [],
+  "downloads": 45,
+  "date_ms": 1776058679872,
+  "description_en": "Pi image generation tool powered by OpenAI (GPT Image, DALL-E)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

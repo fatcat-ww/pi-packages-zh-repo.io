@@ -1,0 +1,13 @@
+{
+  "name": "@tianhai/pi-workflow-kit",
+  "path": "/packages/@tianhai/pi-workflow-kit",
+  "url": "https://pi.dev/packages/@tianhai/pi-workflow-kit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 673,
+  "date_ms": 1781018386280,
+  "description_en": "Enforce structured brainstorm→plan→execute→finalize workflow with TDD discipline in AI coding agents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

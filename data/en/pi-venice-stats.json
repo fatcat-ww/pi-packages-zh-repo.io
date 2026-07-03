@@ -1,0 +1,13 @@
+{
+  "name": "pi-venice-stats",
+  "path": "/packages/pi-venice-stats",
+  "url": "https://pi.dev/packages/pi-venice-stats",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 107,
+  "date_ms": 1778199811912,
+  "description_en": "Live Venice Protocol stats dashboard for Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-cron",
+  "path": "/packages/@artale/pi-cron",
+  "url": "https://pi.dev/packages/@artale/pi-cron",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 20,
+  "date_ms": 1772992876767,
+  "description_en": "Task scheduling and reminders. Cron-like scheduling for AI agents with persistent jobs.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

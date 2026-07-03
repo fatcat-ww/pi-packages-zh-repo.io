@@ -1,0 +1,6 @@
+{
+  "name": "@gerdloos/dev-flow-skill",
+  "description_en": "A structured project development workflow skill for Pi's LLM harness. Handles rewrites, staging, and multi-target deployment.",
+  "description_zh": "Pi 的 LLM 框架的结构化项目开发工作流技能。处理重写、暂存和多目标部署",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

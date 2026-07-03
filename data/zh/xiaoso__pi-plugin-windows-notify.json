@@ -1,0 +1,6 @@
+{
+  "name": "@xiaoso/pi-plugin-windows-notify",
+  "description_en": "Pi Windows notification plugin - sends notifications on task completion and user confirmation needed, with AFK mode to notify only when away from window",
+  "description_zh": "Pi Windows 通知插件 - 在任务完成和需要用户确认时发送通知，具有 AFK 模式，仅在离开窗口时通知",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

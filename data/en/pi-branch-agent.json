@@ -1,0 +1,13 @@
+{
+  "name": "pi-branch-agent",
+  "path": "/packages/pi-branch-agent",
+  "url": "https://pi.dev/packages/pi-branch-agent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 24,
+  "date_ms": 1779008352456,
+  "description_en": "Branch agent extension for Pi Coding Agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

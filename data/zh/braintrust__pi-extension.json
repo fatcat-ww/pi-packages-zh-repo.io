@@ -1,0 +1,6 @@
+{
+  "name": "@braintrust/pi-extension",
+  "description_en": "Braintrust extension for pi. Includes automatic tracing for pi sessions, turns, LLM calls, and tool executions to Braintrust.",
+  "description_zh": "Pi 的 Braintrust 扩展。包含对 pi 会话、轮次、LLM 调用和工具执行的自动跟踪，并将结果发送到 Braintrust。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

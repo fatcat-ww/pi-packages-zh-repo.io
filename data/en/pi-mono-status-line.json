@@ -1,0 +1,13 @@
+{
+  "name": "pi-mono-status-line",
+  "path": "/packages/pi-mono-status-line",
+  "url": "https://pi.dev/packages/pi-mono-status-line",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 330,
+  "date_ms": 1778280210156,
+  "description_en": "Pi extension that adds git branch and richer stats to the footer",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

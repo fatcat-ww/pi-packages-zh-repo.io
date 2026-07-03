@@ -1,0 +1,13 @@
+{
+  "name": "@tifan/pi-titlebar-spinner",
+  "path": "/packages/@tifan/pi-titlebar-spinner",
+  "url": "https://pi.dev/packages/@tifan/pi-titlebar-spinner",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 225,
+  "date_ms": 1780316651948,
+  "description_en": "Show a spinner in the pi titlebar while the agent runs.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

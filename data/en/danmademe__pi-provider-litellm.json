@@ -1,0 +1,13 @@
+{
+  "name": "@danmademe/pi-provider-litellm",
+  "path": "/packages/@danmademe/pi-provider-litellm",
+  "url": "https://pi.dev/packages/@danmademe/pi-provider-litellm",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1308,
+  "date_ms": 1782995534257,
+  "description_en": "Pi agent extension for LiteLLM proxy auto-discovery and model configuration",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

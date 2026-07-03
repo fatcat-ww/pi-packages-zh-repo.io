@@ -1,0 +1,11 @@
+{
+  "name": "pi-depo",
+  "path": "/packages/pi-depo",
+  "url": "https://pi.dev/packages/pi-depo",
+  "types": "",
+  "type_list": [],
+  "downloads": 302,
+  "date_ms": 1778182490385,
+  "description_en": "Declarative package manager for Pi Coding Agent - skills, extensions, hooks, MCP servers",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@jmcombs/pi-notify",
+  "path": "/packages/@jmcombs/pi-notify",
+  "url": "https://pi.dev/packages/@jmcombs/pi-notify",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 134,
+  "date_ms": 1779631467134,
+  "description_en": "Terminal-emulator notifications (OSC 777/9/99) for the Pi coding agent — alerts you when Pi finishes a turn. Works in Ghostty, iTerm2, WezTerm, Kitty, etc. Zero OS binaries or dependencies.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

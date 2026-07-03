@@ -1,0 +1,6 @@
+{
+  "name": "pi-manage-dirs",
+  "description_en": "Add external directories to Pi's workspace context with interactive path autocompletion, AGENTS.md loading, and skill registration",
+  "description_zh": "使用交互式路径自动补全、AGENTS.md 加载和技能注册，将外部目录添加到 Pi 的工作区上下文",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

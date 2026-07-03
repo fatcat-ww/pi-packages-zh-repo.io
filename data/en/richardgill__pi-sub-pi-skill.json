@@ -1,0 +1,11 @@
+{
+  "name": "@richardgill/pi-sub-pi-skill",
+  "path": "/packages/@richardgill/pi-sub-pi-skill",
+  "url": "https://pi.dev/packages/@richardgill/pi-sub-pi-skill",
+  "types": "",
+  "type_list": [],
+  "downloads": 189,
+  "date_ms": 1779620466355,
+  "description_en": "Route `/skill:` commands and skill file reads to the `sub-pi` tool when the skill frontmatter opts in.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

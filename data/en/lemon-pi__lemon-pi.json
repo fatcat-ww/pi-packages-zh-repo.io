@@ -1,0 +1,13 @@
+{
+  "name": "@lemon-pi/lemon-pi",
+  "path": "/packages/@lemon-pi/lemon-pi",
+  "url": "https://pi.dev/packages/@lemon-pi/lemon-pi",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 0,
+  "date_ms": 1783061949308,
+  "description_en": "Pi-native Lemon development harness with project detection, workflow routing, skills, agents, guardrails, and review checks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

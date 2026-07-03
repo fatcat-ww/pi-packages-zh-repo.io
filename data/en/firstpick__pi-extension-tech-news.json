@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-tech-news",
+  "path": "/packages/@firstpick/pi-extension-tech-news",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-tech-news",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 460,
+  "date_ms": 1780954522055,
+  "description_en": "Tech news tools and commands for Pi using Hacker News, Reddit, Socket.dev, and daily.dev sources.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

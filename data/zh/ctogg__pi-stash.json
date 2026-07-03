@@ -1,0 +1,6 @@
+{
+  "name": "@ctogg/pi-stash",
+  "description_en": "Git-style prompt stashing for pi — save what you're typing, clear the editor, and come back to it later.",
+  "description_zh": "用于 pi 的 Git 式提示暂存 — 保存您正在输入的内容，清除编辑器，稍后返回。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

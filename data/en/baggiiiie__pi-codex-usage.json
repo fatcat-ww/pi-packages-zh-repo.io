@@ -1,0 +1,11 @@
+{
+  "name": "@baggiiiie/pi-codex-usage",
+  "path": "/packages/@baggiiiie/pi-codex-usage",
+  "url": "https://pi.dev/packages/@baggiiiie/pi-codex-usage",
+  "types": "",
+  "type_list": [],
+  "downloads": 37,
+  "date_ms": 1777869378961,
+  "description_en": "A pi package that adds the `/codex-usage` command and status widget.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

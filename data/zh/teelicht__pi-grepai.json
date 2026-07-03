@@ -1,0 +1,6 @@
+{
+  "name": "@teelicht/pi-grepai",
+  "description_en": "Pi extension package that bridges an installed grepai CLI into Pi slash commands and LLM tools",
+  "description_zh": "将已安装的 grepai CLI 桥接到 Pi 斜杠命令和 LLM 工具的 Pi 扩展包。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

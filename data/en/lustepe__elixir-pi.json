@@ -1,0 +1,11 @@
+{
+  "name": "@lustepe/elixir-pi",
+  "path": "/packages/@lustepe/elixir-pi",
+  "url": "https://pi.dev/packages/@lustepe/elixir-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 27,
+  "date_ms": 1777327287953,
+  "description_en": "Pi package for Elixir projects: Mix post-edit checks, Expert LSP bridge, commands, LLM tools, and Elixir/Phoenix/Ecto/OTP skills.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@nonplanarslicer/pi-save-output",
+  "path": "/packages/@nonplanarslicer/pi-save-output",
+  "url": "https://pi.dev/packages/@nonplanarslicer/pi-save-output",
+  "types": "",
+  "type_list": [],
+  "downloads": 41,
+  "date_ms": 1777486768073,
+  "description_en": "Save the last assistant message to a markdown file via /save-output",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

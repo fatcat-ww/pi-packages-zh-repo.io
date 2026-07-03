@@ -1,0 +1,11 @@
+{
+  "name": "pi-prompt-translate",
+  "path": "/packages/pi-prompt-translate",
+  "url": "https://pi.dev/packages/pi-prompt-translate",
+  "types": "",
+  "type_list": [],
+  "downloads": 59,
+  "date_ms": 1778057547090,
+  "description_en": "Translate user prompts to a configurable target language in the Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

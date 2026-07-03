@@ -1,0 +1,11 @@
+{
+  "name": "cc-safety-net",
+  "path": "/packages/cc-safety-net",
+  "url": "https://pi.dev/packages/cc-safety-net",
+  "types": "",
+  "type_list": [],
+  "downloads": 8654,
+  "date_ms": 1781542854743,
+  "description_en": "A coding agent CLI hook - block destructive git and filesystem commands before execution",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

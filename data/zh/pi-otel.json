@@ -1,0 +1,6 @@
+{
+  "name": "pi-otel",
+  "description_en": "OpenTelemetry traces for pi-coding-agent — per-prompt span tree (interaction → llm_request, tool.<name>) exported via OTLP. Aspire-dashboard ready.",
+  "description_zh": "pi-coding-agent 的 OpenTelemetry 追踪 — 每个 prompt 的 span 树（interaction → llm_request, tool.<name>）通过 OTLP 导出。Aspire-dashboard 就绪。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

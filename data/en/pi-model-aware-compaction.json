@@ -1,0 +1,11 @@
+{
+  "name": "pi-model-aware-compaction",
+  "path": "/packages/pi-model-aware-compaction",
+  "url": "https://pi.dev/packages/pi-model-aware-compaction",
+  "types": "",
+  "type_list": [],
+  "downloads": 102,
+  "date_ms": 1778173574214,
+  "description_en": "Per-model context-usage thresholds for Pi's built-in auto-compaction, so models with different context windows and performance profiles compact at the right time",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

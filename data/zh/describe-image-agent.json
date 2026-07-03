@@ -1,0 +1,6 @@
+{
+  "name": "describe-image-agent",
+  "description_en": "Pi extension — describe images via vision model when your active model cannot see images directly",
+  "description_zh": "Pi 扩展程序 — 当您的活动模型无法直接查看图像时，通过视觉模型描述图像",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

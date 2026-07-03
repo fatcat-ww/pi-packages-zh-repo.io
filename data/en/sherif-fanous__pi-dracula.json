@@ -1,0 +1,13 @@
+{
+  "name": "@sherif-fanous/pi-dracula",
+  "path": "/packages/@sherif-fanous/pi-dracula",
+  "url": "https://pi.dev/packages/@sherif-fanous/pi-dracula",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 54,
+  "date_ms": 1775345186047,
+  "description_en": "Dracula themes for the Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

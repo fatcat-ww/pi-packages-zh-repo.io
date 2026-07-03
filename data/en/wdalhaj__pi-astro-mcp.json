@@ -1,0 +1,13 @@
+{
+  "name": "@wdalhaj/pi-astro-mcp",
+  "path": "/packages/@wdalhaj/pi-astro-mcp",
+  "url": "https://pi.dev/packages/@wdalhaj/pi-astro-mcp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 22,
+  "date_ms": 1777058677712,
+  "description_en": "Pi extension that connects to the Astro Docs MCP server and exposes a search_astro_docs tool",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

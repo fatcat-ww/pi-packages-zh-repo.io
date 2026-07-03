@@ -1,0 +1,11 @@
+{
+  "name": "@dreki-gg/pi-plan-mode",
+  "path": "/packages/@dreki-gg/pi-plan-mode",
+  "url": "https://pi.dev/packages/@dreki-gg/pi-plan-mode",
+  "types": "",
+  "type_list": [],
+  "downloads": 4574,
+  "date_ms": 1782617264272,
+  "description_en": "Two-phase planning workflow for pi — plan with claude-opus-4-6:medium, execute with gpt-5.5:low, with .plans/ file-based handoff",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

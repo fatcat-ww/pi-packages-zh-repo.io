@@ -1,0 +1,13 @@
+{
+  "name": "@gotgenes/pi-session-tools",
+  "path": "/packages/@gotgenes/pi-session-tools",
+  "url": "https://pi.dev/packages/@gotgenes/pi-session-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 543,
+  "date_ms": 1781574090233,
+  "description_en": "Pi extension providing session metadata tools (naming, context) for multi-session workflows",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

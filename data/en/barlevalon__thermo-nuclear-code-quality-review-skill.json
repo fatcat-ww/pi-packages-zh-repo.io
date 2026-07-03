@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/thermo-nuclear-code-quality-review-skill",
+  "path": "/packages/@barlevalon/thermo-nuclear-code-quality-review-skill",
+  "url": "https://pi.dev/packages/@barlevalon/thermo-nuclear-code-quality-review-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 83,
+  "date_ms": 1780948742386,
+  "description_en": "Run an extremely strict maintainability review for abstraction quality, giant files, and spaghetti-condition growth. Use for a thermo-nuclear code quality review, thermonuclear review, deep code quality audit, or espe...",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

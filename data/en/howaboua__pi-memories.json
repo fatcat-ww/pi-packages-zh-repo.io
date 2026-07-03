@@ -1,0 +1,13 @@
+{
+  "name": "@howaboua/pi-memories",
+  "path": "/packages/@howaboua/pi-memories",
+  "url": "https://pi.dev/packages/@howaboua/pi-memories",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 595,
+  "date_ms": 1782244316049,
+  "description_en": "A tiny Pi extension that writes memory candidates when a session ends.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

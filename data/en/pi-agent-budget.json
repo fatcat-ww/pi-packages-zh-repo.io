@@ -1,0 +1,13 @@
+{
+  "name": "pi-agent-budget",
+  "path": "/packages/pi-agent-budget",
+  "url": "https://pi.dev/packages/pi-agent-budget",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1162,
+  "date_ms": 1781007606625,
+  "description_en": "Pi extension: AI coding cost tracker with widget, budget limits, and CNY pricing for Chinese models.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

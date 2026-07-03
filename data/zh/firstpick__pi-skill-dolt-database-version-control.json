@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-dolt-database-version-control",
+  "description_en": "Use automatically when evaluating or applying Dolt, the Git-like version-controlled SQL database, for database branching, merging, diffs, audit history, rollback, or versioned MySQL replica workflows.",
+  "description_zh": "在评估或应用 Dolt（类似 Git 的版本控制 SQL 数据库）时自动使用，用于数据库分支、合并、差异、审计历史、回滚或版本化 MySQL 副本工作流。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@ryan_nookpi/pi-extension-claude-mcp-bridge",
+  "description_en": "Bridge Claude Code MCP server configs into pi — auto-discovers tools from stdio/sse/http MCP servers.",
+  "description_zh": "将 Claude Code MCP 服务器配置桥接到 pi 中 — 自动发现来自 stdio/sse/http MCP 服务器的工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

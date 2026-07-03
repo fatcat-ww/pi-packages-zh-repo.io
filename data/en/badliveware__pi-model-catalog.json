@@ -1,0 +1,13 @@
+{
+  "name": "@badliveware/pi-model-catalog",
+  "path": "/packages/@badliveware/pi-model-catalog",
+  "url": "https://pi.dev/packages/@badliveware/pi-model-catalog",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 56,
+  "date_ms": 1778966548370,
+  "description_en": "Expose Pi model listings and selection guidance as an agent tool.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

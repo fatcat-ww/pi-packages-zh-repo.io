@@ -1,0 +1,13 @@
+{
+  "name": "pi-image-tools",
+  "path": "/packages/pi-image-tools",
+  "url": "https://pi.dev/packages/pi-image-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1432,
+  "date_ms": 1783049537215,
+  "description_en": "Image attachment and rendering extension for Pi TUI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

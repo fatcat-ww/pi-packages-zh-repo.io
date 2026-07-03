@@ -1,0 +1,13 @@
+{
+  "name": "pi-wecombot",
+  "path": "/packages/pi-wecombot",
+  "url": "https://pi.dev/packages/pi-wecombot",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 284,
+  "date_ms": 1780297429537,
+  "description_en": "企业微信智能机器人 WebSocket 长连接扩展 for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

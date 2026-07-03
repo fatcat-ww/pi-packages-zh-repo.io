@@ -1,0 +1,13 @@
+{
+  "name": "pi-simocracy",
+  "path": "/packages/pi-simocracy",
+  "url": "https://pi.dev/packages/pi-simocracy",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 167,
+  "date_ms": 1779889116229,
+  "description_en": "Pi extension: load a Simocracy sim into your chat — see its pixel-art sprite render inline in the terminal and roleplay with it.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@barlevalon/prd-to-plan-skill",
+  "description_en": "Turn a PRD into a multi-phase implementation plan using tracer-bullet vertical slices, saved as a local Markdown file in ./plans/. Use when user wants to break down a PRD, create an implementation plan, plan phases fr...",
+  "description_zh": "使用 tracer-bullet 垂直切片将 PRD 转换为多阶段实施计划，保存为 ./plans/ 目录下的本地 Markdown 文件。当用户想要分解 PRD、创建实施计划、规划阶段时使用...",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@baggiiiie/pi-rtk-rewrite",
+  "description_en": "A pi package that rewrites `bash` tool calls through [RTK](https://github.com/rtk-ai/rtk) before execution.",
+  "description_zh": "一个 pi 包，在执行前通过 [RTK](https://github.com/rtk-ai/rtk) 重写 `bash` 工具调用",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

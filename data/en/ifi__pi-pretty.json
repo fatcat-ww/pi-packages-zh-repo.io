@@ -1,0 +1,13 @@
+{
+  "name": "@ifi/pi-pretty",
+  "path": "/packages/@ifi/pi-pretty",
+  "url": "https://pi.dev/packages/@ifi/pi-pretty",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 69,
+  "date_ms": 1777355417622,
+  "description_en": "Pretty terminal output for pi — syntax-highlighted file reads, colored bash output, tree-view directory listings, and more.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

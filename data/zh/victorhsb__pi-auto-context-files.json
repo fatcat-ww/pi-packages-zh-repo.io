@@ -1,0 +1,6 @@
+{
+  "name": "@victorhsb/pi-auto-context-files",
+  "description_en": "Auto-inject AGENTS.md and CLAUDE.md context files into pi read tool results",
+  "description_zh": "自动将 AGENTS.md 和 CLAUDE.md 上下文文件注入 pi read 工具结果",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

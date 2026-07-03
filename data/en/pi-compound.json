@@ -1,0 +1,13 @@
+{
+  "name": "pi-compound",
+  "path": "/packages/pi-compound",
+  "url": "https://pi.dev/packages/pi-compound",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 49,
+  "date_ms": 1776766953335,
+  "description_en": "Turn your past Pi sessions into system-prompt context docs. A two-stage LLM pipeline extracts durable preferences from session transcripts; you approve or reject from a TUI; approved items are appended to plain-markdown docs that ship verbatim to your sys",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

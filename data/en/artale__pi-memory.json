@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-memory",
+  "path": "/packages/@artale/pi-memory",
+  "url": "https://pi.dev/packages/@artale/pi-memory",
+  "types": "",
+  "type_list": [],
+  "downloads": 61,
+  "date_ms": 1777377859319,
+  "description_en": "Persistent memory for Pi sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

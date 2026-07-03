@@ -1,0 +1,6 @@
+{
+  "name": "pi-mono-auto-fix",
+  "description_en": "Pi extension that runs language-appropriate fixers (eslint, black, prettier, ...) on files touched during a turn",
+  "description_zh": "Pi 扩展，在回合期间对触摸到的文件运行适当的修复程序（eslint、black、prettier 等）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

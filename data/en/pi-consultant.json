@@ -1,0 +1,13 @@
+{
+  "name": "pi-consultant",
+  "path": "/packages/pi-consultant",
+  "url": "https://pi.dev/packages/pi-consultant",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 78,
+  "date_ms": 1779910483930,
+  "description_en": "Pi package for small-model worker workflows with a larger consultant model and durable lessons.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

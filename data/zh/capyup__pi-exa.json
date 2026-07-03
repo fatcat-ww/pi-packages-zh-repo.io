@@ -1,0 +1,6 @@
+{
+  "name": "@capyup/pi-exa",
+  "description_en": "Exa web research for pi via five first-class tools + skill + local CLI. Uses the official exa-js SDK directly — no MCP server, no adapter. Tools: exa_search, exa_similar, exa_fetch, exa_answer, exa_research. Supports real-time livecrawl, subpage extractio",
+  "description_zh": "通过五个一流工具 + 技能 + 本地 CLI 为 pi 提供 Exa 网络研究。直接使用官方 exa-js SDK — 无 MCP 服务器，无适配器。工具：exa_search、exa_similar、exa_fetch、exa_answer、exa_research。支持实时 livecrawl、子页提取",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "pi-skills-manager",
+  "path": "/packages/pi-skills-manager",
+  "url": "https://pi.dev/packages/pi-skills-manager",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 165,
+  "date_ms": 1774630219090,
+  "description_en": "Interactive skill manager for Pi — enable/disable skills with a pi-config-style UI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

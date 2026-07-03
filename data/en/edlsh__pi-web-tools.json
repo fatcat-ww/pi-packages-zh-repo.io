@@ -1,0 +1,13 @@
+{
+  "name": "@edlsh/pi-web-tools",
+  "path": "/packages/@edlsh/pi-web-tools",
+  "url": "https://pi.dev/packages/@edlsh/pi-web-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 41,
+  "date_ms": 1774723394041,
+  "description_en": "Multi-provider web search, extract, research, and code-search tools for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

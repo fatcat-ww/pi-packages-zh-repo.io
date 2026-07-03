@@ -1,0 +1,11 @@
+{
+  "name": "@furbyhaxx/pi-prompt-history",
+  "path": "/packages/@furbyhaxx/pi-prompt-history",
+  "url": "https://pi.dev/packages/@furbyhaxx/pi-prompt-history",
+  "types": "",
+  "type_list": [],
+  "downloads": 47,
+  "date_ms": 1778668336702,
+  "description_en": "Slim Pi extension that keeps session-scoped prompt history and loads prior prompts into pi's native editor.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@jasonish/pi-prompt-history",
+  "path": "/packages/@jasonish/pi-prompt-history",
+  "url": "https://pi.dev/packages/@jasonish/pi-prompt-history",
+  "types": "",
+  "type_list": [],
+  "downloads": 35,
+  "date_ms": 1770749262668,
+  "description_en": "Pi extension: search user prompt history across all sessions with Ctrl+Alt+R",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

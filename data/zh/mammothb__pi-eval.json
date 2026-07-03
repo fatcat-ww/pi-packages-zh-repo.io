@@ -1,0 +1,6 @@
+{
+  "name": "@mammothb/pi-eval",
+  "description_en": "A pi extension that adds an eval tool for executing JavaScript and Python code in isolated subprocesses",
+  "description_zh": "Pi 扩展，添加 eval 工具，用于在隔离的子进程中执行 JavaScript 和 Python 代码",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

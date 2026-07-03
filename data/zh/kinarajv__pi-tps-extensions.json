@@ -1,0 +1,6 @@
+{
+  "name": "@kinarajv/pi-tps-extensions",
+  "description_en": "Token-per-sec extensions — real-time token throughput and TTFT (Time To First Token) display for pi coding agent",
+  "description_zh": "Token-per-sec 扩展 — pi 编码代理的实时 token 吞吐量和 TTFT（首 Token 时间）显示。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@self-deprecated/pi-agent-tick",
+  "path": "/packages/@self-deprecated/pi-agent-tick",
+  "url": "https://pi.dev/packages/@self-deprecated/pi-agent-tick",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 727,
+  "date_ms": 1782138626302,
+  "description_en": "Agent Tick control-plane integration for Pi: remote decisions, approvals, and session status updates",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

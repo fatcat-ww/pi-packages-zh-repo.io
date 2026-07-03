@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-rewind",
+  "path": "/packages/@artale/pi-rewind",
+  "url": "https://pi.dev/packages/@artale/pi-rewind",
+  "types": "",
+  "type_list": [],
+  "downloads": 42,
+  "date_ms": 1773505902900,
+  "description_en": "Checkpoint and rewind for Pi. Auto-snapshot before edits, /rewind to restore with diff preview.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

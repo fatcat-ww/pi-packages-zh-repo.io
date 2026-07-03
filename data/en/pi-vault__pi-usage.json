@@ -1,0 +1,13 @@
+{
+  "name": "@pi-vault/pi-usage",
+  "path": "/packages/@pi-vault/pi-usage",
+  "url": "https://pi.dev/packages/@pi-vault/pi-usage",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1249,
+  "date_ms": 1782402667079,
+  "description_en": "Pi extension that displays aggregated usage statistics across all sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

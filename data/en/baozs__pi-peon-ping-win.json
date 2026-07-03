@@ -1,0 +1,13 @@
+{
+  "name": "@baozs/pi-peon-ping-win",
+  "path": "/packages/@baozs/pi-peon-ping-win",
+  "url": "https://pi.dev/packages/@baozs/pi-peon-ping-win",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 677,
+  "date_ms": 1781856162453,
+  "description_en": "Pi extension for peon-ping sound notifications — fork with native Windows support (ffplay/mpv + winmm.dll PlaySound fallback)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

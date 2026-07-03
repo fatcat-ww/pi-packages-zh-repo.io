@@ -1,0 +1,11 @@
+{
+  "name": "pi-release",
+  "path": "/packages/pi-release",
+  "url": "https://pi.dev/packages/pi-release",
+  "types": "",
+  "type_list": [],
+  "downloads": 17,
+  "date_ms": 1782403013965,
+  "description_en": "Pi-native release automation: bump version, create GitHub release, publish to npm",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

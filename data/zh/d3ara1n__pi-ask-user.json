@@ -1,0 +1,6 @@
+{
+  "name": "@d3ara1n/pi-ask-user",
+  "description_en": "Ask-user tool for pi — renders in the bottom editor slot (not a screen overlay), so the transcript stays visible and scrollable above the panel while you decide",
+  "description_zh": "pi 的 ask-user 工具 — 在底部编辑器槽中呈现（不是屏幕覆盖层），因此当您做决定时，记录保持可见且可在面板上滚动。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

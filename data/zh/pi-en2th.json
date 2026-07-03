@@ -1,0 +1,6 @@
+{
+  "name": "pi-en2th",
+  "description_en": "Pi extension that translates assistant responses from English to Thai using a local Ollama model.",
+  "description_zh": "Pi 扩展，使用本地 Ollama 模型将助手响应从英语翻译为泰语",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

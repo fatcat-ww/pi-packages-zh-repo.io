@@ -1,0 +1,13 @@
+{
+  "name": "pi-extension-toolkit",
+  "path": "/packages/pi-extension-toolkit",
+  "url": "https://pi.dev/packages/pi-extension-toolkit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 701,
+  "date_ms": 1781056762340,
+  "description_en": "A Pi Coding Agent extension to create, retrofit, and verify other extensions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

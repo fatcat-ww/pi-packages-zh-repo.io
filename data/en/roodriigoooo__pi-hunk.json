@@ -1,0 +1,13 @@
+{
+  "name": "@roodriigoooo/pi-hunk",
+  "path": "/packages/@roodriigoooo/pi-hunk",
+  "url": "https://pi.dev/packages/@roodriigoooo/pi-hunk",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 241,
+  "date_ms": 1782451618959,
+  "description_en": "Review-first Shiki terminal diffs and spatial Hunk review notes for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

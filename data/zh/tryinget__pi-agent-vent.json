@@ -1,0 +1,6 @@
+{
+  "name": "@tryinget/pi-agent-vent",
+  "description_en": "Local pi tool for agents to record recurring frustrations, bugs, and workflow friction without creating incidents or external telemetry",
+  "description_zh": "本地 pi 工具，用于代理记录重复的挫败感、错误和工作流程摩擦，而无需创建事件或外部遥测",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

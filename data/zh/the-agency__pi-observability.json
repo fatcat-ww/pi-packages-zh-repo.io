@@ -1,0 +1,6 @@
+{
+  "name": "@the-agency/pi-observability",
+  "description_en": "Record tool usage, tokens, models, skills, and sessions as OpenTelemetry GenAI spans.",
+  "description_zh": "将工具使用、令牌、模型、技能和会话记录为 OpenTelemetry GenAI span。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

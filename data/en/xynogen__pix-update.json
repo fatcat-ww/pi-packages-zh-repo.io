@@ -1,0 +1,13 @@
+{
+  "name": "@xynogen/pix-update",
+  "path": "/packages/@xynogen/pix-update",
+  "url": "https://pi.dev/packages/@xynogen/pix-update",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1670,
+  "date_ms": 1782814331386,
+  "description_en": "Pi extension — /update self-update command",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

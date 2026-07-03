@@ -1,0 +1,6 @@
+{
+  "name": "@spences10/pi-telemetry",
+  "description_en": "Local SQLite telemetry for Pi runs, turns, tool calls, provider requests, usage, and latency",
+  "description_zh": "Pi 运行的本地遥测数据：SQLite 遥测、运行、轮次、工具调用、提供商请求、使用情况和延迟。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@edmundmiller/pi-context-repo",
+  "path": "/packages/@edmundmiller/pi-context-repo",
+  "url": "https://pi.dev/packages/@edmundmiller/pi-context-repo",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 26,
+  "date_ms": 1771908841464,
+  "description_en": "Git-backed persistent memory filesystem for pi agents, inspired by Letta Code's Context Repositories",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

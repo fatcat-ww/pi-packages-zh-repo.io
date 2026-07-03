@@ -1,0 +1,6 @@
+{
+  "name": "pigibrack",
+  "description_en": "Pi extension package for structural Scheme/Guile editing with a persistent REPL sidecar",
+  "description_zh": "Pi 扩展包，用于结构化 Scheme/Guile 编辑，带有持久 REPL 侧边栏",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

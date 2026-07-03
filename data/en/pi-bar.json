@@ -1,0 +1,13 @@
+{
+  "name": "pi-bar",
+  "path": "/packages/pi-bar",
+  "url": "https://pi.dev/packages/pi-bar",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1692,
+  "date_ms": 1780361767128,
+  "description_en": "Pi footer/statusline showing active model, thinking level, context pressure, live progress updates, and extension statuses.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

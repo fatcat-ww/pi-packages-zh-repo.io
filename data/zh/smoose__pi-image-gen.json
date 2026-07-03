@@ -1,0 +1,6 @@
+{
+  "name": "@smoose/pi-image-gen",
+  "description_en": "Pi image generation tool backed by local CLI providers: Codex or Agy.",
+  "description_zh": "由本地 CLI 提供商支持的 Pi 图像生成工具：Codex 或 Agy。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

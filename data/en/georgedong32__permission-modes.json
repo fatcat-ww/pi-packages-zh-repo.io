@@ -1,0 +1,11 @@
+{
+  "name": "@georgedong32/permission-modes",
+  "path": "/packages/@georgedong32/permission-modes",
+  "url": "https://pi.dev/packages/@georgedong32/permission-modes",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782877252404,
+  "description_en": "Claude-Code-style permission modes (ask / plan / auto) for the pi coding agent — with per-mode model profiles, outside-cwd write tracking, and per-mode skill filtering.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

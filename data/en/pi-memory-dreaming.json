@@ -1,0 +1,13 @@
+{
+  "name": "pi-memory-dreaming",
+  "path": "/packages/pi-memory-dreaming",
+  "url": "https://pi.dev/packages/pi-memory-dreaming",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 501,
+  "date_ms": 1781360807115,
+  "description_en": "A pi package that adds durable conversation memory synthesis via the pi-dreaming extension.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@aphotic/pi-flow-core",
+  "path": "/packages/@aphotic/pi-flow-core",
+  "url": "https://pi.dev/packages/@aphotic/pi-flow-core",
+  "types": "",
+  "type_list": [],
+  "downloads": 939,
+  "date_ms": 1781293312270,
+  "description_en": "Workflow skills, bundled agent definitions, and helper runner for pi-flow.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

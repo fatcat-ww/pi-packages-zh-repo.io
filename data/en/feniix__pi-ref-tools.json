@@ -1,0 +1,13 @@
+{
+  "name": "@feniix/pi-ref-tools",
+  "path": "/packages/@feniix/pi-ref-tools",
+  "url": "https://pi.dev/packages/@feniix/pi-ref-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 117,
+  "date_ms": 1778865792203,
+  "description_en": "Ref.tools MCP extension for pi — documentation search and URL reading via Ref's Model Context Protocol",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

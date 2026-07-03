@@ -1,0 +1,13 @@
+{
+  "name": "pi-subdir-context",
+  "path": "/packages/pi-subdir-context",
+  "url": "https://pi.dev/packages/pi-subdir-context",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 694,
+  "date_ms": 1778172609965,
+  "description_en": "Automatically load AGENTS.md context from subdirectories in pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

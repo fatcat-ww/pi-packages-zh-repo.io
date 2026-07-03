@@ -1,0 +1,13 @@
+{
+  "name": "@bytetrue/pi-vendor",
+  "path": "/packages/@bytetrue/pi-vendor",
+  "url": "https://pi.dev/packages/@bytetrue/pi-vendor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 228,
+  "date_ms": 1782210657063,
+  "description_en": "Pi extension: wizard for managing custom providers in ~/.pi/agent/models.json.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

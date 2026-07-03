@@ -1,0 +1,11 @@
+{
+  "name": "@vanillagreen/pi-output-policy",
+  "path": "/packages/@vanillagreen/pi-output-policy",
+  "url": "https://pi.dev/packages/@vanillagreen/pi-output-policy",
+  "types": "",
+  "type_list": [],
+  "downloads": 319,
+  "date_ms": 1781280386817,
+  "description_en": "OMP-style large-output policy for Pi tool results: minimization, bounded truncation, and spill-file preservation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

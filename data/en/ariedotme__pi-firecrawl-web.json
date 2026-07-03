@@ -1,0 +1,13 @@
+{
+  "name": "@ariedotme/pi-firecrawl-web",
+  "path": "/packages/@ariedotme/pi-firecrawl-web",
+  "url": "https://pi.dev/packages/@ariedotme/pi-firecrawl-web",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 383,
+  "date_ms": 1782259349541,
+  "description_en": "Pi extension for Firecrawl-powered web search, content fetch, and structured extraction.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

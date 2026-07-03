@@ -1,0 +1,11 @@
+{
+  "name": "pi-trace-extension",
+  "path": "/packages/pi-trace-extension",
+  "url": "https://pi.dev/packages/pi-trace-extension",
+  "types": "",
+  "type_list": [],
+  "downloads": 1124,
+  "date_ms": 1781253765803,
+  "description_en": "Langfuse-style trace viewer for pi-agent — local-first, zero-setup, single-file HTML",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-zellij",
+  "path": "/packages/pi-zellij",
+  "url": "https://pi.dev/packages/pi-zellij",
+  "types": "",
+  "type_list": [],
+  "downloads": 76,
+  "date_ms": 1779716196313,
+  "description_en": "Pi package with zellij-powered terminal integrations",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

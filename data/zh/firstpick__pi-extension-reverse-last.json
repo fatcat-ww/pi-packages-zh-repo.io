@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-extension-reverse-last",
+  "description_en": "Session-aware undo for Pi write/edit tool changes via /reverse-last.",
+  "description_zh": "通过 /reverse-last 对 Pi 写/编辑工具更改进行会话感知的撤销",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

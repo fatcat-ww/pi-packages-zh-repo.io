@@ -1,0 +1,14 @@
+{
+  "name": "pi-workstation",
+  "path": "/packages/pi-workstation",
+  "url": "https://pi.dev/packages/pi-workstation",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 76,
+  "date_ms": 1773629263529,
+  "description_en": "Custom extensions and themes for pi coding agent. Music, Navi, knowledge graph, LLM council, git TUI, file browser, and 9 handcrafted themes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

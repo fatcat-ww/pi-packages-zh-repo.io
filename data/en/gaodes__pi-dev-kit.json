@@ -1,0 +1,11 @@
+{
+  "name": "@gaodes/pi-dev-kit",
+  "path": "/packages/@gaodes/pi-dev-kit",
+  "url": "https://pi.dev/packages/@gaodes/pi-dev-kit",
+  "types": "",
+  "type_list": [],
+  "downloads": 83,
+  "date_ms": 1778848519042,
+  "description_en": "Developer toolkit for Pi — modular skills for authoring extensions, skills, prompt templates, themes, packages, and context files. Includes introspection tools for version, docs, changelog, benchmarking, and loaded tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-ralph-loop",
+  "description_en": "Pi extension that reruns a prompt from a clean session checkpoint for bounded Ralph loops.",
+  "description_zh": "Pi 扩展，从干净的会话检查点重新运行提示，用于有界的 Ralph 循环。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

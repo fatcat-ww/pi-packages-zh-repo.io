@@ -1,0 +1,13 @@
+{
+  "name": "pi-currencies",
+  "path": "/packages/pi-currencies",
+  "url": "https://pi.dev/packages/pi-currencies",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 148,
+  "date_ms": 1781607758032,
+  "description_en": "Show AI cost in your local currencies — extends the pi footer with real‑time exchange rates from frankfurter.dev",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

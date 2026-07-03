@@ -1,0 +1,6 @@
+{
+  "name": "pi-connect",
+  "description_en": "Unified OAuth and API key login for pi with an OpenCode-inspired UI. Connect 15+ providers with one /connect command.",
+  "description_zh": "pi 的统一 OAuth 和 API 密钥登录，具有 OpenCode 风格的 UI。通过一个 /connect 命令连接 15+ 提供商。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-agent-selector",
+  "path": "/packages/pi-agent-selector",
+  "url": "https://pi.dev/packages/pi-agent-selector",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 63,
+  "date_ms": 1778808028065,
+  "description_en": "Pi extension that lets users activate local agent markdown files as the current session profile.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

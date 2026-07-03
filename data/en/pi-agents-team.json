@@ -1,0 +1,13 @@
+{
+  "name": "pi-agents-team",
+  "path": "/packages/pi-agents-team",
+  "url": "https://pi.dev/packages/pi-agents-team",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 834,
+  "date_ms": 1781396907587,
+  "description_en": "Pi extension that turns one coding session into a multi-agent team with background RPC worker agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

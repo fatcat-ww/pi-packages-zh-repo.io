@@ -1,0 +1,13 @@
+{
+  "name": "@anton-kochev/telos",
+  "path": "/packages/@anton-kochev/telos",
+  "url": "https://pi.dev/packages/@anton-kochev/telos",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 291,
+  "date_ms": 1780577053178,
+  "description_en": "Telos: repo-scoped structured task tracking for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

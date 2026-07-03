@@ -1,0 +1,6 @@
+{
+  "name": "@tmustier/pi-code-actions",
+  "description_en": "Pick code blocks or inline snippets from recent assistant messages to copy or insert.",
+  "description_zh": "从最近的助手消息中选择代码块或内联片段以复制或插入",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

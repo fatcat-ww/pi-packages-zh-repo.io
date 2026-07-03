@@ -1,0 +1,6 @@
+{
+  "name": "pi-safe-compact",
+  "description_en": "Hardens pi context compaction against summarize-time context overflow. Hooks session_before_compact, generates the summary itself with adaptive trimming (drop oldest messages *0.98 per retry) when the model reports the summarization request exceeds its co",
+  "description_zh": "强化 pi 上下文压缩，防止总结时上下文溢出。钩住 session_before_compact，当模型报告摘要请求超出其上下文限制时，使用自适应修剪（每次重试丢弃最旧消息的 0.98）自行生成摘要。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

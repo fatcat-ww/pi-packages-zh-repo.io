@@ -1,0 +1,13 @@
+{
+  "name": "pi-codex-search",
+  "path": "/packages/pi-codex-search",
+  "url": "https://pi.dev/packages/pi-codex-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 269,
+  "date_ms": 1782734885037,
+  "description_en": "Pi extension for Codex Web Search — reuse your ChatGPT Plus/Pro Codex subscription in pi-coding-agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

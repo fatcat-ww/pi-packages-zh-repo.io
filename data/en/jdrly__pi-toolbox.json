@@ -1,0 +1,13 @@
+{
+  "name": "@jdrly/pi-toolbox",
+  "path": "/packages/@jdrly/pi-toolbox",
+  "url": "https://pi.dev/packages/@jdrly/pi-toolbox",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 26,
+  "date_ms": 1777761178285,
+  "description_en": "Deferred tool loading for Pi: keep heavy tool schemas out of context until prompts need them.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

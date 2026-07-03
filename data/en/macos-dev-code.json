@@ -1,0 +1,11 @@
+{
+  "name": "macos-dev-code",
+  "path": "/packages/macos-dev-code",
+  "url": "https://pi.dev/packages/macos-dev-code",
+  "types": "",
+  "type_list": [],
+  "downloads": 799,
+  "date_ms": 1780246999416,
+  "description_en": "Pi skill for native macOS development with SwiftUI, AppKit, and Liquid Glass. Bundles curated Apple Developer documentation (snapshot 2026-05-30).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

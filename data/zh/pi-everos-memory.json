@@ -1,0 +1,6 @@
+{
+  "name": "pi-everos-memory",
+  "description_en": "EverOS-backed long-term memory for pi. Model-callable user-memory tools (search/add/profile/episodes/foresight/delete) and agent-memory tools (skills/cases/record).",
+  "description_zh": "由 EverOS 支持的 pi 长期记忆。模型可调用的用户记忆工具（搜索/添加/配置文件/剧集/前瞻/删除）和代理记忆工具（技能/案例/记录）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

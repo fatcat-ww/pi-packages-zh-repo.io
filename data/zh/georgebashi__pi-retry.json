@@ -1,0 +1,6 @@
+{
+  "name": "@georgebashi/pi-retry",
+  "description_en": "pi extension: auto-retry transient streaming errors + /retry command",
+  "description_zh": "pi 扩展：自动重试瞬时流式错误 + /retry 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

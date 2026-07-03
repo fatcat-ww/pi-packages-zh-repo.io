@@ -1,0 +1,6 @@
+{
+  "name": "@victor-software-house/pi-openai-proxy",
+  "description_en": "OpenAI-compatible HTTP proxy for pi's multi-provider model registry",
+  "description_zh": "用于 pi 的多提供商模型注册表的 OpenAI 兼容 HTTP 代理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

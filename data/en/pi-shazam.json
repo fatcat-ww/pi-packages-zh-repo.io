@@ -1,0 +1,13 @@
+{
+  "name": "pi-shazam",
+  "path": "/packages/pi-shazam",
+  "url": "https://pi.dev/packages/pi-shazam",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 10920,
+  "date_ms": 1783052398073,
+  "description_en": "Pi coding agent native codebase awareness toolkit — 7 structural analysis tools. Also supports MCP (Cursor, Claude Desktop, Windsurf, etc.)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

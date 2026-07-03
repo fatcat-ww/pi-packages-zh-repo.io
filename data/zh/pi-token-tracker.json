@@ -1,0 +1,6 @@
+{
+  "name": "pi-token-tracker",
+  "description_en": "Pi extension that tracks token usage across all sessions including taskplane workers and merge agents. Writes per-call token records to usage.jsonl and provides a token-report command.",
+  "description_zh": "Pi 扩展，跟踪所有会话中的令牌使用情况，包括任务计划工作线程和合并代理。将每次调用的令牌记录写入 usage.jsonl，并提供 token-report 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

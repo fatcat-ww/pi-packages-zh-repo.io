@@ -1,0 +1,13 @@
+{
+  "name": "@samfp/pi-memory",
+  "path": "/packages/@samfp/pi-memory",
+  "url": "https://pi.dev/packages/@samfp/pi-memory",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 4301,
+  "date_ms": 1781638924646,
+  "description_en": "Persistent memory for pi — learns corrections, preferences, and patterns from sessions and injects them into future conversations.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

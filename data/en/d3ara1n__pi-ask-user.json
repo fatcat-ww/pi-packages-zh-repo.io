@@ -1,0 +1,11 @@
+{
+  "name": "@d3ara1n/pi-ask-user",
+  "path": "/packages/@d3ara1n/pi-ask-user",
+  "url": "https://pi.dev/packages/@d3ara1n/pi-ask-user",
+  "types": "",
+  "type_list": [],
+  "downloads": 710,
+  "date_ms": 1782815487878,
+  "description_en": "Ask-user tool for pi — renders in the bottom editor slot (not a screen overlay), so the transcript stays visible and scrollable above the panel while you decide",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-kiro-provider",
+  "path": "/packages/pi-kiro-provider",
+  "url": "https://pi.dev/packages/pi-kiro-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 375,
+  "date_ms": 1783049554167,
+  "description_en": "Pi extension provider for Kiro's AWS CodeWhisperer streaming API.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

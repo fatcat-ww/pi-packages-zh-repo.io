@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-tokens",
+  "path": "/packages/@artale/pi-tokens",
+  "url": "https://pi.dev/packages/@artale/pi-tokens",
+  "types": "",
+  "type_list": [],
+  "downloads": 43,
+  "date_ms": 1773503838757,
+  "description_en": "Token cost intelligence for Pi. Per-tool cost breakdown, $/call estimates, budget alerts, expensive call finder.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

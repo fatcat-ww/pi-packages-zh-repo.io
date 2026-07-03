@@ -1,0 +1,6 @@
+{
+  "name": "pi-smart-commit",
+  "description_en": "Auto-generate conventional commit messages from Pi session diffs — feat, fix, refactor, chore with confirmation",
+  "description_zh": "从 Pi 会话差异自动生成常规提交消息 — feat、fix、refactor、chore，需确认",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

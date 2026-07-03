@@ -1,0 +1,6 @@
+{
+  "name": "@davidorex/pi-custom-compactor",
+  "description_en": "Declarative YAML-driven structured compaction for pi coding agent — multi-pass extraction, artifact persistence, budget management, and work-mode-specific compaction specs",
+  "description_zh": "Pi coding agent 的声明式 YAML 驱动结构化压缩 — 多通道提取、工件持久化、预算管理和工作模式特定压缩规范",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

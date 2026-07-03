@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-linear-tracker",
+  "path": "/packages/@arvoretech/pi-linear-tracker",
+  "url": "https://pi.dev/packages/@arvoretech/pi-linear-tracker",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 79,
+  "date_ms": 1782226530119,
+  "description_en": "PI extension that pins the active Linear issue link in the chat as a compact persistent widget",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

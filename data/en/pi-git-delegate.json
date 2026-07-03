@@ -1,0 +1,11 @@
+{
+  "name": "pi-git-delegate",
+  "path": "/packages/pi-git-delegate",
+  "url": "https://pi.dev/packages/pi-git-delegate",
+  "types": "",
+  "type_list": [],
+  "downloads": 179,
+  "date_ms": 1783076926642,
+  "description_en": "Pi extension: delegate git operations (diff/log/blame) to cheaper models via subagents, saving costs and keeping parent context clean.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

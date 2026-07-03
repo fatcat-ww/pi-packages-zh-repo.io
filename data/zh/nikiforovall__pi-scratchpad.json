@@ -1,0 +1,6 @@
+{
+  "name": "@nikiforovall/pi-scratchpad",
+  "description_en": "pi package for scratchpad — skills to drive the `scratch` CLI plus /scratch ui|export|stop commands for the read-only viewer.",
+  "description_zh": "草稿板的 pi 包 — 驱动 `scratch` CLI 的技能，以及用于只读查看器的 /scratch ui|export|stop 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

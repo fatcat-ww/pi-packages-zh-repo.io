@@ -1,0 +1,13 @@
+{
+  "name": "pi-goosedump",
+  "path": "/packages/pi-goosedump",
+  "url": "https://pi.dev/packages/pi-goosedump",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3827,
+  "date_ms": 1782756983312,
+  "description_en": "Coding agent context data browser plugin for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

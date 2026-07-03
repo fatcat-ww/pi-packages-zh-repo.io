@@ -1,0 +1,11 @@
+{
+  "name": "pi-android-cli",
+  "path": "/packages/pi-android-cli",
+  "url": "https://pi.dev/packages/pi-android-cli",
+  "types": "",
+  "type_list": [],
+  "downloads": 84,
+  "date_ms": 1779394210954,
+  "description_en": "Android CLI tools for pi — Gradle, ADB, Emulator, Logcat, Layout Inspector, and Android Knowledge Base integration.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

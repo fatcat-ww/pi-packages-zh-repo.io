@@ -1,0 +1,6 @@
+{
+  "name": "@r3b1s/pi-tmux-sessionizer",
+  "description_en": "Spawn subagents as real pi processes in detached tmux windows — full TUI observability, external control, and session file result extraction.",
+  "description_zh": "在分离的 tmux 窗口中将子代理生成为真实的 pi 进程 — 完整的 TUI 可观测性、外部控制和会话文件结果提取。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

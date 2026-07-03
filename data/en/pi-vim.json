@@ -1,0 +1,13 @@
+{
+  "name": "pi-vim",
+  "path": "/packages/pi-vim",
+  "url": "https://pi.dev/packages/pi-vim",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2124,
+  "date_ms": 1781213319605,
+  "description_en": "Vim-style modal editing for Pi's TUI editor",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

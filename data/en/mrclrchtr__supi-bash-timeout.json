@@ -1,0 +1,13 @@
+{
+  "name": "@mrclrchtr/supi-bash-timeout",
+  "path": "/packages/@mrclrchtr/supi-bash-timeout",
+  "url": "https://pi.dev/packages/@mrclrchtr/supi-bash-timeout",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2286,
+  "date_ms": 1783012892455,
+  "description_en": "SuPi bash-timeout extension — injects default timeout on bash tool calls",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

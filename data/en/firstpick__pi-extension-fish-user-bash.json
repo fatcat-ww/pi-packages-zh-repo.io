@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-fish-user-bash",
+  "path": "/packages/@firstpick/pi-extension-fish-user-bash",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-fish-user-bash",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 586,
+  "date_ms": 1780954473496,
+  "description_en": "Use fish shell backend for Pi user bash commands (! and !!).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

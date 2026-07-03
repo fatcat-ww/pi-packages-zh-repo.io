@@ -1,0 +1,13 @@
+{
+  "name": "pi-auto-mode-router",
+  "path": "/packages/pi-auto-mode-router",
+  "url": "https://pi.dev/packages/pi-auto-mode-router",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 54,
+  "date_ms": 1774451949973,
+  "description_en": "Auto Mode Router extension for Pi: route prompts between frontend, logic, and terminal models with optional mid-turn domain switching.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

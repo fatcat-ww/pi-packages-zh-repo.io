@@ -1,0 +1,6 @@
+{
+  "name": "@trevonistrevon/pi-loop",
+  "description_en": "A pi extension for cron/event-based agent re-wake loops and background process monitoring.",
+  "description_zh": "Pi扩展，用于基于cron/事件的代理重新唤醒循环和后台进程监控。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

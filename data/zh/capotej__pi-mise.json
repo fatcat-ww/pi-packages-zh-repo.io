@@ -1,0 +1,6 @@
+{
+  "name": "@capotej/pi-mise",
+  "description_en": "Automatically activates mise when a mise.toml or .mise.toml file is found in the project",
+  "description_zh": "在项目中发现 mise.toml 或 .mise.toml 文件时自动激活 mise",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-better-ctx",
+  "description_en": "Pi Coding Agent extension that routes bash, read, grep, find, and ls through better-ctx for 60-90% token savings",
+  "description_zh": "将 bash、read、grep、find 和 ls 路由到 better-ctx 以节省 60-90% token 的 Pi 编码代理扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

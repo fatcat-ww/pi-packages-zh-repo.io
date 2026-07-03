@@ -1,0 +1,6 @@
+{
+  "name": "pi-glm-image-summary",
+  "description_en": "Pi extension that intercepts image reads when using glm-4.7 and sends them to glm-4.6v for detailed analysis",
+  "description_zh": "Pi 扩展，在使用 glm-4.7 时拦截图像读取，并将其发送到 glm-4.6v 进行详细分析",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

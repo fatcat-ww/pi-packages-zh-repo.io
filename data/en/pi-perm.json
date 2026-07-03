@@ -1,0 +1,13 @@
+{
+  "name": "pi-perm",
+  "path": "/packages/pi-perm",
+  "url": "https://pi.dev/packages/pi-perm",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783066327636,
+  "description_en": "Config-driven Pi sandbox and permission extension using sandbox-runtime.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

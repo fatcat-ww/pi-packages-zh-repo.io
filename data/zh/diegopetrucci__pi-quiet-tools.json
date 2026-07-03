@@ -1,0 +1,6 @@
+{
+  "name": "@diegopetrucci/pi-quiet-tools",
+  "description_en": "A pi extension that visually compacts collapsed built-in tool rows in the TUI without changing tool results sent to the model.",
+  "description_zh": "一个 pi 扩展，在 TUI 中视觉上压缩折叠的内置工具行，而不更改发送到模型的工具结果。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

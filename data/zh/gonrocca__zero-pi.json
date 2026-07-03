@@ -1,0 +1,6 @@
+{
+  "name": "@gonrocca/zero-pi",
+  "description_en": "zero-pi — an installable layer for pi (pi.dev): the zero spec-driven development workflow (explore → plan → build → veredicto) with per-phase model autotune and token-efficient batched builds. Adds capability to pi without modifying pi.",
+  "description_zh": "zero-pi — pi (pi.dev) 的可安装层：零规范驱动开发工作流（探索→计划→构建→判决），每个阶段的模型自动调优和令牌高效的批量构建。在不修改 pi 的情况下为 pi 添加功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

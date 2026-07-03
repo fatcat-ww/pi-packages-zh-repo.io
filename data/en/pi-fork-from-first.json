@@ -1,0 +1,11 @@
+{
+  "name": "pi-fork-from-first",
+  "path": "/packages/pi-fork-from-first",
+  "url": "https://pi.dev/packages/pi-fork-from-first",
+  "types": "",
+  "type_list": [],
+  "downloads": 72,
+  "date_ms": 1778173569595,
+  "description_en": "Fork the current Pi session from its first user message and switch into the new fork immediately, with sensible defaults in relation to pi-rewind-hook",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

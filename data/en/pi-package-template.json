@@ -1,0 +1,11 @@
+{
+  "name": "pi-package-template",
+  "path": "/packages/pi-package-template",
+  "url": "https://pi.dev/packages/pi-package-template",
+  "types": "",
+  "type_list": [],
+  "downloads": 73,
+  "date_ms": 1777906689609,
+  "description_en": "A minimal starter template for building pi packages",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

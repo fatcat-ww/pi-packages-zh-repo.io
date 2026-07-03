@@ -1,0 +1,6 @@
+{
+  "name": "@aethrekh/pi-cs-core",
+  "description_en": "Core shared library for pi-cs packages — semester detection, workspace management, integrity guard, progress tracking, and configuration",
+  "description_zh": "pi-cs 包的核心共享库 — 学期检测、工作区管理、完整性保护、进度跟踪和配置",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

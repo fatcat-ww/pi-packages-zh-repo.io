@@ -1,0 +1,13 @@
+{
+  "name": "@the-forge-flow/lightpanda-pi",
+  "path": "/packages/@the-forge-flow/lightpanda-pi",
+  "url": "https://pi.dev/packages/@the-forge-flow/lightpanda-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 99,
+  "date_ms": 1775940970599,
+  "description_en": "PI extension for web search using Lightpanda headless browser",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

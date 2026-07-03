@@ -1,0 +1,6 @@
+{
+  "name": "@robhowley/pi-session-deck",
+  "description_en": "A TUI dashboard for Pi sessions: live windows, worktrees, PRs, activity, and statuses in one place.",
+  "description_zh": "Pi 会话的 TUI 仪表板：在一个位置实时显示窗口、工作树、PR、活动和状态",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

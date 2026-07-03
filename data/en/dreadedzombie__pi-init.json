@@ -1,0 +1,13 @@
+{
+  "name": "@dreadedzombie/pi-init",
+  "path": "/packages/@dreadedzombie/pi-init",
+  "url": "https://pi.dev/packages/@dreadedzombie/pi-init",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 118,
+  "date_ms": 1775407311757,
+  "description_en": "Generates a typed AGENTS.md for your project — /init, /init research, /init debug, /init code",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

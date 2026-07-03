@@ -1,0 +1,13 @@
+{
+  "name": "pi-git-commands-extension",
+  "path": "/packages/pi-git-commands-extension",
+  "url": "https://pi.dev/packages/pi-git-commands-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 42,
+  "date_ms": 1775999573635,
+  "description_en": "Shareable Pi package that adds /commit, /push, /commit-and-push, and /commit-pr git commands.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

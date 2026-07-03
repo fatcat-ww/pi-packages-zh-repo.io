@@ -1,0 +1,11 @@
+{
+  "name": "pi-move-session",
+  "path": "/packages/pi-move-session",
+  "url": "https://pi.dev/packages/pi-move-session",
+  "types": "",
+  "type_list": [],
+  "downloads": 85,
+  "date_ms": 1778173578561,
+  "description_en": "Move a live Pi session to another working directory, including back to a repository's main worktree",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

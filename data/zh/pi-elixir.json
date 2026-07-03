@@ -1,0 +1,6 @@
+{
+  "name": "pi-elixir",
+  "description_en": "BEAM runtime tools for pi — connects to the running Elixir app for live introspection",
+  "description_zh": "Pi 的 BEAM 运行时工具 — 连接到正在运行的 Elixir 应用程序进行实时内省",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

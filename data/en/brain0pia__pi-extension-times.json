@@ -1,0 +1,13 @@
+{
+  "name": "@brain0pia/pi-extension-times",
+  "path": "/packages/@brain0pia/pi-extension-times",
+  "url": "https://pi.dev/packages/@brain0pia/pi-extension-times",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 46,
+  "date_ms": 1773376489249,
+  "description_en": "Profile Pi extension startup time, inspect slow extensions, and guide safe performance optimizations.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

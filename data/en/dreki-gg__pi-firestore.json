@@ -1,0 +1,11 @@
+{
+  "name": "@dreki-gg/pi-firestore",
+  "path": "/packages/@dreki-gg/pi-firestore",
+  "url": "https://pi.dev/packages/@dreki-gg/pi-firestore",
+  "types": "",
+  "type_list": [],
+  "downloads": 73,
+  "date_ms": 1780120966826,
+  "description_en": "Firestore debugging tools for pi — query collections, inspect documents, and map data relationships",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

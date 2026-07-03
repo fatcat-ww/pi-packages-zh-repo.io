@@ -1,0 +1,6 @@
+{
+  "name": "@pandi-coding-agent/worktree",
+  "description_en": "Pi extension to manage git worktrees: a /worktree command and a model-callable git_worktree tool (list/add/open/remove/prune).",
+  "description_zh": "Pi 扩展，用于管理 git worktrees：提供 /worktree 命令和模型可调用的 git_worktree 工具（列表/添加/打开/删除/修剪）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

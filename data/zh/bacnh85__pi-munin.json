@@ -1,0 +1,6 @@
+{
+  "name": "@bacnh85/pi-munin",
+  "description_en": "Pi extension that provides native Munin long-term memory tools through direct SDK integration.",
+  "description_zh": "Pi 扩展，通过直接 SDK 集成提供原生的 Munin 长期内存工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

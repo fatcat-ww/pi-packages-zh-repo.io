@@ -1,0 +1,6 @@
+{
+  "name": "@gjczone/pi-swarm",
+  "description_en": "Agent Swarm & Team for pi-coding-agent. Single to 128 subagents: parallel swarm or collaborative team with mailbox. Live TUI, rate-limit retries, crash recovery. Ported from kimi-code, inspired by pi-crew.",
+  "description_zh": "pi-coding-agent 的代理群组和团队。从 1 到 128 个子代理：并行群组或协作团队，带邮箱功能。实时 TUI、速率限制重试、崩溃恢复。从 kimi-code 移植，受 pi-crew 启发",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

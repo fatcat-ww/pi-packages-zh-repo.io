@@ -1,0 +1,11 @@
+{
+  "name": "@thesethrose/pi-minimax-provider",
+  "path": "/packages/@thesethrose/pi-minimax-provider",
+  "url": "https://pi.dev/packages/@thesethrose/pi-minimax-provider",
+  "types": "",
+  "type_list": [],
+  "downloads": 30,
+  "date_ms": 1774980028306,
+  "description_en": "MiniMax provider extension for pi coding agent with correct OAuth token handling",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-meter",
+  "path": "/packages/pi-meter",
+  "url": "https://pi.dev/packages/pi-meter",
+  "types": "",
+  "type_list": [],
+  "downloads": 281,
+  "date_ms": 1781806367431,
+  "description_en": "LLM spend tracking, budget alerts, auto-downshift, and hard cutoff for AI coding agents — as a CLI, an MCP server, a Claude/Cursor skill, or a pi extension.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

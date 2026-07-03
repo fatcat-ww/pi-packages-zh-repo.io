@@ -1,0 +1,13 @@
+{
+  "name": "pi-codesight",
+  "path": "/packages/pi-codesight",
+  "url": "https://pi.dev/packages/pi-codesight",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 114,
+  "date_ms": 1778450284903,
+  "description_en": "CodeSight repository-context tools for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

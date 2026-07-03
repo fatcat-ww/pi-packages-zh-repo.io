@@ -1,0 +1,11 @@
+{
+  "name": "lite-questionnaire",
+  "path": "/packages/lite-questionnaire",
+  "url": "https://pi.dev/packages/lite-questionnaire",
+  "types": "",
+  "type_list": [],
+  "downloads": 145,
+  "date_ms": 1779806788955,
+  "description_en": "轻量级交互式问卷工具 — 单选、多选、文本、确认、评分，带条件子问题和声明式校验",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

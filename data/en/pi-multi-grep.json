@@ -1,0 +1,13 @@
+{
+  "name": "pi-multi-grep",
+  "path": "/packages/pi-multi-grep",
+  "url": "https://pi.dev/packages/pi-multi-grep",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 235,
+  "date_ms": 1780174534063,
+  "description_en": "Pi extension that replaces the built-in grep tool with multi-path and multi-glob support.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

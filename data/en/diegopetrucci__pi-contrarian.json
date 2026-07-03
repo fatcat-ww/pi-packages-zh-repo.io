@@ -1,0 +1,11 @@
+{
+  "name": "@diegopetrucci/pi-contrarian",
+  "path": "/packages/@diegopetrucci/pi-contrarian",
+  "url": "https://pi.dev/packages/@diegopetrucci/pi-contrarian",
+  "types": "",
+  "type_list": [],
+  "downloads": 91,
+  "date_ms": 1782593848425,
+  "description_en": "A read-only contrarian subagent extension for pi that stress-tests plans, designs, assumptions, and conclusions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

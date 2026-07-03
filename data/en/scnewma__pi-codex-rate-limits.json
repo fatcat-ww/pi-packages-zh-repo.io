@@ -1,0 +1,11 @@
+{
+  "name": "@scnewma/pi-codex-rate-limits",
+  "path": "/packages/@scnewma/pi-codex-rate-limits",
+  "url": "https://pi.dev/packages/@scnewma/pi-codex-rate-limits",
+  "types": "",
+  "type_list": [],
+  "downloads": 74,
+  "date_ms": 1779157549458,
+  "description_en": "Pi extension that shows OpenAI Codex rate limit usage via /codex-rate-limits",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-claude-code-restore",
+  "path": "/packages/pi-claude-code-restore",
+  "url": "https://pi.dev/packages/pi-claude-code-restore",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 137,
+  "date_ms": 1779830385503,
+  "description_en": "Searchable restore, jump, fork, and label palette for Pi sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

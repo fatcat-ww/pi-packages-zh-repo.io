@@ -1,0 +1,13 @@
+{
+  "name": "pi-blackhole",
+  "path": "/packages/pi-blackhole",
+  "url": "https://pi.dev/packages/pi-blackhole",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2239,
+  "date_ms": 1782324605845,
+  "description_en": "Unified compaction + observational memory extension for Pi — compresses conversation context while preserving durable observations and reflections",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

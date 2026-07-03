@@ -1,0 +1,13 @@
+{
+  "name": "pi-sub-agent",
+  "path": "/packages/pi-sub-agent",
+  "url": "https://pi.dev/packages/pi-sub-agent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 177,
+  "date_ms": 1779108069505,
+  "description_en": "A Pi package extension that provides sub-agent functionality.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

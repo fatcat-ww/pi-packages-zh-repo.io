@@ -1,0 +1,11 @@
+{
+  "name": "@astrofoundry/pi-astro",
+  "path": "/packages/@astrofoundry/pi-astro",
+  "url": "https://pi.dev/packages/@astrofoundry/pi-astro",
+  "types": "",
+  "type_list": [],
+  "downloads": 650,
+  "date_ms": 1782061154200,
+  "description_en": "Personal pi customizations (extensions, skills, prompts, themes) for the pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

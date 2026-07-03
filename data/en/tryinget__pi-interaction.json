@@ -1,0 +1,13 @@
+{
+  "name": "@tryinget/pi-interaction",
+  "path": "/packages/@tryinget/pi-interaction",
+  "url": "https://pi.dev/packages/@tryinget/pi-interaction",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 34,
+  "date_ms": 1773232347671,
+  "description_en": "Umbrella interaction-runtime extension package for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

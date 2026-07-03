@@ -1,0 +1,13 @@
+{
+  "name": "@the-forge-flow/pi-verifier",
+  "path": "/packages/@the-forge-flow/pi-verifier",
+  "url": "https://pi.dev/packages/@the-forge-flow/pi-verifier",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 62,
+  "date_ms": 1778796092513,
+  "description_en": "PI extension that runs a verifier subagent to observe and correct builder sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@arvoretech/pi-open-editor",
+  "description_en": "PI extension to open files in the user's $EDITOR (tmux pane, GUI, or new terminal window)",
+  "description_zh": "PI 扩展，在用户的 $EDITOR（tmux 面板、GUI 或新终端窗口）中打开文件。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

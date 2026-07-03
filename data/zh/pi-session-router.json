@@ -1,0 +1,6 @@
+{
+  "name": "pi-session-router",
+  "description_en": "Pi extension that uses an LLM to route new prompts into the most relevant existing session before continuing",
+  "description_zh": "Pi 扩展，使用 LLM 将新提示路由到最相关的现有会话，然后继续",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

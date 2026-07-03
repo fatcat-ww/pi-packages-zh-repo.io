@@ -1,0 +1,6 @@
+{
+  "name": "@foxfirecodes/pi-agents-local-md",
+  "description_en": "Pi extension that autoloads AGENTS.local.md alongside AGENTS.md context files.",
+  "description_zh": "Pi 扩展，自动加载 AGENTS.local.md 与 AGENTS.md 上下文文件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

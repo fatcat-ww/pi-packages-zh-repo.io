@@ -1,0 +1,13 @@
+{
+  "name": "@shiina18/pi-ask-user-question",
+  "path": "/packages/@shiina18/pi-ask-user-question",
+  "url": "https://pi.dev/packages/@shiina18/pi-ask-user-question",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 45,
+  "date_ms": 1777726100999,
+  "description_en": "Claude Code-like ask_user_question tool for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

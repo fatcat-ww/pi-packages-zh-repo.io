@@ -1,0 +1,13 @@
+{
+  "name": "@georgedong32/pi-effort",
+  "path": "/packages/@georgedong32/pi-effort",
+  "url": "https://pi.dev/packages/@georgedong32/pi-effort",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782893347070,
+  "description_en": "Pi extension for controlling thinking effort with model-adaptive min/max aliases",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

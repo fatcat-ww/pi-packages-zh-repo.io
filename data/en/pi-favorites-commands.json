@@ -1,0 +1,13 @@
+{
+  "name": "pi-favorites-commands",
+  "path": "/packages/pi-favorites-commands",
+  "url": "https://pi.dev/packages/pi-favorites-commands",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 74,
+  "date_ms": 1778788094437,
+  "description_en": "Star and reorder your favorite slash commands in pi. Favorites appear at the top of the / autocomplete dropdown with a ★ glyph, in the order you choose.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

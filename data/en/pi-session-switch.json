@@ -1,0 +1,11 @@
+{
+  "name": "pi-session-switch",
+  "path": "/packages/pi-session-switch",
+  "url": "https://pi.dev/packages/pi-session-switch",
+  "types": "",
+  "type_list": [],
+  "downloads": 73,
+  "date_ms": 1778860867667,
+  "description_en": "Preview each session before switching in a mirror of Pi's native `/resume`-picker UI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

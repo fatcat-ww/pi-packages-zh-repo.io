@@ -1,0 +1,13 @@
+{
+  "name": "pi-gods",
+  "path": "/packages/pi-gods",
+  "url": "https://pi.dev/packages/pi-gods",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 104,
+  "date_ms": 1779363265879,
+  "description_en": "Pantheon SDD Agent System — fully autonomous multi-agent pipeline with tool boundary enforcement, file-based handoff, and 13 Roman/Greek deities",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

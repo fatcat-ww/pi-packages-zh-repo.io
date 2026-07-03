@@ -1,0 +1,6 @@
+{
+  "name": "@jc4649/pi-toolcall-guard",
+  "description_en": "Deterministic tool-call guard for pi: path preflight, schema/repair, content rules, error enrichment, and destructive-bash blocking (interactive confirm + headless subagent hard-block)",
+  "description_zh": "pi 的确定性工具调用防护器：路径预检、模式/修复、内容规则、错误丰富化和破坏性 bash 阻塞（交互式确认 + 无头子代理硬阻塞）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

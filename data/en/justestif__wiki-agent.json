@@ -1,0 +1,11 @@
+{
+  "name": "@justestif/wiki-agent",
+  "path": "/packages/@justestif/wiki-agent",
+  "url": "https://pi.dev/packages/@justestif/wiki-agent",
+  "types": "",
+  "type_list": [],
+  "downloads": 44,
+  "date_ms": 1777153438116,
+  "description_en": "AI-powered personal wiki with agent hooks for Pi, Claude Code, Cursor, and OpenCode",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

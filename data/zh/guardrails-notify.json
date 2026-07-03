@@ -1,0 +1,6 @@
+{
+  "name": "guardrails-notify",
+  "description_en": "Pi extension that sends cmux, terminal, and native notifications when guardrails waits for approval.",
+  "description_zh": "Pi 扩展，当 guardrail 等待批准时发送 cmux、终端和原生通知",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

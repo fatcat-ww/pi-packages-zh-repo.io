@@ -1,0 +1,11 @@
+{
+  "name": "@ryan_nookpi/pi-extension-idle-screensaver",
+  "path": "/packages/@ryan_nookpi/pi-extension-idle-screensaver",
+  "url": "https://pi.dev/packages/@ryan_nookpi/pi-extension-idle-screensaver",
+  "types": "",
+  "type_list": [],
+  "downloads": 87,
+  "date_ms": 1779080965668,
+  "description_en": "Standalone Pi extension package for the idle screensaver overlay.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

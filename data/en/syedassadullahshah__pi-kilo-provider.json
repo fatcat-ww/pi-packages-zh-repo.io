@@ -1,0 +1,13 @@
+{
+  "name": "@syedassadullahshah/pi-kilo-provider",
+  "path": "/packages/@syedassadullahshah/pi-kilo-provider",
+  "url": "https://pi.dev/packages/@syedassadullahshah/pi-kilo-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 35,
+  "date_ms": 1778144660385,
+  "description_en": "Kilo AI Gateway provider extension for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

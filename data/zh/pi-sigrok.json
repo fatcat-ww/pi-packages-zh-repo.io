@@ -1,0 +1,6 @@
+{
+  "name": "pi-sigrok",
+  "description_en": "Logic analyzer control and protocol decoding via sigrok-cli. Supports DreamSourceLab DSLogic and other sigrok-compatible devices.",
+  "description_zh": "通过 sigrok-cli 进行逻辑分析仪控制和协议解码。支持 DreamSourceLab DSLogic 和其他 sigrok 兼容设备。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

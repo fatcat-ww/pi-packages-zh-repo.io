@@ -1,0 +1,6 @@
+{
+  "name": "@agnishc/edb-bridge",
+  "description_en": "Pi extension: lightweight inter-session message bus for orchestrator/sub-agent workflows",
+  "description_zh": "Pi 扩展：用于协调器/子代理工作流的轻量级会话间消息总线",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

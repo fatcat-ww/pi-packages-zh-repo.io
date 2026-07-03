@@ -1,0 +1,11 @@
+{
+  "name": "@spences10/pi-svelte-guardrails",
+  "path": "/packages/@spences10/pi-svelte-guardrails",
+  "url": "https://pi.dev/packages/@spences10/pi-svelte-guardrails",
+  "types": "",
+  "type_list": [],
+  "downloads": 426,
+  "date_ms": 1781704242083,
+  "description_en": "Svelte 5 guardrails for Pi that block discouraged agent-written patterns before they land in code",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

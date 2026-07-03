@@ -1,0 +1,13 @@
+{
+  "name": "@lukebarton/pi-de-claude",
+  "path": "/packages/@lukebarton/pi-de-claude",
+  "url": "https://pi.dev/packages/@lukebarton/pi-de-claude",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 47,
+  "date_ms": 1772023789729,
+  "description_en": "IDE integration for pi with any IDE running a Claude Code plugin-including VS Code, Neovim, IntelliJ IDEA, and other JetBrains IDEs. It lets the LLM interact with your IDE for operations like diff view/approval and lets you reference code from your IDE in",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

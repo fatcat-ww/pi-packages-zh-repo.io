@@ -1,0 +1,6 @@
+{
+  "name": "token-rate-pi",
+  "description_en": "Token rate status extension for pi-coding-agent - shows average output tokens per second",
+  "description_zh": "用于 pi-coding-agent 的 token 状态扩展 - 显示平均输出 token 每秒。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@robzolkos/pi-nocchio",
+  "path": "/packages/@robzolkos/pi-nocchio",
+  "url": "https://pi.dev/packages/@robzolkos/pi-nocchio",
+  "types": "",
+  "type_list": [],
+  "downloads": 57,
+  "date_ms": 1778171093868,
+  "description_en": "A tiny Pi extension that adds --dump-system-prompt.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

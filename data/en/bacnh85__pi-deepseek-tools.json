@@ -1,0 +1,13 @@
+{
+  "name": "@bacnh85/pi-deepseek-tools",
+  "path": "/packages/@bacnh85/pi-deepseek-tools",
+  "url": "https://pi.dev/packages/@bacnh85/pi-deepseek-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782990840757,
+  "description_en": "Pi extension that improves OpenCode Go DeepSeek V4 Flash tool selection.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

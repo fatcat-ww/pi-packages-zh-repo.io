@@ -1,0 +1,13 @@
+{
+  "name": "pi-diff-review",
+  "path": "/packages/pi-diff-review",
+  "url": "https://pi.dev/packages/pi-diff-review",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2433,
+  "date_ms": 1781630769444,
+  "description_en": "Local diff review TUI extension for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

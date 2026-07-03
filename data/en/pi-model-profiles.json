@@ -1,0 +1,13 @@
+{
+  "name": "pi-model-profiles",
+  "path": "/packages/pi-model-profiles",
+  "url": "https://pi.dev/packages/pi-model-profiles",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 451,
+  "date_ms": 1783049587535,
+  "description_en": "Pi extension for saving, importing, and applying agent model frontmatter profiles.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

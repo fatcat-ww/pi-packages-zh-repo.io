@@ -1,0 +1,11 @@
+{
+  "name": "pi-roam",
+  "path": "/packages/pi-roam",
+  "url": "https://pi.dev/packages/pi-roam",
+  "types": "",
+  "type_list": [],
+  "downloads": 44,
+  "date_ms": 1778173588703,
+  "description_en": "Post-hoc handoff of a live Pi session into tmux for remote continuation, with optional Tailscale account switching",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

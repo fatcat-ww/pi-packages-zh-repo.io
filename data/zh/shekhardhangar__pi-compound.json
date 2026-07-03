@@ -1,0 +1,6 @@
+{
+  "name": "@shekhardhangar/pi-compound",
+  "description_en": "A verifier-centered, prompt-driven engineering workflow for pi: set an executable target, then an unattended verify-fix loop runs against it — on a branch, fenced by a guardrail hook, with a deterministic verifier that can't be faked or weakened.",
+  "description_zh": "以验证器为中心、提示驱动的 pi 工程工作流：设置可执行目标，然后无人值守的验证-修复循环在分支上运行，由防护栏钩子围栏，具有无法伪造或削弱的确定性验证器。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-mill",
+  "path": "/packages/pi-mill",
+  "url": "https://pi.dev/packages/pi-mill",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 32,
+  "date_ms": 1771966800916,
+  "description_en": "Pi extension package that routes subagent execution through mill",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

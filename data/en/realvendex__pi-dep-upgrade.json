@@ -1,0 +1,13 @@
+{
+  "name": "@realvendex/pi-dep-upgrade",
+  "path": "/packages/@realvendex/pi-dep-upgrade",
+  "url": "https://pi.dev/packages/@realvendex/pi-dep-upgrade",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782484024585,
+  "description_en": "Safe dependency upgrade automation for pi.dev extensions — dry-run, rollback, and changelog integration. Natural companion to pi-dep-audit.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-todo-list",
+  "path": "/packages/pi-todo-list",
+  "url": "https://pi.dev/packages/pi-todo-list",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 286,
+  "date_ms": 1781557995464,
+  "description_en": "Live, user-visible task list for pi. LLM tracks multi-step work via todo_update, users see real-time progress in the footer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

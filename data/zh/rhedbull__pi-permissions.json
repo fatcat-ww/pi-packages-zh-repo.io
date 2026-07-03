@@ -1,0 +1,6 @@
+{
+  "name": "@rhedbull/pi-permissions",
+  "description_en": "Claude Code-style permission modes for pi. Controls approval for file writes, edits, and bash commands with four modes: default, acceptEdits, fullAuto, and bypassPermissions.",
+  "description_zh": "面向 pi 的 Claude Code 风格权限模式。控制文件写入、编辑和 bash 命令的批准，具有四种模式：default、acceptEdits、fullAuto 和 bypassPermissions",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

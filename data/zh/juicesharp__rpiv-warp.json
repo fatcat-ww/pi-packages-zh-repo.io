@@ -1,0 +1,6 @@
+{
+  "name": "@juicesharp/rpiv-warp",
+  "description_en": "Pi extension. Native Warp terminal notifications, dispatched via OSC 777 on Pi lifecycle events.",
+  "description_zh": "Pi 扩展。原生的 Warp 终端通知，通过 Pi 生命周期事件上的 OSC 777 分发",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

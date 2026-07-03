@@ -1,0 +1,13 @@
+{
+  "name": "pi-comfyui-paint",
+  "path": "/packages/pi-comfyui-paint",
+  "url": "https://pi.dev/packages/pi-comfyui-paint",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 799,
+  "date_ms": 1782661726421,
+  "description_en": "ComfyUI image/video generation extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

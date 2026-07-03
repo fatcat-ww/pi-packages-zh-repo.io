@@ -1,0 +1,13 @@
+{
+  "name": "@arnavpadwal/pi-skills-onboarding",
+  "path": "/packages/@arnavpadwal/pi-skills-onboarding",
+  "url": "https://pi.dev/packages/@arnavpadwal/pi-skills-onboarding",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 45,
+  "date_ms": 1778595865394,
+  "description_en": "Onboarding skill for pi — analyzes a project and produces a comprehensive context document covering architecture, dependencies, code structure, configuration, and development workflow",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

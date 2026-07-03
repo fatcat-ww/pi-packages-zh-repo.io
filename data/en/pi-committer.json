@@ -1,0 +1,13 @@
+{
+  "name": "pi-committer",
+  "path": "/packages/pi-committer",
+  "url": "https://pi.dev/packages/pi-committer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1606,
+  "date_ms": 1781093042297,
+  "description_en": "Conventional commit automation for the pi coding agent — auto-commits on goal completion with intelligent, subagent-generated messages",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@linimin/pi-letscook",
+  "description_en": "Pi package for long-running completion workflows with canonical .agent state, role-based subagents, continuity, and verification helpers.",
+  "description_zh": "Pi 包，用于长时间运行的完成工作流，具有规范的 .agent 状态、基于角色的子代理、连续性和验证助手",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

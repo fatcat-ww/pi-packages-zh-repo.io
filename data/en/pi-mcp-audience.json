@@ -1,0 +1,13 @@
+{
+  "name": "pi-mcp-audience",
+  "path": "/packages/pi-mcp-audience",
+  "url": "https://pi.dev/packages/pi-mcp-audience",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 176,
+  "date_ms": 1781169736274,
+  "description_en": "Filter MCP content based on audience annotations for the Pi coding agent — hide content not intended for the user",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "toenobu-agent",
+  "path": "/packages/toenobu-agent",
+  "url": "https://pi.dev/packages/toenobu-agent",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 65,
+  "date_ms": 1774787513211,
+  "description_en": "toenobu's pi coding agent skills and extensions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

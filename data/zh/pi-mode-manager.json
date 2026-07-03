@@ -1,0 +1,6 @@
+{
+  "name": "pi-mode-manager",
+  "description_en": "Switch editing mode in pi: auto, manual (confirm changes), or plan (read-only with planning)",
+  "description_zh": "在 pi 中切换编辑模式：自动、手动（确认更改）或计划（只读带规划）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

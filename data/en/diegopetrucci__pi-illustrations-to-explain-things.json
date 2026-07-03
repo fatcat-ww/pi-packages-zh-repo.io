@@ -1,0 +1,13 @@
+{
+  "name": "@diegopetrucci/pi-illustrations-to-explain-things",
+  "path": "/packages/@diegopetrucci/pi-illustrations-to-explain-things",
+  "url": "https://pi.dev/packages/@diegopetrucci/pi-illustrations-to-explain-things",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 200,
+  "date_ms": 1782197135352,
+  "description_en": "A pi skill for generating clean, absurd Xiaohei-style article illustrations, shot lists, and visual metaphors.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

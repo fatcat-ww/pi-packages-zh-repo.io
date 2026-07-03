@@ -1,0 +1,13 @@
+{
+  "name": "omp-openai-provider-tools",
+  "path": "/packages/omp-openai-provider-tools",
+  "url": "https://pi.dev/packages/omp-openai-provider-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 600,
+  "date_ms": 1781571136615,
+  "description_en": "Provider-native OpenAI Responses tools for OMP and Pi-family runtimes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-theme-sync",
+  "description_en": "Sync Pi theme with terminal appearance — works locally and over SSH via OSC 11 terminal queries",
+  "description_zh": "将 Pi 主题与终端外观同步 — 通过 OSC 11 终端查询在本地和 SSH 上工作",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

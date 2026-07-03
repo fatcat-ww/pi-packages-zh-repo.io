@@ -1,0 +1,13 @@
+{
+  "name": "pi-readline-search",
+  "path": "/packages/pi-readline-search",
+  "url": "https://pi.dev/packages/pi-readline-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 38,
+  "date_ms": 1771672439656,
+  "description_en": "Pi extension for GNU Readline-style reverse search on Ctrl+R",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

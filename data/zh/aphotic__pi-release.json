@@ -1,0 +1,6 @@
+{
+  "name": "@aphotic/pi-release",
+  "description_en": "Standalone, project-agnostic release skill for Pi: drives single-package and monorepo releases through one interface with shape auto-detection, a full security audit, manual release-notes review, user-owned credentialed actions, and a governed .pi/release",
+  "description_zh": "Pi 的独立、项目无关的发布技能：通过一个界面驱动单包和 monorepo 发布，具有形状自动检测、完整安全审计、手动发布说明审查、用户拥有的凭据操作和受控的 .pi/release",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

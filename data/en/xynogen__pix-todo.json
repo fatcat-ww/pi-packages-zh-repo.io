@@ -1,0 +1,13 @@
+{
+  "name": "@xynogen/pix-todo",
+  "path": "/packages/@xynogen/pix-todo",
+  "url": "https://pi.dev/packages/@xynogen/pix-todo",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1351,
+  "date_ms": 1783006121753,
+  "description_en": "Pi tool — durable execution checklist (todo)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

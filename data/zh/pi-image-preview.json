@@ -1,0 +1,6 @@
+{
+  "name": "pi-image-preview",
+  "description_en": "Image preview extension for pi coding agent — renders inline image thumbnails above the editor using kitty graphics protocol with tmux support",
+  "description_zh": "pi 编码代理的图像预览扩展 — 使用 kitty 图形协议和 tmux 支持，在编辑器上方渲染内联图像缩略图",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

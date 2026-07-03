@@ -1,0 +1,6 @@
+{
+  "name": "pi-http-sniff",
+  "description_en": "A Pi Coding Agent extension that logs HTTP traffic to and from LLM providers.",
+  "description_zh": "Pi 编码代理扩展，记录与 LLM 提供商之间的 HTTP 流量",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

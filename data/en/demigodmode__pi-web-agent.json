@@ -1,0 +1,13 @@
+{
+  "name": "@demigodmode/pi-web-agent",
+  "path": "/packages/@demigodmode/pi-web-agent",
+  "url": "https://pi.dev/packages/@demigodmode/pi-web-agent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3741,
+  "date_ms": 1782159903865,
+  "description_en": "Pi package for reliable web access with explicit search, fetch, and headless boundaries.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

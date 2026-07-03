@@ -1,0 +1,6 @@
+{
+  "name": "pi-branch-out",
+  "description_en": "Fork the current Pi session into a split terminal pane or new tab with rotating layout policies, and with optional model and message queuing",
+  "description_zh": "将当前 Pi 会话分叉到分割的终端窗格或新标签页，具有旋转布局策略，以及可选的模型和消息队列",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

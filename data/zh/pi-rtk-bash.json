@@ -1,0 +1,6 @@
+{
+  "name": "pi-rtk-bash",
+  "description_en": "RTK-backed rtk_bash tool for Pi one-shot shell commands.",
+  "description_zh": "面向 Pi 一次性 shell 命令的 RTK 支持的 rtk_bash 工具。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

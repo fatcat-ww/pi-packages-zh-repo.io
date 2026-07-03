@@ -1,0 +1,11 @@
+{
+  "name": "@jeffkafka/pi-nobody",
+  "path": "/packages/@jeffkafka/pi-nobody",
+  "url": "https://pi.dev/packages/@jeffkafka/pi-nobody",
+  "types": "",
+  "type_list": [],
+  "downloads": 26,
+  "date_ms": 1777187034662,
+  "description_en": "Starter Pi package for building and publishing your own Pi agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

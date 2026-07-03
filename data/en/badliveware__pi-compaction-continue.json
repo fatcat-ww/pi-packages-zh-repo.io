@@ -1,0 +1,13 @@
+{
+  "name": "@badliveware/pi-compaction-continue",
+  "path": "/packages/@badliveware/pi-compaction-continue",
+  "url": "https://pi.dev/packages/@badliveware/pi-compaction-continue",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 107,
+  "date_ms": 1778079385283,
+  "description_en": "Watchdog nudge extension for Pi after idle compactions or stalled continuation turns.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

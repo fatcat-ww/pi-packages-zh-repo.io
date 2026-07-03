@@ -1,0 +1,13 @@
+{
+  "name": "pi-dax",
+  "path": "/packages/pi-dax",
+  "url": "https://pi.dev/packages/pi-dax",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 425,
+  "date_ms": 1781689499932,
+  "description_en": "Dual Active eXtension — a symbiont for the Pi coding agent that provides peer code review and loop prevention",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@anthnykr/pi-study-commits",
+  "description_en": "Pi extension for selecting recent git commits and injecting their diffs into the conversation.",
+  "description_zh": "pi 扩展，用于选择最近的 git 提交并将它们的差异注入对话中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@narumitw/pi-plan-mode",
+  "path": "/packages/@narumitw/pi-plan-mode",
+  "url": "https://pi.dev/packages/@narumitw/pi-plan-mode",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 4770,
+  "date_ms": 1782712261556,
+  "description_en": "Pi extension that adds a Codex-like read-only /plan collaboration mode.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

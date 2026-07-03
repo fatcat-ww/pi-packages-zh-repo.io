@@ -1,0 +1,13 @@
+{
+  "name": "pi-vision-handoff",
+  "path": "/packages/pi-vision-handoff",
+  "url": "https://pi.dev/packages/pi-vision-handoff",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1624,
+  "date_ms": 1783010830587,
+  "description_en": "Give text-only pi models vision — describe images with a vision model you pick via an interactive picker, then hand off the text description to non-vision models",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-stop",
+  "path": "/packages/pi-stop",
+  "url": "https://pi.dev/packages/pi-stop",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 244,
+  "date_ms": 1780923088914,
+  "description_en": "ALWAYS stops the current pi.dev agent — keyboard shortcut, /stop command, and standalone kill script",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

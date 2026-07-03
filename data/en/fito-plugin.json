@@ -1,0 +1,11 @@
+{
+  "name": "fito-plugin",
+  "path": "/packages/fito-plugin",
+  "url": "https://pi.dev/packages/fito-plugin",
+  "types": "",
+  "type_list": [],
+  "downloads": 179,
+  "date_ms": 1782295357764,
+  "description_en": "Fito Plugin — fetch web content, extract knowledge components (execution facts, domain concepts, usage scenarios) from API/tool documentation, and generate content for social networks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

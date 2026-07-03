@@ -1,0 +1,6 @@
+{
+  "name": "pi-quiver",
+  "description_en": "Personal pack of Pi coding-agent extensions. First-party-quality tools that keep context clean. Ships a context-safe fetch tool and a doc_to_md PDF/DOCX/PPTX-to-Markdown converter.",
+  "description_zh": "Pi 编码代理的个人扩展包。一流质量的工具，保持上下文清洁。附带一个上下文安全的 fetch 工具和 doc_to_md PDF/DOCX/PPTX 到 Markdown 转换器。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

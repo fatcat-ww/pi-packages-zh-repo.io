@@ -1,0 +1,13 @@
+{
+  "name": "pi-deepseek-search",
+  "path": "/packages/pi-deepseek-search",
+  "url": "https://pi.dev/packages/pi-deepseek-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 6641,
+  "date_ms": 1780030775029,
+  "description_en": "Web search for Pi using DeepSeek's server side search. Only works with DeepSeek models.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

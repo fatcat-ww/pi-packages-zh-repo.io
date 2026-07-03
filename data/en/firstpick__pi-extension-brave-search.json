@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-brave-search",
+  "path": "/packages/@firstpick/pi-extension-brave-search",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-brave-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 504,
+  "date_ms": 1780954470574,
+  "description_en": "Brave Search tool for Pi with API key resolution from env and .env files.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

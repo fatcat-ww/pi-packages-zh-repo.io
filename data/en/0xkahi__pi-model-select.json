@@ -1,0 +1,13 @@
+{
+  "name": "@0xkahi/pi-model-select",
+  "path": "/packages/@0xkahi/pi-model-select",
+  "url": "https://pi.dev/packages/@0xkahi/pi-model-select",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 746,
+  "date_ms": 1781391873558,
+  "description_en": "Pi extension that adds /select-model with favourites and provider-filtered model search",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-airgun",
+  "path": "/packages/pi-airgun",
+  "url": "https://pi.dev/packages/pi-airgun",
+  "types": "",
+  "type_list": [],
+  "downloads": 80,
+  "date_ms": 1774224067284,
+  "description_en": "Pi extensions for LLM context compression and Anthropic prompt caching. Zero LLM inference cost.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

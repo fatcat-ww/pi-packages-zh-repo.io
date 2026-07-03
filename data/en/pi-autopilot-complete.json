@@ -1,0 +1,13 @@
+{
+  "name": "pi-autopilot-complete",
+  "path": "/packages/pi-autopilot-complete",
+  "url": "https://pi.dev/packages/pi-autopilot-complete",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 39,
+  "date_ms": 1777507664500,
+  "description_en": "Pi extension that adds a complete tool and autopilot loop so the model keeps working until it explicitly completes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

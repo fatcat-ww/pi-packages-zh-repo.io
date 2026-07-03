@@ -1,0 +1,6 @@
+{
+  "name": "@aprimediet/webtools",
+  "description_en": "Self-hosted web fetch / extract / search / crawl tools for the pi coding agent (Playwright + Readability, no MCP).",
+  "description_zh": "Pi 编码代理的自托管网页获取/提取/搜索/抓取工具（Playwright + Readability，无 MCP）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

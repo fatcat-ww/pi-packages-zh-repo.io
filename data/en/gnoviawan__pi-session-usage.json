@@ -1,0 +1,11 @@
+{
+  "name": "@gnoviawan/pi-session-usage",
+  "path": "/packages/@gnoviawan/pi-session-usage",
+  "url": "https://pi.dev/packages/@gnoviawan/pi-session-usage",
+  "types": "",
+  "type_list": [],
+  "downloads": 86,
+  "date_ms": 1777535248587,
+  "description_en": "Tracks time usage, prompts, turns, and tool calls in a session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

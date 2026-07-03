@@ -1,0 +1,6 @@
+{
+  "name": "pi-llama-server",
+  "description_en": "Pi extension for llama-server router — live model listing, load/unload, per-project config",
+  "description_zh": "适用于 llama-server 路由器的 Pi 扩展 — 实时模型列表、加载/卸载、每项目配置",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

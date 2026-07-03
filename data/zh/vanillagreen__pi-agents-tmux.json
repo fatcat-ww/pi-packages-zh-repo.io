@@ -1,0 +1,6 @@
+{
+  "name": "@vanillagreen/pi-agents-tmux",
+  "description_en": "Pi extension for delegating work to project or user agents, including persistent tmux agent panes.",
+  "description_zh": "Pi 扩展，用于将工作委派给项目或用户智能体，包括持久的 tmux 智能体面板",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

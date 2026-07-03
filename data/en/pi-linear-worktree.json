@@ -1,0 +1,11 @@
+{
+  "name": "pi-linear-worktree",
+  "path": "/packages/pi-linear-worktree",
+  "url": "https://pi.dev/packages/pi-linear-worktree",
+  "types": "",
+  "type_list": [],
+  "downloads": 27,
+  "date_ms": 1772295577169,
+  "description_en": "Pi extension that fetches Linear issues and creates git worktrees to solve them",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

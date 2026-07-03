@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-pong",
+  "path": "/packages/@artale/pi-pong",
+  "url": "https://pi.dev/packages/@artale/pi-pong",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 207,
+  "date_ms": 1776776864989,
+  "description_en": "Terminal Pong + Breakout for pi — vs AI with difficulty scaling, ball trails, and power-ups",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

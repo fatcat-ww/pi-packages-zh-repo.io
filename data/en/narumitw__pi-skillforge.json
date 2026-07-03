@@ -1,0 +1,14 @@
+{
+  "name": "@narumitw/pi-skillforge",
+  "path": "/packages/@narumitw/pi-skillforge",
+  "url": "https://pi.dev/packages/@narumitw/pi-skillforge",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 151,
+  "date_ms": 1778419213468,
+  "description_en": "Pi package for improving agent skills through verified project memory.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

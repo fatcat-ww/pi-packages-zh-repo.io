@@ -1,0 +1,11 @@
+{
+  "name": "@furbyhaxx/pi-teardown-screen",
+  "path": "/packages/@furbyhaxx/pi-teardown-screen",
+  "url": "https://pi.dev/packages/@furbyhaxx/pi-teardown-screen",
+  "types": "",
+  "type_list": [],
+  "downloads": 36,
+  "date_ms": 1778664403977,
+  "description_en": "Slim Pi extension that prints a teardown screen with session stats when the user quits a pi session. Uses the default pi theme; no configuration.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

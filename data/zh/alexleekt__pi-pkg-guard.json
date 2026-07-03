@@ -1,0 +1,6 @@
+{
+  "name": "@alexleekt/pi-pkg-guard",
+  "description_en": "Don't let orphaned packages clutter your agent. Guard against unregistered pi packages.",
+  "description_zh": "不要让孤立的包弄乱您的代理。防范未注册的 pi 包。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

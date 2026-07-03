@@ -1,0 +1,6 @@
+{
+  "name": "pi-agent-selector",
+  "description_en": "Pi extension that lets users activate local agent markdown files as the current session profile.",
+  "description_zh": "允许用户将本地代理 markdown 文件激活为当前会话配置文件的 pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

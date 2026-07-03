@@ -1,0 +1,6 @@
+{
+  "name": "pi-system-prompt",
+  "description_en": "Display the full pi coding agent system prompt with injected tools, guidelines, context files, and skills in a scrollable overlay",
+  "description_zh": "在可滚动覆盖层中显示完整的 pi 编码代理系统提示，包括注入的工具、指南、上下文文件和技能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

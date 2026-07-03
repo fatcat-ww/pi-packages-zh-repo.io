@@ -1,0 +1,13 @@
+{
+  "name": "pi-usage",
+  "path": "/packages/pi-usage",
+  "url": "https://pi.dev/packages/pi-usage",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 136,
+  "date_ms": 1779701087574,
+  "description_en": "/usage command for pi – shows current provider's daily & weekly limits",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

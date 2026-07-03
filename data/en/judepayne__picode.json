@@ -1,0 +1,11 @@
+{
+  "name": "@judepayne/picode",
+  "path": "/packages/@judepayne/picode",
+  "url": "https://pi.dev/packages/@judepayne/picode",
+  "types": "",
+  "type_list": [],
+  "downloads": 38,
+  "date_ms": 1777711063000,
+  "description_en": "A Pi package for disciplined, role-based coding workflows with mode switching, permissions, subagents, and prompt vars.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

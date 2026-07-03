@@ -1,0 +1,11 @@
+{
+  "name": "@guwidoe/pi-wsl-clipboard-image",
+  "path": "/packages/@guwidoe/pi-wsl-clipboard-image",
+  "url": "https://pi.dev/packages/@guwidoe/pi-wsl-clipboard-image",
+  "types": "",
+  "type_list": [],
+  "downloads": 38,
+  "date_ms": 1771955631081,
+  "description_en": "pi extension: paste WSLg clipboard images into the prompt",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

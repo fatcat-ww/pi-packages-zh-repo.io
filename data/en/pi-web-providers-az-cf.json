@@ -1,0 +1,13 @@
+{
+  "name": "pi-web-providers-az-cf",
+  "path": "/packages/pi-web-providers-az-cf",
+  "url": "https://pi.dev/packages/pi-web-providers-az-cf",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 62,
+  "date_ms": 1779848288128,
+  "description_en": "Minimal Pi web providers extension for OpenAI-compatible/Azure Responses API and Cloudflare Browser Rendering markdown.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@gogomi/pi-windows-shell",
+  "path": "/packages/@gogomi/pi-windows-shell",
+  "url": "https://pi.dev/packages/@gogomi/pi-windows-shell",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 146,
+  "date_ms": 1779125377059,
+  "description_en": "Windows PowerShell and process-management tools for Pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-lean-grep",
+  "path": "/packages/pi-lean-grep",
+  "url": "https://pi.dev/packages/pi-lean-grep",
+  "types": "",
+  "type_list": [],
+  "downloads": 55,
+  "date_ms": 1780151042988,
+  "description_en": "A lightweight upgrade for pi’s built-in grep. Fewer noisy results, lower token burn, and a cleaner path from search to read.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "dnopi",
+  "path": "/packages/dnopi",
+  "url": "https://pi.dev/packages/dnopi",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 101,
+  "date_ms": 1772742990563,
+  "description_en": "Skills and extensions for pi-coding-agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

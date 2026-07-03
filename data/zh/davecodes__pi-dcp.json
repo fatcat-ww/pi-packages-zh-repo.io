@@ -1,0 +1,6 @@
+{
+  "name": "@davecodes/pi-dcp",
+  "description_en": "Dynamic Context Pruning for Pi — port of opencode-dcp. Deduplication, error-input purge, and an LLM-callable compress tool to keep long sessions cheap.",
+  "description_zh": "Pi 的动态上下文修剪 — opencode-dcp 的移植版。去重、错误输入清理，以及一个 LLM 可调用的压缩工具，以保持长会话的低成本。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@pi-vault/pi-plan",
+  "path": "/packages/@pi-vault/pi-plan",
+  "url": "https://pi.dev/packages/@pi-vault/pi-plan",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 270,
+  "date_ms": 1782354052530,
+  "description_en": "Pi extension that adds a read-only plan mode for exploring first and producing a decision-complete implementation plan",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@marcfargas/pi-heartbeat",
+  "description_en": "Non-blocking timers and heartbeats for pi agents — stop using sleep",
+  "description_zh": "pi 代理的非阻塞计时器和心跳 — 停止使用 sleep",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

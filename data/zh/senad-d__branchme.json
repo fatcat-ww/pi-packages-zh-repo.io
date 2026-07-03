@@ -1,0 +1,6 @@
+{
+  "name": "@senad-d/branchme",
+  "description_en": "Minimal Pi extension for current-repository git branch, push, and pull request workflows.",
+  "description_zh": "面向当前仓库 git 分支、推送和拉取工作流的极简 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

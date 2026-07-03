@@ -1,0 +1,13 @@
+{
+  "name": "pi-vcc",
+  "path": "/packages/pi-vcc",
+  "url": "https://pi.dev/packages/pi-vcc",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 353,
+  "date_ms": 1781788911699,
+  "description_en": "Algorithmic conversation compactor for pi - transcript-preserving structured summaries, no LLM calls",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@wiechsa/pi-ruby-lsp",
+  "path": "/packages/@wiechsa/pi-ruby-lsp",
+  "url": "https://pi.dev/packages/@wiechsa/pi-ruby-lsp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 88,
+  "date_ms": 1778326454161,
+  "description_en": "Ruby LSP integration for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

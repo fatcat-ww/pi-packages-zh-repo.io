@@ -1,0 +1,11 @@
+{
+  "name": "@foxfirecodes/pi-agents-local-md",
+  "path": "/packages/@foxfirecodes/pi-agents-local-md",
+  "url": "https://pi.dev/packages/@foxfirecodes/pi-agents-local-md",
+  "types": "",
+  "type_list": [],
+  "downloads": 132,
+  "date_ms": 1779915199808,
+  "description_en": "Pi extension that autoloads AGENTS.local.md alongside AGENTS.md context files.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

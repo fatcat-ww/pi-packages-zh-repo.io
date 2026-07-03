@@ -1,0 +1,6 @@
+{
+  "name": "browse97",
+  "description_en": "Chrome browser automation for pi coding agent via CDP. Open tabs, snapshot, click, fill forms, upload files, evaluate JS.",
+  "description_zh": "通过 CDP 为 pi coding agent 提供的 Chrome 浏览器自动化。打开标签页、快照、点击、填写表单、上传文件、评估 JavaScript",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

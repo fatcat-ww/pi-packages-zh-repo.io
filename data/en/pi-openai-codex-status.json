@@ -1,0 +1,13 @@
+{
+  "name": "pi-openai-codex-status",
+  "path": "/packages/pi-openai-codex-status",
+  "url": "https://pi.dev/packages/pi-openai-codex-status",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 53,
+  "date_ms": 1775562490177,
+  "description_en": "Pi extension that shows OpenAI usage for hourly and weekly subscription limits like Codex with a /status command.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

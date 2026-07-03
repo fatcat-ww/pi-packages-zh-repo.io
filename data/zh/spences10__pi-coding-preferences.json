@@ -1,0 +1,6 @@
+{
+  "name": "@spences10/pi-coding-preferences",
+  "description_en": "Configurable Pi guardrails that keep agents aligned with local coding workflow preferences before bad commands run",
+  "description_zh": "可配置的 Pi 防护栏，在运行不良命令之前保持代理与本地编码工作流偏好一致",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

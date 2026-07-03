@@ -1,0 +1,13 @@
+{
+  "name": "pi-workspace-history",
+  "path": "/packages/pi-workspace-history",
+  "url": "https://pi.dev/packages/pi-workspace-history",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 368,
+  "date_ms": 1778437146578,
+  "description_en": "Real workspace undo/redo for Pi. Bring Claude Code style /rewind and OpenCode /undo safety to @mariozechner/pi-coding-agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

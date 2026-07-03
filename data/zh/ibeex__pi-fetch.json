@@ -1,0 +1,6 @@
+{
+  "name": "@ibeex/pi-fetch",
+  "description_en": "pi extension that fetches web content into session context with Jina/raw fallback and cleaned previews",
+  "description_zh": "pi 扩展，使用 Jina/raw 回退和清理后的预览将网页内容获取到会话上下文中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-open-editor",
+  "path": "/packages/@arvoretech/pi-open-editor",
+  "url": "https://pi.dev/packages/@arvoretech/pi-open-editor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 726,
+  "date_ms": 1782216720984,
+  "description_en": "PI extension to open files in the user's $EDITOR (tmux pane, GUI, or new terminal window)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

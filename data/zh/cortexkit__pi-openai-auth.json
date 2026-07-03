@@ -1,0 +1,6 @@
+{
+  "name": "@cortexkit/pi-openai-auth",
+  "description_en": "Pi package for CortexKit OpenAI Codex OAuth support. It overrides Pi's built-in `openai-codex` provider with a CortexKit provider extension backed by Pi's OpenAI Codex Responses transport and OAuth primitives.",
+  "description_zh": "CortexKit OpenAI Codex OAuth 支持的 Pi 包。它覆盖 Pi 的内置 `openai-codex` 提供程序，使用由 Pi 的 OpenAI Codex Responses 传输和 OAuth 原语支持的 CortexKit 提供程序扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

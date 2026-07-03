@@ -1,0 +1,13 @@
+{
+  "name": "pi-recursive",
+  "path": "/packages/pi-recursive",
+  "url": "https://pi.dev/packages/pi-recursive",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 318,
+  "date_ms": 1782149748733,
+  "description_en": "Pure Pi extension that lets Pi recursively call itself via a native rlm_query tool.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

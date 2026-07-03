@@ -1,0 +1,11 @@
+{
+  "name": "clickup-cu",
+  "path": "/packages/clickup-cu",
+  "url": "https://pi.dev/packages/clickup-cu",
+  "types": "",
+  "type_list": [],
+  "downloads": 201,
+  "date_ms": 1778417094666,
+  "description_en": "Fast ClickUp CLI for daily task workflow, with optional Pi prompt shortcut.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-provider-headers",
+  "description_en": "Pi extension package that injects provider-specific default headers based on each provider API type.",
+  "description_zh": "Pi 扩展包，根据每个提供商的 API 类型注入提供商特定的默认标头。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

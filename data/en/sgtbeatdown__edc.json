@@ -1,0 +1,13 @@
+{
+  "name": "@sgtbeatdown/edc",
+  "path": "/packages/@sgtbeatdown/edc",
+  "url": "https://pi.dev/packages/@sgtbeatdown/edc",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 323,
+  "date_ms": 1780828404628,
+  "description_en": "EDC — Every Day Carry skills for AI coding agents. Deep codebase understanding and context-aware code review.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

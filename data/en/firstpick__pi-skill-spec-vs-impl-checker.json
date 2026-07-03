@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-spec-vs-impl-checker",
+  "path": "/packages/@firstpick/pi-skill-spec-vs-impl-checker",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-spec-vs-impl-checker",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 414,
+  "date_ms": 1780954633137,
+  "description_en": "Agents should invoke this skill when a spec, plan, README, issue, or requirement must be verified against implementation. Traces requirements to code, checks interface contracts, and reports gaps or mismatches.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

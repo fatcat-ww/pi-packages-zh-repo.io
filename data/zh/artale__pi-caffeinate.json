@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-caffeinate",
+  "description_en": "Keep your machine awake during long Pi sessions. Prevents sleep/screen lock on macOS, Windows, Linux.",
+  "description_zh": "在长时间 Pi 会话中保持机器唤醒。防止 macOS、Windows、Linux 上的睡眠/屏幕锁定",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

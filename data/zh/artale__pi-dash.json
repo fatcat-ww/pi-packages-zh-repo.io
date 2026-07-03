@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-dash",
+  "description_en": "Live TUI dashboard widget for Pi. Shows tokens, cost, context %, uptime, and tool stats above the editor in real-time.",
+  "description_zh": "Pi 的实时 TUI 仪表板小部件。在编辑器上方实时显示 token、成本、上下文百分比、运行时间和工具统计信息",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

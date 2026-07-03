@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-envman",
+  "description_en": "Environment and secrets manager. Store API tokens, scan env files, detect leaked secrets in code.",
+  "description_zh": "环境和秘密管理器。存储 API tokens，扫描环境文件，检测代码中泄露的秘密",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-context-injector",
+  "description_en": "Pi extension that injects project context into first-turn prompts and compaction continuity messages.",
+  "description_zh": "Pi 扩展，将项目上下文注入首次轮次的提示和压缩连续消息",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

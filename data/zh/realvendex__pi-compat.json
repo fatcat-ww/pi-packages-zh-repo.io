@@ -1,0 +1,6 @@
+{
+  "name": "@realvendex/pi-compat",
+  "description_en": "Pi-native version compatibility checker for pi.dev extensions — detects which pi APIs an extension uses, validates against known version constraints, warns about deprecated/removed APIs, and suggests migration paths.",
+  "description_zh": "pi.dev 扩展的 Pi 原生版本兼容性检查器 — 检测扩展使用的 pi API，根据已知版本约束进行验证，警告已弃用/移除的 API，并建议迁移路径",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@estebanforge/pi-js-review",
+  "path": "/packages/@estebanforge/pi-js-review",
+  "url": "https://pi.dev/packages/@estebanforge/pi-js-review",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 67,
+  "date_ms": 1782832939071,
+  "description_en": "JavaScript code-review tool for Pi. Grades your git diffs against a focused JS flaws rubric (5 sections, 18 entries: equality/coercion, async, mutation/scope, globals/prototypes, security). Each entry has a bad/good pair; the LLM proposes a corrected snip",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

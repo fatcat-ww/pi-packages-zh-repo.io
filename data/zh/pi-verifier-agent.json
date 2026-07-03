@@ -1,0 +1,6 @@
+{
+  "name": "pi-verifier-agent",
+  "description_en": "Pi Verifier Agent — a second read-only Pi agent that verifies builder output and feeds back concrete corrections.",
+  "description_zh": "Pi 验证代理 — 一个只读的第二个 Pi 代理，用于验证构建器输出并提供具体修正反馈。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

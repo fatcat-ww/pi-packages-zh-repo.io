@@ -1,0 +1,6 @@
+{
+  "name": "@rsrini/pi-rtk",
+  "description_en": "RTK token reduction extension for pi-coding-agent - reduces LLM token consumption 60-90% by wrapping commands with external rtk binary and intelligently filtering tool output",
+  "description_zh": "pi-coding-agent 的 RTK 令牌减少扩展 — 通过使用外部 rtk 二进制文件包装命令并智能过滤工具输出，将 LLM 令牌消耗减少 60-90%",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

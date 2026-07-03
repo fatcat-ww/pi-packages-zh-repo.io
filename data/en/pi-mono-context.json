@@ -1,0 +1,13 @@
+{
+  "name": "pi-mono-context",
+  "path": "/packages/pi-mono-context",
+  "url": "https://pi.dev/packages/pi-mono-context",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 51,
+  "date_ms": 1778280201122,
+  "description_en": "Pi extension that prints current context-window usage without adding the report to future LLM context",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

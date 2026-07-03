@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-tech-debt-tracker",
+  "description_en": "Agents should invoke this skill when identifying, categorizing, prioritizing, or planning technical debt work, debt sprints, cleanup backlogs, TODO consolidation, or long-term maintainability risks. Tracks debt with severity/effort.",
+  "description_zh": "代理在识别、分类、优先排序或规划技术债务工作、债务冲刺、清理积压、TODO 合并或长期可维护性风险时应调用此技能。使用严重性/工作量跟踪债务",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

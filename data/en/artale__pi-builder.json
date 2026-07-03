@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-builder",
+  "path": "/packages/@artale/pi-builder",
+  "url": "https://pi.dev/packages/@artale/pi-builder",
+  "types": "",
+  "type_list": [],
+  "downloads": 23,
+  "date_ms": 1773503315992,
+  "description_en": "Extension builder for Pi. Scaffold, build, test, and publish Pi extensions from a single command. The tool that built 82 packages.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

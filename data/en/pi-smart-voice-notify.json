@@ -1,0 +1,13 @@
+{
+  "name": "pi-smart-voice-notify",
+  "path": "/packages/pi-smart-voice-notify",
+  "url": "https://pi.dev/packages/pi-smart-voice-notify",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 688,
+  "date_ms": 1783049896267,
+  "description_en": "Windows-optimized smart voice, sound, and desktop notifications for Pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

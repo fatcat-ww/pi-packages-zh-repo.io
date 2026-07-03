@@ -1,0 +1,6 @@
+{
+  "name": "@mediadatafusion/pi-workflow-suite",
+  "description_en": "Multi-agent workflow suite for Pi with Idle, Standard, Plan, Mission, approval gates, reviewer/validator roles, sub-agents, model routing, web search/fetch, browser checks, diagrams, compaction, presets, settings, themes, widgets, and Repo Lock.",
+  "description_zh": "Pi 的多代理工作流套件，具有空闲、标准、计划、任务模式、审批门、审查者/验证者角色、子代理、模型路由、网络搜索/获取、浏览器检查、图表、压缩、预设、设置、主题、小部件和仓库锁定功能。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

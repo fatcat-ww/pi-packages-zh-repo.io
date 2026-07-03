@@ -1,0 +1,11 @@
+{
+  "name": "pi-constell-plan",
+  "path": "/packages/pi-constell-plan",
+  "url": "https://pi.dev/packages/pi-constell-plan",
+  "types": "",
+  "type_list": [],
+  "downloads": 205,
+  "date_ms": 1776389933521,
+  "description_en": "Claude Code-style plan mode for pi: explicit --plan / /plan entry, askUserQuestion gating, and Constellagent-compatible plan exports.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

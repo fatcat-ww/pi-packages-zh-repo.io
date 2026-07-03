@@ -1,0 +1,13 @@
+{
+  "name": "@k3_2o/pi-composio",
+  "path": "/packages/@k3_2o/pi-composio",
+  "url": "https://pi.dev/packages/@k3_2o/pi-composio",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 99,
+  "date_ms": 1782898802115,
+  "description_en": "Pi extension — Composio integration for 1,000+ app tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

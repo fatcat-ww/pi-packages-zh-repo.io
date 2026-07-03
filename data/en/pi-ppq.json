@@ -1,0 +1,13 @@
+{
+  "name": "pi-ppq",
+  "path": "/packages/pi-ppq",
+  "url": "https://pi.dev/packages/pi-ppq",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 252,
+  "date_ms": 1782318907534,
+  "description_en": "PayPerQ model provider for pi — access 50+ LLMs with per-token billing and smart routing models (auto, autoclaw).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

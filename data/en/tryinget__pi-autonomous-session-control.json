@@ -1,0 +1,13 @@
+{
+  "name": "@tryinget/pi-autonomous-session-control",
+  "path": "/packages/@tryinget/pi-autonomous-session-control",
+  "url": "https://pi.dev/packages/@tryinget/pi-autonomous-session-control",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 78,
+  "date_ms": 1778572803136,
+  "description_en": "pi extension package for autonomy-control workflows in pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

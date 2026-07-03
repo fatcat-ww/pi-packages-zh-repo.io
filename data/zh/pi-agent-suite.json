@@ -1,0 +1,6 @@
+{
+  "name": "pi-agent-suite",
+  "description_en": "Adds a configurable multi-agent layer to pi, with context management, Codex quota status, a custom footer, and more.",
+  "description_zh": "为 pi 添加可配置的多代理层，包含上下文管理、Codex 配额状态、自定义页脚等功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

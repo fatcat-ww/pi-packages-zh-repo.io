@@ -1,0 +1,11 @@
+{
+  "name": "@tmustier/pi-agent-guidance",
+  "path": "/packages/@tmustier/pi-agent-guidance",
+  "url": "https://pi.dev/packages/@tmustier/pi-agent-guidance",
+  "types": "",
+  "type_list": [],
+  "downloads": 77,
+  "date_ms": 1778170620671,
+  "description_en": "Loads provider-specific context files (CLAUDE.md, CODEX.md, GEMINI.md) based on current model.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

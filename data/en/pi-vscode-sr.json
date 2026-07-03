@@ -1,0 +1,13 @@
+{
+  "name": "pi-vscode-sr",
+  "path": "/packages/pi-vscode-sr",
+  "url": "https://pi.dev/packages/pi-vscode-sr",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3066,
+  "date_ms": 1781448456459,
+  "description_en": "Code diff assistant for VS Code.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

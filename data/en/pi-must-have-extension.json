@@ -1,0 +1,13 @@
+{
+  "name": "pi-must-have-extension",
+  "path": "/packages/pi-must-have-extension",
+  "url": "https://pi.dev/packages/pi-must-have-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 496,
+  "date_ms": 1783049574578,
+  "description_en": "RFC 2119 keyword normalizer extension for the Pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

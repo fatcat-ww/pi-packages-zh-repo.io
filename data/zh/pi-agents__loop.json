@@ -1,0 +1,6 @@
+{
+  "name": "@pi-agents/loop",
+  "description_en": "Recurring prompt execution and cron scheduling for pi-agent — /loop, cron_create, cron_delete, cron_list",
+  "description_zh": "针对 pi-agent 的循环提示执行和 cron 调度 — /loop、cron_create、cron_delete、cron_list",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

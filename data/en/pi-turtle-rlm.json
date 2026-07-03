@@ -1,0 +1,13 @@
+{
+  "name": "pi-turtle-rlm",
+  "path": "/packages/pi-turtle-rlm",
+  "url": "https://pi.dev/packages/pi-turtle-rlm",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 47,
+  "date_ms": 1775609228807,
+  "description_en": "pi-turtle-rlm — RLM for Pi: persistent runtime, llmQuery recursion (it's models all the way down)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

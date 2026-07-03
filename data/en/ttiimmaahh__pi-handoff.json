@@ -1,0 +1,13 @@
+{
+  "name": "@ttiimmaahh/pi-handoff",
+  "path": "/packages/@ttiimmaahh/pi-handoff",
+  "url": "https://pi.dev/packages/@ttiimmaahh/pi-handoff",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 100,
+  "date_ms": 1780769919832,
+  "description_en": "Proactive context-handoff for the pi coding agent: at a context-usage threshold, auto-write a structured session handoff doc and offer to reload it in a new session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

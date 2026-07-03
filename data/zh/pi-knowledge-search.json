@@ -1,0 +1,6 @@
+{
+  "name": "pi-knowledge-search",
+  "description_en": "Semantic search over local files for pi. Indexes a directory of text files, watches for changes, and exposes a knowledge_search tool to the LLM.",
+  "description_zh": "对 pi 的本地文件进行语义搜索。索引文本文件目录，监视更改，并向 LLM 暴露 knowledge_search 工具。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

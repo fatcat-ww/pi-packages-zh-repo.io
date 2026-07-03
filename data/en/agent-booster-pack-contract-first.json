@@ -1,0 +1,13 @@
+{
+  "name": "agent-booster-pack-contract-first",
+  "path": "/packages/agent-booster-pack-contract-first",
+  "url": "https://pi.dev/packages/agent-booster-pack-contract-first",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 91,
+  "date_ms": 1778284880049,
+  "description_en": "Interface Design Gate for Pi plus contract-first skill: pause and require human approval of contract/API shape before implementation lands.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

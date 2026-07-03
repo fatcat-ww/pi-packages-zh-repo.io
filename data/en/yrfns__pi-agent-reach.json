@@ -1,0 +1,11 @@
+{
+  "name": "@yrfns/pi-agent-reach",
+  "path": "/packages/@yrfns/pi-agent-reach",
+  "url": "https://pi.dev/packages/@yrfns/pi-agent-reach",
+  "types": "",
+  "type_list": [],
+  "downloads": 241,
+  "date_ms": 1781902477279,
+  "description_en": "Native pi extension wrapping Agent Reach CLI for 14 internet channels — search, read, status for Twitter, Reddit, Bilibili, 小红书, YouTube, GitHub, RSS, V2EX, LinkedIn",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

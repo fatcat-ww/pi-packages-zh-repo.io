@@ -1,0 +1,13 @@
+{
+  "name": "@majorgilles/pi-grill-me",
+  "path": "/packages/@majorgilles/pi-grill-me",
+  "url": "https://pi.dev/packages/@majorgilles/pi-grill-me",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 449,
+  "date_ms": 1780229512175,
+  "description_en": "Socratic planning and shared-understanding sessions for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

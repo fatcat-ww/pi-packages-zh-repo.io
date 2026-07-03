@@ -1,0 +1,6 @@
+{
+  "name": "@peteturnbull/pi-extensions",
+  "description_en": "A pi extension pack with a local task board TUI and a deterministic docs-store with qmd-powered search.",
+  "description_zh": "pi 扩展包，包含本地任务板 TUI 和具有 qmd 驱动搜索的确定性文档存储",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

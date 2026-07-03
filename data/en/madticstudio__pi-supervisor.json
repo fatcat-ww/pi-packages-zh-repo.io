@@ -1,0 +1,13 @@
+{
+  "name": "@madticstudio/pi-supervisor",
+  "path": "/packages/@madticstudio/pi-supervisor",
+  "url": "https://pi.dev/packages/@madticstudio/pi-supervisor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 201,
+  "date_ms": 1782296570500,
+  "description_en": "A goal oriented pi extension that supervises the chat and steers it towards a defined outcome",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

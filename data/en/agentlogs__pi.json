@@ -1,0 +1,13 @@
+{
+  "name": "@agentlogs/pi",
+  "path": "/packages/@agentlogs/pi",
+  "url": "https://pi.dev/packages/@agentlogs/pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 63,
+  "date_ms": 1771973362481,
+  "description_en": "AgentLogs extension for Pi - automatically captures and uploads AI coding session transcripts",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

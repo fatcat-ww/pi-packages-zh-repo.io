@@ -1,0 +1,14 @@
+{
+  "name": "@normful/picadillo",
+  "path": "/packages/@normful/picadillo",
+  "url": "https://pi.dev/packages/@normful/picadillo",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 116,
+  "date_ms": 1771349154660,
+  "description_en": "pi agent skills & extensions: run-in-tmux, parrot, mulch, overstory",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

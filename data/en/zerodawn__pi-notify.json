@@ -1,0 +1,13 @@
+{
+  "name": "@zerodawn/pi-notify",
+  "path": "/packages/@zerodawn/pi-notify",
+  "url": "https://pi.dev/packages/@zerodawn/pi-notify",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 46,
+  "date_ms": 1779658095250,
+  "description_en": "Pi extension that notifies when the agent is ready for input.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@d3ara1n/pi-peek",
+  "path": "/packages/@d3ara1n/pi-peek",
+  "url": "https://pi.dev/packages/@d3ara1n/pi-peek",
+  "types": "",
+  "type_list": [],
+  "downloads": 472,
+  "date_ms": 1782449444093,
+  "description_en": "Cross-instance peek for pi — glimpse what another pi instance is doing, or ask it a question without disturbing its main conversation (read-after-burn ephemeral side-channel)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

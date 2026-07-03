@@ -1,0 +1,11 @@
+{
+  "name": "@leing2021/super-cli",
+  "path": "/packages/@leing2021/super-cli",
+  "url": "https://pi.dev/packages/@leing2021/super-cli",
+  "types": "",
+  "type_list": [],
+  "downloads": 77,
+  "date_ms": 1779165099151,
+  "description_en": "极简 CLI 路由器 — 统一入口，自动路由到 OpenCLI 或 CLI-Anything 后端",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

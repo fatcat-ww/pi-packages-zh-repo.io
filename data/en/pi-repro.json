@@ -1,0 +1,13 @@
+{
+  "name": "pi-repro",
+  "path": "/packages/pi-repro",
+  "url": "https://pi.dev/packages/pi-repro",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782518592178,
+  "description_en": "Reproduce the quantitative results of an academic paper — ingest, gap-analyze the code, plan, reproduce each claim, and report what does and doesn't replicate. A pi extension.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

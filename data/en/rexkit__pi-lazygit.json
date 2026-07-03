@@ -1,0 +1,13 @@
+{
+  "name": "@rexkit/pi-lazygit",
+  "path": "/packages/@rexkit/pi-lazygit",
+  "url": "https://pi.dev/packages/@rexkit/pi-lazygit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 35,
+  "date_ms": 1777078819183,
+  "description_en": "Pi package that opens Lazygit in a floating overlay window.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

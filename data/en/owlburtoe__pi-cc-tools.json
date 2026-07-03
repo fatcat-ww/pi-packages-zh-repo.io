@@ -1,0 +1,13 @@
+{
+  "name": "@owlburtoe/pi-cc-tools",
+  "path": "/packages/@owlburtoe/pi-cc-tools",
+  "url": "https://pi.dev/packages/@owlburtoe/pi-cc-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 806,
+  "date_ms": 1781290751694,
+  "description_en": "Claude Code-style tool rows for pi with Ctrl+O image previews and consistent built-in, MCP, and custom tool rendering",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

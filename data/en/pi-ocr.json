@@ -1,0 +1,13 @@
+{
+  "name": "pi-ocr",
+  "path": "/packages/pi-ocr",
+  "url": "https://pi.dev/packages/pi-ocr",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 68,
+  "date_ms": 1781353280447,
+  "description_en": "Pi extension: Zero-setup multi-backend OCR — MinerU (free cloud), Ollama (local GPU, LaTeX formulas), Pix2Text (local Python). Extract text, formulas, and tables from images and PDFs. Default: zero config, works out of the box.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

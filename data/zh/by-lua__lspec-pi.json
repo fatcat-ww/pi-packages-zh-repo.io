@@ -1,0 +1,6 @@
+{
+  "name": "@by-lua/lspec-pi",
+  "description_en": "L-Spec PI — Spec-Driven Development pipeline para PI.dev. Pipeline SEQUENCIAL: Discovery → Research → [Discuss?] → Specify → [Clarify?] → [Design?] → Tasks → Execute. Com Compliance Gate bloqueante e autosave obrigatório.",
+  "description_zh": "L-Spec PI — 适用于 PI.dev 的规范驱动开发流水线。流水线 SEQUENCIAL：发现 → 研究 → [讨论？] → 规范 → [澄清？] → [设计？] → 任务 → 执行。包含阻塞的合规门和自动保存。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

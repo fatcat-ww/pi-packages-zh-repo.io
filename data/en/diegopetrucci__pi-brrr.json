@@ -1,0 +1,11 @@
+{
+  "name": "@diegopetrucci/pi-brrr",
+  "path": "/packages/@diegopetrucci/pi-brrr",
+  "url": "https://pi.dev/packages/@diegopetrucci/pi-brrr",
+  "types": "",
+  "type_list": [],
+  "downloads": 507,
+  "date_ms": 1782197107036,
+  "description_en": "A pi extension that sends brrr push notifications when pi is ready for input.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

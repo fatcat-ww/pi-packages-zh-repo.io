@@ -1,0 +1,13 @@
+{
+  "name": "pi-surf",
+  "path": "/packages/pi-surf",
+  "url": "https://pi.dev/packages/pi-surf",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 67,
+  "date_ms": 1771500763900,
+  "description_en": "Surf the web from pi — clean URL fetching, pluggable search, and scout subagent that keeps noise out of your context",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

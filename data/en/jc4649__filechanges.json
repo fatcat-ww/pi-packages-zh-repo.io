@@ -1,0 +1,13 @@
+{
+  "name": "@jc4649/filechanges",
+  "path": "/packages/@jc4649/filechanges",
+  "url": "https://pi.dev/packages/@jc4649/filechanges",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782491516163,
+  "description_en": "pi coding-agent extension: live diff review of every file edit during a session",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

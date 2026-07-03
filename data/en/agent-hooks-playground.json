@@ -1,0 +1,11 @@
+{
+  "name": "agent-hooks-playground",
+  "path": "/packages/agent-hooks-playground",
+  "url": "https://pi.dev/packages/agent-hooks-playground",
+  "types": "",
+  "type_list": [],
+  "downloads": 55,
+  "date_ms": 1779589580340,
+  "description_en": "Shared logger for AI coding agent lifecycle events",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@codexstar/pi-listen",
+  "path": "/packages/@codexstar/pi-listen",
+  "url": "https://pi.dev/packages/@codexstar/pi-listen",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 633,
+  "date_ms": 1777647642742,
+  "description_en": "Voice in + voice out for Pi CLI — hold-to-talk STT (Deepgram or 19 offline models) plus TTS (Kitten Nano, Piper, Kokoro, or Deepgram Aura)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

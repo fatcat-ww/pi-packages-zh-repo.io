@@ -1,0 +1,14 @@
+{
+  "name": "@fingerskier/pi-terse",
+  "path": "/packages/@fingerskier/pi-terse",
+  "url": "https://pi.dev/packages/@fingerskier/pi-terse",
+  "types": "skill prompt",
+  "type_list": [
+    "skill",
+    "prompt"
+  ],
+  "downloads": 37,
+  "date_ms": 1778184945717,
+  "description_en": "Ultra-compressed terse communication mode for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

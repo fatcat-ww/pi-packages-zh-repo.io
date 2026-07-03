@@ -1,0 +1,11 @@
+{
+  "name": "pi-agent-colony",
+  "path": "/packages/pi-agent-colony",
+  "url": "https://pi.dev/packages/pi-agent-colony",
+  "types": "",
+  "type_list": [],
+  "downloads": 111,
+  "date_ms": 1777552363424,
+  "description_en": "Agent Colony for Pi — bootstrap and package distribution for a multi-agent Pi plugin for complex coding tasks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

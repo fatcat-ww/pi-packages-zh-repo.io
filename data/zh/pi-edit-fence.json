@@ -1,0 +1,6 @@
+{
+  "name": "pi-edit-fence",
+  "description_en": "Stop concurrent pi sessions from clobbering each other's edits. Per-file locks, auto-claim on edit, retry-later, lease expiry, crash recovery. No git worktrees.",
+  "description_zh": "防止并发的 pi 会话互相覆盖对方的编辑。按文件锁定，编辑时自动声明，稍后重试，租约过期，崩溃恢复。无需 git worktrees",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

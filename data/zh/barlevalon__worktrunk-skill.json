@@ -1,0 +1,6 @@
+{
+  "name": "@barlevalon/worktrunk-skill",
+  "description_en": "Use Worktrunk for git worktree workflows, hooks, config, aliases, approvals, LLM commit generation, and troubleshooting.",
+  "description_zh": "使用 Worktrunk 进行 git 工作树工作流、钩子、配置、别名、批准、LLM 提交生成和故障排除。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

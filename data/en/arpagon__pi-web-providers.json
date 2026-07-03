@@ -1,0 +1,13 @@
+{
+  "name": "@arpagon/pi-web-providers",
+  "path": "/packages/@arpagon/pi-web-providers",
+  "url": "https://pi.dev/packages/@arpagon/pi-web-providers",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 76,
+  "date_ms": 1773931504195,
+  "description_en": "Configurable web access extension for pi with per-tool provider routing for search, contents, answers, and research across Claude, Cloudflare, Codex, Custom CLI, Exa, Gemini, Perplexity, Parallel, and Valyu.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

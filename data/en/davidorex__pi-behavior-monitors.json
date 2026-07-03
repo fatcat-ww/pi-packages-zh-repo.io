@@ -1,0 +1,11 @@
+{
+  "name": "@davidorex/pi-behavior-monitors",
+  "path": "/packages/@davidorex/pi-behavior-monitors",
+  "url": "https://pi.dev/packages/@davidorex/pi-behavior-monitors",
+  "types": "",
+  "type_list": [],
+  "downloads": 1360,
+  "date_ms": 1781394943197,
+  "description_en": "Behavior monitors for pi that watch agent activity and steer corrections",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

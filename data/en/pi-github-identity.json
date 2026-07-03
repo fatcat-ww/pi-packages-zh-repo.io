@@ -1,0 +1,13 @@
+{
+  "name": "pi-github-identity",
+  "path": "/packages/pi-github-identity",
+  "url": "https://pi.dev/packages/pi-github-identity",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 31,
+  "date_ms": 1778272349023,
+  "description_en": "Run selected GitHub CLI actions from Pi through a separate bot identity.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

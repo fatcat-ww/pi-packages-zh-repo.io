@@ -1,0 +1,13 @@
+{
+  "name": "pi-to-chrome",
+  "path": "/packages/pi-to-chrome",
+  "url": "https://pi.dev/packages/pi-to-chrome",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 418,
+  "date_ms": 1780326506678,
+  "description_en": "Only 1 tool links to Chrome — the tiniest extension you need.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

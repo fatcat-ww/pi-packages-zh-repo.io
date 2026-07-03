@@ -1,0 +1,14 @@
+{
+  "name": "pi-skill-optimizer",
+  "path": "/packages/pi-skill-optimizer",
+  "url": "https://pi.dev/packages/pi-skill-optimizer",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 141,
+  "date_ms": 1782914600153,
+  "description_en": "A Pi extension that cuts input-token cost every request — slims the <available_skills> catalog, the tools array, and noisy tool output — without hiding your skills. Provider-agnostic, config-driven, cross-OS.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

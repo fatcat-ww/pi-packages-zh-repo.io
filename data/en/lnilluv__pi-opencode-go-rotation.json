@@ -1,0 +1,13 @@
+{
+  "name": "@lnilluv/pi-opencode-go-rotation",
+  "path": "/packages/@lnilluv/pi-opencode-go-rotation",
+  "url": "https://pi.dev/packages/@lnilluv/pi-opencode-go-rotation",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 235,
+  "date_ms": 1782647948663,
+  "description_en": "Rotate between multiple OpenCode Go API keys with reactive 429, rate-limit, and watchdog stall detection",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

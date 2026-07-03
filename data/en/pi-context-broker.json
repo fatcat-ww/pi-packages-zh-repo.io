@@ -1,0 +1,13 @@
+{
+  "name": "pi-context-broker",
+  "path": "/packages/pi-context-broker",
+  "url": "https://pi.dev/packages/pi-context-broker",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 0,
+  "date_ms": 1782732106769,
+  "description_en": "Pi/OMP context broker that injects discoverable skills and lightweight bundles via explicit user commands.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

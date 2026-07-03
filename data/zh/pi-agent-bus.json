@@ -1,0 +1,6 @@
+{
+  "name": "pi-agent-bus",
+  "description_en": "Pi Extension bridging pi-agent-bus-node agents with pi.tools and pi-link. Includes the core MessageBus, Agent, and TaskQueue runtime.",
+  "description_zh": "将 pi-agent-bus-node 代理与 pi.tools 和 pi-link 连接的 Pi 扩展。包含核心 MessageBus、Agent 和 TaskQueue 运行时。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

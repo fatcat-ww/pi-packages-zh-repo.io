@@ -1,0 +1,6 @@
+{
+  "name": "@ramarivera/pi-model-guardrails",
+  "description_en": "Deterministic destructive-command guard + inviolable-constraint policy engine and deviation state machine for the Pi coding agent",
+  "description_zh": "Pi coding agent 的确定性破坏命令防护器 + 不可违反约束策略引擎和偏离状态机",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@teelicht/pi-grepai",
+  "path": "/packages/@teelicht/pi-grepai",
+  "url": "https://pi.dev/packages/@teelicht/pi-grepai",
+  "types": "",
+  "type_list": [],
+  "downloads": 84,
+  "date_ms": 1778653960551,
+  "description_en": "Pi extension package that bridges an installed grepai CLI into Pi slash commands and LLM tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

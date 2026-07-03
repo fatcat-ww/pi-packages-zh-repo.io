@@ -1,0 +1,6 @@
+{
+  "name": "@wdalhaj/pi-astro-mcp",
+  "description_en": "Pi extension that connects to the Astro Docs MCP server and exposes a search_astro_docs tool",
+  "description_zh": "连接到 Astro Docs MCP 服务器并暴露 search_astro_docs 工具的 pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@ineersa/my-pi-scheduler",
+  "path": "/packages/@ineersa/my-pi-scheduler",
+  "url": "https://pi.dev/packages/@ineersa/my-pi-scheduler",
+  "types": "",
+  "type_list": [],
+  "downloads": 151,
+  "date_ms": 1779758503866,
+  "description_en": "Scheduler extension for pi: recurring checks, one-time reminders, and the LLM-callable schedule_prompt tool.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

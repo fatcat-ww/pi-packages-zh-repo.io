@@ -1,0 +1,13 @@
+{
+  "name": "@bacnh85/pi-ponytail",
+  "path": "/packages/@bacnh85/pi-ponytail",
+  "url": "https://pi.dev/packages/@bacnh85/pi-ponytail",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 0,
+  "date_ms": 1783066129227,
+  "description_en": "Pi-ponytail — lazy senior dev mode for your Pi agent. Forked from DietrichGebert/ponytail.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

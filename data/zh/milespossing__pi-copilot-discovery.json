@@ -1,0 +1,6 @@
+{
+  "name": "@milespossing/pi-copilot-discovery",
+  "description_en": "Dynamic GitHub Copilot model discovery for pi — replaces pi-ai's static catalog with the live /models list from your Copilot tenant.",
+  "description_zh": "pi 的动态 GitHub Copilot 模型发现 — 用您 Copilot 租户的实时 /models 列表替换 pi-ai 的静态目录",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

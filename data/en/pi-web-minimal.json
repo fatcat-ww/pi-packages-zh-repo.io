@@ -1,0 +1,13 @@
+{
+  "name": "pi-web-minimal",
+  "path": "/packages/pi-web-minimal",
+  "url": "https://pi.dev/packages/pi-web-minimal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 108,
+  "date_ms": 1779716019326,
+  "description_en": "Minimal web, code, and documentation retrieval distillation tools for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

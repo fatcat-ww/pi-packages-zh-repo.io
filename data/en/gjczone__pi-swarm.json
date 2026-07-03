@@ -1,0 +1,13 @@
+{
+  "name": "@gjczone/pi-swarm",
+  "path": "/packages/@gjczone/pi-swarm",
+  "url": "https://pi.dev/packages/@gjczone/pi-swarm",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1994,
+  "date_ms": 1782762541220,
+  "description_en": "Agent Swarm & Team for pi-coding-agent. Single to 128 subagents: parallel swarm or collaborative team with mailbox. Live TUI, rate-limit retries, crash recovery. Ported from kimi-code, inspired by pi-crew.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

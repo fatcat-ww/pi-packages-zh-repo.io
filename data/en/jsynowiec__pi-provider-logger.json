@@ -1,0 +1,13 @@
+{
+  "name": "@jsynowiec/pi-provider-logger",
+  "path": "/packages/@jsynowiec/pi-provider-logger",
+  "url": "https://pi.dev/packages/@jsynowiec/pi-provider-logger",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782826698537,
+  "description_en": "A Pi extension that logs every provider request and response to a file, and shows a short notification in the UI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

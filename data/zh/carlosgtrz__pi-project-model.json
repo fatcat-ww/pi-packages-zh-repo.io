@@ -1,0 +1,6 @@
+{
+  "name": "@carlosgtrz/pi-project-model",
+  "description_en": "Pi extension that pins the current provider, model, and thinking level to project settings and reports local overrides on startup.",
+  "description_zh": "Pi 扩展，将当前提供者、模型和思考级别固定到项目设置，并在启动时报告本地覆盖",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

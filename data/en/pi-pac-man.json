@@ -1,0 +1,13 @@
+{
+  "name": "pi-pac-man",
+  "path": "/packages/pi-pac-man",
+  "url": "https://pi.dev/packages/pi-pac-man",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 160,
+  "date_ms": 1780837824449,
+  "description_en": "Pac-Man extension for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

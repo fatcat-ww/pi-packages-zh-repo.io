@@ -1,0 +1,6 @@
+{
+  "name": "@weshipwork/pi-subagents",
+  "description_en": "Fork of tintinweb pi-subagents with read-only mirror observation support for pi-herd.",
+  "description_zh": "tintinweb pi-subagents 的分支，为 pi-herd 添加只读镜像观察支持。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

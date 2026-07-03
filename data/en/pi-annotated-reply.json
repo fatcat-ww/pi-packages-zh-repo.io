@@ -1,0 +1,11 @@
+{
+  "name": "pi-annotated-reply",
+  "path": "/packages/pi-annotated-reply",
+  "url": "https://pi.dev/packages/pi-annotated-reply",
+  "types": "",
+  "type_list": [],
+  "downloads": 87,
+  "date_ms": 1778320291650,
+  "description_en": "Annotated reply workflow for pi (model responses, file sources, and git diffs)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

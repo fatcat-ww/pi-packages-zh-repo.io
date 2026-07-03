@@ -1,0 +1,13 @@
+{
+  "name": "@codewithkenzo/pi-theme-switcher",
+  "path": "/packages/@codewithkenzo/pi-theme-switcher",
+  "url": "https://pi.dev/packages/@codewithkenzo/pi-theme-switcher",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 219,
+  "date_ms": 1783031380738,
+  "description_en": "Switch and preview Pi themes during live sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

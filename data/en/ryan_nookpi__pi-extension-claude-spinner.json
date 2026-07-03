@@ -1,0 +1,11 @@
+{
+  "name": "@ryan_nookpi/pi-extension-claude-spinner",
+  "path": "/packages/@ryan_nookpi/pi-extension-claude-spinner",
+  "url": "https://pi.dev/packages/@ryan_nookpi/pi-extension-claude-spinner",
+  "types": "",
+  "type_list": [],
+  "downloads": 82,
+  "date_ms": 1779080953822,
+  "description_en": "Standalone Pi extension package for Claude-style spinner frames.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

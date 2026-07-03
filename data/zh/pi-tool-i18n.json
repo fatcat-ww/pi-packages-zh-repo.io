@@ -1,0 +1,6 @@
+{
+  "name": "pi-tool-i18n",
+  "description_en": "Pi extension — auto-translate all tool descriptions to your locale via LLM",
+  "description_zh": "Pi 扩展 - 通过 LLM 将所有工具描述自动翻译到您的区域设置",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

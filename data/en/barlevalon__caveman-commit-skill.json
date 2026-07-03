@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/caveman-commit-skill",
+  "path": "/packages/@barlevalon/caveman-commit-skill",
+  "url": "https://pi.dev/packages/@barlevalon/caveman-commit-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 30,
+  "date_ms": 1780699740230,
+  "description_en": "A release-aware Agent Skill for terse commit messages using scope-first subjects and optional Conventional Commit metadata.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

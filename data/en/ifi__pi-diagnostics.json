@@ -1,0 +1,11 @@
+{
+  "name": "@ifi/pi-diagnostics",
+  "path": "/packages/@ifi/pi-diagnostics",
+  "url": "https://pi.dev/packages/@ifi/pi-diagnostics",
+  "types": "",
+  "type_list": [],
+  "downloads": 64,
+  "date_ms": 1777355412173,
+  "description_en": "Prompt-completion diagnostics extension for pi with timestamps, durations, per-turn timing, and a live widget.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

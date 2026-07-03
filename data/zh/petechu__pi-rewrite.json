@@ -1,0 +1,6 @@
+{
+  "name": "@petechu/pi-rewrite",
+  "description_en": "Rewrite prompt text into a clearer coding-agent prompt before sending",
+  "description_zh": "将提示文本重写为更清晰的编码代理提示后再发送",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

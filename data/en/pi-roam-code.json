@@ -1,0 +1,13 @@
+{
+  "name": "pi-roam-code",
+  "path": "/packages/pi-roam-code",
+  "url": "https://pi.dev/packages/pi-roam-code",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 172,
+  "date_ms": 1781844437618,
+  "description_en": "Roam compile/verify hooks for pi — injects pre-computed plan context before agent turns and auto-fixes post-edit findings",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

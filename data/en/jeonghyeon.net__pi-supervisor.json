@@ -1,0 +1,13 @@
+{
+  "name": "@jeonghyeon.net/pi-supervisor",
+  "path": "/packages/@jeonghyeon.net/pi-supervisor",
+  "url": "https://pi.dev/packages/@jeonghyeon.net/pi-supervisor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 127,
+  "date_ms": 1778074330665,
+  "description_en": "A pi extension that supervises the chat and steers it towards a defined outcome",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@sng2c/giver-skill",
+  "path": "/packages/@sng2c/giver-skill",
+  "url": "https://pi.dev/packages/@sng2c/giver-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 52,
+  "date_ms": 1779803878814,
+  "description_en": "The Giver v3 — Pipeline orchestration skill for Pi coding agent. Planner→Workers chain with results.md, completionGuard chain break, [CHAIN COMPLETED] signal.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

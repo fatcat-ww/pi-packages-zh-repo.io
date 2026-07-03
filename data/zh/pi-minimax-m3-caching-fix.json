@@ -1,0 +1,6 @@
+{
+  "name": "pi-minimax-m3-caching-fix",
+  "description_en": "MiniMax-M3 on the OpenAI-compatible endpoint with passive caching. Wraps the built-in openai-completions streamSimple driver to clean duplicated and inline <think>…</think> thinking in flight, mirroring the upstream skipThinkingBlock compat flag for pi-ai",
+  "description_zh": "在 OpenAI 兼容端点上使用被动缓存的 MiniMax-M3。包装内置的 openai-completions streamSimple 驱动程序，以清理重复和内联的飞行中的思考，镜像上游 skipThinkingBlock 兼容标志，用于 pi-ai",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

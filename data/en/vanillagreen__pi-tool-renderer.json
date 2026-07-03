@@ -1,0 +1,11 @@
+{
+  "name": "@vanillagreen/pi-tool-renderer",
+  "path": "/packages/@vanillagreen/pi-tool-renderer",
+  "url": "https://pi.dev/packages/@vanillagreen/pi-tool-renderer",
+  "types": "",
+  "type_list": [],
+  "downloads": 1141,
+  "date_ms": 1782963792069,
+  "description_en": "Compact Claude/opencode-style renderers for Pi tools with rich diffs, apply_patch, generic/MCP rendering, and optional global chrome.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

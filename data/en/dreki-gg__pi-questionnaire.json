@@ -1,0 +1,11 @@
+{
+  "name": "@dreki-gg/pi-questionnaire",
+  "path": "/packages/@dreki-gg/pi-questionnaire",
+  "url": "https://pi.dev/packages/@dreki-gg/pi-questionnaire",
+  "types": "",
+  "type_list": [],
+  "downloads": 360,
+  "date_ms": 1780120980808,
+  "description_en": "Tool-first questionnaire flow for pi with shared tabbed TUI and custom rendering",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

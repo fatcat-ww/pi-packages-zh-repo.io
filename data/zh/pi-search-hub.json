@@ -1,0 +1,6 @@
+{
+  "name": "pi-search-hub",
+  "description_en": "Unified web search + content extraction extension for pi with 19 backends (DuckDuckGo, Jina AI, Tavily, Brave, Brave LLM, Exa, Exa MCP, OpenAI Codex, Serper, Firecrawl [keyless], fastCRW, Marginalia, LangSearch, Linkup, Perplexity Sonar, SearXNG, WebSearc",
+  "description_zh": "为 pi 提供的统一网络搜索和内容提取扩展，支持 19 个后端（DuckDuckGo、Jina AI、Tavily、Brave、Brave LLM、Exa、Exa MCP、OpenAI Codex、Serper、Firecrawl [无密钥]、fastCRW、Marginalia、LangSearch、Linkup、Perplexity Sonar、SearXNG、WebSearc",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

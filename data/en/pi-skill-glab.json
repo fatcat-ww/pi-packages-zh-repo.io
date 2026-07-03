@@ -1,0 +1,13 @@
+{
+  "name": "pi-skill-glab",
+  "path": "/packages/pi-skill-glab",
+  "url": "https://pi.dev/packages/pi-skill-glab",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 64,
+  "date_ms": 1773825693435,
+  "description_en": "Pi skill for interacting with GitLab via the glab CLI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

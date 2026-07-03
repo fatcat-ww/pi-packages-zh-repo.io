@@ -1,0 +1,6 @@
+{
+  "name": "@yusukeshib/pi-datetime",
+  "description_en": "Stamp the local time into the pi buffer after prompts, tool runs, and responses.",
+  "description_zh": "在提示、工具运行和响应后，将本地时间戳添加到 pi 缓冲区。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

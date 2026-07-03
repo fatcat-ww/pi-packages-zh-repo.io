@@ -1,0 +1,11 @@
+{
+  "name": "@q.roy/pi-remote",
+  "path": "/packages/@q.roy/pi-remote",
+  "url": "https://pi.dev/packages/@q.roy/pi-remote",
+  "types": "",
+  "type_list": [],
+  "downloads": 52,
+  "date_ms": 1772869760396,
+  "description_en": "Remote terminal access for pi via WebSocket and browser",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@sage-protocol/pi-adapter",
+  "path": "/packages/@sage-protocol/pi-adapter",
+  "url": "https://pi.dev/packages/@sage-protocol/pi-adapter",
+  "types": "skill prompt",
+  "type_list": [
+    "skill",
+    "prompt"
+  ],
+  "downloads": 1804,
+  "date_ms": 1780705156508,
+  "description_en": "Sage Protocol MCP integration for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

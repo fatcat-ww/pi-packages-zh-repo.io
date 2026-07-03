@@ -1,0 +1,6 @@
+{
+  "name": "pi-soly",
+  "description_en": "Project management + workflow framework for pi-coding-agent. Plans, state, MANDATORY rules, self-review, multi-question picker, native footer + welcome chrome — one npm install, zero config. The LLM drives execution and delegates to a worker subagent when",
+  "description_zh": "pi-coding-agent 的项目管理和工作流框架。规划、状态、MANDATORY 规则、自检、多问题选择器、原生页脚 + 欢迎 chrome — 一次 npm 安装，零配置。LLM 驱动执行并在需要时委托给工作子代理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

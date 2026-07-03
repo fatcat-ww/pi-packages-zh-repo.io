@@ -1,0 +1,11 @@
+{
+  "name": "devkit-pi",
+  "path": "/packages/devkit-pi",
+  "url": "https://pi.dev/packages/devkit-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 96,
+  "date_ms": 1778514332604,
+  "description_en": "Personal all-in-one pi coding toolkit: subagents, web research, LSP code intelligence, and developer commands",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

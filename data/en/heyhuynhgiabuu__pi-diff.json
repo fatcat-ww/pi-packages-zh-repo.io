@@ -1,0 +1,13 @@
+{
+  "name": "@heyhuynhgiabuu/pi-diff",
+  "path": "/packages/@heyhuynhgiabuu/pi-diff",
+  "url": "https://pi.dev/packages/@heyhuynhgiabuu/pi-diff",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2578,
+  "date_ms": 1782935289405,
+  "description_en": "Shiki-powered terminal diff renderer for pi — syntax-highlighted, word-level diffs in split and unified views.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

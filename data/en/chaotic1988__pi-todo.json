@@ -1,0 +1,11 @@
+{
+  "name": "@chaotic1988/pi-todo",
+  "path": "/packages/@chaotic1988/pi-todo",
+  "url": "https://pi.dev/packages/@chaotic1988/pi-todo",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782981027786,
+  "description_en": "A [pi](https://github.com/mariozechner/pi) extension that gives the LLM persistent, file-based todo tracking. Create, update, list, and delete todos that survive across sessions, terminal windows, and reboots.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

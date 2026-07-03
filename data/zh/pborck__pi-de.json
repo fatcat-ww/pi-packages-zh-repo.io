@@ -1,0 +1,6 @@
+{
+  "name": "@pborck/pi-de",
+  "description_en": "IDE integration for pi coding agent - shows current file/selection from VS Code, JetBrains, etc.",
+  "description_zh": "pi 编码代理的 IDE 集成 — 显示来自 VS Code、JetBrains 等的当前文件/选择",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

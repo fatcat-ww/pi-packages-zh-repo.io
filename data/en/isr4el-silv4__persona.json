@@ -1,0 +1,13 @@
+{
+  "name": "@isr4el-silv4/persona",
+  "path": "/packages/@isr4el-silv4/persona",
+  "url": "https://pi.dev/packages/@isr4el-silv4/persona",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 800,
+  "date_ms": 1783019351619,
+  "description_en": "Manage Personas for Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

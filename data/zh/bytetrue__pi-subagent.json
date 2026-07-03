@@ -1,0 +1,6 @@
+{
+  "name": "@bytetrue/pi-subagent",
+  "description_en": "Pi extension: Claude Code-style subagents. Delegate tasks to isolated, per-agent provider/model-configurable specialists (general-purpose, explore, plan) defined as Markdown files, driven entirely through tools (no TUI required).",
+  "description_zh": "Pi 扩展：Claude Code 风格的子代理。将任务委托给隔离的、每个代理提供者/模型可配置的专家（通用型、探索型、规划型），定义为 Markdown 文件，完全通过工具驱动（无需 TUI）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

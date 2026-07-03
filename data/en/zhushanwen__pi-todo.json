@@ -1,0 +1,13 @@
+{
+  "name": "@zhushanwen/pi-todo",
+  "path": "/packages/@zhushanwen/pi-todo",
+  "url": "https://pi.dev/packages/@zhushanwen/pi-todo",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 991,
+  "date_ms": 1782533924566,
+  "description_en": "AI-driven todo list for Pi — stateful task management with session persistence and /todos command.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

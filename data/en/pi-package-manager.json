@@ -1,0 +1,13 @@
+{
+  "name": "pi-package-manager",
+  "path": "/packages/pi-package-manager",
+  "url": "https://pi.dev/packages/pi-package-manager",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1609,
+  "date_ms": 1781802829841,
+  "description_en": "Installed packages manager — web dashboard for browsing, installing, and removing pi packages from your agent. Adds the /packages slash command.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

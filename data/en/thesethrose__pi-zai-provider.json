@@ -1,0 +1,11 @@
+{
+  "name": "@thesethrose/pi-zai-provider",
+  "path": "/packages/@thesethrose/pi-zai-provider",
+  "url": "https://pi.dev/packages/@thesethrose/pi-zai-provider",
+  "types": "",
+  "type_list": [],
+  "downloads": 79,
+  "date_ms": 1774980130224,
+  "description_en": "Z.AI (GLM models) provider extension for pi coding agent with API key authentication",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

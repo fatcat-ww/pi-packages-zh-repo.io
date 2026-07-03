@@ -1,0 +1,6 @@
+{
+  "name": "pi-bridge",
+  "description_en": "Transparent filesystem bridge that makes pi run natively on a remote machine over SSH",
+  "description_zh": "透明的文件系统桥，使 pi 能够通过 SSH 在远程机器上原生运行",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

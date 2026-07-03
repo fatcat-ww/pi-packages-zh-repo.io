@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-changelog",
+  "description_en": "Auto-generate changelogs from git history.",
+  "description_zh": "从 git 历史自动生成变更日志。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

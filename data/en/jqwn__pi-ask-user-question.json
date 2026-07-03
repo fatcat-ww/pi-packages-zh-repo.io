@@ -1,0 +1,13 @@
+{
+  "name": "@jqwn/pi-ask-user-question",
+  "path": "/packages/@jqwn/pi-ask-user-question",
+  "url": "https://pi.dev/packages/@jqwn/pi-ask-user-question",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 266,
+  "date_ms": 1778182219483,
+  "description_en": "A Pi extension that lets the model ask rich multi-question TUI dialogs with options, descriptions, previews, multi-select, and custom answers.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@p8n.ai/pi-listens",
+  "description_en": "Pi package for speech-first interaction with pluggable STT/TTS providers, defaulting to Sarvam AI.",
+  "description_zh": "Pi 包，用于与可插拔 STT/TTS 提供者的语音优先交互，默认使用 Sarvam AI",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

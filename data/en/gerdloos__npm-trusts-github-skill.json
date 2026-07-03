@@ -1,0 +1,11 @@
+{
+  "name": "@gerdloos/npm-trusts-github-skill",
+  "path": "/packages/@gerdloos/npm-trusts-github-skill",
+  "url": "https://pi.dev/packages/@gerdloos/npm-trusts-github-skill",
+  "types": "",
+  "type_list": [],
+  "downloads": 649,
+  "date_ms": 1780338793094,
+  "description_en": "A skill that teaches an LLM how to set up and/or use npm trusted publishing (OIDC) with GitHub Actions. No long-lived tokens, no 2FA prompts, no manual rotation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

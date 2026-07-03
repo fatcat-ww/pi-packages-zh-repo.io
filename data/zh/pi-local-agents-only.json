@@ -1,0 +1,6 @@
+{
+  "name": "pi-local-agents-only",
+  "description_en": "Pi extension that strips global AGENTS.md and CLAUDE.md from the effective prompt for selected projects.",
+  "description_zh": "Pi 扩展，从选定项目的有效提示中剥离全局 AGENTS.md 和 CLAUDE.md。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

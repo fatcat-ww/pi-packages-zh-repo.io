@@ -1,0 +1,6 @@
+{
+  "name": "context-mode",
+  "description_en": "MCP plugin that saves 98% of your context window. Works with Claude Code, Gemini CLI, VS Code Copilot, OpenCode, and Codex CLI. Sandboxed code execution, FTS5 knowledge base, and intent-driven search.",
+  "description_zh": "MCP 插件，可节省 98% 的上下文窗口空间。与 Claude Code、Gemini CLI、VS Code Copilot、OpenCode 和 Codex CLI 协同工作。沙盒化代码执行、FTS5 知识库和意图驱动的搜索。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

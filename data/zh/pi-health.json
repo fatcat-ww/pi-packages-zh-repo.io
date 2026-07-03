@@ -1,0 +1,6 @@
+{
+  "name": "pi-health",
+  "description_en": "Pi-native health checks and diagnostics toolkit for pi.dev extensions: deterministic readiness/liveness probes, pass/warn/fail check results, package/config/dependency/filesystem checks, optional bounded URL probes, and Markdown/JSON status reports.",
+  "description_zh": "Pi 原生健康检查和诊断工具包，用于 pi.dev 扩展：确定性就绪/存活探针、通过/警告/失败检查结果、包/配置/依赖/文件系统检查、可选的边界 URL 探针，以及 Markdown/JSON 状态报告。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

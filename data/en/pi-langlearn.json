@@ -1,0 +1,13 @@
+{
+  "name": "pi-langlearn",
+  "path": "/packages/pi-langlearn",
+  "url": "https://pi.dev/packages/pi-langlearn",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 46,
+  "date_ms": 1770308835371,
+  "description_en": "Duolingo-esque language learning overlay for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

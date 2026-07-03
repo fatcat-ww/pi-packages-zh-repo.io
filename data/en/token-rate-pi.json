@@ -1,0 +1,13 @@
+{
+  "name": "token-rate-pi",
+  "path": "/packages/token-rate-pi",
+  "url": "https://pi.dev/packages/token-rate-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 63,
+  "date_ms": 1778967024282,
+  "description_en": "Token rate status extension for pi-coding-agent - shows average output tokens per second",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

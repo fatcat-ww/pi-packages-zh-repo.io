@@ -1,0 +1,6 @@
+{
+  "name": "pi-model-sysprompt-appendix",
+  "description_en": "Append model-specific content to Pi system prompt before Project Context",
+  "description_zh": "在项目上下文之前，向 Pi 系统提示添加模型特定内容",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

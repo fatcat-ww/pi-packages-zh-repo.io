@@ -1,0 +1,13 @@
+{
+  "name": "@vtstech/pi-react-fallback",
+  "path": "/packages/@vtstech/pi-react-fallback",
+  "url": "https://pi.dev/packages/@vtstech/pi-react-fallback",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 181,
+  "date_ms": 1778679098199,
+  "description_en": "ReAct fallback extension for Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

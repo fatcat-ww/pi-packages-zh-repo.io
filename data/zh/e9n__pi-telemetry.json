@@ -1,0 +1,6 @@
+{
+  "name": "@e9n/pi-telemetry",
+  "description_en": "Local telemetry extension for pi — captures session events and writes to disk",
+  "description_zh": "pi的本地遥测扩展 — 捕获会话事件并写入磁盘",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

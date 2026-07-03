@@ -1,0 +1,6 @@
+{
+  "name": "@tmustier/pi-clean-slides",
+  "description_en": "PowerPoint CLI skill for Pi — inspect, edit, generate table slides from YAML, render to PNG.",
+  "description_zh": "Pi 的 PowerPoint CLI 技能 — 检查、编辑、从 YAML 生成表格幻灯片，并渲染为 PNG。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

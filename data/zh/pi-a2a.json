@@ -1,0 +1,6 @@
+{
+  "name": "pi-a2a",
+  "description_en": "Agent-to-agent message bus for pi — decentralized LAN P2P, agents discover each other via mDNS and talk point-to-point, no server required",
+  "description_zh": "面向 pi 的代理间消息总线 — 去中心化 LAN P2P，代理通过 mDNS 发现彼此并进行点对点通信，无需服务器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

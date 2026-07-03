@@ -1,0 +1,11 @@
+{
+  "name": "pi-image-gen-google",
+  "path": "/packages/pi-image-gen-google",
+  "url": "https://pi.dev/packages/pi-image-gen-google",
+  "types": "",
+  "type_list": [],
+  "downloads": 56,
+  "date_ms": 1776058677100,
+  "description_en": "Pi image generation tool powered by Google (Nano Banana, Imagen)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

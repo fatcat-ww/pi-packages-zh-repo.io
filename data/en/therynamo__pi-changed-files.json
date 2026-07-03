@@ -1,0 +1,11 @@
+{
+  "name": "@therynamo/pi-changed-files",
+  "path": "/packages/@therynamo/pi-changed-files",
+  "url": "https://pi.dev/packages/@therynamo/pi-changed-files",
+  "types": "",
+  "type_list": [],
+  "downloads": 33,
+  "date_ms": 1779486193575,
+  "description_en": "Pi extension showing git-changed files in a floating overlay with diff counts",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

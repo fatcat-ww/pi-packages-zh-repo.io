@@ -1,0 +1,6 @@
+{
+  "name": "@petechu/pi-ai-commit",
+  "description_en": "Generate Conventional Commit messages from staged changes for pi",
+  "description_zh": "为 pi 从暂存更改生成 Conventional Commit 消息",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

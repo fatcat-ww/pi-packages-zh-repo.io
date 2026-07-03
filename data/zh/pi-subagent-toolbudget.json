@@ -1,0 +1,6 @@
+{
+  "name": "pi-subagent-toolbudget",
+  "description_en": "Companion extension for pi-subagents: caps a spawned sub-agent's tool calls (soft nudge + hard stop) so runaway agents finalize instead of overflowing context. No-op outside sub-agents.",
+  "description_zh": "pi-subagents 的配套扩展：限制生成的子代理的工具调用（软提示 + 硬停止），防止失控代理溢出上下文。在子代理外无操作。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

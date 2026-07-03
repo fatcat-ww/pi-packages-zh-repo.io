@@ -1,0 +1,6 @@
+{
+  "name": "pi-agent-bus-node",
+  "description_en": "Node.js runtime for pi-agent-bus — MessageBus, Agent base class, LLMProvider, TaskQueue",
+  "description_zh": "pi-agent-bus 的 Node.js 运行时 — MessageBus、Agent 基类、LLMProvider、TaskQueue",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

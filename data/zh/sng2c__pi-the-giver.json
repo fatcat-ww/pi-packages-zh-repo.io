@@ -1,0 +1,6 @@
+{
+  "name": "@sng2c/pi-the-giver",
+  "description_en": "The Giver v3 — Pipeline orchestration skill for Pi coding agent. Async chain + append-step orchestration: Planner standalone, dynamic Worker count at runtime, native termination. results.md structural communication. All subagents run fresh.",
+  "description_zh": "The Giver v3 — Pi 编码代理的管道编排技能。异步链 + 追加步骤编排：独立的规划器、运行时动态 Worker 计数、原生终止。results.md 结构化通信。所有子代理全新运行",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

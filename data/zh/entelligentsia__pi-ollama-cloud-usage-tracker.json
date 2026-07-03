@@ -1,0 +1,6 @@
+{
+  "name": "@entelligentsia/pi-ollama-cloud-usage-tracker",
+  "description_en": "Pi extension: live Ollama Cloud usage tracker in the footer with Claude-style quota bars",
+  "description_zh": "Pi 扩展：页脚中的实时 Ollama Cloud 使用跟踪器，带有 Claude 风格的配额栏。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

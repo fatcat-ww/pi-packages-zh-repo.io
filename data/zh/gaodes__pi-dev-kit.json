@@ -1,0 +1,6 @@
+{
+  "name": "@gaodes/pi-dev-kit",
+  "description_en": "Developer toolkit for Pi — modular skills for authoring extensions, skills, prompt templates, themes, packages, and context files. Includes introspection tools for version, docs, changelog, benchmarking, and loaded tools.",
+  "description_zh": "Pi 的开发者工具包 — 用于编写扩展、技能、提示模板、主题、包和上下文文件的模块化技能。包含用于版本、文档、变更日志、基准测试和加载工具的内省工具。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

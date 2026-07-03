@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-package-webui",
+  "path": "/packages/@firstpick/pi-package-webui",
+  "url": "https://pi.dev/packages/@firstpick/pi-package-webui",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 10062,
+  "date_ms": 1783023601356,
+  "description_en": "Pi Web UI companion package with a local browser UI CLI plus /webui-start and /webui-status commands.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

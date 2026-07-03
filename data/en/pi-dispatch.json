@@ -1,0 +1,13 @@
+{
+  "name": "pi-dispatch",
+  "path": "/packages/pi-dispatch",
+  "url": "https://pi.dev/packages/pi-dispatch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 39,
+  "date_ms": 1775511013647,
+  "description_en": "Dispatch requests across multiple ChatGPT Codex OAuth accounts for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

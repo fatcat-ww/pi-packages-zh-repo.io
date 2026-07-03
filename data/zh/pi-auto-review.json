@@ -1,0 +1,6 @@
+{
+  "name": "pi-auto-review",
+  "description_en": "Automated project review for Pi — scans for problems, writes TODO.md, and optionally auto-fixes in bounded fix loops",
+  "description_zh": "Pi 的自动项目审查 — 扫描问题，编写 TODO.md，并在有界修复循环中可选地自动修复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

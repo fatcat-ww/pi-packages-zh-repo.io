@@ -1,0 +1,13 @@
+{
+  "name": "@howaboua/pi-skill-agents-md",
+  "path": "/packages/@howaboua/pi-skill-agents-md",
+  "url": "https://pi.dev/packages/@howaboua/pi-skill-agents-md",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 178,
+  "date_ms": 1780608538708,
+  "description_en": "Pi skill package for agents-md.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

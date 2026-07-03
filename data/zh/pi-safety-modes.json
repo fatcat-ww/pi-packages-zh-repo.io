@@ -1,0 +1,6 @@
+{
+  "name": "pi-safety-modes",
+  "description_en": "Pi package providing safety modes for tool-call guardrails",
+  "description_zh": "为工具调用护栏提供安全模式的 pi 包。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

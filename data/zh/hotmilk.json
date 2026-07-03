@@ -1,0 +1,6 @@
+{
+  "name": "hotmilk",
+  "description_en": "hotmilk — Pi package bundling gentle-pi, context-mode, graphify, subagents, and bundled extension toggles via hotmilk.json",
+  "description_zh": "hotmilk — Pi 包捆绑器，通过 hotmilk.json 捆绑 gentle-pi、context-mode、graphify、subagents 和捆绑的扩展切换",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

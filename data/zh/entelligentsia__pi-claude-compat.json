@@ -1,0 +1,6 @@
+{
+  "name": "@entelligentsia/pi-claude-compat",
+  "description_en": "Claude CLI compatibility layer for pi — loads .claude/commands and .claude/skills as native pi resources",
+  "description_zh": "面向 pi 的 Claude CLI 兼容层 — 将 .claude/commands 和 .claude/skills 作为原生 pi 资源加载",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

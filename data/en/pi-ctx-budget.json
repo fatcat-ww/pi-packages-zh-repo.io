@@ -1,0 +1,13 @@
+{
+  "name": "pi-ctx-budget",
+  "path": "/packages/pi-ctx-budget",
+  "url": "https://pi.dev/packages/pi-ctx-budget",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 30,
+  "date_ms": 1779174461428,
+  "description_en": "Context window budget display for pi — /ctx-budget command + toggleable footer",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

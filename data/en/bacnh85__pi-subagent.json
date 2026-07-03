@@ -1,0 +1,13 @@
+{
+  "name": "@bacnh85/pi-subagent",
+  "path": "/packages/@bacnh85/pi-subagent",
+  "url": "https://pi.dev/packages/@bacnh85/pi-subagent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 502,
+  "date_ms": 1782573330623,
+  "description_en": "Minimal-overhead sub-agent extension for pi. Delegate tasks to specialized agents with isolated context using the pi SDK in-process.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

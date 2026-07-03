@@ -1,0 +1,14 @@
+{
+  "name": "@ogulcancelik/pi-ghostty-theme-sync",
+  "path": "/packages/@ogulcancelik/pi-ghostty-theme-sync",
+  "url": "https://pi.dev/packages/@ogulcancelik/pi-ghostty-theme-sync",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 135,
+  "date_ms": 1778169460135,
+  "description_en": "Sync pi theme with Ghostty terminal colors",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "sterlai",
+  "description_en": "Terminal AI agent for Stellar. Chat-driven payments, path payments, trustlines, and friendbot funding on testnet, with a separate signer daemon that prompts for explicit approval on every signature.",
+  "description_zh": "Stellar 的终端 AI 代理 - 支持聊天驱动的支付、路径支付、信任线和测试网上的 friendbot 资助，带有单独的签名守护进程，每次签名都会提示明确批准",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

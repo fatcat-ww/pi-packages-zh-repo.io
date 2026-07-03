@@ -1,0 +1,13 @@
+{
+  "name": "@cad0p/pi-napkin",
+  "path": "/packages/@cad0p/pi-napkin",
+  "url": "https://pi.dev/packages/@cad0p/pi-napkin",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 456,
+  "date_ms": 1779706862778,
+  "description_en": "📜 Napkin integration for pi — vault context, knowledge tools, and automatic distillation with git-worktree concurrency safety",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

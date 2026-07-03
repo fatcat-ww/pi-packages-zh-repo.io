@@ -1,0 +1,6 @@
+{
+  "name": "@lukebarton/pi-de-claude",
+  "description_en": "IDE integration for pi with any IDE running a Claude Code plugin-including VS Code, Neovim, IntelliJ IDEA, and other JetBrains IDEs. It lets the LLM interact with your IDE for operations like diff view/approval and lets you reference code from your IDE in",
+  "description_zh": "pi 的 IDE 集成，适用于任何运行 Claude Code 插件的 IDE — 包括 VS Code、Neovim、IntelliJ IDEA 和其他 JetBrains IDE。它允许 LLM 与您的 IDE 交互，执行差异视图/批准等操作，并允许您引用 IDE 中的代码",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

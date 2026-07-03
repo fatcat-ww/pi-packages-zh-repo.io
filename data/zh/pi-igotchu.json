@@ -1,0 +1,6 @@
+{
+  "name": "pi-igotchu",
+  "description_en": "Cheap-first drift monitor for pi (command: /yo). Nudges only at 95+ confidence.",
+  "description_zh": "pi 的廉价优先漂移监控器（命令：/yo）。仅在 95+ 置信度时提醒",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

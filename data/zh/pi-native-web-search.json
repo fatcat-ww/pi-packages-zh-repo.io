@@ -1,0 +1,6 @@
+{
+  "name": "pi-native-web-search",
+  "description_en": "Adds a web_search tool powered by Anthropic's native web search — no third-party API key needed. Always runs via claude-haiku-4-5 for fast, cheap retrieval with source URLs.",
+  "description_zh": "添加由 Anthropic 原生网络搜索支持的 web_search 工具 — 无需第三方 API 密钥。始终通过 claude-haiku-4-5 运行，以进行快速、廉价的检索并带有源 URL",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

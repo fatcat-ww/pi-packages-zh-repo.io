@@ -1,0 +1,6 @@
+{
+  "name": "@spences10/pi-redact",
+  "description_en": "Tool-output redaction for Pi that replaces likely secrets before they reach the model context",
+  "description_zh": "Pi 的工具输出审查，在到达模型上下文之前替换可能的敏感信息",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

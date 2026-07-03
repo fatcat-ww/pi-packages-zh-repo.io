@@ -1,0 +1,13 @@
+{
+  "name": "@isr4el-silv4/loop-guard",
+  "path": "/packages/@isr4el-silv4/loop-guard",
+  "url": "https://pi.dev/packages/@isr4el-silv4/loop-guard",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 712,
+  "date_ms": 1781124069835,
+  "description_en": "Pi extension that detects and prevents LLM loops in tool calls and reasoning",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

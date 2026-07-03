@@ -1,0 +1,6 @@
+{
+  "name": "pi-chroma",
+  "description_en": "A Pi extension that indexes your local TypeScript/TSX codebase into Chroma Cloud, enabling semantic and symbol-based code retrieval directly within Pi's agent loop.",
+  "description_zh": "Pi 扩展，将本地 TypeScript/TSX 代码库索引到 Chroma Cloud，在 Pi 的代理循环中直接启用语义和符号代码检索",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

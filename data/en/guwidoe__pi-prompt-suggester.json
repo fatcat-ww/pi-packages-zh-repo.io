@@ -1,0 +1,13 @@
+{
+  "name": "@guwidoe/pi-prompt-suggester",
+  "path": "/packages/@guwidoe/pi-prompt-suggester",
+  "url": "https://pi.dev/packages/@guwidoe/pi-prompt-suggester",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 878,
+  "date_ms": 1780399575438,
+  "description_en": "Intent-aware next-prompt suggestion extension for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

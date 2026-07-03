@@ -1,0 +1,6 @@
+{
+  "name": "pi-fork-from-first",
+  "description_en": "Fork the current Pi session from its first user message and switch into the new fork immediately, with sensible defaults in relation to pi-rewind-hook",
+  "description_zh": "从其第一条用户消息分叉当前 Pi 会话并立即切换到新分叉，与 pi-rewind-hook 相关的合理默认值。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

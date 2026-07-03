@@ -1,0 +1,13 @@
+{
+  "name": "pi-no-soft-cursor",
+  "path": "/packages/pi-no-soft-cursor",
+  "url": "https://pi.dev/packages/pi-no-soft-cursor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 47,
+  "date_ms": 1773592315961,
+  "description_en": "Remove the editor's reverse-video soft cursor · from yapp",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

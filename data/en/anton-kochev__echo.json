@@ -1,0 +1,13 @@
+{
+  "name": "@anton-kochev/echo",
+  "path": "/packages/@anton-kochev/echo",
+  "url": "https://pi.dev/packages/@anton-kochev/echo",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 64,
+  "date_ms": 1780045211085,
+  "description_en": "Echo: a read-only side-channel question asker for pi sessions and project code.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@rolemodel/pi-manage-permissions",
+  "description_en": "Provides a command to manage permissions for @gotgenes/pi-permission-system",
+  "description_zh": "提供一个命令来管理 @gotgenes/pi-permission-system 的权限。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

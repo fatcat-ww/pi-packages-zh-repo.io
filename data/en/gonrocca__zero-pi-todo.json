@@ -1,0 +1,13 @@
+{
+  "name": "@gonrocca/zero-pi-todo",
+  "path": "/packages/@gonrocca/zero-pi-todo",
+  "url": "https://pi.dev/packages/@gonrocca/zero-pi-todo",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 40,
+  "date_ms": 1779552318424,
+  "description_en": "zero-pi-todo — TODOs persistentes para pi, con tool, slash command y overlay aboveEditor.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

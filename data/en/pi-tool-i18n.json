@@ -1,0 +1,13 @@
+{
+  "name": "pi-tool-i18n",
+  "path": "/packages/pi-tool-i18n",
+  "url": "https://pi.dev/packages/pi-tool-i18n",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2440,
+  "date_ms": 1780159111995,
+  "description_en": "Pi extension — auto-translate all tool descriptions to your locale via LLM",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

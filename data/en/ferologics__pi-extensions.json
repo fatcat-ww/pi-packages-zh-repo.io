@@ -1,0 +1,13 @@
+{
+  "name": "@ferologics/pi-extensions",
+  "path": "/packages/@ferologics/pi-extensions",
+  "url": "https://pi.dev/packages/@ferologics/pi-extensions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 520,
+  "date_ms": 1780419464071,
+  "description_en": "Custom Pi extensions bundle (deep-review, pi-ghostty-hunk, pi-ghostty-lazygit, pi-notify, pi-system-theme, plan-mode, pi-verbosity-control)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

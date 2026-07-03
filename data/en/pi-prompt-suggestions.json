@@ -1,0 +1,13 @@
+{
+  "name": "pi-prompt-suggestions",
+  "path": "/packages/pi-prompt-suggestions",
+  "url": "https://pi.dev/packages/pi-prompt-suggestions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 46,
+  "date_ms": 1779578492199,
+  "description_en": "Pi extension that suggests a natural next prompt after an agent response.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

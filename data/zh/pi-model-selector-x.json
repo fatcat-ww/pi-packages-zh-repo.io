@@ -1,0 +1,6 @@
+{
+  "name": "pi-model-selector-x",
+  "description_en": "Enhances pi's /model selector with context window, cost, input modalities, protocol, and reasoning info",
+  "description_zh": "增强 pi 的 /model 选择器，添加上下文窗口、成本、输入模态、协议和推理信息",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@aliou/pi-dev-kit",
+  "path": "/packages/@aliou/pi-dev-kit",
+  "url": "https://pi.dev/packages/@aliou/pi-dev-kit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 593,
+  "date_ms": 1781590281063,
+  "description_en": "![banner](https://assets.aliou.me/github/aliou/pi-dev-kit/banner.png)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

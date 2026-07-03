@@ -1,0 +1,6 @@
+{
+  "name": "pirmission-bash-guard",
+  "description_en": "Pi extension that replaces the bash tool with permission-gated execution and exact-match allowlist persistence.",
+  "description_zh": "Pi 扩展，用权限门控执行和精确匹配允许列表持久性替换 bash 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

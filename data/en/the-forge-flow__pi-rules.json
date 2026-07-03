@@ -1,0 +1,14 @@
+{
+  "name": "@the-forge-flow/pi-rules",
+  "path": "/packages/@the-forge-flow/pi-rules",
+  "url": "https://pi.dev/packages/@the-forge-flow/pi-rules",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 77,
+  "date_ms": 1778580459268,
+  "description_en": "PI extension that auto-loads path-scoped rule files from .pi/rules and .claude/rules",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

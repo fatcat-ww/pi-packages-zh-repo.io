@@ -1,0 +1,11 @@
+{
+  "name": "@georgebashi/pi-retry",
+  "path": "/packages/@georgebashi/pi-retry",
+  "url": "https://pi.dev/packages/@georgebashi/pi-retry",
+  "types": "",
+  "type_list": [],
+  "downloads": 78,
+  "date_ms": 1771545397589,
+  "description_en": "pi extension: auto-retry transient streaming errors + /retry command",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

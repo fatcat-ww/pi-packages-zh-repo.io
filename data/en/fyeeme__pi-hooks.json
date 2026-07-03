@@ -1,0 +1,11 @@
+{
+  "name": "@fyeeme/pi-hooks",
+  "path": "/packages/@fyeeme/pi-hooks",
+  "url": "https://pi.dev/packages/@fyeeme/pi-hooks",
+  "types": "",
+  "type_list": [],
+  "downloads": 118,
+  "date_ms": 1781545835401,
+  "description_en": "Claude Code-compatible hooks runner for pi. Reads .pi/hooks.json and maps SessionStart, PreToolUse, and Stop events to pi lifecycle events.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

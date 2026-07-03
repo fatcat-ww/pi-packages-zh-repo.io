@@ -1,0 +1,6 @@
+{
+  "name": "@ai-devkit/pi-session-tracker",
+  "description_en": "Pi extension that tracks active sessions by PID in a shared JSON registry (~/.pi/agent/sessions.json)",
+  "description_zh": "Pi 扩展，通过 PID 在共享的 JSON 注册表（~/.pi/agent/sessions.json）中跟踪活动会话。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

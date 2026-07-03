@@ -1,0 +1,13 @@
+{
+  "name": "pi-grok-oauth",
+  "path": "/packages/pi-grok-oauth",
+  "url": "https://pi.dev/packages/pi-grok-oauth",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 26,
+  "date_ms": 1779031051577,
+  "description_en": "Pi extension that adds xAI Grok OAuth provider and xAI utility tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

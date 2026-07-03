@@ -1,0 +1,13 @@
+{
+  "name": "pi-antigravity-quota",
+  "path": "/packages/pi-antigravity-quota",
+  "url": "https://pi.dev/packages/pi-antigravity-quota",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 131,
+  "date_ms": 1770381618967,
+  "description_en": "Pi extension to check Google Cloud Code (Antigravity) model quotas.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

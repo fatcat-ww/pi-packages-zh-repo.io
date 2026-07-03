@@ -1,0 +1,14 @@
+{
+  "name": "pi-docparser",
+  "path": "/packages/pi-docparser",
+  "url": "https://pi.dev/packages/pi-docparser",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 2792,
+  "date_ms": 1779967877903,
+  "description_en": "Pi package that adds document_parse, document_search, document_screenshot, and a companion skill for local document understanding with LiteParse v2.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

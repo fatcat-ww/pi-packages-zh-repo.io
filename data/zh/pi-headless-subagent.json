@@ -1,0 +1,6 @@
+{
+  "name": "pi-headless-subagent",
+  "description_en": "Pi extension for spawning isolated subagents in separate pi --mode rpc subprocesses",
+  "description_zh": "Pi 扩展，用于在单独的 pi --mode rpc 子进程中生成隔离的子代理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

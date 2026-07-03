@@ -1,0 +1,6 @@
+{
+  "name": "pi-clear",
+  "description_en": "Adds /clear and /c commands (plus bare message interception) to wipe the conversation context and start a fresh session with a runtime reload.",
+  "description_zh": "添加 /clear 和 /c 命令（以及裸消息拦截）以清除对话上下文并通过运行时重新加载启动新会话。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

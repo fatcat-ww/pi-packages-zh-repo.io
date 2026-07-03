@@ -1,0 +1,13 @@
+{
+  "name": "pi-fff",
+  "path": "/packages/pi-fff",
+  "url": "https://pi.dev/packages/pi-fff",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 841,
+  "date_ms": 1781529011242,
+  "description_en": "FFF-powered fuzzy file resolution, autocomplete, and content search extension for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

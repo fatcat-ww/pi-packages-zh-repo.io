@@ -1,0 +1,11 @@
+{
+  "name": "pi-dashscope",
+  "path": "/packages/pi-dashscope",
+  "url": "https://pi.dev/packages/pi-dashscope",
+  "types": "",
+  "type_list": [],
+  "downloads": 121,
+  "date_ms": 1772073850268,
+  "description_en": "Alibaba DashScope (ModelStudio) provider for oh my pi — Qwen3, GLM-5, MiniMax M2.5, Kimi K2.5 via OpenAI-compatible coding API",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

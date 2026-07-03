@@ -1,0 +1,13 @@
+{
+  "name": "pi-usage-bars",
+  "path": "/packages/pi-usage-bars",
+  "url": "https://pi.dev/packages/pi-usage-bars",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 119,
+  "date_ms": 1776418181408,
+  "description_en": "Production-ready /usage bars extension for pi (Codex, Claude, Z.AI, Gemini CLI, Antigravity)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-title-renamer",
+  "path": "/packages/pi-title-renamer",
+  "url": "https://pi.dev/packages/pi-title-renamer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 750,
+  "date_ms": 1781076982632,
+  "description_en": "Automatically rename Pi terminal tabs after the first assistant reply.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

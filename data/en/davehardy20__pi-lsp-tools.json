@@ -1,0 +1,13 @@
+{
+  "name": "@davehardy20/pi-lsp-tools",
+  "path": "/packages/@davehardy20/pi-lsp-tools",
+  "url": "https://pi.dev/packages/@davehardy20/pi-lsp-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 81,
+  "date_ms": 1779019916228,
+  "description_en": "Pi package for LSP-powered code navigation: goto definition, find references, diagnostics, symbols, and rename.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

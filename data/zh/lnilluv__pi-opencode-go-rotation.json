@@ -1,0 +1,6 @@
+{
+  "name": "@lnilluv/pi-opencode-go-rotation",
+  "description_en": "Rotate between multiple OpenCode Go API keys with reactive 429, rate-limit, and watchdog stall detection",
+  "description_zh": "在多个 OpenCode Go API 密钥间轮换，具有响应式 429、速率限制和看门狗停滞检测",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

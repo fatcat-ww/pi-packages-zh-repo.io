@@ -1,0 +1,11 @@
+{
+  "name": "@vanillagreen/pi-codex-minimal-tools",
+  "path": "/packages/@vanillagreen/pi-codex-minimal-tools",
+  "url": "https://pi.dev/packages/@vanillagreen/pi-codex-minimal-tools",
+  "types": "",
+  "type_list": [],
+  "downloads": 874,
+  "date_ms": 1782963783709,
+  "description_en": "Minimal Codex/OpenAI native tools for Pi: Codex image_generation, view_image, apply_patch",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

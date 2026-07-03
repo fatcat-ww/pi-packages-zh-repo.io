@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-shoo-auth",
+  "path": "/packages/@firstpick/pi-skill-shoo-auth",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-shoo-auth",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 444,
+  "date_ms": 1780954630029,
+  "description_en": "Use when evaluating, implementing, reviewing, or debugging Shoo auth (shoo.dev) Google sign-in in browser apps, including @shoojs/react, @shoojs/auth, hosted shoo.js, Convex custom JWT integration, PKCE callbacks, session checks, and server-side id_token",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

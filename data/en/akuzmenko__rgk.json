@@ -1,0 +1,11 @@
+{
+  "name": "@akuzmenko/rgk",
+  "path": "/packages/@akuzmenko/rgk",
+  "url": "https://pi.dev/packages/@akuzmenko/rgk",
+  "types": "",
+  "type_list": [],
+  "downloads": 177,
+  "date_ms": 1778516623661,
+  "description_en": "ripgrep with an LLM-powered --keep post-filter",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

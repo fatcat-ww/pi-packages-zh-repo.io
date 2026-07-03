@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-repo-explorer",
+  "description_en": "Agents should invoke this skill before modifying unfamiliar codebases, answering where/how something is implemented, tracing dependencies, mapping repo structure, or planning changes. Explores a repository and returns a strict JSON handoff with key files,",
+  "description_zh": "智能体在修改不熟悉的代码库前应调用此技能，用于回答某物实现的位置/方式，追踪依赖关系，映射仓库结构或规划更改。探索仓库并返回包含关键文件的严格 JSON 交接",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

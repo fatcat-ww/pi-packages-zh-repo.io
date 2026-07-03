@@ -1,0 +1,13 @@
+{
+  "name": "pi-solo-term-tools",
+  "path": "/packages/pi-solo-term-tools",
+  "url": "https://pi.dev/packages/pi-solo-term-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 201,
+  "date_ms": 1781043647313,
+  "description_en": "Optional Pi extension that exposes SoloTerm MCP features as native Pi tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

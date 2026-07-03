@@ -1,0 +1,6 @@
+{
+  "name": "@trq/pi-colgrep",
+  "description_en": "pi extension that adds a colgrep tool and prioritizes semantic/hybrid ColGrep search",
+  "description_zh": "添加 colgrep 工具并优先考虑语义/混合 ColGrep 搜索的 pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

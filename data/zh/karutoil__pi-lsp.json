@@ -1,0 +1,6 @@
+{
+  "name": "@karutoil/pi-lsp",
+  "description_en": "Instant tree-sitter syntax diagnostics for Pi coding agent — 80+ languages, sub-ms parses, auto-checks after every edit",
+  "description_zh": "Pi 编码代理的即时 tree-sitter 语法诊断 — 支持 80+ 种语言，亚毫秒级解析，每次编辑后自动检查",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

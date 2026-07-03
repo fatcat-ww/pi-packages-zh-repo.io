@@ -1,0 +1,6 @@
+{
+  "name": "@eliemessiecode/pi-mcp",
+  "description_en": "Connect MCP (Model Context Protocol) HTTP servers to Pi agent. Auto-discover and use MCP tools.",
+  "description_zh": "将 MCP (Model Context Protocol) HTTP 服务器连接到 Pi 代理。自动发现并使用 MCP 工具。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

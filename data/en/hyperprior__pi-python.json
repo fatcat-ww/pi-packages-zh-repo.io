@@ -1,0 +1,13 @@
+{
+  "name": "@hyperprior/pi-python",
+  "path": "/packages/@hyperprior/pi-python",
+  "url": "https://pi.dev/packages/@hyperprior/pi-python",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 31,
+  "date_ms": 1771219070191,
+  "description_en": "Run Python commands from within pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-acp-agents",
+  "description_en": "Pi extension: ACP agent client — spawn and control ACP-compatible agents (Gemini CLI, etc.) from within pi",
+  "description_zh": "Pi 扩展：ACP 代理客户端 — 在 pi 内部生成和控制 ACP 兼容的代理（如 Gemini CLI 等）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

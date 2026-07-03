@@ -1,0 +1,13 @@
+{
+  "name": "pi-cubing",
+  "path": "/packages/pi-cubing",
+  "url": "https://pi.dev/packages/pi-cubing",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 55,
+  "date_ms": 1779308525288,
+  "description_en": "A cstimer-style Rubik's Cube timer overlay for Pi, with scrambles, averages, ratings, and local solve persistence.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

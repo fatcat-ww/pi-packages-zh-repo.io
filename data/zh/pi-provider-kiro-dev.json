@@ -1,0 +1,6 @@
+{
+  "name": "pi-provider-kiro-dev",
+  "description_en": "pi extension for the Kiro API (AWS CodeWhisperer/Q) — 12 kiro-cli-verified models with OAuth authentication",
+  "description_zh": "Kiro API (AWS CodeWhisperer/Q) 的 Pi 扩展 — 带有 OAuth 认证的 12 个 kiro-cli 验证模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

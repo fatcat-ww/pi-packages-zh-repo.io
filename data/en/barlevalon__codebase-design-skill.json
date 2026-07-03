@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/codebase-design-skill",
+  "path": "/packages/@barlevalon/codebase-design-skill",
+  "url": "https://pi.dev/packages/@barlevalon/codebase-design-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 0,
+  "date_ms": 1782995510021,
+  "description_en": "Shared vocabulary and discipline for designing deep modules: small interfaces, clean seams, high leverage, and testability.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

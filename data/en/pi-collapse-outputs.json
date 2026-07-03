@@ -1,0 +1,13 @@
+{
+  "name": "pi-collapse-outputs",
+  "path": "/packages/pi-collapse-outputs",
+  "url": "https://pi.dev/packages/pi-collapse-outputs",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 281,
+  "date_ms": 1781102065546,
+  "description_en": "Collapse built-in tool output by default for Pi — shows a one-line summary, Ctrl+O to expand.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

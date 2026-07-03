@@ -1,0 +1,6 @@
+{
+  "name": "@diegopetrucci/pi-librarian",
+  "description_en": "A pi GitHub research scout with a toggleable local repo checkout cache under the user's OS cache directory.",
+  "description_zh": "具有可切换本地仓库检出缓存的 pi GitHub 研究侦察员，缓存位于用户的 OS 缓存目录下",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

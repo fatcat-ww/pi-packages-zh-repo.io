@@ -1,0 +1,11 @@
+{
+  "name": "pi-subagent-toolbudget",
+  "path": "/packages/pi-subagent-toolbudget",
+  "url": "https://pi.dev/packages/pi-subagent-toolbudget",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782894574702,
+  "description_en": "Companion extension for pi-subagents: caps a spawned sub-agent's tool calls (soft nudge + hard stop) so runaway agents finalize instead of overflowing context. No-op outside sub-agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

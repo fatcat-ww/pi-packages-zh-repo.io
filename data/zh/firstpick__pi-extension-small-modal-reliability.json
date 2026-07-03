@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-extension-small-modal-reliability",
+  "description_en": "Task-state, loop-detection, scratchpad, and verification harness for improving small-LLM reliability in Pi.",
+  "description_zh": "任务状态、循环检测、草稿板和验证工具，用于提高 Pi 中小型 LLM 的可靠性",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

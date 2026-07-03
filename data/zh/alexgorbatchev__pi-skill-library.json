@@ -1,0 +1,6 @@
+{
+  "name": "@alexgorbatchev/pi-skill-library",
+  "description_en": "Pi extension that exposes skills-library roots through /library:<skill-name> commands.",
+  "description_zh": "Pi 扩展，通过 /library:<技能名称> 命令暴露技能库根目录",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

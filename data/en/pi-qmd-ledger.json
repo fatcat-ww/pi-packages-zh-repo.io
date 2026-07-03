@@ -1,0 +1,13 @@
+{
+  "name": "pi-qmd-ledger",
+  "path": "/packages/pi-qmd-ledger",
+  "url": "https://pi.dev/packages/pi-qmd-ledger",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 359,
+  "date_ms": 1780685654256,
+  "description_en": "Universal configurable JSONL ledger with qmd hybrid search, tiered HITL, and dynamic context injection.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

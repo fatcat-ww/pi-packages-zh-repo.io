@@ -1,0 +1,11 @@
+{
+  "name": "ai-call",
+  "path": "/packages/ai-call",
+  "url": "https://pi.dev/packages/ai-call",
+  "types": "",
+  "type_list": [],
+  "downloads": 58,
+  "date_ms": 1776960055171,
+  "description_en": "AI-driven structured interview skill for coding agents. The agent asks questions one by one, follows up naturally, and produces a clean markdown transcript.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

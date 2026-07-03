@@ -1,0 +1,6 @@
+{
+  "name": "pi-file-watcher",
+  "description_en": "Watch folders for #pi! comments in source files and send them as prompts to the LLM — aider-style watch mode for pi",
+  "description_zh": "监视源文件中的 #pi! 注释，并将其作为提示发送给 LLM — pi 的 aider 风格监视模式。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

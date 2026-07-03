@@ -1,0 +1,6 @@
+{
+  "name": "pi-ui-ab-test",
+  "description_en": "Pi extension that lets the model present two visual variants and collect a user preference through an interactive A/B picker",
+  "description_zh": "Pi 扩展，让模型呈现两个视觉变体，并通过交互式 A/B 选择器收集用户偏好",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

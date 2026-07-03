@@ -1,0 +1,6 @@
+{
+  "name": "@amitkot/pi-permission-tune",
+  "description_en": "Pi skill for maintaining @gotgenes/pi-permission-system config. Covers pattern matching, safe vs dangerous commands, and the prompt-to-rule workflow.",
+  "description_zh": "维护 @gotgenes/pi-permission-system 配置的 Pi 技能。涵盖模式匹配、安全与危险命令以及提示到规则的工作流",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

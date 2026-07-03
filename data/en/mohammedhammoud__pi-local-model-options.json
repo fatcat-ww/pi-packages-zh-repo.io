@@ -1,0 +1,13 @@
+{
+  "name": "@mohammedhammoud/pi-local-model-options",
+  "path": "/packages/@mohammedhammoud/pi-local-model-options",
+  "url": "https://pi.dev/packages/@mohammedhammoud/pi-local-model-options",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 92,
+  "date_ms": 1779827363148,
+  "description_en": "Pi extension for per-model local model options.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

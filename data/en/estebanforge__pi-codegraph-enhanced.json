@@ -1,0 +1,13 @@
+{
+  "name": "@estebanforge/pi-codegraph-enhanced",
+  "path": "/packages/@estebanforge/pi-codegraph-enhanced",
+  "url": "https://pi.dev/packages/@estebanforge/pi-codegraph-enhanced",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782493495473,
+  "description_en": "Pi-native CodeGraph tools with startup auto-indexing. Fork of @vndv/pi-codegraph that adds automatic index init/resync on every session start: creates the index when missing, incrementally syncs drift, rebuilds on corruption, and skips cleanly when anothe",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

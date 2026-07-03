@@ -1,0 +1,13 @@
+{
+  "name": "@codella/pi-mcp-support",
+  "path": "/packages/@codella/pi-mcp-support",
+  "url": "https://pi.dev/packages/@codella/pi-mcp-support",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 81,
+  "date_ms": 1779138831617,
+  "description_en": "Generic Model Context Protocol support extension for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

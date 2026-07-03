@@ -1,0 +1,13 @@
+{
+  "name": "pi-permission-suite",
+  "path": "/packages/pi-permission-suite",
+  "url": "https://pi.dev/packages/pi-permission-suite",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782978933972,
+  "description_en": "Four approval modes + command-level security restrictions for the Pi coding agent. Act / Auto / Ask / Plan mode switching, rule engine, subagent auto-approval.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

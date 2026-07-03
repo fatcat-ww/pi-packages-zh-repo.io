@@ -1,0 +1,11 @@
+{
+  "name": "@robhowley/pi-openrouter",
+  "path": "/packages/@robhowley/pi-openrouter",
+  "url": "https://pi.dev/packages/@robhowley/pi-openrouter",
+  "types": "",
+  "type_list": [],
+  "downloads": 1449,
+  "date_ms": 1781663585315,
+  "description_en": "Live OpenRouter spend/account TUI overlays, user-scoped or free-only model sync, api key management, and session tagging for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

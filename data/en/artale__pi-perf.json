@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-perf",
+  "path": "/packages/@artale/pi-perf",
+  "url": "https://pi.dev/packages/@artale/pi-perf",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 30,
+  "date_ms": 1772992885747,
+  "description_en": "Performance profiling. Time commands, benchmark with statistics, Node.js profiling.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

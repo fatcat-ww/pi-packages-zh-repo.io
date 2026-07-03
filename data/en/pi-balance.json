@@ -1,0 +1,13 @@
+{
+  "name": "pi-balance",
+  "path": "/packages/pi-balance",
+  "url": "https://pi.dev/packages/pi-balance",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 204,
+  "date_ms": 1779715526427,
+  "description_en": "Pi extension that displays provider account balance in the status bar.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

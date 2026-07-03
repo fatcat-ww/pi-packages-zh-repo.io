@@ -1,0 +1,14 @@
+{
+  "name": "pi-amplike",
+  "path": "/packages/pi-amplike",
+  "url": "https://pi.dev/packages/pi-amplike",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 294,
+  "date_ms": 1782653679416,
+  "description_en": "Pi skills and extensions that provide Amp Code-like workflows (handoff, permissions, mode selector, web access).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-fetch-tool",
+  "description_en": "Pi extension: register a web_fetch tool that turns any URL into LLM-friendly JSON-LD or Markdown. Tier 0 (JSON-LD), Tier 1 (Readability), Tier 2 (agent-browser / macOS WKWebView).",
+  "description_zh": "Pi 扩展：注册一个 web_fetch 工具，将任何 URL 转换为 LLM 友好的 JSON-LD 或 Markdown。第 0 级（JSON-LD）、第 1 级（可读性）、第 2 级（agent-browser / macOS WKWebView）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

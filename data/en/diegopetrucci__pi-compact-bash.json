@@ -1,0 +1,11 @@
+{
+  "name": "@diegopetrucci/pi-compact-bash",
+  "path": "/packages/@diegopetrucci/pi-compact-bash",
+  "url": "https://pi.dev/packages/@diegopetrucci/pi-compact-bash",
+  "types": "",
+  "type_list": [],
+  "downloads": 29,
+  "date_ms": 1778359634723,
+  "description_en": "A pi extension that renders collapsed bash tool output as a one-line preview.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

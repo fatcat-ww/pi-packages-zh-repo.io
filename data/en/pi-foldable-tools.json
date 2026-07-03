@@ -1,0 +1,11 @@
+{
+  "name": "pi-foldable-tools",
+  "path": "/packages/pi-foldable-tools",
+  "url": "https://pi.dev/packages/pi-foldable-tools",
+  "types": "",
+  "type_list": [],
+  "downloads": 149,
+  "date_ms": 1782355446969,
+  "description_en": "Make pi tool blocks foldable and hideable — collapsed summary, full output, or hidden from the transcript. Adds ctrl+q and /tools controls.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

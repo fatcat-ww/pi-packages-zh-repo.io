@@ -1,0 +1,11 @@
+{
+  "name": "pi-youtube",
+  "path": "/packages/pi-youtube",
+  "url": "https://pi.dev/packages/pi-youtube",
+  "types": "",
+  "type_list": [],
+  "downloads": 323,
+  "date_ms": 1780398126493,
+  "description_en": "Fetch YouTube video transcripts and AI-powered summaries — slash command for pi. Customise the summary prompt.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

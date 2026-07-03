@@ -1,0 +1,11 @@
+{
+  "name": "clean-room-skill",
+  "path": "/packages/clean-room-skill",
+  "url": "https://pi.dev/packages/clean-room-skill",
+  "types": "",
+  "type_list": [],
+  "downloads": 3126,
+  "date_ms": 1782341145976,
+  "description_en": "Spec-first clean-room workflow for authorized source analysis without replacement code.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

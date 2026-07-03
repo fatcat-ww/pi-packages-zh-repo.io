@@ -1,0 +1,6 @@
+{
+  "name": "pi-model-fallback",
+  "description_en": "Pi extension that switches to a fallback model after provider failures such as 429 rate limits.",
+  "description_zh": "Pi 扩展，在提供商失败（如 429 速率限制）后切换到备用模型。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

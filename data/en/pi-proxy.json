@@ -1,0 +1,11 @@
+{
+  "name": "pi-proxy",
+  "path": "/packages/pi-proxy",
+  "url": "https://pi.dev/packages/pi-proxy",
+  "types": "",
+  "type_list": [],
+  "downloads": 75,
+  "date_ms": 1778818181001,
+  "description_en": "Smart proxy routing extension for pi - rule-based direct/proxy/fallback per domain",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

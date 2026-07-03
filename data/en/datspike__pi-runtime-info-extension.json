@@ -1,0 +1,13 @@
+{
+  "name": "@datspike/pi-runtime-info-extension",
+  "path": "/packages/@datspike/pi-runtime-info-extension",
+  "url": "https://pi.dev/packages/@datspike/pi-runtime-info-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 65,
+  "date_ms": 1779278780606,
+  "description_en": "Pi extension exposing verified runtime model, thinking level, and artifact metadata to agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

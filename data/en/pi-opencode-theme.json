@@ -1,0 +1,13 @@
+{
+  "name": "pi-opencode-theme",
+  "path": "/packages/pi-opencode-theme",
+  "url": "https://pi.dev/packages/pi-opencode-theme",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 194,
+  "date_ms": 1778030195037,
+  "description_en": "An opencode-inspired theme for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

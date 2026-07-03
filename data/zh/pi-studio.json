@@ -1,0 +1,6 @@
+{
+  "name": "pi-studio",
+  "description_en": "Two-pane browser workspace for pi with prompt/response editing, annotations, critiques, active quiz, prompt/response history, live previews, and tmux-backed REPL/literate REPL workflows",
+  "description_zh": "Pi 的双窗格浏览器工作空间，具有提示/响应编辑、注释、评论、主动测验、提示/响应历史、实时预览和 tmux 支持的 REPL/literate REPL 工作流",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

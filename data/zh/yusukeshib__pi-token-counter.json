@@ -1,0 +1,6 @@
+{
+  "name": "@yusukeshib/pi-token-counter",
+  "description_en": "Append each tool's own output token cost to its tool-use row, color-coded by size.",
+  "description_zh": "将每个工具自身的输出令牌成本附加到其工具使用行，按大小进行颜色编码",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

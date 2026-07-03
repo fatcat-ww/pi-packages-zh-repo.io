@@ -1,0 +1,6 @@
+{
+  "name": "@0xkobold/pi-kobold",
+  "description_en": "Meta-extension for 0xKobold that bundles pi-orchestration, pi-gateway, pi-ollama, pi-learn, pi-persona, and development tools",
+  "description_zh": "0xKobold 的元扩展，捆绑 pi-orchestration、pi-gateway、pi-ollama、pi-learn、pi-persona 和开发工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@ruminaider/slack-cli",
+  "path": "/packages/@ruminaider/slack-cli",
+  "url": "https://pi.dev/packages/@ruminaider/slack-cli",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782918265214,
+  "description_en": "Slack CLI that authenticates as you using your existing Slack desktop session. Read channels, send messages, search, and manage reactions, files, pins, and canvases from the terminal. No app, no OAuth, no admin approval.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

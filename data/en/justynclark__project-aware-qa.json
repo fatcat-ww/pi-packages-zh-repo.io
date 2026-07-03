@@ -1,0 +1,11 @@
+{
+  "name": "@justynclark/project-aware-qa",
+  "path": "/packages/@justynclark/project-aware-qa",
+  "url": "https://pi.dev/packages/@justynclark/project-aware-qa",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782587145326,
+  "description_en": "Pi-first QA pack: scans real codebases, infers test surfaces, ranks risk, runs evidence-based checks, captures screenshots, and writes .qa/* reports.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

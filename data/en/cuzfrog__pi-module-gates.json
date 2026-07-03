@@ -1,0 +1,11 @@
+{
+  "name": "@cuzfrog/pi-module-gates",
+  "path": "/packages/@cuzfrog/pi-module-gates",
+  "url": "https://pi.dev/packages/@cuzfrog/pi-module-gates",
+  "types": "",
+  "type_list": [],
+  "downloads": 2793,
+  "date_ms": 1783053216897,
+  "description_en": "pi extension that controls the entropy of the codebase by enforcing code module boundaries.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

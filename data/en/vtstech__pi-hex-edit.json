@@ -1,0 +1,13 @@
+{
+  "name": "@vtstech/pi-hex-edit",
+  "path": "/packages/@vtstech/pi-hex-edit",
+  "url": "https://pi.dev/packages/@vtstech/pi-hex-edit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 136,
+  "date_ms": 1779647318612,
+  "description_en": "Hex stream-based edit replacement for reliable file editing",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

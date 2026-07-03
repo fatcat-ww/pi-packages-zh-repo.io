@@ -1,0 +1,13 @@
+{
+  "name": "@tifan/pi-recap",
+  "path": "/packages/@tifan/pi-recap",
+  "url": "https://pi.dev/packages/@tifan/pi-recap",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1273,
+  "date_ms": 1780455452523,
+  "description_en": "One-line session recap on demand or after you have been away.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

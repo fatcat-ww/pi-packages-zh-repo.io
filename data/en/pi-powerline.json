@@ -1,0 +1,13 @@
+{
+  "name": "pi-powerline",
+  "path": "/packages/pi-powerline",
+  "url": "https://pi.dev/packages/pi-powerline",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1376,
+  "date_ms": 1782650250955,
+  "description_en": "Powerline-style UI extensions for pi coding agent (custom editor, breadcrumb, footer, header)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

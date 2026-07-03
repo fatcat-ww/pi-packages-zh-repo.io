@@ -1,0 +1,13 @@
+{
+  "name": "pi-ask-me",
+  "path": "/packages/pi-ask-me",
+  "url": "https://pi.dev/packages/pi-ask-me",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 38,
+  "date_ms": 1772216818175,
+  "description_en": "A unique question/interview tool for pi coding agent with branched chats within the question interface",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

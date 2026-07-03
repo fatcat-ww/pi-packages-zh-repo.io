@@ -1,0 +1,6 @@
+{
+  "name": "@pi-stef/finance",
+  "description_en": "Pi extension client for @pi-stef/finance-api: exposes portfolio state, drift, and deterministic suggestions to the pi agent.",
+  "description_zh": "@pi-stef/finance-api 的 Pi 扩展客户端：向 pi 代理展示投资组合状态、漂移和确定性建议。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

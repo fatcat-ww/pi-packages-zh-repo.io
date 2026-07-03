@@ -1,0 +1,13 @@
+{
+  "name": "@benvargas/pi-openai-verbosity",
+  "path": "/packages/@benvargas/pi-openai-verbosity",
+  "url": "https://pi.dev/packages/@benvargas/pi-openai-verbosity",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 97,
+  "date_ms": 1779738051596,
+  "description_en": "Per-model OpenAI Codex text verbosity overrides for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

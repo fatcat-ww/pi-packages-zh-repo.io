@@ -1,0 +1,13 @@
+{
+  "name": "@tryinget/pi-prompt-template-accelerator",
+  "path": "/packages/@tryinget/pi-prompt-template-accelerator",
+  "url": "https://pi.dev/packages/@tryinget/pi-prompt-template-accelerator",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 71,
+  "date_ms": 1778591188766,
+  "description_en": "pi extension package: pi-prompt-template-accelerator",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "pi-custom-system-prompt",
+  "path": "/packages/pi-custom-system-prompt",
+  "url": "https://pi.dev/packages/pi-custom-system-prompt",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 150,
+  "date_ms": 1782550187262,
+  "description_en": "Pi extension that loads a custom system prompt from `~/.pi/agent/system-prompts/*.md` and injects it on every agent turn, with commands to select, toggle, reload, and switch between replace and append modes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-webdav-sync",
+  "path": "/packages/pi-webdav-sync",
+  "url": "https://pi.dev/packages/pi-webdav-sync",
+  "types": "",
+  "type_list": [],
+  "downloads": 303,
+  "date_ms": 1780542735097,
+  "description_en": "WebDAV backup and restore for Pi personal configuration.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

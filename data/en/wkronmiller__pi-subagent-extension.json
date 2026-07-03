@@ -1,0 +1,13 @@
+{
+  "name": "@wkronmiller/pi-subagent-extension",
+  "path": "/packages/@wkronmiller/pi-subagent-extension",
+  "url": "https://pi.dev/packages/@wkronmiller/pi-subagent-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 50,
+  "date_ms": 1778414439230,
+  "description_en": "Durable async Pi subagent as a standalone Pi package",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

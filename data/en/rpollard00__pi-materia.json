@@ -1,0 +1,13 @@
+{
+  "name": "@rpollard00/pi-materia",
+  "path": "/packages/@rpollard00/pi-materia",
+  "url": "https://pi.dev/packages/@rpollard00/pi-materia",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 702,
+  "date_ms": 1782329660430,
+  "description_en": "A Pi extension for configurable, materia-themed agent pipelines.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

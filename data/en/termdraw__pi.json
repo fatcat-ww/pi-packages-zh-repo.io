@@ -1,0 +1,13 @@
+{
+  "name": "@termdraw/pi",
+  "path": "/packages/@termdraw/pi",
+  "url": "https://pi.dev/packages/@termdraw/pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 386,
+  "date_ms": 1779163562640,
+  "description_en": "Pi extension package that embeds termDRAW inside Pi via opentui-island.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

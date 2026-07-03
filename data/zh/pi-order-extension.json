@@ -1,0 +1,6 @@
+{
+  "name": "pi-order-extension",
+  "description_en": "Pi extension for managing reusable prompt templates with the /order command.",
+  "description_zh": "Pi 扩展，使用 /order 命令管理可重用提示模板",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

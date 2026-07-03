@@ -1,0 +1,11 @@
+{
+  "name": "pi-daily-cost",
+  "path": "/packages/pi-daily-cost",
+  "url": "https://pi.dev/packages/pi-daily-cost",
+  "types": "",
+  "type_list": [],
+  "downloads": 46,
+  "date_ms": 1778718957923,
+  "description_en": "Daily spend tracker for the Pi coding agent — shows total API cost across all of today's sessions in the footer status bar",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-health",
+  "path": "/packages/pi-health",
+  "url": "https://pi.dev/packages/pi-health",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782600207254,
+  "description_en": "Pi-native health checks and diagnostics toolkit for pi.dev extensions: deterministic readiness/liveness probes, pass/warn/fail check results, package/config/dependency/filesystem checks, optional bounded URL probes, and Markdown/JSON status reports.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

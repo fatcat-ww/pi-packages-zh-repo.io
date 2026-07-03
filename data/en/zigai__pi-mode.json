@@ -1,0 +1,13 @@
+{
+  "name": "@zigai/pi-mode",
+  "path": "/packages/@zigai/pi-mode",
+  "url": "https://pi.dev/packages/@zigai/pi-mode",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 709,
+  "date_ms": 1782833513176,
+  "description_en": "Pi package that adds prompt modes for model and thinking-level switching.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

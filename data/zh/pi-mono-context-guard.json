@@ -1,0 +1,6 @@
+{
+  "name": "pi-mono-context-guard",
+  "description_en": "Pi extension that guards context window growth by auto-limiting read and rg output",
+  "description_zh": "Pi 扩展，通过自动限制读取和 rg 输出来保护上下文窗口增长",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

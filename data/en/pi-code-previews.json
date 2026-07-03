@@ -1,0 +1,13 @@
+{
+  "name": "pi-code-previews",
+  "path": "/packages/pi-code-previews",
+  "url": "https://pi.dev/packages/pi-code-previews",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 872,
+  "date_ms": 1781337921575,
+  "description_en": "Syntax-highlighted previews for pi tool calls.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@blackbelt-technology/pi-dashboard-kb-extension",
+  "description_en": "Isolated pi extension: registers kb_search/kb_neighbors/kb_get tools and a tool_result hook that reindexes markdown on edit and (opt-in) nudges DOX AGENTS.md row upkeep.",
+  "description_zh": "独立的 pi 扩展：注册 kb_search/kb_neighbors/kb_get 工具和一个工具结果钩子，在编辑时重新索引 markdown 并（可选）提醒维护 DOX AGENTS.md 行",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

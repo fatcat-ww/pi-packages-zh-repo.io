@@ -1,0 +1,11 @@
+{
+  "name": "@aphotic/pi-release",
+  "path": "/packages/@aphotic/pi-release",
+  "url": "https://pi.dev/packages/@aphotic/pi-release",
+  "types": "",
+  "type_list": [],
+  "downloads": 149,
+  "date_ms": 1781293356095,
+  "description_en": "Standalone, project-agnostic release skill for Pi: drives single-package and monorepo releases through one interface with shape auto-detection, a full security audit, manual release-notes review, user-owned credentialed actions, and a governed .pi/release",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

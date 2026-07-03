@@ -1,0 +1,11 @@
+{
+  "name": "pi-sigrok",
+  "path": "/packages/pi-sigrok",
+  "url": "https://pi.dev/packages/pi-sigrok",
+  "types": "",
+  "type_list": [],
+  "downloads": 481,
+  "date_ms": 1781571680953,
+  "description_en": "Logic analyzer control and protocol decoding via sigrok-cli. Supports DreamSourceLab DSLogic and other sigrok-compatible devices.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

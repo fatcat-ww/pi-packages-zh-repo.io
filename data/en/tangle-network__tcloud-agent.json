@@ -1,0 +1,11 @@
+{
+  "name": "@tangle-network/tcloud-agent",
+  "path": "/packages/@tangle-network/tcloud-agent",
+  "url": "https://pi.dev/packages/@tangle-network/tcloud-agent",
+  "types": "",
+  "type_list": [],
+  "downloads": 327,
+  "date_ms": 1782924141672,
+  "description_en": "Agent run-loop primitive over Tangle sandbox transports — runs an AgentProfile against a brief with criterion gates, budget caps, and streaming events. Includes TangleToolProvider for Pi tool integration.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

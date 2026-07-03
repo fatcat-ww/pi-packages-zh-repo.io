@@ -1,0 +1,6 @@
+{
+  "name": "@ramarivera/pi-kimi-for-coding",
+  "description_en": "Pi extension that adds Kimi For Coding OAuth support using the official device flow and Kimi-specific request behavior.",
+  "description_zh": "Pi 扩展，使用官方设备流和 Kimi 特定请求行为添加 Kimi For Coding OAuth 支持",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

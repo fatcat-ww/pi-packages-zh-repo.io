@@ -1,0 +1,13 @@
+{
+  "name": "@lnittman/pi-prompts",
+  "path": "/packages/@lnittman/pi-prompts",
+  "url": "https://pi.dev/packages/@lnittman/pi-prompts",
+  "types": "prompt",
+  "type_list": [
+    "prompt"
+  ],
+  "downloads": 244,
+  "date_ms": 1776561645578,
+  "description_en": "Shared system-prompt scaffolding for pi-coding-agent forks — date/time injection, context files, skills block, standard guidelines, and the buildSystemPrompt composer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

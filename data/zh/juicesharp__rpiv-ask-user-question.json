@@ -1,0 +1,6 @@
+{
+  "name": "@juicesharp/rpiv-ask-user-question",
+  "description_en": "Pi extension. A structured questionnaire the model can put to you when it would otherwise guess, with typed options instead of free-form replies.",
+  "description_zh": "Pi 扩展。当模型可能需要猜测时，可以向用户提出的结构化问卷，提供类型化的选项而非自由形式的回复。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

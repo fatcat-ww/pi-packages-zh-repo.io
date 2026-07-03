@@ -1,0 +1,13 @@
+{
+  "name": "pi-clojure",
+  "path": "/packages/pi-clojure",
+  "url": "https://pi.dev/packages/pi-clojure",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 63,
+  "date_ms": 1779096917656,
+  "description_en": "A set of Clojure development tools implemented in pure JavaScript for the [pi-coding-agent](https://github.com/badlogic/pi-mono).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

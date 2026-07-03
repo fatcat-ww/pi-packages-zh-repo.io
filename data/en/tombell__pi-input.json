@@ -1,0 +1,11 @@
+{
+  "name": "@tombell/pi-input",
+  "path": "/packages/@tombell/pi-input",
+  "url": "https://pi.dev/packages/@tombell/pi-input",
+  "types": "",
+  "type_list": [],
+  "downloads": 701,
+  "date_ms": 1780243986225,
+  "description_en": "Replace Pi's input editor with a boxed input field",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

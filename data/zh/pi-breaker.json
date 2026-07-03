@@ -1,0 +1,6 @@
+{
+  "name": "pi-breaker",
+  "description_en": "Prevents macOS freezes during pi sessions. Auto-kills runaway processes when memory runs out.",
+  "description_zh": "防止pi会话期间macOS冻结。内存耗尽时自动终止失控进程",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

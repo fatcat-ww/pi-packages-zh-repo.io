@@ -1,0 +1,6 @@
+{
+  "name": "@cemoody/pi-crust-ext-todoist",
+  "description_en": "Interactive, mobile-friendly Todoist widget for pi-crust — the LLM drives your task list via tools while you edit/complete tasks inline in the sidebar.",
+  "description_zh": "交互式、移动友好的 Todoist 小部件，用于 pi-crust — LLM 通过工具驱动您的任务列表，而您在侧边栏内联编辑/完成任务。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-gograph",
+  "path": "/packages/pi-gograph",
+  "url": "https://pi.dev/packages/pi-gograph",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 573,
+  "date_ms": 1782964420375,
+  "description_en": "Gograph integration for pi — AST-aware Go code navigation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@apolosan/idea-refinement",
+  "path": "/packages/@apolosan/idea-refinement",
+  "url": "https://pi.dev/packages/@apolosan/idea-refinement",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1030,
+  "date_ms": 1780972320297,
+  "description_en": "Pi Coding Agent extension that runs a forced iterative idea-refinement workflow via the /idea-refine command.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

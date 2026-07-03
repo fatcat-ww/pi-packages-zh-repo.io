@@ -1,0 +1,6 @@
+{
+  "name": "@narumitw/pi-web-search",
+  "description_en": "Pi package that adds a web_search tool backed by Brave Search or DuckDuckGo HTML.",
+  "description_zh": "Pi 包，添加由 Brave Search 或 DuckDuckGo HTML 支持的 web_search 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

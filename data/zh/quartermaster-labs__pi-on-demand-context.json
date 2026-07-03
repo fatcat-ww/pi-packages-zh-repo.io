@@ -1,0 +1,6 @@
+{
+  "name": "@quartermaster-labs/pi-on-demand-context",
+  "description_en": "Pi extension. Auto-loads CLAUDE.md / AGENTS.md context when the model works in a dir — via bash `cd` or any file tool (read/edit/write/grep/ls/find). Injected once, durably; deduped against pi's own loader.",
+  "description_zh": "Pi 扩展。当模型在目录中工作时自动加载 CLAUDE.md / AGENTS.md 上下文 — 通过 bash `cd` 或任何文件工具（read/edit/write/grep/ls/find）。一次性注入，持久有效；与 pi 自身加载器去重",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

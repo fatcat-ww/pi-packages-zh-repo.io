@@ -1,0 +1,14 @@
+{
+  "name": "@foxfirecodes/pi-stash",
+  "path": "/packages/@foxfirecodes/pi-stash",
+  "url": "https://pi.dev/packages/@foxfirecodes/pi-stash",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 83,
+  "date_ms": 1779938029885,
+  "description_en": "Pi extension that adds a shortcut to stash and restore the current prompt.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

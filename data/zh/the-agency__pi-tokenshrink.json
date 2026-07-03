@@ -1,0 +1,6 @@
+{
+  "name": "@the-agency/pi-tokenshrink",
+  "description_en": "Reduce token usage of a Pi agent's conversation context using TokenShrink.",
+  "description_zh": "使用 TokenShrink 减少 Pi 代理对话上下文的令牌使用",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@chainingintention/pi-web-cn",
+  "path": "/packages/@chainingintention/pi-web-cn",
+  "url": "https://pi.dev/packages/@chainingintention/pi-web-cn",
+  "types": "",
+  "type_list": [],
+  "downloads": 3697,
+  "date_ms": 1783054319662,
+  "description_en": "Remote web UI and browser control plane for persistent Pi Coding Agent sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

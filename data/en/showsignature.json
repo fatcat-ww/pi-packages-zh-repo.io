@@ -1,0 +1,13 @@
+{
+  "name": "showsignature",
+  "path": "/packages/showsignature",
+  "url": "https://pi.dev/packages/showsignature",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 290,
+  "date_ms": 1782862988766,
+  "description_en": "Extract structure from code. Turn source files into clean, readable artifacts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

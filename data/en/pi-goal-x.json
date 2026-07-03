@@ -1,0 +1,13 @@
+{
+  "name": "pi-goal-x",
+  "path": "/packages/pi-goal-x",
+  "url": "https://pi.dev/packages/pi-goal-x",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3574,
+  "date_ms": 1781506946011,
+  "description_en": "Goal mode extension for pi: persistent long-running objectives, /goal-set drafting, Sisyphus prompt style, autoContinue, and an above-editor status overlay. Fork of @capyup/pi-goal.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

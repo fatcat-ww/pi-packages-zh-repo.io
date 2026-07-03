@@ -1,0 +1,6 @@
+{
+  "name": "pi-behavior-control",
+  "description_en": "Pi extension that enforces read-before-edit, post-edit review reminders, and speculation verification on every assistant turn. Runtime-agnostic — runs under upstream pi (@earendil-works/pi-coding-agent) and OMP (@oh-my-pi/pi-coding-agent).",
+  "description_zh": "Pi 扩展，在每个助手回合上强制执行编辑前读取、编辑后审查提醒和推测验证。运行时不可知 — 在上游 pi (@earendil-works/pi-coding-agent) 和 OMP (@oh-my-pi/pi-coding-agent) 下运行",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

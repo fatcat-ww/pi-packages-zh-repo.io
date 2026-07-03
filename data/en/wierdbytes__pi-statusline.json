@@ -1,0 +1,13 @@
+{
+  "name": "@wierdbytes/pi-statusline",
+  "path": "/packages/@wierdbytes/pi-statusline",
+  "url": "https://pi.dev/packages/@wierdbytes/pi-statusline",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 253,
+  "date_ms": 1778970187285,
+  "description_en": "Minimal modular statusline extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

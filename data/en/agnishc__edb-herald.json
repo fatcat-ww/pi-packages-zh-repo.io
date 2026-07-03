@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-herald",
+  "path": "/packages/@agnishc/edb-herald",
+  "url": "https://pi.dev/packages/@agnishc/edb-herald",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 604,
+  "date_ms": 1782119181876,
+  "description_en": "Pi extension: git commit and PR agent with approval gates",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

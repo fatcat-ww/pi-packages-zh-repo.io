@@ -1,0 +1,13 @@
+{
+  "name": "@christopherbecker/pi-kagi-api",
+  "path": "/packages/@christopherbecker/pi-kagi-api",
+  "url": "https://pi.dev/packages/@christopherbecker/pi-kagi-api",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 57,
+  "date_ms": 1779567372590,
+  "description_en": "Pi extension exposing Kagi Search and Extract API tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-agent-mode",
+  "description_en": "OpenCode-style default agent mode for PI. Markdown agents with YAML frontmatter. Ctrl+Shift+M to cycle, Alt+S to search. Inline execution with full streaming visibility.",
+  "description_zh": "PI 的 OpenCode 风格默认代理模式。带 YAML 前置内容的 Markdown 代理。Ctrl+Shift+M 循环，Alt+S 搜索。完整流式可见的内联执行",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

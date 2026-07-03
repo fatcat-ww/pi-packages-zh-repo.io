@@ -1,0 +1,13 @@
+{
+  "name": "pi-tavily-search",
+  "path": "/packages/pi-tavily-search",
+  "url": "https://pi.dev/packages/pi-tavily-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 36,
+  "date_ms": 1777528411884,
+  "description_en": "AI-powered web search using Tavily API for pi coding-agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

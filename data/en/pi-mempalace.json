@@ -1,0 +1,11 @@
+{
+  "name": "pi-mempalace",
+  "path": "/packages/pi-mempalace",
+  "url": "https://pi.dev/packages/pi-mempalace",
+  "types": "",
+  "type_list": [],
+  "downloads": 204,
+  "date_ms": 1775639189897,
+  "description_en": "Persistent agent memory for pi — raw verbatim storage with semantic search. Never lose context again.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

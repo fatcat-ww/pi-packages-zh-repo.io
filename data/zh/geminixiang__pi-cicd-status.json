@@ -1,0 +1,6 @@
+{
+  "name": "@geminixiang/pi-cicd-status",
+  "description_en": "Pi coding agent skill for checking CI/CD status from GitHub check runs, workflow runs, branches, PRs, commits, and releases",
+  "description_zh": "用于检查 GitHub 检查运行、工作流运行、分支、PR、提交和发布的 CI/CD 状态的 Pi 编码代理技能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

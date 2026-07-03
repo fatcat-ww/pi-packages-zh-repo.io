@@ -1,0 +1,6 @@
+{
+  "name": "@qmxme/pi-lametric-notify",
+  "description_en": "LaMetric Time notifications for pi when the agent finishes and waits for input",
+  "description_zh": "代理完成并等待输入时，用于 LaMetric Time 通知的 pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

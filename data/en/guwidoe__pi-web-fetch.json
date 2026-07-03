@@ -1,0 +1,11 @@
+{
+  "name": "@guwidoe/pi-web-fetch",
+  "path": "/packages/@guwidoe/pi-web-fetch",
+  "url": "https://pi.dev/packages/@guwidoe/pi-web-fetch",
+  "types": "",
+  "type_list": [],
+  "downloads": 43,
+  "date_ms": 1771954121713,
+  "description_en": "pi skill: fetch webpage content as markdown with fallback web search",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

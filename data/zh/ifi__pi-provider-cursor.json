@@ -1,0 +1,6 @@
+{
+  "name": "@ifi/pi-provider-cursor",
+  "description_en": "Experimental Cursor provider for pi with OAuth login, model discovery, and direct AgentService streaming.",
+  "description_zh": "具有 OAuth 登录、模型发现和直接 AgentService 流式传输的实验性 Cursor 提供者",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

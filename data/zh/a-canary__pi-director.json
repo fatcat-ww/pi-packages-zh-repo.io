@@ -1,0 +1,6 @@
+{
+  "name": "@a-canary/pi-director",
+  "description_en": "Autonomous project director for pi. Recommends actions (NEXT.md), clarifies intent (CHOICES.md), and executes TDD development (PLAN.md) through specialized subagents.",
+  "description_zh": "pi 的自主项目主管。通过专门的子代理推荐操作（NEXT.md）、澄清意图（CHOICES.md）并执行 TDD 开发（PLAN.md）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

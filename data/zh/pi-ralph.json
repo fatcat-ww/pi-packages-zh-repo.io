@@ -1,0 +1,6 @@
+{
+  "name": "pi-ralph",
+  "description_en": "Hat-based multi-agent orchestration loops for pi. Keeps the agent iterating through specialized roles (Planner, Builder, Reviewer, etc.) until a task is complete.",
+  "description_zh": "pi 的基于帽子的多代理编排循环。使代理在专业角色（规划者、构建者、审查者等）之间迭代，直到任务完成",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

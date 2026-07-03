@@ -1,0 +1,11 @@
+{
+  "name": "pi-slopkick",
+  "path": "/packages/pi-slopkick",
+  "url": "https://pi.dev/packages/pi-slopkick",
+  "types": "",
+  "type_list": [],
+  "downloads": 20,
+  "date_ms": 1779375523156,
+  "description_en": "Pi coding-agent extension for terminal-native review, annotation, and rich diff workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

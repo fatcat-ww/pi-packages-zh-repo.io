@@ -1,0 +1,11 @@
+{
+  "name": "@alasano/pi-panels",
+  "path": "/packages/@alasano/pi-panels",
+  "url": "https://pi.dev/packages/@alasano/pi-panels",
+  "types": "",
+  "type_list": [],
+  "downloads": 433,
+  "date_ms": 1782086339604,
+  "description_en": "Responsive status panels for pi - git info, LLM context usage, and Spotify now-playing below the editor",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@fingerskier/pi-build123d",
+  "path": "/packages/@fingerskier/pi-build123d",
+  "url": "https://pi.dev/packages/@fingerskier/pi-build123d",
+  "types": "",
+  "type_list": [],
+  "downloads": 89,
+  "date_ms": 1778191257975,
+  "description_en": "build123d CAD MCP plugin for Pi with a self-bootstrapping Python server",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

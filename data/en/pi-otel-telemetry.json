@@ -1,0 +1,11 @@
+{
+  "name": "pi-otel-telemetry",
+  "path": "/packages/pi-otel-telemetry",
+  "url": "https://pi.dev/packages/pi-otel-telemetry",
+  "types": "",
+  "type_list": [],
+  "downloads": 1281,
+  "date_ms": 1773053574546,
+  "description_en": "OpenTelemetry traces & metrics extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

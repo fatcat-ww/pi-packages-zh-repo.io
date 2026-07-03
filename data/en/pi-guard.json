@@ -1,0 +1,11 @@
+{
+  "name": "pi-guard",
+  "path": "/packages/pi-guard",
+  "url": "https://pi.dev/packages/pi-guard",
+  "types": "",
+  "type_list": [],
+  "downloads": 95,
+  "date_ms": 1777134703047,
+  "description_en": "General-purpose permission system for pi tools, handling permissions for bash and file tools with extensible matchers for custom tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

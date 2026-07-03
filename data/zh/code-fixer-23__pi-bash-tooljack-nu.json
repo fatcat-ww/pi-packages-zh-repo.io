@@ -1,0 +1,6 @@
+{
+  "name": "@code-fixer-23/pi-bash-tooljack-nu",
+  "description_en": "Pi extension that hijacks the bash tool and routes it through Nushell",
+  "description_zh": "Pi 扩展，劫持 bash 工具并通过 Nushell 路由",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

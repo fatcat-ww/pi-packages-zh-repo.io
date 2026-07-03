@@ -1,0 +1,13 @@
+{
+  "name": "@skdev-ai/pi-gemini-cli-provider",
+  "path": "/packages/@skdev-ai/pi-gemini-cli-provider",
+  "url": "https://pi.dev/packages/@skdev-ai/pi-gemini-cli-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 301,
+  "date_ms": 1774939405555,
+  "description_en": "Gemini LLM provider for Pi/GSD via A2A protocol with MCP tool bridge",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

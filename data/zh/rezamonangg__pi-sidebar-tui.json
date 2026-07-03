@@ -1,0 +1,6 @@
+{
+  "name": "@rezamonangg/pi-sidebar-tui",
+  "description_en": "Tmux right sidebar for Pi showing git file changes.",
+  "description_zh": "用于 Pi 的 tmux 右侧边栏，显示 git 文件更改",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-critique",
+  "path": "/packages/pi-critique",
+  "url": "https://pi.dev/packages/pi-critique",
+  "types": "",
+  "type_list": [],
+  "downloads": 49,
+  "date_ms": 1778320293783,
+  "description_en": "Structured AI critique for writing and code. Pairs well with annotated-reply and markdown-preview but works standalone.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

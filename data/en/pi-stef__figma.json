@@ -1,0 +1,13 @@
+{
+  "name": "@pi-stef/figma",
+  "path": "/packages/@pi-stef/figma",
+  "url": "https://pi.dev/packages/@pi-stef/figma",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2153,
+  "date_ms": 1781667274374,
+  "description_en": "Pi extension for Figma REST API tools, compact design context, and Jira-linked Figma summaries.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-native-search",
+  "description_en": "Pi extension that adds web_search and web_fetch tools using each provider's native search backend (ZAI MCP, Anthropic, Google, OpenAI, xAI, Claude Code subscription via claude-bridge), with DuckDuckGo as a universal fallback.",
+  "description_zh": "Pi 扩展，使用各提供商的原生搜索后端（ZAI MCP、Anthropic、Google、OpenAI、xAI、通过 claude-bridge 的 Claude Code 订阅）添加 web_search 和 web_fetch 工具，以 DuckDuckGo 作为通用回退",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

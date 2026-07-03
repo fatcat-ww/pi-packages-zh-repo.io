@@ -1,0 +1,13 @@
+{
+  "name": "@davecodes/pi-routines",
+  "path": "/packages/@davecodes/pi-routines",
+  "url": "https://pi.dev/packages/@davecodes/pi-routines",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 134,
+  "date_ms": 1779323903968,
+  "description_en": "Pi extension for scheduled and event-driven routines",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

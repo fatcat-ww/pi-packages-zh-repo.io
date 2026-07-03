@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-db",
+  "description_en": "Local database with SQL-like queries. JSON-backed tables with where clauses, schema, export.",
+  "description_zh": "具有类似 SQL 查询的本地数据库。JSON 支持的表，带有 where 子句、模式和导出功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@petechu/pi-code-wiki",
+  "path": "/packages/@petechu/pi-code-wiki",
+  "url": "https://pi.dev/packages/@petechu/pi-code-wiki",
+  "types": "",
+  "type_list": [],
+  "downloads": 85,
+  "date_ms": 1779811154667,
+  "description_en": "Generate and maintain a persistent, compounding codebase wiki inside your repository",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

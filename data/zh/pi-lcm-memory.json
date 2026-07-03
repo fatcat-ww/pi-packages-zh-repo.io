@@ -1,0 +1,6 @@
+{
+  "name": "pi-lcm-memory",
+  "description_en": "Persistent cross-session semantic memory for Pi — a hybrid (FTS5 + vector) recall layer on top of pi-lcm.",
+  "description_zh": "Pi的持久跨会话语义记忆 — pi-lcm上混合(FTS5 + vector)回忆层",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

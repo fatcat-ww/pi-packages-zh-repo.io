@@ -1,0 +1,6 @@
+{
+  "name": "@juicesharp/rpiv-workflow",
+  "description_en": "Pi extension. Chain skills into typed multi-stage workflows with audited JSONL state, predicate routing, and per-stage output validation. Skill-agnostic — bring your own skills.",
+  "description_zh": "Pi 扩展。将技能链接到类型化的多阶段工作流，具有审计的 JSONL 状态、谓词路由和每阶段输出验证。技能不可知 — 带上您自己的技能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@alasano/pi-mouse",
+  "path": "/packages/@alasano/pi-mouse",
+  "url": "https://pi.dev/packages/@alasano/pi-mouse",
+  "types": "",
+  "type_list": [],
+  "downloads": 277,
+  "date_ms": 1782010906234,
+  "description_en": "ASCII mouse that follows your cursor above the editor in pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

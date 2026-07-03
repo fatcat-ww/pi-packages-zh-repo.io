@@ -1,0 +1,13 @@
+{
+  "name": "saasufy-agent-skills",
+  "path": "/packages/saasufy-agent-skills",
+  "url": "https://pi.dev/packages/saasufy-agent-skills",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 202,
+  "date_ms": 1781618574219,
+  "description_en": "Saasufy skills for AI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

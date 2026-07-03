@@ -1,0 +1,6 @@
+{
+  "name": "pi-skill-guard",
+  "description_en": "Pi extension that intercepts 'tool not found' errors: injects skill documentation for matching skill names and falls back to bash for unknown tools with a command argument",
+  "description_zh": "Pi 扩展，拦截 '工具未找到' 错误：为匹配的技能名称注入技能文档，并对于带有命令参数的未知工具回退到 bash。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

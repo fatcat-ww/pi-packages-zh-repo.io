@@ -1,0 +1,13 @@
+{
+  "name": "@juanibiapina/pi-powerbar",
+  "path": "/packages/@juanibiapina/pi-powerbar",
+  "url": "https://pi.dev/packages/@juanibiapina/pi-powerbar",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1048,
+  "date_ms": 1779296523068,
+  "description_en": "Pi extension that renders a persistent powerline status bar with left/right segments updated via events",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

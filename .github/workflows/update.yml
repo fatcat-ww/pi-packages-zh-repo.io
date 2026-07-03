@@ -1,0 +1,150 @@
+name: Daily update
+
+# Triggers:
+#   1. Cron: every day at 02:00 UTC (10:00 Beijing time)
+#   2. Manual: workflow_dispatch button in Actions tab
+#   3. On push to main (only if scripts/ or .github/ changed) — for testing workflow changes
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/update.yml'
+
+permissions:
+  contents: write    # to commit changes / push to branch
+  pull-requests: write # to open PR
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install Python deps
+        run: python -m pip install -r requirements.txt
+
+      - name: Create working branch
+        run: |
+          BRANCH="auto/update-$(date -u +%Y%m%d-%H%M%S)"
+          echo "BRANCH=$BRANCH" >> $GITHUB_ENV
+          git checkout -b "$BRANCH"
+
+      - name: Scrape pi.dev
+        run: python scripts/scrape.py
+
+      - name: Detect changes (diff)
+        run: python scripts/diff.py
+
+      - name: Show diff summary
+        run: |
+          echo "## Diff summary" >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+          cat data/_diff_report.json >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+
+      - name: Classify update
+        run: |
+          python - <<'PY'
+          import json
+          import os
+
+          with open('data/_diff_report.json', encoding='utf-8') as f:
+              report = json.load(f)
+          summary = report['summary']
+          publishable = summary.get('publishable_changes')
+          if publishable is None:
+              publishable = (
+                  summary.get('added', 0) + summary.get('modified', 0) +
+                  summary.get('metadata_changed', 0) + summary.get('removed', 0)
+              )
+          translation_needed = summary.get('translation_needed')
+          if translation_needed is None:
+              translation_needed = summary.get('added', 0) + summary.get('modified', 0)
+
+          print(
+              f"Added={summary.get('added', 0)} "
+              f"Modified={summary.get('modified', 0)} "
+              f"MetadataChanged={summary.get('metadata_changed', 0)} "
+              f"Removed={summary.get('removed', 0)} "
+              f"Publishable={publishable} "
+              f"TranslationNeeded={translation_needed}"
+          )
+
+          with open(os.environ['GITHUB_ENV'], 'a', encoding='utf-8') as env:
+              env.write(f"NEED_TRANSLATION={'true' if translation_needed else 'false'}\n")
+              if publishable == 0:
+                  env.write("SKIP_PR=true\n")
+          PY
+
+      - name: Stop if no changes
+        if: env.SKIP_PR == 'true'
+        run: echo "No changes detected. Skipping translation and PR."
+
+      - name: Translate new/modified packages
+        if: env.SKIP_PR != 'true' && env.NEED_TRANSLATION == 'true'
+        env:
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_MODEL: glm-4.5-flash
+        run: python scripts/translate.py
+
+      - name: Merge to packages.json
+        if: env.SKIP_PR != 'true'
+        run: python scripts/merge.py
+
+      - name: Build HTML
+        if: env.SKIP_PR != 'true'
+        run: python scripts/build_html.py
+
+      - name: Configure git
+        if: env.SKIP_PR != 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit changes
+        if: env.SKIP_PR != 'true'
+        run: |
+          git add data/ dist/
+          if git diff --cached --quiet; then
+            echo "No file changes after build. Skipping PR."
+            echo "NO_COMMIT=true" >> $GITHUB_ENV
+            exit 0
+          fi
+          git commit -m "chore: daily update $(date -u +%Y-%m-%d)
+
+          See the pull request body for details."
+
+      - name: Push branch
+        if: env.SKIP_PR != 'true' && env.NO_COMMIT != 'true'
+        run: git push origin "$BRANCH"
+
+      - name: Open Pull Request
+        if: env.SKIP_PR != 'true' && env.NO_COMMIT != 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/pr_body.py --output /tmp/pr_body.md
+          gh pr create \
+            --title "chore: 每日更新 $(date -u +%Y-%m-%d)" \
+            --body-file /tmp/pr_body.md \
+            --base main \
+            --head "$BRANCH"

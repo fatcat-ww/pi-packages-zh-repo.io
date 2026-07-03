@@ -1,0 +1,13 @@
+{
+  "name": "pi-continuous-learning",
+  "path": "/packages/pi-continuous-learning",
+  "url": "https://pi.dev/packages/pi-continuous-learning",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 397,
+  "date_ms": 1778756451718,
+  "description_en": "A Pi extension that observes coding sessions and distills patterns into reusable instincts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

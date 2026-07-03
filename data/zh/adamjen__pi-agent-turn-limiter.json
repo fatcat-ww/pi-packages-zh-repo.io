@@ -1,0 +1,6 @@
+{
+  "name": "@adamjen/pi-agent-turn-limiter",
+  "description_en": "Warns the pi orchestrator to delegate after 3 turns — prevents getting stuck in endless work loops",
+  "description_zh": "在 3 个轮次后警告 pi 编排器委托任务 — 防止陷入无尽的工作循环",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@harms-haus/pi-subagents",
+  "path": "/packages/@harms-haus/pi-subagents",
+  "url": "https://pi.dev/packages/@harms-haus/pi-subagents",
+  "types": "",
+  "type_list": [],
+  "downloads": 60,
+  "date_ms": 1779752259306,
+  "description_en": "Pi extension for spawning parallel sub-agents with live TUI windows",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

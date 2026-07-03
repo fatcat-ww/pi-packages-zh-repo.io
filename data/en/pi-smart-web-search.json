@@ -1,0 +1,13 @@
+{
+  "name": "pi-smart-web-search",
+  "path": "/packages/pi-smart-web-search",
+  "url": "https://pi.dev/packages/pi-smart-web-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1072,
+  "date_ms": 1782491785128,
+  "description_en": "Batch web search for the Pi coding agent — ranked, readable results ready to fetch. Pairs with pi-smart-fetch.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

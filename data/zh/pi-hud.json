@@ -1,0 +1,6 @@
+{
+  "name": "pi-hud",
+  "description_en": "Persistent HUD extension for Pi showing project, context, MCP, git, and subagent status.",
+  "description_zh": "Pi 的持久 HUD 扩展，显示项目、上下文、MCP、git 和子代理状态。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

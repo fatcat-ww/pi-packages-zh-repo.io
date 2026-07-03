@@ -1,0 +1,6 @@
+{
+  "name": "@gnoviawan/pi-biome-lsp",
+  "description_en": "Biome lint/format/check integration for Pi, including daemon startup and post-edit checks.",
+  "description_zh": "Pi 的 Biome lint/format/check 集成，包括守护程序启动和后编辑检查",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

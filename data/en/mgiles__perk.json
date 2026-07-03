@@ -1,0 +1,13 @@
+{
+  "name": "@mgiles/perk",
+  "path": "/packages/@mgiles/perk",
+  "url": "https://pi.dev/packages/@mgiles/perk",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 563,
+  "date_ms": 1782346787457,
+  "description_en": "perk Pi extension (session interior) for the plan-oriented workflow.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@blackbelt-technology/pi-model-proxy",
+  "description_en": "Pi extension that exposes pi's authenticated models as a local OpenAI-compatible and Anthropic-compatible API server",
+  "description_zh": "pi 扩展，将 pi 的身份验证模型暴露为本地 OpenAI 兼容和 Anthropic 兼容 API 服务器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

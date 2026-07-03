@@ -1,0 +1,6 @@
+{
+  "name": "@pandi-coding-agent/btw",
+  "description_en": "Pi extension that adds a Claude-style /btw command: ask a quick side question about the current conversation, answered with no tools and never added to history.",
+  "description_zh": "Pi 扩展，添加 Claude 风格的 /btw 命令：快速询问当前对话的附带问题，不使用工具回答且不添加到历史记录中。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@ryan_nookpi/pi-extension-headroom",
+  "path": "/packages/@ryan_nookpi/pi-extension-headroom",
+  "url": "https://pi.dev/packages/@ryan_nookpi/pi-extension-headroom",
+  "types": "",
+  "type_list": [],
+  "downloads": 939,
+  "date_ms": 1780577590346,
+  "description_en": "Headroom token compression for pi — compress large tool results via a local Headroom proxy to reclaim context window.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

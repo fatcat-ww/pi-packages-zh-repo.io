@@ -1,0 +1,6 @@
+{
+  "name": "@rejot-dev/pi-openai-search",
+  "description_en": "A pi package that injects OpenAI's native web_search tool into the provider request payload.",
+  "description_zh": "一个 Pi 包，将 OpenAI 原生的 web_search 工具注入到提供者请求负载中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

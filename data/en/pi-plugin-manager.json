@@ -1,0 +1,13 @@
+{
+  "name": "pi-plugin-manager",
+  "path": "/packages/pi-plugin-manager",
+  "url": "https://pi.dev/packages/pi-plugin-manager",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 922,
+  "date_ms": 1782780809464,
+  "description_en": "Plugin manager for the pi agent harness",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

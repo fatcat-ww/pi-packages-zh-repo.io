@@ -1,0 +1,6 @@
+{
+  "name": "pi-rich-renderer",
+  "description_en": "Pi extension that renders LaTeX formulas as terminal images while preserving original LLM context.",
+  "description_zh": "Pi 扩展，将 LaTeX 公式渲染为终端图像，同时保留原始 LLM 上下文",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

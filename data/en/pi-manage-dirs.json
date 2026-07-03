@@ -1,0 +1,11 @@
+{
+  "name": "pi-manage-dirs",
+  "path": "/packages/pi-manage-dirs",
+  "url": "https://pi.dev/packages/pi-manage-dirs",
+  "types": "",
+  "type_list": [],
+  "downloads": 51,
+  "date_ms": 1777687255923,
+  "description_en": "Add external directories to Pi's workspace context with interactive path autocompletion, AGENTS.md loading, and skill registration",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

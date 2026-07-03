@@ -1,0 +1,6 @@
+{
+  "name": "pi-deepseek-optimized",
+  "description_en": "Harness techniques for DeepSeek V4 Pro on the pi coding agent (cache stability, storm-breaker, hashline editing, plan mode, rewind).",
+  "description_zh": "在 pi 编码代理上利用 DeepSeek V4 Pro 的技术（缓存稳定性、风暴中断器、哈希线编辑、计划模式、回退）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

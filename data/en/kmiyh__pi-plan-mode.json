@@ -1,0 +1,13 @@
+{
+  "name": "@kmiyh/pi-plan-mode",
+  "path": "/packages/@kmiyh/pi-plan-mode",
+  "url": "https://pi.dev/packages/@kmiyh/pi-plan-mode",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 41,
+  "date_ms": 1778228731326,
+  "description_en": "Pi extension that adds a read-only plan mode for safe code analysis, plan extraction, and execution progress tracking.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

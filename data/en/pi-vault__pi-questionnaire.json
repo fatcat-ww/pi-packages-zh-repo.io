@@ -1,0 +1,13 @@
+{
+  "name": "@pi-vault/pi-questionnaire",
+  "path": "/packages/@pi-vault/pi-questionnaire",
+  "url": "https://pi.dev/packages/@pi-vault/pi-questionnaire",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 76,
+  "date_ms": 1782096687718,
+  "description_en": "Pi extension for collecting structured user decisions in one interactive questionnaire",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

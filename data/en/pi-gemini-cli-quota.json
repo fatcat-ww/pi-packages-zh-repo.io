@@ -1,0 +1,13 @@
+{
+  "name": "pi-gemini-cli-quota",
+  "path": "/packages/pi-gemini-cli-quota",
+  "url": "https://pi.dev/packages/pi-gemini-cli-quota",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 26,
+  "date_ms": 1772889874227,
+  "description_en": "Pi extension to view precise Google Cloud Code Assist (Gemini CLI) quotas.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

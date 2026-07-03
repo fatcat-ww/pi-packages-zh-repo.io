@@ -1,0 +1,13 @@
+{
+  "name": "@ygncode/pi-insights",
+  "path": "/packages/@ygncode/pi-insights",
+  "url": "https://pi.dev/packages/@ygncode/pi-insights",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 101,
+  "date_ms": 1779007572696,
+  "description_en": "Beautiful analytics reports for pi coding-agent sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

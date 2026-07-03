@@ -1,0 +1,6 @@
+{
+  "name": "@d3ara1n/pi-model-roles",
+  "description_en": "Model role configuration library for pi extensions — defines named model roles and resolves them to Model instances",
+  "description_zh": "Pi 扩展的模型角色配置库 — 定义命名模型角色并将其解析为模型实例",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

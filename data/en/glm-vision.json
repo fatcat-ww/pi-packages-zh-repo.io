@@ -1,0 +1,13 @@
+{
+  "name": "glm-vision",
+  "path": "/packages/glm-vision",
+  "url": "https://pi.dev/packages/glm-vision",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 587,
+  "date_ms": 1780930071706,
+  "description_en": "Pi extension that gives non-vision GLM models (z.ai) image understanding via GLM-4.6V",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

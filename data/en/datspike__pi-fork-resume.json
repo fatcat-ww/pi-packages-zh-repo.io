@@ -1,0 +1,13 @@
+{
+  "name": "@datspike/pi-fork-resume",
+  "path": "/packages/@datspike/pi-fork-resume",
+  "url": "https://pi.dev/packages/@datspike/pi-fork-resume",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 31,
+  "date_ms": 1777718957354,
+  "description_en": "Pi extension that forks a session selected through the resume-style session picker without opening the source session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

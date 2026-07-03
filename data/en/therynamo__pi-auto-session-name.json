@@ -1,0 +1,11 @@
+{
+  "name": "@therynamo/pi-auto-session-name",
+  "path": "/packages/@therynamo/pi-auto-session-name",
+  "url": "https://pi.dev/packages/@therynamo/pi-auto-session-name",
+  "types": "",
+  "type_list": [],
+  "downloads": 75,
+  "date_ms": 1779921110560,
+  "description_en": "Pi extension that auto-generates a short working title for each session based on the conversation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

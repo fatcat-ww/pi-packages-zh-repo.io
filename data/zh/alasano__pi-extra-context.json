@@ -1,0 +1,6 @@
+{
+  "name": "@alasano/pi-extra-context",
+  "description_en": "Load extra configured context files into pi sessions",
+  "description_zh": "将额外配置的上下文文件加载到 pi 会话中。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

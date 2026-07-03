@@ -1,0 +1,13 @@
+{
+  "name": "@xynogen/pix-display",
+  "path": "/packages/@xynogen/pix-display",
+  "url": "https://pi.dev/packages/@xynogen/pix-display",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 811,
+  "date_ms": 1782814337908,
+  "description_en": "Pi core extension — paste chip rendering and thinking block display",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

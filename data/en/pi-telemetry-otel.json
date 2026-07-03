@@ -1,0 +1,13 @@
+{
+  "name": "pi-telemetry-otel",
+  "path": "/packages/pi-telemetry-otel",
+  "url": "https://pi.dev/packages/pi-telemetry-otel",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 55,
+  "date_ms": 1770147072209,
+  "description_en": "OpenTelemetry (OTLP/HTTP) telemetry extension + helper APIs for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

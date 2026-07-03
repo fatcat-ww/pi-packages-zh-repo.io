@@ -1,0 +1,13 @@
+{
+  "name": "@swairshah/pi-talk",
+  "path": "/packages/@swairshah/pi-talk",
+  "url": "https://pi.dev/packages/@swairshah/pi-talk",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 127,
+  "date_ms": 1773525352293,
+  "description_en": "Text-to-speech extension for Pi coding agent using Loqui",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

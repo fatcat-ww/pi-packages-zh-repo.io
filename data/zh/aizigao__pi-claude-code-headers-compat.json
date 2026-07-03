@@ -1,0 +1,6 @@
+{
+  "name": "@aizigao/pi-claude-code-headers-compat",
+  "description_en": "Pi extension package for Claude-compatible header and request-path adaptation across multiple providers.",
+  "description_zh": "Pi 扩展包，用于在多个提供商间实现与 Claude 兼容的头部和请求路径适配。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

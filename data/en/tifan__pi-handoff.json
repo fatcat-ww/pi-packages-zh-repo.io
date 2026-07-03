@@ -1,0 +1,13 @@
+{
+  "name": "@tifan/pi-handoff",
+  "path": "/packages/@tifan/pi-handoff",
+  "url": "https://pi.dev/packages/@tifan/pi-handoff",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 474,
+  "date_ms": 1781963396459,
+  "description_en": "Transfer pi session context to a new session and query past sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

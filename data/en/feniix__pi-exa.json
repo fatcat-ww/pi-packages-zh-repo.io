@@ -1,0 +1,13 @@
+{
+  "name": "@feniix/pi-exa",
+  "path": "/packages/@feniix/pi-exa",
+  "url": "https://pi.dev/packages/@feniix/pi-exa",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 832,
+  "date_ms": 1781547580282,
+  "description_en": "Exa API extension for pi — web search, content fetching, and advanced search via Exa AI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

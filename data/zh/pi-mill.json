@@ -1,0 +1,6 @@
+{
+  "name": "pi-mill",
+  "description_en": "Pi extension package that routes subagent execution through mill",
+  "description_zh": "通过 mill 路由子代理执行的 Pi 扩展包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

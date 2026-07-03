@@ -1,0 +1,11 @@
+{
+  "name": "pi-clinepass-provider",
+  "path": "/packages/pi-clinepass-provider",
+  "url": "https://pi.dev/packages/pi-clinepass-provider",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782877608083,
+  "description_en": "ClinePass provider for pi — access GLM-5.2, Kimi K2.7, DeepSeek V4 and more open-weight coding models through Cline's $9.99/mo subscription",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

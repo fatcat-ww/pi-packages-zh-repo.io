@@ -1,0 +1,13 @@
+{
+  "name": "pi-ast-grep",
+  "path": "/packages/pi-ast-grep",
+  "url": "https://pi.dev/packages/pi-ast-grep",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 179,
+  "date_ms": 1781494277624,
+  "description_en": "A Pi extension that adds a read-only ast-grep structural search tool.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@richardgill/pi-sub-pi",
+  "description_en": "Run isolated `pi` subprocesses for **single**, **chain**, or **parallel** work.",
+  "description_zh": "运行隔离的 `pi` 子进程，用于**单个**、**链式**或**并行**工作",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

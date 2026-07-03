@@ -1,0 +1,6 @@
+{
+  "name": "@jonghyun/pi-web-tools",
+  "description_en": "Pi extension providing web search, page scraping, screenshot, and content extraction tools with auto-managed Docker services.",
+  "description_zh": "Pi 扩展，提供网页搜索、页面抓取、截图和内容提取工具，带有自动管理的 Docker 服务",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-startup-redraw-fix",
+  "description_en": "Pi extension that patches terminal full-clear ordering to avoid startup redraw glitches.",
+  "description_zh": "Pi 扩展，修补终端完全清除顺序以避免启动重绘故障",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-prompt-translate",
+  "description_en": "Translate user prompts to a configurable target language in the Pi coding agent",
+  "description_zh": "在 Pi 编码代理中将用户提示翻译为可配置的目标语言",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

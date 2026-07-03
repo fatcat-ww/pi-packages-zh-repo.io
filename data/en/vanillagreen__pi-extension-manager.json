@@ -1,0 +1,13 @@
+{
+  "name": "@vanillagreen/pi-extension-manager",
+  "path": "/packages/@vanillagreen/pi-extension-manager",
+  "url": "https://pi.dev/packages/@vanillagreen/pi-extension-manager",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 617,
+  "date_ms": 1781280379997,
+  "description_en": "Pi package manager with update/uninstall actions plus a separate schema-driven settings editor for vstack packages.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

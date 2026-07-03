@@ -1,0 +1,13 @@
+{
+  "name": "pi-taskflow",
+  "path": "/packages/pi-taskflow",
+  "url": "https://pi.dev/packages/pi-taskflow",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 5008,
+  "date_ms": 1783061120138,
+  "description_en": "A declarative, verifiable graph of task nodes for the Pi coding agent — statically verified before it runs, with dynamic fan-out, gates, isolated subagent context, resumable runs, and saveable commands.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

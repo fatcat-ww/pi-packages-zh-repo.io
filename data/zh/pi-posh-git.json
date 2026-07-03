@@ -1,0 +1,6 @@
+{
+  "name": "pi-posh-git",
+  "description_en": "posh-git style persistent git status for pi. Displays branch, ahead/behind, staged/unstaged counts, and stash count — always visible in the footer.",
+  "description_zh": "pi 的 posh-git 风格持久化 git 状态。显示分支、超前/滞后、暂存/未暂存计数和存储计数 — 始终在页脚可见",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

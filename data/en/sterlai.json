@@ -1,0 +1,11 @@
+{
+  "name": "sterlai",
+  "path": "/packages/sterlai",
+  "url": "https://pi.dev/packages/sterlai",
+  "types": "",
+  "type_list": [],
+  "downloads": 148,
+  "date_ms": 1779232946653,
+  "description_en": "Terminal AI agent for Stellar. Chat-driven payments, path payments, trustlines, and friendbot funding on testnet, with a separate signer daemon that prompts for explicit approval on every signature.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

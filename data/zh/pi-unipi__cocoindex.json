@@ -1,0 +1,6 @@
+{
+  "name": "@pi-unipi/cocoindex",
+  "description_en": "CocoIndex integration for Pi — AST-aware content indexing, semantic vector search, and incremental pipeline management",
+  "description_zh": "Pi 的 CocoIndex 集成 — AST 感知的索引、语义向量搜索和增量管道管理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

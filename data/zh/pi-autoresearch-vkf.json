@@ -1,0 +1,6 @@
+{
+  "name": "pi-autoresearch-vkf",
+  "description_en": "Autoresearch with verifiable long-term scientific memory. A pi extension that gathers literature, stores it as VKF claims, runs experiments, and writes verified results back to a git-native knowledge bundle so future runs build on what was learned instead",
+  "description_zh": "具有可验证长期科学记忆的自动研究。Pi 扩展，收集文献，将其存储为 VKF 声明，运行实验，并将验证结果写回 git 原生知识包，以便未来运行建立在已学习内容的基础上",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

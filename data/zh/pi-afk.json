@@ -1,0 +1,6 @@
+{
+  "name": "pi-afk",
+  "description_en": "A Pi package extension that allows the agent to communicate with the user when they're afk.",
+  "description_zh": "允许代理在用户离开时与用户通信的 Pi 包扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

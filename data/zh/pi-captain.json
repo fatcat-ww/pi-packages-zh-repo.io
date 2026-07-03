@@ -1,0 +1,6 @@
+{
+  "name": "pi-captain",
+  "description_en": "Captain — multi-agent pipeline orchestrator for pi. Define specialized agents, wire them into sequential/parallel/pool pipelines with quality gates, and run complex workflows.",
+  "description_zh": "Captain — pi 的多代理流水线编排器。定义专门的代理，将它们连接为顺序/并行/池流水线，并设置质量门，运行复杂的工作流",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

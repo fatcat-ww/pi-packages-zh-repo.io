@@ -1,0 +1,13 @@
+{
+  "name": "@ahkohd/pi-yagami-search",
+  "path": "/packages/@ahkohd/pi-yagami-search",
+  "url": "https://pi.dev/packages/@ahkohd/pi-yagami-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 272,
+  "date_ms": 1781987959886,
+  "description_en": "Pi package providing Yagami web search tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

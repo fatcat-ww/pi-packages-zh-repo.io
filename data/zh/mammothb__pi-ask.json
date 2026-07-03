@@ -1,0 +1,6 @@
+{
+  "name": "@mammothb/pi-ask",
+  "description_en": "A pi extension that adds an ask tool for interactive user prompting during execution",
+  "description_zh": "一个 pi 扩展，在执行过程中添加用于交互式用户提示的 ask 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

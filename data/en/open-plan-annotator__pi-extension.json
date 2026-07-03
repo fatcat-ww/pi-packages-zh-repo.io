@@ -1,0 +1,13 @@
+{
+  "name": "@open-plan-annotator/pi-extension",
+  "path": "/packages/@open-plan-annotator/pi-extension",
+  "url": "https://pi.dev/packages/@open-plan-annotator/pi-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1424,
+  "date_ms": 1783011945754,
+  "description_en": "Pi extension for open-plan-annotator that adds plan review tools and commands",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

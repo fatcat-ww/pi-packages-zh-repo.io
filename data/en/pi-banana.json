@@ -1,0 +1,13 @@
+{
+  "name": "pi-banana",
+  "path": "/packages/pi-banana",
+  "url": "https://pi.dev/packages/pi-banana",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 354,
+  "date_ms": 1779465156985,
+  "description_en": "Generate, edit, and analyze images in pi using Google Nano Banana (image gen) and Gemini Vision (analysis). Inline terminal preview, reference-image editing, auto-save.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

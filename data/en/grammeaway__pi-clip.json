@@ -1,0 +1,13 @@
+{
+  "name": "@grammeaway/pi-clip",
+  "path": "/packages/@grammeaway/pi-clip",
+  "url": "https://pi.dev/packages/@grammeaway/pi-clip",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782802263284,
+  "description_en": "Clipboard snippet picker extension for the Pi agentic harness — /clip copies recent code blocks to the system clipboard, raw",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

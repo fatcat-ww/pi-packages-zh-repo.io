@@ -1,0 +1,11 @@
+{
+  "name": "@fgladisch/pi-zsh-shell",
+  "path": "/packages/@fgladisch/pi-zsh-shell",
+  "url": "https://pi.dev/packages/@fgladisch/pi-zsh-shell",
+  "types": "",
+  "type_list": [],
+  "downloads": 221,
+  "date_ms": 1780659945176,
+  "description_en": "Run Pi user bash commands through zsh with Pi-specific functions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@the-agency/vmpi",
+  "description_en": "Run pi sandboxed in a QEMU microVM via Gondolin",
+  "description_zh": "通过 Gondolin 在 QEMU microVM 中沙盒运行 pi",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

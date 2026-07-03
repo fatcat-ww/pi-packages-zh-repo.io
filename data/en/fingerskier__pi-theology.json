@@ -1,0 +1,13 @@
+{
+  "name": "@fingerskier/pi-theology",
+  "path": "/packages/@fingerskier/pi-theology",
+  "url": "https://pi.dev/packages/@fingerskier/pi-theology",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 43,
+  "date_ms": 1778184965194,
+  "description_en": "Exegetical theology research skills for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

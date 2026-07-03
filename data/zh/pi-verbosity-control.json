@@ -1,0 +1,6 @@
+{
+  "name": "pi-verbosity-control",
+  "description_en": "Per-model OpenAI verbosity control for Pi with optional inline footer display",
+  "description_zh": "Pi 的每个模型 OpenAI 详细程度控制，带有可选的内联页脚显示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

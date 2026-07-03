@@ -1,0 +1,13 @@
+{
+  "name": "@random-long-int/pi-context",
+  "path": "/packages/@random-long-int/pi-context",
+  "url": "https://pi.dev/packages/@random-long-int/pi-context",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 35,
+  "date_ms": 1779266815530,
+  "description_en": "Pi extension that adds a /context modal for context budget breakdowns.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

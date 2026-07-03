@@ -1,0 +1,11 @@
+{
+  "name": "@fiale-plus/pi-rogue",
+  "path": "/packages/@fiale-plus/pi-rogue",
+  "url": "https://pi.dev/packages/@fiale-plus/pi-rogue",
+  "types": "",
+  "type_list": [],
+  "downloads": 4494,
+  "date_ms": 1782857330078,
+  "description_en": "Public Pi-Rogue package for bundled advisor, orchestration, and context broker logic.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

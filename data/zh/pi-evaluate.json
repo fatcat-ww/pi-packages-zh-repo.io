@@ -1,0 +1,6 @@
+{
+  "name": "pi-evaluate",
+  "description_en": "Adversarial post-execute evaluation skill for pi — verifies implementation against contract, GAN-inspired",
+  "description_zh": "pi 的对抗性执行后评估技能 — 根据 GAN 启发的合约验证实现。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

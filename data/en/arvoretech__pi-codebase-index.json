@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-codebase-index",
+  "path": "/packages/@arvoretech/pi-codebase-index",
+  "url": "https://pi.dev/packages/@arvoretech/pi-codebase-index",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 643,
+  "date_ms": 1782908697561,
+  "description_en": "PI extension for semantic codebase search (vendor-neutral backend contract)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

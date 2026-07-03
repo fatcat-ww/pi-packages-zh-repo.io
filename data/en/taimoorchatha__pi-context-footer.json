@@ -1,0 +1,13 @@
+{
+  "name": "@taimoorchatha/pi-context-footer",
+  "path": "/packages/@taimoorchatha/pi-context-footer",
+  "url": "https://pi.dev/packages/@taimoorchatha/pi-context-footer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 45,
+  "date_ms": 1778394908893,
+  "description_en": "pi coding-agent extension: turn-by-turn context-usage readout in the footer (bar, %, tokens, delta, last event).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

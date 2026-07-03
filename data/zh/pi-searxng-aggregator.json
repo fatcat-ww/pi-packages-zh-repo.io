@@ -1,0 +1,6 @@
+{
+  "name": "pi-searxng-aggregator",
+  "description_en": "Search via a local SearXNG instance and aggregate results into per-topic JSON files",
+  "description_zh": "通过本地 SearXNG 实例搜索并将结果聚合到按主题分类的 JSON 文件中。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

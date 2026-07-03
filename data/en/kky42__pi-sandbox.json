@@ -1,0 +1,13 @@
+{
+  "name": "@kky42/pi-sandbox",
+  "path": "/packages/@kky42/pi-sandbox",
+  "url": "https://pi.dev/packages/@kky42/pi-sandbox",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 67,
+  "date_ms": 1778731360352,
+  "description_en": "Pi-compatible sandbox extension for filesystem-aware bash and tool enforcement",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

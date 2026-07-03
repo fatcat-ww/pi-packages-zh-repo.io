@@ -1,0 +1,13 @@
+{
+  "name": "@alessiods/noclank",
+  "path": "/packages/@alessiods/noclank",
+  "url": "https://pi.dev/packages/@alessiods/noclank",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 0,
+  "date_ms": 1782993683062,
+  "description_en": "Kills AI-generated clankerspeech slop. Forces plain, direct, human-sounding prose.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

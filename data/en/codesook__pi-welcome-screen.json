@@ -1,0 +1,13 @@
+{
+  "name": "@codesook/pi-welcome-screen",
+  "path": "/packages/@codesook/pi-welcome-screen",
+  "url": "https://pi.dev/packages/@codesook/pi-welcome-screen",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 870,
+  "date_ms": 1782976575259,
+  "description_en": "Customizable animated ASCII art welcome overlay for Oh-My-Pi — shows on session start with countdown and auto-dismiss",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

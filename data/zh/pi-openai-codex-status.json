@@ -1,0 +1,6 @@
+{
+  "name": "pi-openai-codex-status",
+  "description_en": "Pi extension that shows OpenAI usage for hourly and weekly subscription limits like Codex with a /status command.",
+  "description_zh": "Pi扩展，显示类似Codex的小时和周订阅限制的OpenAI使用情况，带有/status命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

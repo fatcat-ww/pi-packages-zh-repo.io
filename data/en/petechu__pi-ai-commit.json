@@ -1,0 +1,11 @@
+{
+  "name": "@petechu/pi-ai-commit",
+  "path": "/packages/@petechu/pi-ai-commit",
+  "url": "https://pi.dev/packages/@petechu/pi-ai-commit",
+  "types": "",
+  "type_list": [],
+  "downloads": 42,
+  "date_ms": 1779377819603,
+  "description_en": "Generate Conventional Commit messages from staged changes for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

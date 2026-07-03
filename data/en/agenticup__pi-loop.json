@@ -1,0 +1,13 @@
+{
+  "name": "@agenticup/pi-loop",
+  "path": "/packages/@agenticup/pi-loop",
+  "url": "https://pi.dev/packages/@agenticup/pi-loop",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 629,
+  "date_ms": 1782465736982,
+  "description_en": "Recursive decompose-solve-critique-iterate-synthesize loop for Pi — the loop engineering pattern as an extension.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@grafana/sigil-pi",
+  "path": "/packages/@grafana/sigil-pi",
+  "url": "https://pi.dev/packages/@grafana/sigil-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 520,
+  "date_ms": 1780348259923,
+  "description_en": "Pi agent extension for Grafana Sigil AI telemetry",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

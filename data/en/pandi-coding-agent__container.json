@@ -1,0 +1,13 @@
+{
+  "name": "@pandi-coding-agent/container",
+  "path": "/packages/@pandi-coding-agent/container",
+  "url": "https://pi.dev/packages/@pandi-coding-agent/container",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783061681168,
+  "description_en": "Pi extension to manage Apple `container` sandboxes (Linux micro-VMs): a /container command and a model-callable container_sandbox tool (status/list/create/run/stop/remove).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

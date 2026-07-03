@@ -1,0 +1,6 @@
+{
+  "name": "@boozedog/pi-codemode",
+  "description_en": "Pi Codemode plugin - TypeScript code execution with sandboxed tools, just-bash shell, and MCP integration",
+  "description_zh": "Pi Codemode 插件 - 沙盒工具、just-bash shell 和 MCP 集成的 TypeScript 代码执行",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

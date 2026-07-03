@@ -1,0 +1,13 @@
+{
+  "name": "end-pi",
+  "path": "/packages/end-pi",
+  "url": "https://pi.dev/packages/end-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 171,
+  "date_ms": 1779639453571,
+  "description_en": "Use Pi providers in Codex Desktop with seamless history switching, image input, and a local OpenAI-compatible proxy.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

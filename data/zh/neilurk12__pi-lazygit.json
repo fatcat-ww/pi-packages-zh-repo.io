@@ -1,0 +1,6 @@
+{
+  "name": "@neilurk12/pi-lazygit",
+  "description_en": "Open lazygit in popup terminal via /lazygit or Ctrl+Shift+G",
+  "description_zh": "通过 /lazygit 或 Ctrl+Shift+G 在弹出终端中打开 lazygit",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

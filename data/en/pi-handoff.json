@@ -1,0 +1,13 @@
+{
+  "name": "pi-handoff",
+  "path": "/packages/pi-handoff",
+  "url": "https://pi.dev/packages/pi-handoff",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 197,
+  "date_ms": 1778172614374,
+  "description_en": "Handoff command extension package for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

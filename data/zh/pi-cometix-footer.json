@@ -1,0 +1,6 @@
+{
+  "name": "pi-cometix-footer",
+  "description_en": "Cometix-style single-line footer for pi. Borrows the cometix theme look from CCometixLine (MIT). Shows Model(+thinking) | Directory | Git(branch+status) | Context% tokens/window | Tokens(in/out + cache hit rate).",
+  "description_zh": "pi 的 Cometix 风格单行页脚。从 CCometixLine (MIT) 借用 cometix 主题外观。显示 Model(+thinking) | 目录 | Git(分支+状态) | 上下文% 令牌/窗口 | 令牌(输入/输出 + 缓存命中率)。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@xynogen/pix-gate",
+  "description_en": "Pi extension — permission gate for dangerous bash commands (confirm/block with TUI dialog)",
+  "description_zh": "Pi 扩展 — 危险 bash 命令的权限门（使用 TUI 对话框确认/阻止）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

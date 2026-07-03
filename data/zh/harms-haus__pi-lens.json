@@ -1,0 +1,6 @@
+{
+  "name": "@harms-haus/pi-lens",
+  "description_en": "Unified code quality extension for pi — auto-runs prettier, linters, LSP diagnostics, and tsc on changed files",
+  "description_zh": "pi 的统一代码质量扩展 — 自动运行 prettier、linter、LSP 诊断和 tsc 于已更改文件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

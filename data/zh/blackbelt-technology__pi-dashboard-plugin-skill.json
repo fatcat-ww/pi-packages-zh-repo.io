@@ -1,0 +1,6 @@
+{
+  "name": "@blackbelt-technology/pi-dashboard-plugin-skill",
+  "description_en": "Pi skill that scaffolds new dashboard plugins or augments existing pi-extension projects with dashboard plugin contributions",
+  "description_zh": "Pi 技能，用于构建新的仪表板插件或通过仪表板插件贡献增强现有的 pi 扩展项目",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

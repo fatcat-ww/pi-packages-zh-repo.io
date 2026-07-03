@@ -1,0 +1,11 @@
+{
+  "name": "@thurstonsand/pi-permissions",
+  "path": "/packages/@thurstonsand/pi-permissions",
+  "url": "https://pi.dev/packages/@thurstonsand/pi-permissions",
+  "types": "",
+  "type_list": [],
+  "downloads": 705,
+  "date_ms": 1782763137079,
+  "description_en": "Pi extension package for user, project, and package-level tool permission hooks",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@carlosgtrz/pi-ansi-tools",
+  "path": "/packages/@carlosgtrz/pi-ansi-tools",
+  "url": "https://pi.dev/packages/@carlosgtrz/pi-ansi-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 54,
+  "date_ms": 1778441022502,
+  "description_en": "Pi extension with read_ansi, write_ansi, and edit_ansi tools for legacy-encoded source files.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

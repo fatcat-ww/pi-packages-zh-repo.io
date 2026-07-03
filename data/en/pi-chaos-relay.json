@@ -1,0 +1,13 @@
+{
+  "name": "pi-chaos-relay",
+  "path": "/packages/pi-chaos-relay",
+  "url": "https://pi.dev/packages/pi-chaos-relay",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1080,
+  "date_ms": 1782999605298,
+  "description_en": "Bridge the pi coding agent to a CHAOS relay server — drive and answer your pi agent over Telegram and email.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

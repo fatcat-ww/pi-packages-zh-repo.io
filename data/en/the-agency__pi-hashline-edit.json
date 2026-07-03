@@ -1,0 +1,11 @@
+{
+  "name": "@the-agency/pi-hashline-edit",
+  "path": "/packages/@the-agency/pi-hashline-edit",
+  "url": "https://pi.dev/packages/@the-agency/pi-hashline-edit",
+  "types": "",
+  "type_list": [],
+  "downloads": 81,
+  "date_ms": 1776381918056,
+  "description_en": "Pi extension providing hashline-based file reading and editing with staleness-checked line addressing.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

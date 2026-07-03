@@ -1,0 +1,11 @@
+{
+  "name": "@r3b1s/pi-token-killer",
+  "path": "/packages/@r3b1s/pi-token-killer",
+  "url": "https://pi.dev/packages/@r3b1s/pi-token-killer",
+  "types": "",
+  "type_list": [],
+  "downloads": 230,
+  "date_ms": 1781151088437,
+  "description_en": "RTK (Rust Token Killer) extension for pi-coding-agent — routes eligible bash commands through rtk",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

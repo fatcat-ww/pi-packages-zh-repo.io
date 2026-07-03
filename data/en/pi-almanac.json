@@ -1,0 +1,13 @@
+{
+  "name": "pi-almanac",
+  "path": "/packages/pi-almanac",
+  "url": "https://pi.dev/packages/pi-almanac",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 31,
+  "date_ms": 1773612909456,
+  "description_en": "Pi extension for exporting current session JSONL files for cross-machine resume workflows",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

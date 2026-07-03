@@ -1,0 +1,6 @@
+{
+  "name": "pi-a2a-adaptor",
+  "description_en": "A2A extension for Pi — `pi install npm:pi-a2a-adaptor`, then `/a2a-send` by name, URL, or agent number",
+  "description_zh": "Pi 的 A2A 扩展 — `pi install npm:pi-a2a-adaptor`，然后通过名称、URL 或代理编号使用 `/a2a-send`",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

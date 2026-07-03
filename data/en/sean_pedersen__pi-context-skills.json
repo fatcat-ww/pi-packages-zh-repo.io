@@ -1,0 +1,13 @@
+{
+  "name": "@sean_pedersen/pi-context-skills",
+  "path": "/packages/@sean_pedersen/pi-context-skills",
+  "url": "https://pi.dev/packages/@sean_pedersen/pi-context-skills",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 46,
+  "date_ms": 1779807391290,
+  "description_en": "Pi coding agent extension that uses project context and the active LLM to select only relevant skills per project",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

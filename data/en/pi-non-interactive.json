@@ -1,0 +1,13 @@
+{
+  "name": "pi-non-interactive",
+  "path": "/packages/pi-non-interactive",
+  "url": "https://pi.dev/packages/pi-non-interactive",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 32,
+  "date_ms": 1771972940976,
+  "description_en": "Prevent agent hangs on interactive commands — sets GIT_EDITOR=true, PAGER=cat, etc. for all bash executions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

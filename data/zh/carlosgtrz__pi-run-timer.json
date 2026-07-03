@@ -1,0 +1,6 @@
+{
+  "name": "@carlosgtrz/pi-run-timer",
+  "description_en": "Pi extension that shows elapsed, previous, and longest agent run times in the footer.",
+  "description_zh": "在页脚显示当前、先前和最长代理运行时间的 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

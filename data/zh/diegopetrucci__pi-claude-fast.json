@@ -1,0 +1,6 @@
+{
+  "name": "@diegopetrucci/pi-claude-fast",
+  "description_en": "A pi extension that enables Anthropic Claude Fast mode for supported Claude Opus models by injecting speed=fast.",
+  "description_zh": "Pi 扩展，通过注入 speed=fast 为支持的 Claude Opus 模型启用 Anthropic Claude 快速模式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@aphotic/pi-mux-subagents",
+  "path": "/packages/@aphotic/pi-mux-subagents",
+  "url": "https://pi.dev/packages/@aphotic/pi-mux-subagents",
+  "types": "",
+  "type_list": [],
+  "downloads": 560,
+  "date_ms": 1781230229384,
+  "description_en": "Interactive + headless subagent framework for pi and Claude Code, with mux-pane support, sync/async orchestration, and a multi-CLI design.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

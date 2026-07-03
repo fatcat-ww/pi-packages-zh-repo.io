@@ -1,0 +1,11 @@
+{
+  "name": "@m4riok/pi-ide-bridge",
+  "path": "/packages/@m4riok/pi-ide-bridge",
+  "url": "https://pi.dev/packages/@m4riok/pi-ide-bridge",
+  "types": "",
+  "type_list": [],
+  "downloads": 307,
+  "date_ms": 1781314016598,
+  "description_en": "Pi extension for VS Code diff approval workflows and editor context bridging.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

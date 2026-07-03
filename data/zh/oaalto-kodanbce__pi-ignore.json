@@ -1,0 +1,6 @@
+{
+  "name": "@oaalto-kodanbce/pi-ignore",
+  "description_en": "Pi extension: .piignore negation rules make selected gitignored files discoverable to the agent",
+  "description_zh": "Pi 扩展：.piignore 否定规则使选定的 gitignored 文件对代理可见",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

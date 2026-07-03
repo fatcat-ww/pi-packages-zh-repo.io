@@ -1,0 +1,13 @@
+{
+  "name": "pi-open-browser",
+  "path": "/packages/pi-open-browser",
+  "url": "https://pi.dev/packages/pi-open-browser",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 20,
+  "date_ms": 1775925397911,
+  "description_en": "A pi extension to open URLs in the user's default browser",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

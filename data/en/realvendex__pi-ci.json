@@ -1,0 +1,11 @@
+{
+  "name": "@realvendex/pi-ci",
+  "path": "/packages/@realvendex/pi-ci",
+  "url": "https://pi.dev/packages/@realvendex/pi-ci",
+  "types": "",
+  "type_list": [],
+  "downloads": 70,
+  "date_ms": 1782454976894,
+  "description_en": "Pi-native GitHub Actions workflow generator for pi.dev extensions — pre-configured test, lint, build, and publish jobs.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

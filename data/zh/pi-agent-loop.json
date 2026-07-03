@@ -1,0 +1,6 @@
+{
+  "name": "pi-agent-loop",
+  "description_en": "General-purpose agent loop extension for pi. Supports goal loops (repeat until done), fixed-pass loops, and multi-stage pipelines via /loop goal, /loop passes, and /loop pipeline commands.",
+  "description_zh": "pi 的通用代理循环扩展。通过 /loop goal、/loop passes 和 /loop pipeline 命令支持目标循环（重复直到完成）、固定通道循环和多阶段管道。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

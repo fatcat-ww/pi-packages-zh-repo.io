@@ -1,0 +1,13 @@
+{
+  "name": "@false00/pi-steel",
+  "path": "/packages/@false00/pi-steel",
+  "url": "https://pi.dev/packages/@false00/pi-steel",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2226,
+  "date_ms": 1781708539259,
+  "description_en": "Production-focused Steel browser automation tools for the Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

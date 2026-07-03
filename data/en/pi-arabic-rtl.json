@@ -1,0 +1,11 @@
+{
+  "name": "pi-arabic-rtl",
+  "path": "/packages/pi-arabic-rtl",
+  "url": "https://pi.dev/packages/pi-arabic-rtl",
+  "types": "",
+  "type_list": [],
+  "downloads": 370,
+  "date_ms": 1781351464813,
+  "description_en": "Arabic/RTL rendering support patch for Pi TUI on terminals that do not handle BiDi text correctly.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

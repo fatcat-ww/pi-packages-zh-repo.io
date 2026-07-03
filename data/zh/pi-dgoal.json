@@ -1,0 +1,6 @@
+{
+  "name": "pi-dgoal",
+  "description_en": "Pi extension for durable goal loops with explicit Task Plan + build-check loop (建检循环) + auditor verification.",
+  "description_zh": "Pi 扩展，用于持久的目标循环，具有明确的任务计划 + 建检循环 + 审计员验证",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

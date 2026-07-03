@@ -1,0 +1,6 @@
+{
+  "name": "pi-threads",
+  "description_en": "Pi extension for searching and reading past conversation threads with ripgrep-powered search",
+  "description_zh": "Pi 扩展，使用 ripgrep 驱动的搜索搜索和读取过去的对话线程",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

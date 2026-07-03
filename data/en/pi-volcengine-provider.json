@@ -1,0 +1,13 @@
+{
+  "name": "pi-volcengine-provider",
+  "path": "/packages/pi-volcengine-provider",
+  "url": "https://pi.dev/packages/pi-volcengine-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 328,
+  "date_ms": 1782227022280,
+  "description_en": "Pi provider extension for Volcengine Ark Coding API models.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

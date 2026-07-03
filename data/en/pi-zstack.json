@@ -1,0 +1,14 @@
+{
+  "name": "pi-zstack",
+  "path": "/packages/pi-zstack",
+  "url": "https://pi.dev/packages/pi-zstack",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 55,
+  "date_ms": 1778212418207,
+  "description_en": "Rob Zolkos' personal Pi stack as an installable meta package.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

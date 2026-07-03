@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-deps",
+  "description_en": "Dependency health scanner. Outdated, heavy, licenses, dupes, tree.",
+  "description_zh": "依赖健康扫描器。过时、臃肿、许可证、重复、依赖树",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

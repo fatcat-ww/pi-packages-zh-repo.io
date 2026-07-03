@@ -1,0 +1,6 @@
+{
+  "name": "@apolosan/idea-refinement",
+  "description_en": "Pi Coding Agent extension that runs a forced iterative idea-refinement workflow via the /idea-refine command.",
+  "description_zh": "Pi 编码代理扩展，通过 /idea-refine 命令运行强制迭代式想法完善工作流",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@tianhai/pi-topdown-kit",
+  "path": "/packages/@tianhai/pi-topdown-kit",
+  "url": "https://pi.dev/packages/@tianhai/pi-topdown-kit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783051135108,
+  "description_en": "Scaffold-first, top-down layered workflow for AI coding agents — the skeleton IS the plan",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

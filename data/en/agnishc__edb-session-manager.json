@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-session-manager",
+  "path": "/packages/@agnishc/edb-session-manager",
+  "url": "https://pi.dev/packages/@agnishc/edb-session-manager",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 604,
+  "date_ms": 1782119186922,
+  "description_en": "Pi extension: browse, resume, rename, and delete sessions with fuzzy search",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-child-agent",
+  "path": "/packages/pi-child-agent",
+  "url": "https://pi.dev/packages/pi-child-agent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783000496917,
+  "description_en": "Native Windows-friendly child-agent workflow extension for Pi. Spawn isolated worker agents for code audit, delegated tasks, and sub-process management.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

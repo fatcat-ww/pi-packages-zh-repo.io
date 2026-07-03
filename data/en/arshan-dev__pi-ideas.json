@@ -1,0 +1,13 @@
+{
+  "name": "@arshan-dev/pi-ideas",
+  "path": "/packages/@arshan-dev/pi-ideas",
+  "url": "https://pi.dev/packages/@arshan-dev/pi-ideas",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 294,
+  "date_ms": 1777080962351,
+  "description_en": "Idea garden extension for pi: capture, browse, expand, combine, and ship ideas from slash commands.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

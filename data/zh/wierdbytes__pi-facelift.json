@@ -1,0 +1,6 @@
+{
+  "name": "@wierdbytes/pi-facelift",
+  "description_en": "Cosmetic facelift for built-in pi tool output — open-right rounded frames, syntax-highlighted reads, status-aware bash summaries, find/grep.",
+  "description_zh": "内置 pi 工具输出的美容改造 — 右侧开放的圆角框架、语法高亮读取、状态感知的 bash 摘要、查找/搜索。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

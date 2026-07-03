@@ -1,0 +1,13 @@
+{
+  "name": "@touchtechclub/pi-oc-todo",
+  "path": "/packages/@touchtechclub/pi-oc-todo",
+  "url": "https://pi.dev/packages/@touchtechclub/pi-oc-todo",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 618,
+  "date_ms": 1781318364989,
+  "description_en": "Pi coding-agent extension: structured todo list tracking, ACP plan-compatible. Opencode-inspired.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

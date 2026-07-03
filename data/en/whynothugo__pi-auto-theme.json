@@ -1,0 +1,11 @@
+{
+  "name": "@whynothugo/pi-auto-theme",
+  "path": "/packages/@whynothugo/pi-auto-theme",
+  "url": "https://pi.dev/packages/@whynothugo/pi-auto-theme",
+  "types": "",
+  "type_list": [],
+  "downloads": 58,
+  "date_ms": 1778450265809,
+  "description_en": "Pi extension to automatically switch theme based on terminal dark/light mode.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

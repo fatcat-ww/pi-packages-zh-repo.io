@@ -1,0 +1,13 @@
+{
+  "name": "@llblab/pi-telegram",
+  "path": "/packages/@llblab/pi-telegram",
+  "url": "https://pi.dev/packages/@llblab/pi-telegram",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 6304,
+  "date_ms": 1783029248087,
+  "description_en": "Telegram runtime adapter for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

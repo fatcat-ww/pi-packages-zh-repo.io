@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-validate",
+  "path": "/packages/@artale/pi-validate",
+  "url": "https://pi.dev/packages/@artale/pi-validate",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 43,
+  "date_ms": 1772982574880,
+  "description_en": "Production readiness validator. Score projects on code, tests, docs, config, deploy. Inspired by MrE's system-validator-100.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

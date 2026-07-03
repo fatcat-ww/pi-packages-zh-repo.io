@@ -1,0 +1,6 @@
+{
+  "name": "pi-feishu",
+  "description_en": "Pi extension: remote control Pi via Feishu (飞书) Bot API — WebSocket chat bridge using official Lark SDK",
+  "description_zh": "Pi 扩展：通过 Feishu（飞书）Bot API 远程控制 Pi — 使用官方 Lark SDK 的 WebSocket 聊天桥接",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

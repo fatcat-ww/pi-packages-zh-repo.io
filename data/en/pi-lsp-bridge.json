@@ -1,0 +1,13 @@
+{
+  "name": "pi-lsp-bridge",
+  "path": "/packages/pi-lsp-bridge",
+  "url": "https://pi.dev/packages/pi-lsp-bridge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 166,
+  "date_ms": 1779133376392,
+  "description_en": "A config-driven Pi extension that connects language servers over stdio and exposes them as Pi tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

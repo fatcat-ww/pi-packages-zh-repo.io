@@ -1,0 +1,13 @@
+{
+  "name": "pi-catppuccin-footer",
+  "path": "/packages/pi-catppuccin-footer",
+  "url": "https://pi.dev/packages/pi-catppuccin-footer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 73,
+  "date_ms": 1778520412674,
+  "description_en": "A Catppuccin/tmux-style configurable footer extension for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

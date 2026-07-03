@@ -1,0 +1,11 @@
+{
+  "name": "tdd-enforcer",
+  "path": "/packages/tdd-enforcer",
+  "url": "https://pi.dev/packages/tdd-enforcer",
+  "types": "",
+  "type_list": [],
+  "downloads": 3995,
+  "date_ms": 1782954611504,
+  "description_en": "TDD enforcer extension for the pi coding agent — enforces Red-Green-Refactor phases with file access restrictions and transition gates",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

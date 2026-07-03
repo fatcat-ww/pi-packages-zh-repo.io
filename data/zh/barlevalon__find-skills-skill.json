@@ -1,0 +1,6 @@
+{
+  "name": "@barlevalon/find-skills-skill",
+  "description_en": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express interest in extending capabilities. This skill should be use...",
+  "description_zh": "当用户询问\"我如何做 X\"、\"为 X 找一个技能\"、\"是否有可以...的技能\"或表达对扩展功能的兴趣时，帮助用户发现和安装代理技能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

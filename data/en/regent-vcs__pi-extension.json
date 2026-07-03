@@ -1,0 +1,11 @@
+{
+  "name": "@regent-vcs/pi-extension",
+  "path": "/packages/@regent-vcs/pi-extension",
+  "url": "https://pi.dev/packages/@regent-vcs/pi-extension",
+  "types": "",
+  "type_list": [],
+  "downloads": 128,
+  "date_ms": 1780296163284,
+  "description_en": "Pi extension package that forwards session events to re_gent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

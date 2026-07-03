@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-slack-tracker",
+  "path": "/packages/@arvoretech/pi-slack-tracker",
+  "url": "https://pi.dev/packages/@arvoretech/pi-slack-tracker",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 85,
+  "date_ms": 1782226574127,
+  "description_en": "PI extension that pins the active Slack thread/channel link in the chat as a compact persistent widget",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@alexleekt/pi-heading",
+  "path": "/packages/@alexleekt/pi-heading",
+  "url": "https://pi.dev/packages/@alexleekt/pi-heading",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 82,
+  "date_ms": 1779859175277,
+  "description_en": "Know where you are at a glance. One-line session heading widget for the Pi agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@mrclrchtr/supi-settings",
+  "path": "/packages/@mrclrchtr/supi-settings",
+  "url": "https://pi.dev/packages/@mrclrchtr/supi-settings",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2249,
+  "date_ms": 1783012943913,
+  "description_en": "SuPi Settings extension — unified settings command for SuPi extensions via /supi-settings",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

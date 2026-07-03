@@ -1,0 +1,11 @@
+{
+  "name": "@biratkk/pi-trust-policy",
+  "path": "/packages/@biratkk/pi-trust-policy",
+  "url": "https://pi.dev/packages/@biratkk/pi-trust-policy",
+  "types": "",
+  "type_list": [],
+  "downloads": 126,
+  "date_ms": 1779790910373,
+  "description_en": "Bash command allowlist system for pi — grouped trust policies with glob matching, recursive parsing, and an interactive TUI manager",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

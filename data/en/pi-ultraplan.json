@@ -1,0 +1,11 @@
+{
+  "name": "pi-ultraplan",
+  "path": "/packages/pi-ultraplan",
+  "url": "https://pi.dev/packages/pi-ultraplan",
+  "types": "",
+  "type_list": [],
+  "downloads": 135,
+  "date_ms": 1782148992429,
+  "description_en": "Provider-agnostic ultraplan engine for Pi — fan-out planning, adversarial verification, structured plans, worktree-isolated execution. Reference adapter: fairy-tales-deepseek-openai / deepseek-v4-pro.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

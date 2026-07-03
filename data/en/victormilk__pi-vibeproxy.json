@@ -1,0 +1,13 @@
+{
+  "name": "@victormilk/pi-vibeproxy",
+  "path": "/packages/@victormilk/pi-vibeproxy",
+  "url": "https://pi.dev/packages/@victormilk/pi-vibeproxy",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 40,
+  "date_ms": 1778866747226,
+  "description_en": "Pi Coding Agent extension that exposes a CLIProxyAPIPlus (VibeProxy) instance as Anthropic and OpenAI model providers.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

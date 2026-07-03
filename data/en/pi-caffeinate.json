@@ -1,0 +1,11 @@
+{
+  "name": "pi-caffeinate",
+  "path": "/packages/pi-caffeinate",
+  "url": "https://pi.dev/packages/pi-caffeinate",
+  "types": "",
+  "type_list": [],
+  "downloads": 59,
+  "date_ms": 1771575734912,
+  "description_en": "Pi extension that keeps the machine awake while the agent is working (macOS, Linux, Windows)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

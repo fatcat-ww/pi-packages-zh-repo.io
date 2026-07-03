@@ -1,0 +1,6 @@
+{
+  "name": "@fgladisch/pi-bash-approval",
+  "description_en": "Interactive allow-list guard for Pi bash tool calls",
+  "description_zh": "Pi bash 工具调用的交互式允许列表保护",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

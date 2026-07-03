@@ -1,0 +1,6 @@
+{
+  "name": "@foister150/pi-tagging",
+  "description_en": "Tag pi sessions with path-style hierarchical tags and browse them as a tree. Adds /tag and /tag-view.",
+  "description_zh": "使用路径式分层标签标记 pi 会话并以树状结构浏览它们。添加 /tag 和 /tag-view",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

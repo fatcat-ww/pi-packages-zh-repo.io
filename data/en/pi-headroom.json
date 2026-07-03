@@ -1,0 +1,11 @@
+{
+  "name": "pi-headroom",
+  "path": "/packages/pi-headroom",
+  "url": "https://pi.dev/packages/pi-headroom",
+  "types": "",
+  "type_list": [],
+  "downloads": 398,
+  "date_ms": 1776311940784,
+  "description_en": "Transparent LLM context compression for Pi using Headroom",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

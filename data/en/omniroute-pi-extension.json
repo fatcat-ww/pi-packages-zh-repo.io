@@ -1,0 +1,13 @@
+{
+  "name": "omniroute-pi-extension",
+  "path": "/packages/omniroute-pi-extension",
+  "url": "https://pi.dev/packages/omniroute-pi-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 50,
+  "date_ms": 1775416922673,
+  "description_en": "Pi Coding Agent extension for OmniRoute — manage combos, browse providers, and see which model actually served each response in the status bar",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

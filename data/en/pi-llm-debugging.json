@@ -1,0 +1,13 @@
+{
+  "name": "pi-llm-debugging",
+  "path": "/packages/pi-llm-debugging",
+  "url": "https://pi.dev/packages/pi-llm-debugging",
+  "types": "prompt",
+  "type_list": [
+    "prompt"
+  ],
+  "downloads": 71,
+  "date_ms": 1778230654231,
+  "description_en": "Saves LLM provider request payloads to the project's .pi folder for per-project debugging",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

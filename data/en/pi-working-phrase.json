@@ -1,0 +1,13 @@
+{
+  "name": "pi-working-phrase",
+  "path": "/packages/pi-working-phrase",
+  "url": "https://pi.dev/packages/pi-working-phrase",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 63,
+  "date_ms": 1779131827907,
+  "description_en": "A tiny Pi extension that replaces Pi's working status with shuffled phrases, a colored spinner, and an animated shine gradient.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-agent-flow",
+  "path": "/packages/pi-agent-flow",
+  "url": "https://pi.dev/packages/pi-agent-flow",
+  "types": "",
+  "type_list": [],
+  "downloads": 5185,
+  "date_ms": 1783009095481,
+  "description_en": "Flow-state transition extension for Pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

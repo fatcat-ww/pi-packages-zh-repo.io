@@ -1,0 +1,11 @@
+{
+  "name": "@aphotic/pi-flow-ux",
+  "path": "/packages/@aphotic/pi-flow-ux",
+  "url": "https://pi.dev/packages/@aphotic/pi-flow-ux",
+  "types": "",
+  "type_list": [],
+  "downloads": 1006,
+  "date_ms": 1781293325054,
+  "description_en": "Optional UX layer for pi-flow: an always-on border-status editor, a custom startup header, the Nord theme, and a single unified /tui configuration (tui.json).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

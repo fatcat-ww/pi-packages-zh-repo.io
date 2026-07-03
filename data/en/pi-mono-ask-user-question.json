@@ -1,0 +1,13 @@
+{
+  "name": "pi-mono-ask-user-question",
+  "path": "/packages/pi-mono-ask-user-question",
+  "url": "https://pi.dev/packages/pi-mono-ask-user-question",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 179,
+  "date_ms": 1778280196474,
+  "description_en": "Pi extension for asking users structured interactive questions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

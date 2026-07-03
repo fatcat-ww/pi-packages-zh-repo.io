@@ -1,0 +1,11 @@
+{
+  "name": "pi-observational-memory-extension",
+  "path": "/packages/pi-observational-memory-extension",
+  "url": "https://pi.dev/packages/pi-observational-memory-extension",
+  "types": "",
+  "type_list": [],
+  "downloads": 822,
+  "date_ms": 1782213726865,
+  "description_en": "Mastra-style Observational Memory extension for Pi compaction and runtime context.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

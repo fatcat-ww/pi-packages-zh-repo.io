@@ -1,0 +1,6 @@
+{
+  "name": "pi-green-loop",
+  "description_en": "Keep the build green: a polyglot, affected-test-scoped feedback loop for AI coding agents (Node/Python/Go/Rust/Make). Use as a CLI, an MCP server, a Claude/Cursor skill, or a pi extension.",
+  "description_zh": "保持构建绿色：AI 编码代理的多语言、受影响测试范围反馈循环（Node/Python/Go/Rust/Make）。可作为 CLI、MCP 服务器、Claude/Cursor 技能或 pi 扩展使用。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-model-switch",
+  "path": "/packages/pi-model-switch",
+  "url": "https://pi.dev/packages/pi-model-switch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 221,
+  "date_ms": 1776149117545,
+  "description_en": "Model switching extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

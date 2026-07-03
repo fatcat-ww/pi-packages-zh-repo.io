@@ -1,0 +1,13 @@
+{
+  "name": "@aliou/pi-synthetic",
+  "path": "/packages/@aliou/pi-synthetic",
+  "url": "https://pi.dev/packages/@aliou/pi-synthetic",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2061,
+  "date_ms": 1782940070731,
+  "description_en": "![banner](https://assets.aliou.me/github/aliou/pi-synthetic/banner.png)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

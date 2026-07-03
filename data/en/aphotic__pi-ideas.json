@@ -1,0 +1,11 @@
+{
+  "name": "@aphotic/pi-ideas",
+  "path": "/packages/@aphotic/pi-ideas",
+  "url": "https://pi.dev/packages/@aphotic/pi-ideas",
+  "types": "",
+  "type_list": [],
+  "downloads": 566,
+  "date_ms": 1781293290337,
+  "description_en": "Standalone, configurable idea-capture extension for Pi: an `idea` tool and `/ideas` browser backed by docs/ideas/<8hex>.md artifacts, with JSON-configurable work-menu actions, shortcuts, refine prompt, and command name.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

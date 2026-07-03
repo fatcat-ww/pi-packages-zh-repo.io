@@ -1,0 +1,13 @@
+{
+  "name": "video-paste",
+  "path": "/packages/video-paste",
+  "url": "https://pi.dev/packages/video-paste",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 37,
+  "date_ms": 1773630413490,
+  "description_en": "Pi extension that adds video paste support and video-aware inspection through the read tool.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@malinamnam/pi-phone",
+  "path": "/packages/@malinamnam/pi-phone",
+  "url": "https://pi.dev/packages/@malinamnam/pi-phone",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 178,
+  "date_ms": 1774236896630,
+  "description_en": "Phone-first remote UI extension for Pi with Tailscale-friendly access",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

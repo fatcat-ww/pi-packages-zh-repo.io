@@ -1,0 +1,6 @@
+{
+  "name": "@gonrocca/devteam-pi",
+  "description_en": "devteam-pi — an installable pi (pi.dev) package that ships a role-based development team (architect, backend, frontend, qa, reviewer, devops, dispatcher) plus a single /devteam orchestrator command that triages a task and routes it through the relevant ro",
+  "description_zh": "devteam-pi — 可安装的 pi (pi.dev) 包，提供基于角色的开发团队（架构师、后端、前端、QA、审查者、DevOps、调度员）和单个 /devteam 编排器命令，该命令对任务进行分类并通过相关角色路由",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

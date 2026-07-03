@@ -1,0 +1,13 @@
+{
+  "name": "@capyup/pi-obsidian",
+  "path": "/packages/@capyup/pi-obsidian",
+  "url": "https://pi.dev/packages/@capyup/pi-obsidian",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 67,
+  "date_ms": 1778488128087,
+  "description_en": "pi extension that wraps the Obsidian CLI as typed tools — read, list, search, outline, create, append, open, backlinks, tags, and daily-append against the active vault.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@kylebrodeur/pi-model-discovery",
+  "description_en": "Auto-discover local model providers (Ollama) and register their models with Pi on startup. Per-model context windows and capabilities, no /reload required.",
+  "description_zh": "自动发现本地模型提供者（Ollama）并在启动时将其模型注册到 Pi。每个模型的上下文窗口和功能，无需 /reload。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

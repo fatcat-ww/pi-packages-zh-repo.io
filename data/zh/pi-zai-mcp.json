@@ -1,0 +1,6 @@
+{
+  "name": "pi-zai-mcp",
+  "description_en": "Unofficial pi package that exposes Z.ai MCP server tools for web search, URL reading, repository reading, and vision workflows.",
+  "description_zh": "非官方 pi 包，暴露 Z.ai MCP 服务器工具用于网络搜索、URL 读取、仓库读取和视觉工作流",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

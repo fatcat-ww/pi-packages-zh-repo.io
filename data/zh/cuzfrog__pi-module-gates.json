@@ -1,0 +1,6 @@
+{
+  "name": "@cuzfrog/pi-module-gates",
+  "description_en": "pi extension that controls the entropy of the codebase by enforcing code module boundaries.",
+  "description_zh": "pi 扩展，通过强制执行代码模块边界来控制代码库的熵。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

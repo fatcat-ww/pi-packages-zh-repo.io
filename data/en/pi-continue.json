@@ -1,0 +1,13 @@
+{
+  "name": "pi-continue",
+  "path": "/packages/pi-continue",
+  "url": "https://pi.dev/packages/pi-continue",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 601,
+  "date_ms": 1779861574206,
+  "description_en": "Mid-turn continuation for long Pi tool runs: compact safely before context overflow, then resume the same session from a structured handoff ledger.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

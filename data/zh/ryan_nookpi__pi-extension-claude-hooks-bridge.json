@@ -1,0 +1,6 @@
+{
+  "name": "@ryan_nookpi/pi-extension-claude-hooks-bridge",
+  "description_en": "Bridge Claude Code hooks (.claude/settings.json) into pi extension lifecycle events.",
+  "description_zh": "将 Claude Code 钩子 (.claude/settings.json) 桥接到 pi 扩展生命周期事件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

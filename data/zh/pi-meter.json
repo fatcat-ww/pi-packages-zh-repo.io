@@ -1,0 +1,6 @@
+{
+  "name": "pi-meter",
+  "description_en": "LLM spend tracking, budget alerts, auto-downshift, and hard cutoff for AI coding agents — as a CLI, an MCP server, a Claude/Cursor skill, or a pi extension.",
+  "description_zh": "AI 编码代理的 LLM 支出跟踪、预算警报、自动降级和硬截止 — 作为 CLI、MCP 服务器、Claude/Cursor 技能或 pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

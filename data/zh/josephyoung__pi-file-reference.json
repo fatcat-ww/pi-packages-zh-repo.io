@@ -1,0 +1,6 @@
+{
+  "name": "@josephyoung/pi-file-reference",
+  "description_en": "Pi extension: resolve @filepath (files & directories) in AGENTS.md, inject into system prompt",
+  "description_zh": "Pi 扩展：在 AGENTS.md 中解析 @filepath（文件和目录），注入到系统提示中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

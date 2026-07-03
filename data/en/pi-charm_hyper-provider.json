@@ -1,0 +1,11 @@
+{
+  "name": "pi-charm_hyper-provider",
+  "path": "/packages/pi-charm_hyper-provider",
+  "url": "https://pi.dev/packages/pi-charm_hyper-provider",
+  "types": "",
+  "type_list": [],
+  "downloads": 705,
+  "date_ms": 1781525903395,
+  "description_en": "Charm Hyper model provider extension for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

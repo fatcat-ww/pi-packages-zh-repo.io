@@ -1,0 +1,11 @@
+{
+  "name": "@fgladisch/pi-bash-approval",
+  "path": "/packages/@fgladisch/pi-bash-approval",
+  "url": "https://pi.dev/packages/@fgladisch/pi-bash-approval",
+  "types": "",
+  "type_list": [],
+  "downloads": 626,
+  "date_ms": 1782725325823,
+  "description_en": "Interactive allow-list guard for Pi bash tool calls",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

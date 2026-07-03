@@ -1,0 +1,13 @@
+{
+  "name": "@badliveware/pi-pr-upstream-status",
+  "path": "/packages/@badliveware/pi-pr-upstream-status",
+  "url": "https://pi.dev/packages/@badliveware/pi-pr-upstream-status",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 64,
+  "date_ms": 1777677058648,
+  "description_en": "Show upstream pull request status for the current branch in Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

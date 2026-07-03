@@ -1,0 +1,13 @@
+{
+  "name": "ralph-loop-pi",
+  "path": "/packages/ralph-loop-pi",
+  "url": "https://pi.dev/packages/ralph-loop-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 77,
+  "date_ms": 1778967005733,
+  "description_en": "Ralph loop extension for pi-coding-agent - looped subagent execution",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

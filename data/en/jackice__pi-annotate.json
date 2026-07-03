@@ -1,0 +1,13 @@
+{
+  "name": "@jackice/pi-annotate",
+  "path": "/packages/@jackice/pi-annotate",
+  "url": "https://pi.dev/packages/@jackice/pi-annotate",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 85,
+  "date_ms": 1779008903220,
+  "description_en": "Visual annotation extension for pi coding agent - annotate context messages and markdown documents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

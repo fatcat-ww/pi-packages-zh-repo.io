@@ -1,0 +1,11 @@
+{
+  "name": "pi-remote-control",
+  "path": "/packages/pi-remote-control",
+  "url": "https://pi.dev/packages/pi-remote-control",
+  "types": "",
+  "type_list": [],
+  "downloads": 293,
+  "date_ms": 1782265564294,
+  "description_en": "Authenticated remote control for Pi sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

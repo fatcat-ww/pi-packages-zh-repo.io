@@ -1,0 +1,11 @@
+{
+  "name": "@ifi/pi-web-remote",
+  "path": "/packages/@ifi/pi-web-remote",
+  "url": "https://pi.dev/packages/@ifi/pi-web-remote",
+  "types": "",
+  "type_list": [],
+  "downloads": 231,
+  "date_ms": 1777355449096,
+  "description_en": "Pi extension: /remote command for sharing sessions via web UI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

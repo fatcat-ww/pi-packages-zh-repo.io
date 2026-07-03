@@ -1,0 +1,13 @@
+{
+  "name": "@gerdloos/dev-flow-skill",
+  "path": "/packages/@gerdloos/dev-flow-skill",
+  "url": "https://pi.dev/packages/@gerdloos/dev-flow-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 105,
+  "date_ms": 1780777996799,
+  "description_en": "A structured project development workflow skill for Pi's LLM harness. Handles rewrites, staging, and multi-target deployment.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

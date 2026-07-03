@@ -1,0 +1,6 @@
+{
+  "name": "pi-hide-messages",
+  "description_en": "Pi extension for hiding older TUI chat history while preserving full session context, with /hide-messages and /restore-messages controls.",
+  "description_zh": "Pi 扩展，用于隐藏较旧的 TUI 聊天历史，同时保留完整会话上下文，具有 /hide-messages 和 /restore-messages 控制",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

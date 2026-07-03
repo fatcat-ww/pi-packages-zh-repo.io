@@ -1,0 +1,6 @@
+{
+  "name": "pi-icm-hook",
+  "description_en": "Pi extension wrapping ICM (Infinite Context Memory) as native Pi tools and lifecycle hooks — semantic, cross-session, cross-project recall via the local icm CLI.",
+  "description_zh": "Pi 扩展，将 ICM (Infinite Context Memory) 包装为原生 Pi 工具和生命周期钩子 — 通过本地 icm CLI 实现语义化、跨会话、跨项目回忆",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

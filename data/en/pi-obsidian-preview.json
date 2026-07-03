@@ -1,0 +1,13 @@
+{
+  "name": "pi-obsidian-preview",
+  "path": "/packages/pi-obsidian-preview",
+  "url": "https://pi.dev/packages/pi-obsidian-preview",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 81,
+  "date_ms": 1777743763935,
+  "description_en": "Open the last Pi assistant response in Obsidian — /preview command and configurable keyboard shortcut",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

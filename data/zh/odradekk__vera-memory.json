@@ -1,0 +1,6 @@
+{
+  "name": "@odradekk/vera-memory",
+  "description_en": "Structured memory system for Vera agent (SQLite + FTS5)",
+  "description_zh": "Vera 代理的结构化记忆系统（SQLite + FTS5）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

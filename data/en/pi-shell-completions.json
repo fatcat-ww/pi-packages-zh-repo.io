@@ -1,0 +1,11 @@
+{
+  "name": "pi-shell-completions",
+  "path": "/packages/pi-shell-completions",
+  "url": "https://pi.dev/packages/pi-shell-completions",
+  "types": "",
+  "type_list": [],
+  "downloads": 44,
+  "date_ms": 1777290479063,
+  "description_en": "Pi extension that adds native shell completions (fish/zsh/bash) to ! and !! bash mode commands",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

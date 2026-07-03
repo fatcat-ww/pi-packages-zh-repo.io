@@ -1,0 +1,6 @@
+{
+  "name": "@rezamonangg/pi-transcript",
+  "description_en": "View pi session transcript in bat via tmux split.",
+  "description_zh": "通过 tmux 分区在 bat 中查看 pi 会话记录",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

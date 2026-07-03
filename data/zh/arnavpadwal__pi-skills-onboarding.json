@@ -1,0 +1,6 @@
+{
+  "name": "@arnavpadwal/pi-skills-onboarding",
+  "description_en": "Onboarding skill for pi — analyzes a project and produces a comprehensive context document covering architecture, dependencies, code structure, configuration, and development workflow",
+  "description_zh": "pi的入门技能 — 分析项目并生成涵盖架构、依赖项、代码结构、配置和开发工作的综合上下文文档",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

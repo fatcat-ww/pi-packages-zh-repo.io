@@ -1,0 +1,11 @@
+{
+  "name": "pi-websearch-router",
+  "path": "/packages/pi-websearch-router",
+  "url": "https://pi.dev/packages/pi-websearch-router",
+  "types": "",
+  "type_list": [],
+  "downloads": 265,
+  "date_ms": 1781073930133,
+  "description_en": "Pi web search tool that auto-detects available API keys and routes to the right provider",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-dgoal",
+  "path": "/packages/pi-dgoal",
+  "url": "https://pi.dev/packages/pi-dgoal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1167,
+  "date_ms": 1782751850021,
+  "description_en": "Pi extension for durable goal loops with explicit Task Plan + build-check loop (建检循环) + auditor verification.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-emacs",
+  "path": "/packages/pi-emacs",
+  "url": "https://pi.dev/packages/pi-emacs",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 53,
+  "date_ms": 1779097518049,
+  "description_en": "A collection of Emacs related pi tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

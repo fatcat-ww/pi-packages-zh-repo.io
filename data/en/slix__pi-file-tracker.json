@@ -1,0 +1,13 @@
+{
+  "name": "@slix/pi-file-tracker",
+  "path": "/packages/@slix/pi-file-tracker",
+  "url": "https://pi.dev/packages/@slix/pi-file-tracker",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 460,
+  "date_ms": 1780130443497,
+  "description_en": "Widget that tracks files edited by the agent and shows per-file diff stats above the input",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

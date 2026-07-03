@@ -1,0 +1,6 @@
+{
+  "name": "@jsynowiec/pi-provider-logger",
+  "description_en": "A Pi extension that logs every provider request and response to a file, and shows a short notification in the UI.",
+  "description_zh": "一个 Pi 扩展，将每个提供者请求和响应记录到文件中，并在 UI 中显示简短通知。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

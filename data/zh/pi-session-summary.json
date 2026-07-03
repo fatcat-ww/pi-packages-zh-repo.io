@@ -1,0 +1,6 @@
+{
+  "name": "pi-session-summary",
+  "description_en": "A pi extension that maintains an LLM-generated one-line session summary as the session name",
+  "description_zh": "Pi 扩展，将 LLM 生成的一行会话摘要作为会话名称维护",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

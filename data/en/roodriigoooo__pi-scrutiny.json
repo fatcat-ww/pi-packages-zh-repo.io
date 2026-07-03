@@ -1,0 +1,13 @@
+{
+  "name": "@roodriigoooo/pi-scrutiny",
+  "path": "/packages/@roodriigoooo/pi-scrutiny",
+  "url": "https://pi.dev/packages/@roodriigoooo/pi-scrutiny",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 91,
+  "date_ms": 1782184559533,
+  "description_en": "Pi Scrutiny: multi-model panel consultation for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

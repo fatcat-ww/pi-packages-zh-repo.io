@@ -1,0 +1,6 @@
+{
+  "name": "@czottmann/pi-zai-api",
+  "description_en": "Z.AI API provider extension for pi coding agent. Install with `pi install npm:@czottmann/pi-zai-api`.",
+  "description_zh": "pi 的 Z.AI API 提供者扩展。使用 `pi install npm:@czottmann/pi-zai-api` 安装。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

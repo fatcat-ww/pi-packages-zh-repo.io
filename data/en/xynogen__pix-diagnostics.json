@@ -1,0 +1,13 @@
+{
+  "name": "@xynogen/pix-diagnostics",
+  "path": "/packages/@xynogen/pix-diagnostics",
+  "url": "https://pi.dev/packages/@xynogen/pix-diagnostics",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 877,
+  "date_ms": 1782806604823,
+  "description_en": "Pi extension — compact session-touched-files widget (overrides pi-lens)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

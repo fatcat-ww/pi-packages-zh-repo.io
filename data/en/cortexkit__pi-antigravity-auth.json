@@ -1,0 +1,11 @@
+{
+  "name": "@cortexkit/pi-antigravity-auth",
+  "path": "/packages/@cortexkit/pi-antigravity-auth",
+  "url": "https://pi.dev/packages/@cortexkit/pi-antigravity-auth",
+  "types": "",
+  "type_list": [],
+  "downloads": 295,
+  "date_ms": 1781426311535,
+  "description_en": "Google Antigravity OAuth extension for pi - access Gemini 3 and Claude 4.6 using Google credentials",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

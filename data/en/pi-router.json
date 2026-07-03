@@ -1,0 +1,13 @@
+{
+  "name": "pi-router",
+  "path": "/packages/pi-router",
+  "url": "https://pi.dev/packages/pi-router",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1030,
+  "date_ms": 1782895164956,
+  "description_en": "Intelligent routing layer for pi coding agent with multi-level failover, circuit breaker, and comprehensive observability",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

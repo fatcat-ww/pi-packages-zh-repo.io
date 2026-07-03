@@ -1,0 +1,11 @@
+{
+  "name": "@ifi/pi-extension-subagents",
+  "path": "/packages/@ifi/pi-extension-subagents",
+  "url": "https://pi.dev/packages/@ifi/pi-extension-subagents",
+  "types": "",
+  "type_list": [],
+  "downloads": 558,
+  "date_ms": 1777355446889,
+  "description_en": "Full-featured subagent orchestration extension for pi, built on top of nicobailon/pi-subagents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

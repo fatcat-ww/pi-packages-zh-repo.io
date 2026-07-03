@@ -1,0 +1,13 @@
+{
+  "name": "@ogulcancelik/pi-herdr",
+  "path": "/packages/@ogulcancelik/pi-herdr",
+  "url": "https://pi.dev/packages/@ogulcancelik/pi-herdr",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 411,
+  "date_ms": 1778979177311,
+  "description_en": "Herdr-native workspace, tab, and pane orchestration for pi with output watches and agent status waits.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

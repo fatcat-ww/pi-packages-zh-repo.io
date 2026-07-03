@@ -1,0 +1,6 @@
+{
+  "name": "@originintelligence/pi-figma",
+  "description_en": "pi extension: token-efficient Figma file access via REST. Never returns raw Figma JSON — every tool transforms to a compact, LLM-friendly shape and caches by file version.",
+  "description_zh": "pi 扩展：通过 REST 进行高效的 Figma 文件访问。从不返回原始 Figma JSON — 每个工具都转换为紧凑的、LLM 友好的形状，并按文件版本缓存。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@nilskluewer/pi-vertex-gemini-search",
+  "description_en": "Vertex AI Gemini grounded web search and research tools for Pi, using Google Cloud Agent Platform credentials.",
+  "description_zh": "使用 Google Cloud Agent Platform 凭证的 Vertex AI Gemini 基础网络搜索和研究工具。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

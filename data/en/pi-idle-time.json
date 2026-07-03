@@ -1,0 +1,13 @@
+{
+  "name": "pi-idle-time",
+  "path": "/packages/pi-idle-time",
+  "url": "https://pi.dev/packages/pi-idle-time",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 262,
+  "date_ms": 1782635635263,
+  "description_en": "Idle time display + injection, goal setting and reminders, and idle heartbeats. Statusline integration.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

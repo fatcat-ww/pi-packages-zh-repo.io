@@ -1,0 +1,13 @@
+{
+  "name": "@heyhuynhgiabuu/pi-task",
+  "path": "/packages/@heyhuynhgiabuu/pi-task",
+  "url": "https://pi.dev/packages/@heyhuynhgiabuu/pi-task",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1284,
+  "date_ms": 1783018856165,
+  "description_en": "Delegating task/subagent extension for Pi: foreground/background subagents, widgets, tmux observability, SDK fallback.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

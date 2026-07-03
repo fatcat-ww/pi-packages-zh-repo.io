@@ -1,0 +1,6 @@
+{
+  "name": "pi-subagent-in-memory",
+  "description_en": "In-process subagent tool for pi with live TUI card widgets, JSONL session logging, and zero system-prompt overhead.",
+  "description_zh": "Pi 的进程内子代理工具，具有实时 TUI 卡片小部件、JSONL 会话日志记录和零系统提示开销。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-child-agent",
+  "description_en": "Native Windows-friendly child-agent workflow extension for Pi. Spawn isolated worker agents for code audit, delegated tasks, and sub-process management.",
+  "description_zh": "Pi 的原生 Windows 友好子代理工作流扩展。为代码审计、委托任务和子进程管理生成隔离的工作代理。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@xl0/show-sysprompt",
+  "path": "/packages/@xl0/show-sysprompt",
+  "url": "https://pi.dev/packages/@xl0/show-sysprompt",
+  "types": "",
+  "type_list": [],
+  "downloads": 115,
+  "date_ms": 1778127622870,
+  "description_en": "Tiny Pi extension that shows the rendered system prompt and active tool schemas at startup.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-validate",
+  "description_en": "Production readiness validator. Score projects on code, tests, docs, config, deploy. Inspired by MrE's system-validator-100.",
+  "description_zh": "生产就绪验证器。根据代码、测试、文档、配置、部署对项目评分。灵感来自 MrE 的 system-validator-100",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

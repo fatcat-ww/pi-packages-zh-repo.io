@@ -1,0 +1,6 @@
+{
+  "name": "@realvendex/pi-log",
+  "description_en": "Structured logging and monitoring for pi.dev extensions — log piping, tailing, and rotation",
+  "description_zh": "pi.dev 扩展的结构化日志记录和监控 — 日志管道、跟踪和轮转",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

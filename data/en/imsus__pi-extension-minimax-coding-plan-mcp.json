@@ -1,0 +1,13 @@
+{
+  "name": "@imsus/pi-extension-minimax-coding-plan-mcp",
+  "path": "/packages/@imsus/pi-extension-minimax-coding-plan-mcp",
+  "url": "https://pi.dev/packages/@imsus/pi-extension-minimax-coding-plan-mcp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 223,
+  "date_ms": 1775138536203,
+  "description_en": "MiniMax Coding Plan extension for pi coding agent - provides web_search and understand_image tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

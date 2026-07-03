@@ -1,0 +1,6 @@
+{
+  "name": "@barlevalon/caveman-commit-skill",
+  "description_en": "A release-aware Agent Skill for terse commit messages using scope-first subjects and optional Conventional Commit metadata.",
+  "description_zh": "一个发布感知的 Agent 技能，使用基于范围的简洁提交信息和可选的 Conventional Commit 元数据。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

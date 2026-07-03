@@ -1,0 +1,13 @@
+{
+  "name": "@monotykamary/pi-computer-use",
+  "path": "/packages/@monotykamary/pi-computer-use",
+  "url": "https://pi.dev/packages/@monotykamary/pi-computer-use",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783014082033,
+  "description_en": "macOS computer-use for Pi via harness server and CLI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

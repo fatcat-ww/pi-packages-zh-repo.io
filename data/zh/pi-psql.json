@@ -1,0 +1,6 @@
+{
+  "name": "pi-psql",
+  "description_en": "Secure PostgreSQL client skill for pi - query databases with encrypted credentials",
+  "description_zh": "适用于 pi 的安全 PostgreSQL 客户端技能 — 使用加密凭据查询数据库",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

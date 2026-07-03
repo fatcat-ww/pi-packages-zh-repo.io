@@ -1,0 +1,11 @@
+{
+  "name": "pi-webwright",
+  "path": "/packages/pi-webwright",
+  "url": "https://pi.dev/packages/pi-webwright",
+  "types": "",
+  "type_list": [],
+  "downloads": 127,
+  "date_ms": 1779791378544,
+  "description_en": "Pi package that ports Microsoft's Webwright code-as-action browser automation skill and slash commands.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

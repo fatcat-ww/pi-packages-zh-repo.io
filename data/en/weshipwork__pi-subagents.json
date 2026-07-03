@@ -1,0 +1,13 @@
+{
+  "name": "@weshipwork/pi-subagents",
+  "path": "/packages/@weshipwork/pi-subagents",
+  "url": "https://pi.dev/packages/@weshipwork/pi-subagents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 162,
+  "date_ms": 1781537269819,
+  "description_en": "Fork of tintinweb pi-subagents with read-only mirror observation support for pi-herd.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

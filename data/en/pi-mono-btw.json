@@ -1,0 +1,13 @@
+{
+  "name": "pi-mono-btw",
+  "path": "/packages/pi-mono-btw",
+  "url": "https://pi.dev/packages/pi-mono-btw",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 128,
+  "date_ms": 1778280199075,
+  "description_en": "Pi extension that answers side questions while the main agent keeps running",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

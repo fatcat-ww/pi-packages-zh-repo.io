@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-plan-mode-toggle",
+  "path": "/packages/@firstpick/pi-extension-plan-mode-toggle",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-plan-mode-toggle",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 456,
+  "date_ms": 1780954496259,
+  "description_en": "Toggleable planning mode extension for Pi with model switching, mandatory planning survey, and PLAN.md quality guards.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

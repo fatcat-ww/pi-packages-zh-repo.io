@@ -1,0 +1,6 @@
+{
+  "name": "lumen-pi-extension",
+  "description_en": "Pi extension that opens lumen on the diff after each agent turn and feeds annotations back as the next user message",
+  "description_zh": "Pi 扩展，在每个代理轮次后打开差异上的 lumen，并将注释反馈作为下一条用户消息",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

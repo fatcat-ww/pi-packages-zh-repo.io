@@ -1,0 +1,6 @@
+{
+  "name": "@ricoyudog/pi-goal-hermes",
+  "description_en": "Goal-driven autonomous continuation for Pi coding agent - set a goal and let the agent work until done, with LLM-based judge evaluation",
+  "description_zh": "Pi编码代理的目标驱动自主持续 — 设置目标并让代理完成工作，基于LLM的评估",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@qhn/pi-goal",
+  "path": "/packages/@qhn/pi-goal",
+  "url": "https://pi.dev/packages/@qhn/pi-goal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 220,
+  "date_ms": 1778441115654,
+  "description_en": "Setup-first autonomous goal mode extension for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

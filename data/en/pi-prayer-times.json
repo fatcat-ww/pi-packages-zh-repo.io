@@ -1,0 +1,13 @@
+{
+  "name": "pi-prayer-times",
+  "path": "/packages/pi-prayer-times",
+  "url": "https://pi.dev/packages/pi-prayer-times",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 64,
+  "date_ms": 1779683743491,
+  "description_en": "Islamic prayer time reminders with adzan for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

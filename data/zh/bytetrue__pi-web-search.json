@@ -1,0 +1,6 @@
+{
+  "name": "@bytetrue/pi-web-search",
+  "description_en": "Pi extension: web_search + web_fetch with a zero-config free default (Bing, works in mainland China) and pluggable providers (DuckDuckGo, Bocha, Tavily, Exa, Brave, Jina, Firecrawl).",
+  "description_zh": "Pi 扩展：web_search + web_fetch，具有零配置免费默认值（Bing，在中国大陆可用）和可插拔提供者（DuckDuckGo、Bocha、Tavily、Exa、Brave、Jina、Firecrawl）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

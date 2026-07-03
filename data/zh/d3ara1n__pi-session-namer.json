@@ -1,0 +1,6 @@
+{
+  "name": "@d3ara1n/pi-session-namer",
+  "description_en": "Auto-name pi sessions using a cheap side agent — generates concise titles from the first user message",
+  "description_zh": "使用廉价侧代理自动命名 Pi 会话 — 从第一条用户消息生成简洁标题",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

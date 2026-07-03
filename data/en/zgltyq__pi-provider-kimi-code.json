@@ -1,0 +1,13 @@
+{
+  "name": "@zgltyq/pi-provider-kimi-code",
+  "path": "/packages/@zgltyq/pi-provider-kimi-code",
+  "url": "https://pi.dev/packages/@zgltyq/pi-provider-kimi-code",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 172,
+  "date_ms": 1776802747547,
+  "description_en": "Kimi Code plan in pi-coding-agent — fork of pi-provider-kimi-code with bearer-auth fix for OAuth tokens",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

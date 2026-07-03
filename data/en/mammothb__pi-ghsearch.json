@@ -1,0 +1,11 @@
+{
+  "name": "@mammothb/pi-ghsearch",
+  "path": "/packages/@mammothb/pi-ghsearch",
+  "url": "https://pi.dev/packages/@mammothb/pi-ghsearch",
+  "types": "",
+  "type_list": [],
+  "downloads": 1743,
+  "date_ms": 1782826573003,
+  "description_en": "A pi extension that adds a ghsearch tool for searching GitHub code",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

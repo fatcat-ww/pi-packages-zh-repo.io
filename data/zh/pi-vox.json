@@ -1,0 +1,6 @@
+{
+  "name": "pi-vox",
+  "description_en": "Lightweight voice dictation for Pi: /voice-toggle records locally and transcribes with ElevenLabs.",
+  "description_zh": "Pi 的轻量级语音听写 — /voice-toggle 在本地录制并使用 ElevenLabs 转录",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

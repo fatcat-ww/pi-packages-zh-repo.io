@@ -1,0 +1,11 @@
+{
+  "name": "@fingerskier/pi-skidl",
+  "path": "/packages/@fingerskier/pi-skidl",
+  "url": "https://pi.dev/packages/@fingerskier/pi-skidl",
+  "types": "",
+  "type_list": [],
+  "downloads": 74,
+  "date_ms": 1778536228195,
+  "description_en": "SKiDL circuit-design MCP plugin for Pi with a self-bootstrapping Python server",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

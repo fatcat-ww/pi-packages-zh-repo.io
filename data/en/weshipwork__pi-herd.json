@@ -1,0 +1,11 @@
+{
+  "name": "@weshipwork/pi-herd",
+  "path": "/packages/@weshipwork/pi-herd",
+  "url": "https://pi.dev/packages/@weshipwork/pi-herd",
+  "types": "",
+  "type_list": [],
+  "downloads": 159,
+  "date_ms": 1781537309248,
+  "description_en": "Read-only Herdr transcript mirrors for Pi Subagents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-defluffer",
+  "path": "/packages/pi-defluffer",
+  "url": "https://pi.dev/packages/pi-defluffer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 167,
+  "date_ms": 1780884628458,
+  "description_en": "Pi extension that safely defluffs user prompts before sending them to the model.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

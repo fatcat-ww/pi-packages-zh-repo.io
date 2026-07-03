@@ -1,0 +1,14 @@
+{
+  "name": "pi-prompt-restore",
+  "path": "/packages/pi-prompt-restore",
+  "url": "https://pi.dev/packages/pi-prompt-restore",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 0,
+  "date_ms": 1782558111911,
+  "description_en": "Pi extension that saves discarded prompts when Ctrl+C clears the editor - recover with the Up arrow",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

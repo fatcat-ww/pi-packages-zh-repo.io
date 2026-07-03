@@ -1,0 +1,6 @@
+{
+  "name": "pi-cc-router",
+  "description_en": "Pi coding agent extension that routes LLM calls through Claude Code CLI",
+  "description_zh": "将 LLM 调用通过 Claude Code CLI 路由的 Pi 编码代理扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

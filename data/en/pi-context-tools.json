@@ -1,0 +1,11 @@
+{
+  "name": "pi-context-tools",
+  "path": "/packages/pi-context-tools",
+  "url": "https://pi.dev/packages/pi-context-tools",
+  "types": "",
+  "type_list": [],
+  "downloads": 117,
+  "date_ms": 1778366745356,
+  "description_en": "A pi extension for compacting and inspecting agent context.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

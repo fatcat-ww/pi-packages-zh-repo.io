@@ -1,0 +1,13 @@
+{
+  "name": "pi-usage-dashboard",
+  "path": "/packages/pi-usage-dashboard",
+  "url": "https://pi.dev/packages/pi-usage-dashboard",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 78,
+  "date_ms": 1779482647395,
+  "description_en": "Feature-rich usage dashboard footer for Pi coding agent — live tokens, cost, context window, budget tracking, thinking level, response latency, and more",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

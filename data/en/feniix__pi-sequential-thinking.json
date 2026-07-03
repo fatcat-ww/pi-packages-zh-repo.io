@@ -1,0 +1,13 @@
+{
+  "name": "@feniix/pi-sequential-thinking",
+  "path": "/packages/@feniix/pi-sequential-thinking",
+  "url": "https://pi.dev/packages/@feniix/pi-sequential-thinking",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 830,
+  "date_ms": 1780067121690,
+  "description_en": "Sequential Thinking extension for pi — structured progressive thinking through defined stages, also runnable as an MCP stdio server",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

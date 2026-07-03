@@ -1,0 +1,13 @@
+{
+  "name": "@bonsai-ai/pi-extension",
+  "path": "/packages/@bonsai-ai/pi-extension",
+  "url": "https://pi.dev/packages/@bonsai-ai/pi-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 65,
+  "date_ms": 1773195690120,
+  "description_en": "Bonsai provider extension for pi-coding-agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

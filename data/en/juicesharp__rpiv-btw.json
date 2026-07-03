@@ -1,0 +1,13 @@
+{
+  "name": "@juicesharp/rpiv-btw",
+  "path": "/packages/@juicesharp/rpiv-btw",
+  "url": "https://pi.dev/packages/@juicesharp/rpiv-btw",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 9463,
+  "date_ms": 1781526932595,
+  "description_en": "Pi extension. The /btw slash command, for putting a one-off side question to the same primary model without polluting the main conversation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

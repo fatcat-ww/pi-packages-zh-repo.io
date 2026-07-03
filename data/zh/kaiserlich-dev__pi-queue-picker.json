@@ -1,0 +1,6 @@
+{
+  "name": "@kaiserlich-dev/pi-queue-picker",
+  "description_en": "Pick between steering and follow-up when queuing messages in pi",
+  "description_zh": "在 pi 中排队消息时，选择引导或后续操作",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

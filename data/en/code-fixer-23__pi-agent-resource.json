@@ -1,0 +1,11 @@
+{
+  "name": "@code-fixer-23/pi-agent-resource",
+  "path": "/packages/@code-fixer-23/pi-agent-resource",
+  "url": "https://pi.dev/packages/@code-fixer-23/pi-agent-resource",
+  "types": "",
+  "type_list": [],
+  "downloads": 1602,
+  "date_ms": 1781658299572,
+  "description_en": "This extension is useful for making agent skills, propmts and subagents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

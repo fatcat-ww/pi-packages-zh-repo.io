@@ -1,0 +1,13 @@
+{
+  "name": "pi-session-context",
+  "path": "/packages/pi-session-context",
+  "url": "https://pi.dev/packages/pi-session-context",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 49,
+  "date_ms": 1778150770690,
+  "description_en": "A pi coding agent extension that tracks and displays session context (worktree, Jira ticket, GitLab MR) in the footer",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

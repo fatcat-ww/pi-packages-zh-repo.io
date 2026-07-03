@@ -1,0 +1,13 @@
+{
+  "name": "@gotgenes/pi-colgrep",
+  "path": "/packages/@gotgenes/pi-colgrep",
+  "url": "https://pi.dev/packages/@gotgenes/pi-colgrep",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 739,
+  "date_ms": 1781301067175,
+  "description_en": "Pi extension that integrates ColGrep semantic code search as an agent tool.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

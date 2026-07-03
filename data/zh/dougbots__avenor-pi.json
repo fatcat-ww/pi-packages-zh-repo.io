@@ -1,0 +1,6 @@
+{
+  "name": "@dougbots/avenor-pi",
+  "description_en": "Pi extension that registers avenor agent runs as tools in your Pi session. When you need a sub-agent to handle a well-defined task — write code, run tests, search a codebase — avenor operates in the background while you keep your session focused.",
+  "description_zh": "Pi 扩展，将 avenor 代理运行注册为您 Pi 会话中的工具。当您需要一个子代理来处理明确定义的任务 — 编写代码、运行测试、搜索代码库 — avenor 在后台运行，同时保持您的会话专注。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

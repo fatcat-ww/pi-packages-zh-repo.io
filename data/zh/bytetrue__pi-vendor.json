@@ -1,0 +1,6 @@
+{
+  "name": "@bytetrue/pi-vendor",
+  "description_en": "Pi extension: wizard for managing custom providers in ~/.pi/agent/models.json.",
+  "description_zh": "Pi 扩展：用于在 ~/.pi/agent/models.json 中管理自定义提供者的向导。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

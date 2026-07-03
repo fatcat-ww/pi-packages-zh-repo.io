@@ -1,0 +1,11 @@
+{
+  "name": "@richardgill/pi-preset",
+  "path": "/packages/@richardgill/pi-preset",
+  "url": "https://pi.dev/packages/@richardgill/pi-preset",
+  "types": "",
+  "type_list": [],
+  "downloads": 170,
+  "date_ms": 1779620466325,
+  "description_en": "Pi extension for named presets that can set model, thinking level, tools, and per-preset system prompt instructions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

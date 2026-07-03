@@ -1,0 +1,11 @@
+{
+  "name": "pi-p2p-sync",
+  "path": "/packages/pi-p2p-sync",
+  "url": "https://pi.dev/packages/pi-p2p-sync",
+  "types": "",
+  "type_list": [],
+  "downloads": 180,
+  "date_ms": 1781532727434,
+  "description_en": "Standalone CLI that pulls a Pi agent config from one reachable machine onto another over SSH.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

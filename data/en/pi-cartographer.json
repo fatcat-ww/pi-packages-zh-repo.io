@@ -1,0 +1,13 @@
+{
+  "name": "pi-cartographer",
+  "path": "/packages/pi-cartographer",
+  "url": "https://pi.dev/packages/pi-cartographer",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 338,
+  "date_ms": 1780815219439,
+  "description_en": "Pi skills for mapping codebases into graph-grounded proposals, plans, and implementation routes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "openmyna-extension",
+  "path": "/packages/openmyna-extension",
+  "url": "https://pi.dev/packages/openmyna-extension",
+  "types": "",
+  "type_list": [],
+  "downloads": 605,
+  "date_ms": 1780592846809,
+  "description_en": "Pi Coding Agent extension for OpenMyna agent-to-agent messaging (sign-then-encrypt E2EE, discovery, manifests)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

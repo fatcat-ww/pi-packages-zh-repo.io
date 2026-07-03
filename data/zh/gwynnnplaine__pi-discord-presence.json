@@ -1,0 +1,6 @@
+{
+  "name": "@gwynnnplaine/pi-discord-presence",
+  "description_en": "Discord Rich Presence for Pi — shows live agent activity (editing, reading, running commands) in your Discord status, with project, model, and a session timer.",
+  "description_zh": "Pi 的 Discord Rich Presence — 在您的 Discord 状态中显示实时代理活动（编辑、阅读、运行命令），包含项目、模型和会话计时器。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

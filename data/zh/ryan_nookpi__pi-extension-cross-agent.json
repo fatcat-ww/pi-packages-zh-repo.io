@@ -1,0 +1,6 @@
+{
+  "name": "@ryan_nookpi/pi-extension-cross-agent",
+  "description_en": "Load commands from Claude, Gemini, and Codex agent directories into pi.",
+  "description_zh": "从 Claude、Gemini 和 Codex 代理目录加载命令到 pi",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

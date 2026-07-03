@@ -1,0 +1,11 @@
+{
+  "name": "@sinamtz/pi-mempalace",
+  "path": "/packages/@sinamtz/pi-mempalace",
+  "url": "https://pi.dev/packages/@sinamtz/pi-mempalace",
+  "types": "",
+  "type_list": [],
+  "downloads": 128,
+  "date_ms": 1777015551132,
+  "description_en": "hasslefree and self-contained mempalace port for pi-coding-agent with SurrealDB-backed vector search, layered retrieval, and multi-process auto-server runtime",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

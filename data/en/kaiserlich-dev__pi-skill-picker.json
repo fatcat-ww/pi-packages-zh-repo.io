@@ -1,0 +1,13 @@
+{
+  "name": "@kaiserlich-dev/pi-skill-picker",
+  "path": "/packages/@kaiserlich-dev/pi-skill-picker",
+  "url": "https://pi.dev/packages/@kaiserlich-dev/pi-skill-picker",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 39,
+  "date_ms": 1777818975502,
+  "description_en": "Namespace-aware skill palette for pi — groups skills by category folder",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

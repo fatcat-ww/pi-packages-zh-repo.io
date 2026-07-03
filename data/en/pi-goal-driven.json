@@ -1,0 +1,13 @@
+{
+  "name": "pi-goal-driven",
+  "path": "/packages/pi-goal-driven",
+  "url": "https://pi.dev/packages/pi-goal-driven",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 152,
+  "date_ms": 1776859693495,
+  "description_en": "Goal-Driven template workflow for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

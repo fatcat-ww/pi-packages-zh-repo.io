@@ -1,0 +1,11 @@
+{
+  "name": "@ineersa/my-pi-subagents",
+  "path": "/packages/@ineersa/my-pi-subagents",
+  "url": "https://pi.dev/packages/@ineersa/my-pi-subagents",
+  "types": "",
+  "type_list": [],
+  "downloads": 110,
+  "date_ms": 1779758513175,
+  "description_en": "Subagent orchestration extension for Pi coding agent — single and parallel foreground execution, agent discovery, skill injection, model fallback",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

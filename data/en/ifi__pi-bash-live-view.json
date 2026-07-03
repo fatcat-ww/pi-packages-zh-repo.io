@@ -1,0 +1,11 @@
+{
+  "name": "@ifi/pi-bash-live-view",
+  "path": "/packages/@ifi/pi-bash-live-view",
+  "url": "https://pi.dev/packages/@ifi/pi-bash-live-view",
+  "types": "",
+  "type_list": [],
+  "downloads": 50,
+  "date_ms": 1777355415751,
+  "description_en": "PTY-backed live bash rendering for pi with a real-time terminal widget and /bash-pty command.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

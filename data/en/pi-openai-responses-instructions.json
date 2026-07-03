@@ -1,0 +1,13 @@
+{
+  "name": "pi-openai-responses-instructions",
+  "path": "/packages/pi-openai-responses-instructions",
+  "url": "https://pi.dev/packages/pi-openai-responses-instructions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783057575569,
+  "description_en": "Pi extension package that rewrites openai-responses payloads to use top-level instructions instead of system/developer input messages.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-assistant-provenance",
+  "path": "/packages/pi-assistant-provenance",
+  "url": "https://pi.dev/packages/pi-assistant-provenance",
+  "types": "",
+  "type_list": [],
+  "downloads": 35,
+  "date_ms": 1778520287174,
+  "description_en": "Gives models awareness of mid-session model switches in Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

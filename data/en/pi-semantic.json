@@ -1,0 +1,13 @@
+{
+  "name": "pi-semantic",
+  "path": "/packages/pi-semantic",
+  "url": "https://pi.dev/packages/pi-semantic",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 74,
+  "date_ms": 1776750283991,
+  "description_en": "Semantic density modes + workflow helpers for Pi (toggle via /sem).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

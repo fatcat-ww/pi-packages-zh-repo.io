@@ -1,0 +1,6 @@
+{
+  "name": "@ogulcancelik/pi-web-browse",
+  "description_en": "Web search and content extraction skill for pi-coding-agent. Search the web and fetch pages via a real headless browser (CDP). Works on Linux, macOS, and Windows.",
+  "description_zh": "pi-coding-agent 的网络搜索和内容提取技能。通过网络搜索并通过真实无头浏览器（CDP）获取页面。适用于 Linux、macOS 和 Windows",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

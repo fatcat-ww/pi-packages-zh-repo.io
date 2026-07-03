@@ -1,0 +1,13 @@
+{
+  "name": "@bacnh85/pi-rtk",
+  "path": "/packages/@bacnh85/pi-rtk",
+  "url": "https://pi.dev/packages/@bacnh85/pi-rtk",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 570,
+  "date_ms": 1782736117124,
+  "description_en": "Pi extension that routes shell commands through RTK for token savings.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-autotalk",
+  "path": "/packages/pi-autotalk",
+  "url": "https://pi.dev/packages/pi-autotalk",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 168,
+  "date_ms": 1780195966414,
+  "description_en": "A Pi extension for timed AutoTalk brainstorming from the editor input.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

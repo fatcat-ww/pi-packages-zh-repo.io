@@ -1,0 +1,13 @@
+{
+  "name": "@fbraza/pi-sci-reviewer",
+  "path": "/packages/@fbraza/pi-sci-reviewer",
+  "url": "https://pi.dev/packages/@fbraza/pi-sci-reviewer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 74,
+  "date_ms": 1781700251168,
+  "description_en": "Pi extension that runs the scientific-audit skill, parses its verdict, and syncs findings to todos. Bundles the scientific-audit skill.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

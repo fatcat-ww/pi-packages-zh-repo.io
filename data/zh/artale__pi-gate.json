@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-gate",
+  "description_en": "Conditional execution gates for Pi. Hold, approve, or block tool calls based on rules. Safety layer for dangerous operations.",
+  "description_zh": "Pi 的条件执行门。基于规则暂停、批准或阻止工具调用。危险操作的安全层",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

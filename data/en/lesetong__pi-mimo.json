@@ -1,0 +1,13 @@
+{
+  "name": "@lesetong/pi-mimo",
+  "path": "/packages/@lesetong/pi-mimo",
+  "url": "https://pi.dev/packages/@lesetong/pi-mimo",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 263,
+  "date_ms": 1781503061580,
+  "description_en": "Pi extension for Xiaomi MiMo AI models with multi-region & auth.json support",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

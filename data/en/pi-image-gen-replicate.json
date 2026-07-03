@@ -1,0 +1,11 @@
+{
+  "name": "pi-image-gen-replicate",
+  "path": "/packages/pi-image-gen-replicate",
+  "url": "https://pi.dev/packages/pi-image-gen-replicate",
+  "types": "",
+  "type_list": [],
+  "downloads": 59,
+  "date_ms": 1776058685310,
+  "description_en": "Pi image generation tool powered by Replicate (Flux, SD, and more)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

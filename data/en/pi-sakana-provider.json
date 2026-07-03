@@ -1,0 +1,13 @@
+{
+  "name": "pi-sakana-provider",
+  "path": "/packages/pi-sakana-provider",
+  "url": "https://pi.dev/packages/pi-sakana-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 523,
+  "date_ms": 1782171252232,
+  "description_en": "Sakana AI custom provider for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

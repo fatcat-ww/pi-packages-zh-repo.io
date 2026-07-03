@@ -1,0 +1,6 @@
+{
+  "name": "pi-memoir",
+  "description_en": "Persistent project memory for pi — the LLM queries the memoire instead of reading all files, saving ~95%+ tokens.",
+  "description_zh": "Pi的持久项目记忆 — LLM查询memoire而不是读取所有文件，节省约95%+标记",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@nathanpt/pi-onboard",
+  "description_en": "Pi extension for onboarding into a repository: generates AGENTS.md and a visual HTML overview.",
+  "description_zh": "用于进入仓库的 onboarding 的 Pi 扩展：生成 AGENTS.md 和视觉 HTML 概述",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

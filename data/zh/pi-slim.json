@@ -1,0 +1,6 @@
+{
+  "name": "pi-slim",
+  "description_en": "Slim Pi's default system prompt by making Pi documentation guidance opt-in via /pi.",
+  "description_zh": "通过 /pi 使 Pi 文档指导成为可选，从而简化 Pi 的默认系统提示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

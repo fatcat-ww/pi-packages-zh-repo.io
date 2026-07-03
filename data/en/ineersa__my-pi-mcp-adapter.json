@@ -1,0 +1,11 @@
+{
+  "name": "@ineersa/my-pi-mcp-adapter",
+  "path": "/packages/@ineersa/my-pi-mcp-adapter",
+  "url": "https://pi.dev/packages/@ineersa/my-pi-mcp-adapter",
+  "types": "",
+  "type_list": [],
+  "downloads": 134,
+  "date_ms": 1779758510749,
+  "description_en": "MCP (Model Context Protocol) adapter extension for Pi coding agent — bridges any MCP server into Pi as first-class tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

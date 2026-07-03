@@ -1,0 +1,6 @@
+{
+  "name": "@odinlayer/pi-statusbar",
+  "description_en": "Footer / statusline extension for pi, by odinlayer. Shows model + effort, CWD, context usage, live token rate, and session cost.",
+  "description_zh": "odinlayer 为 pi 提供的页脚 / 状态行扩展。显示模型 + 努力程度、CWD、上下文使用情况、实时 token 速率和会话成本。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

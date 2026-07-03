@@ -1,0 +1,11 @@
+{
+  "name": "@pixxiti/pi-extension",
+  "path": "/packages/@pixxiti/pi-extension",
+  "url": "https://pi.dev/packages/@pixxiti/pi-extension",
+  "types": "",
+  "type_list": [],
+  "downloads": 298,
+  "date_ms": 1780506567008,
+  "description_en": "Pi extension for connecting local Pi sessions to agents.pix.dev.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

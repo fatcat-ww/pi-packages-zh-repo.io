@@ -1,0 +1,13 @@
+{
+  "name": "pi-image-paste",
+  "path": "/packages/pi-image-paste",
+  "url": "https://pi.dev/packages/pi-image-paste",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 595,
+  "date_ms": 1781171944005,
+  "description_en": "Pi extension that turns pasted image paths into first-class image attachments with automatic optimization.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-plankton",
+  "path": "/packages/pi-plankton",
+  "url": "https://pi.dev/packages/pi-plankton",
+  "types": "",
+  "type_list": [],
+  "downloads": 27,
+  "date_ms": 1777232697191,
+  "description_en": "A fork of alexfazio/plankton that provides a Pi-exclusive extension for root-aware code quality enforcement.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

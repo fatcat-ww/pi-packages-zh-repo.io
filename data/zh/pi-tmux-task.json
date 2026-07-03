@@ -1,0 +1,6 @@
+{
+  "name": "pi-tmux-task",
+  "description_en": "A minimal tmux-based task manager for agents, with skills and notifications only.",
+  "description_zh": "一个基于 tmux 的最小化智能体任务管理器，仅包含技巧和通知",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

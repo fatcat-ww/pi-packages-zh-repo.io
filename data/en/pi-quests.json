@@ -1,0 +1,13 @@
+{
+  "name": "pi-quests",
+  "path": "/packages/pi-quests",
+  "url": "https://pi.dev/packages/pi-quests",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 282,
+  "date_ms": 1779853652925,
+  "description_en": "A quest-log for your pi. Keep your agent on track, one quest at a time.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

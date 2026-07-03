@@ -1,0 +1,11 @@
+{
+  "name": "@unfixed3854/pi-usage",
+  "path": "/packages/@unfixed3854/pi-usage",
+  "url": "https://pi.dev/packages/@unfixed3854/pi-usage",
+  "types": "",
+  "type_list": [],
+  "downloads": 144,
+  "date_ms": 1779621526629,
+  "description_en": "A pi extension that displays active model provider subscription quota usage in the status bar. Supports z.ai (GLM) and OpenAI Codex with provider-specific quota percentages, plan levels, and reset times. Updates every 60 seconds during agent runs.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

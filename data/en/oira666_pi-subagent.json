@@ -1,0 +1,11 @@
+{
+  "name": "oira666_pi-subagent",
+  "path": "/packages/oira666_pi-subagent",
+  "url": "https://pi.dev/packages/oira666_pi-subagent",
+  "types": "",
+  "type_list": [],
+  "downloads": 2218,
+  "date_ms": 1781291392769,
+  "description_en": "Subagent extension for Pi coding agent. Delegate tasks to specialized agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

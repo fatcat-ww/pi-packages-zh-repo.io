@@ -1,0 +1,13 @@
+{
+  "name": "@carter-mcalister/pi-codex-image-gen",
+  "path": "/packages/@carter-mcalister/pi-codex-image-gen",
+  "url": "https://pi.dev/packages/@carter-mcalister/pi-codex-image-gen",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 30,
+  "date_ms": 1778371195306,
+  "description_en": "Codex-compatible image_generation tool for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

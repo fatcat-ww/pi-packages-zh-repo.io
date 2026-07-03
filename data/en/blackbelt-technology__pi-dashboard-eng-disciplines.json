@@ -1,0 +1,13 @@
+{
+  "name": "@blackbelt-technology/pi-dashboard-eng-disciplines",
+  "path": "/packages/@blackbelt-technology/pi-dashboard-eng-disciplines",
+  "url": "https://pi.dev/packages/@blackbelt-technology/pi-dashboard-eng-disciplines",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 0,
+  "date_ms": 1782680637532,
+  "description_en": "Cross-cutting engineering-discipline skills for pi sessions — interview-me, doubt-driven-review, code-simplification, security-hardening, performance-optimization, observability-instrumentation. Orthogonal to the openspec pipeline; triggers retargeted to",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

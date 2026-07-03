@@ -1,0 +1,11 @@
+{
+  "name": "@piotr-oles/pi-reflag",
+  "path": "/packages/@piotr-oles/pi-reflag",
+  "url": "https://pi.dev/packages/@piotr-oles/pi-reflag",
+  "types": "",
+  "type_list": [],
+  "downloads": 541,
+  "date_ms": 1782497672399,
+  "description_en": "Pi Agent extension: transparently rewrite grep commands to rg (ripgrep) for faster searches",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

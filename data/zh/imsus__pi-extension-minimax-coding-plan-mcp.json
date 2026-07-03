@@ -1,0 +1,6 @@
+{
+  "name": "@imsus/pi-extension-minimax-coding-plan-mcp",
+  "description_en": "MiniMax Coding Plan extension for pi coding agent - provides web_search and understand_image tools",
+  "description_zh": "pi 编码代理的 MiniMax 编码计划扩展 — 提供 web_search 和 understand_image 工具。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

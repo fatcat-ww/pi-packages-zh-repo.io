@@ -1,0 +1,6 @@
+{
+  "name": "@askjo/pi-reflect",
+  "description_en": "Self-improving behavioral files for pi coding agents. Analyzes session transcripts for correction patterns and makes surgical edits to prevent recurrence.",
+  "description_zh": "pi 编码智能体的自我改进行为文件。分析会话记录中的纠正模式并进行外科手术式编辑以防止复发",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

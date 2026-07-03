@@ -1,0 +1,13 @@
+{
+  "name": "pi-verify",
+  "path": "/packages/pi-verify",
+  "url": "https://pi.dev/packages/pi-verify",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 47,
+  "date_ms": 1778846901030,
+  "description_en": "Pi extension that runs configurable, staged code verification checks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

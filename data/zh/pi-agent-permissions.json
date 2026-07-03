@@ -1,0 +1,6 @@
+{
+  "name": "pi-agent-permissions",
+  "description_en": "Pi CLI extension — configurable permission policy from .agents/permissions.json and native agent configs",
+  "description_zh": "Pi CLI 扩展 — 来自 .agents/permissions.json 和原生代理配置的可配置权限策略",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

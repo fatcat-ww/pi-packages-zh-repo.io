@@ -1,0 +1,13 @@
+{
+  "name": "@gonrocca/devteam-pi",
+  "path": "/packages/@gonrocca/devteam-pi",
+  "url": "https://pi.dev/packages/@gonrocca/devteam-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 46,
+  "date_ms": 1779279154169,
+  "description_en": "devteam-pi — an installable pi (pi.dev) package that ships a role-based development team (architect, backend, frontend, qa, reviewer, devops, dispatcher) plus a single /devteam orchestrator command that triages a task and routes it through the relevant ro",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

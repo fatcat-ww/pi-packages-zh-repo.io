@@ -1,0 +1,6 @@
+{
+  "name": "vision-handoff",
+  "description_en": "Vision handoff extension for pi - send images to a vision-capable model for analysis",
+  "description_zh": "pi 的视觉交接扩展 — 将图像发送到具有视觉能力的模型进行分析",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

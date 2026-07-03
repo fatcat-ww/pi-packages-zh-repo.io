@@ -1,0 +1,13 @@
+{
+  "name": "pi-inspect",
+  "path": "/packages/pi-inspect",
+  "url": "https://pi.dev/packages/pi-inspect",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 163,
+  "date_ms": 1779271453768,
+  "description_en": "Introspection dashboard for the pi coding agent — tools, slash commands, skills, and the system prompt injected on init.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

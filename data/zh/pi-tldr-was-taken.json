@@ -1,0 +1,6 @@
+{
+  "name": "pi-tldr-was-taken",
+  "description_en": "A pi extension that generates lean session notes and injects them into new sessions for context continuity",
+  "description_zh": "一个 pi 扩展，生成简洁的会话笔记并将它们注入新会话中以保持上下文连续性",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@gregjohnso/pi-monitor",
+  "description_en": "Background shell command runner for the pi coding agent. Each stdout line becomes a live TUI event and enters the LLM's next turn as context.",
+  "description_zh": "pi 编码代理的后台 shell 命令运行器。每行 stdout 都成为一个实时 TUI 事件，并作为上下文进入 LLM 的下一轮",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

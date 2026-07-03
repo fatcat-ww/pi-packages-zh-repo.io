@@ -1,0 +1,13 @@
+{
+  "name": "@georgebashi/pi-codemode",
+  "path": "/packages/@georgebashi/pi-codemode",
+  "url": "https://pi.dev/packages/@georgebashi/pi-codemode",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 45,
+  "date_ms": 1773204598117,
+  "description_en": "Code Mode extension for Pi — execute tools via TypeScript code, with type-checking, shell via zx, and MCP integration",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

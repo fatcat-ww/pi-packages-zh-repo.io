@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-port",
+  "path": "/packages/@artale/pi-port",
+  "url": "https://pi.dev/packages/@artale/pi-port",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 67,
+  "date_ms": 1776776868727,
+  "description_en": "Find what's using a port, kill it. /port 3000",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

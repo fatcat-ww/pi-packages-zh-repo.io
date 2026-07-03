@@ -1,0 +1,6 @@
+{
+  "name": "@bytesbrains/pi-ci-gate",
+  "description_en": "CI observability gate for AI agents — view workflow runs, job statuses, and logs from Gitea Actions with safety controls.",
+  "description_zh": "AI代理的CI可观测性门禁 — 从Gitea Actions查看工作流运行、作业状态和日志，带有安全控制",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

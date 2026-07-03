@@ -1,0 +1,6 @@
+{
+  "name": "@vanillagreen/pi-task-panel",
+  "description_en": "Persistent Claude-style tasks panel for Pi with slash commands and a structured tasks_write tool.",
+  "description_zh": "为 Pi 提供持久的 Claude 风格任务面板，包含斜杠命令和结构化 tasks_write 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

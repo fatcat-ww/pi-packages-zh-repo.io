@@ -1,0 +1,13 @@
+{
+  "name": "pi-voice-input",
+  "path": "/packages/pi-voice-input",
+  "url": "https://pi.dev/packages/pi-voice-input",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1439,
+  "date_ms": 1781753595943,
+  "description_en": "Press Ctrl+Shift+R to dictate prompts into Pi using VolcEngine ASR",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

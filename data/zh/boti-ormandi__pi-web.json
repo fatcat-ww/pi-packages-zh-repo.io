@@ -1,0 +1,6 @@
+{
+  "name": "@boti-ormandi/pi-web",
+  "description_en": "web_search and web_fetch tools for the pi coding agent. Runs on your Anthropic Claude subscription, the way Claude Code does, with more freedom.",
+  "description_zh": "面向 pi 编码代理的 web_search 和 web_fetch 工具。在您的 Anthropic Claude 订阅上运行，方式与 Claude Code 相同，但拥有更多自由",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

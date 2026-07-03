@@ -1,0 +1,6 @@
+{
+  "name": "pi-fallback-provider",
+  "description_en": "Model fallback chain extension for pi — automatic retry and failover across AI providers",
+  "description_zh": "Pi 的模型回退链扩展 — 跨 AI 提供商的自动重试和故障转移",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

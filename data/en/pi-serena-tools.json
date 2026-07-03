@@ -1,0 +1,11 @@
+{
+  "name": "pi-serena-tools",
+  "path": "/packages/pi-serena-tools",
+  "url": "https://pi.dev/packages/pi-serena-tools",
+  "types": "",
+  "type_list": [],
+  "downloads": 94,
+  "date_ms": 1772170557684,
+  "description_en": "Pi now gains IDE-like editing capabilities by bridging Serena’s semantic code tools into native Pi tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

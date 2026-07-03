@@ -1,0 +1,6 @@
+{
+  "name": "pi-qmd-ledger",
+  "description_en": "Universal configurable JSONL ledger with qmd hybrid search, tiered HITL, and dynamic context injection.",
+  "description_zh": "通用可配置的 JSONL 分类账，具有 qmd 混合搜索、分层 HITL 和动态上下文注入",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

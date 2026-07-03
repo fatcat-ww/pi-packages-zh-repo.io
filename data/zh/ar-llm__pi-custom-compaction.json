@@ -1,0 +1,6 @@
+{
+  "name": "@ar-llm/pi-custom-compaction",
+  "description_en": "Pi extension that replaces default compaction with a full LLM-generated summary, with configurable model and per-provider request params.",
+  "description_zh": "用完整的 LLM 生成摘要替换默认压缩的 Pi 扩展，具有可配置的模型和每提供者请求参数",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@d3ara1n/pi-peek",
+  "description_en": "Cross-instance peek for pi — glimpse what another pi instance is doing, or ask it a question without disturbing its main conversation (read-after-burn ephemeral side-channel)",
+  "description_zh": "pi 的跨实例窥探 — 窥视另一个 pi 实例在做什么，或在不妨扰其主要对话的情况下向它提问（读后燃烧瞬时边信道）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

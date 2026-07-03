@@ -1,0 +1,6 @@
+{
+  "name": "@arvoretech/pi-ci-watch",
+  "description_en": "PI extension that monitors CI status on a PR and auto-fixes failures",
+  "description_zh": "监控 PR 上的 CI 状态并自动修复故障的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

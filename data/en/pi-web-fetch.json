@@ -1,0 +1,11 @@
+{
+  "name": "pi-web-fetch",
+  "path": "/packages/pi-web-fetch",
+  "url": "https://pi.dev/packages/pi-web-fetch",
+  "types": "",
+  "type_list": [],
+  "downloads": 587,
+  "date_ms": 1772573382195,
+  "description_en": "Pi extension: fetch web pages via headless Chrome, extract content with trafilatura, and optionally process with an LLM",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

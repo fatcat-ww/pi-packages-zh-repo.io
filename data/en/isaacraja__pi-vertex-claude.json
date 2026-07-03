@@ -1,0 +1,11 @@
+{
+  "name": "@isaacraja/pi-vertex-claude",
+  "path": "/packages/@isaacraja/pi-vertex-claude",
+  "url": "https://pi.dev/packages/@isaacraja/pi-vertex-claude",
+  "types": "",
+  "type_list": [],
+  "downloads": 45,
+  "date_ms": 1771604253742,
+  "description_en": "Google Vertex AI Claude provider for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

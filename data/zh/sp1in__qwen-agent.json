@@ -1,0 +1,6 @@
+{
+  "name": "@sp1in/qwen-agent",
+  "description_en": "Qwen Code bridge — type /qwen, scan QR code, chat with Qwen from WeChat",
+  "description_zh": "Qwen Code 桥接 — 输入 /qwen，扫描二维码，从微信与 Qwen 聊天",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

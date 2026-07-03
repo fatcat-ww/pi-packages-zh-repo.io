@@ -1,0 +1,6 @@
+{
+  "name": "pi-provider-litellm",
+  "description_en": "LiteLLM proxy provider extension for Pi",
+  "description_zh": "Pi的LiteLLM代理提供程序扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

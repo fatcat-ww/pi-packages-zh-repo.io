@@ -1,0 +1,6 @@
+{
+  "name": "file-upload-cli",
+  "description_en": "Skill for uploading files with curl to litterbox.catbox.moe",
+  "description_zh": "使用 curl 上传文件到 litterbox.catbox.moe 的技能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

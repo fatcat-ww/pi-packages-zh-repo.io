@@ -1,0 +1,13 @@
+{
+  "name": "@oleg_tarasov/pi-websearch-manager",
+  "path": "/packages/@oleg_tarasov/pi-websearch-manager",
+  "url": "https://pi.dev/packages/@oleg_tarasov/pi-websearch-manager",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 561,
+  "date_ms": 1781463816278,
+  "description_en": "Pi extension that routes web search tools between OpenAI/Codex web_run and extension-provided web tools by active model.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

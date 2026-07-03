@@ -1,0 +1,14 @@
+{
+  "name": "@baretread/pi-forge",
+  "path": "/packages/@baretread/pi-forge",
+  "url": "https://pi.dev/packages/@baretread/pi-forge",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 469,
+  "date_ms": 1782312179242,
+  "description_en": "Matte graphite, molten copper Forge theme and visual atmosphere for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

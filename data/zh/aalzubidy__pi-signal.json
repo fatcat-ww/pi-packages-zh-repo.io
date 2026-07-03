@@ -1,0 +1,6 @@
+{
+  "name": "@aalzubidy/pi-signal",
+  "description_en": "Connect pi to Signal Messenger via native signal-cli daemon",
+  "description_zh": "通过原生 signal-cli 守护进程连接 pi 到 Signal Messenger",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

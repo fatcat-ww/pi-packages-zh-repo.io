@@ -1,0 +1,13 @@
+{
+  "name": "pi-advisor",
+  "path": "/packages/pi-advisor",
+  "url": "https://pi.dev/packages/pi-advisor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 498,
+  "date_ms": 1781260041886,
+  "description_en": "Pi extension package that adds a Claude-style advisor tool for strategic guidance during complex agent tasks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

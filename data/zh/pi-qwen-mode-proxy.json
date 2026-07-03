@@ -1,0 +1,6 @@
+{
+  "name": "pi-qwen-mode-proxy",
+  "description_en": "Sampling mode proxy for Qwen models served via llama.cpp — switch between thinking, coding, and instruct modes",
+  "description_zh": "通过llama.cpp提供的Qwen模型的采样模式代理 — 在思考、编码和指令模式之间切换",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

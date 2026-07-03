@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-tauri-django-react",
+  "description_en": "Agents should invoke this skill for Tauri + Django + React desktop apps, especially backend lifecycle, CORS/auth, frontend integration, build packaging, dual desktop/web deployment, Rust commands, and platform-specific gotchas.",
+  "description_zh": "代理应为此技能调用，用于 Tauri + Django + React 桌面应用，特别是后端生命周期、CORS/认证、前端集成、构建打包、双桌面/Web 部署、Rust 命令和平台特定注意事项",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

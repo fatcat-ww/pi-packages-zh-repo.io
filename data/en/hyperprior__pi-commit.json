@@ -1,0 +1,13 @@
+{
+  "name": "@hyperprior/pi-commit",
+  "path": "/packages/@hyperprior/pi-commit",
+  "url": "https://pi.dev/packages/@hyperprior/pi-commit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 31,
+  "date_ms": 1771219067057,
+  "description_en": "Git commit helper tooling for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

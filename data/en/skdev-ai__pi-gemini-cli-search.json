@@ -1,0 +1,13 @@
+{
+  "name": "@skdev-ai/pi-gemini-cli-search",
+  "path": "/packages/@skdev-ai/pi-gemini-cli-search",
+  "url": "https://pi.dev/packages/@skdev-ai/pi-gemini-cli-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 51,
+  "date_ms": 1774020522709,
+  "description_en": "Pi/GSD extension providing grounded web search via Gemini CLI's A2A and ACP protocols. Uses your existing Google AI Pro subscription.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

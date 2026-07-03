@@ -1,0 +1,13 @@
+{
+  "name": "@narumitw/pi-chrome-devtools",
+  "path": "/packages/@narumitw/pi-chrome-devtools",
+  "url": "https://pi.dev/packages/@narumitw/pi-chrome-devtools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3759,
+  "date_ms": 1782712234198,
+  "description_en": "Pi extension that exposes Chrome DevTools Protocol tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

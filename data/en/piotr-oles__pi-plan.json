@@ -1,0 +1,11 @@
+{
+  "name": "@piotr-oles/pi-plan",
+  "path": "/packages/@piotr-oles/pi-plan",
+  "url": "https://pi.dev/packages/@piotr-oles/pi-plan",
+  "types": "",
+  "type_list": [],
+  "downloads": 494,
+  "date_ms": 1782233654002,
+  "description_en": "Pi Agent extension: save named markdown plans to disk and ask user to confirm before executing",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

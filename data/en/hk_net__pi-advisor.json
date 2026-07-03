@@ -1,0 +1,13 @@
+{
+  "name": "@hk_net/pi-advisor",
+  "path": "/packages/@hk_net/pi-advisor",
+  "url": "https://pi.dev/packages/@hk_net/pi-advisor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 534,
+  "date_ms": 1782254724132,
+  "description_en": "Pi advisor extension: consult a configured reviewer model on the full conversation transcript",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

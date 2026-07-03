@@ -1,0 +1,11 @@
+{
+  "name": "@grwnd/pi-governance",
+  "path": "/packages/@grwnd/pi-governance",
+  "url": "https://pi.dev/packages/@grwnd/pi-governance",
+  "types": "",
+  "type_list": [],
+  "downloads": 138,
+  "date_ms": 1775075261867,
+  "description_en": "Governance, RBAC, audit, and HITL for Pi-based coding agents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

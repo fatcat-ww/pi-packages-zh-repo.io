@@ -1,0 +1,6 @@
+{
+  "name": "@richardgill/pi-preset",
+  "description_en": "Pi extension for named presets that can set model, thinking level, tools, and per-preset system prompt instructions.",
+  "description_zh": "Pi 扩展，用于命名预设，可以设置模型、思考级别、工具和每个预设的系统提示指令。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@yieldcraft/doc-viewer",
+  "description_en": "Pi-web plugin to browse and render workspace docs/ markdown files with Mermaid diagram support using stable file APIs",
+  "description_zh": "Pi-web 插件，用于浏览和渲染工作区文档/Markdown 文件，支持 Mermaid 图表，使用稳定的文件 API",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

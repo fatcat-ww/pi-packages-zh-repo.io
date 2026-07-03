@@ -1,0 +1,6 @@
+{
+  "name": "pi-friday",
+  "description_en": "Dedicated communications side panel for pi — routes all conversation to a separate tmux pane with typewriter effect. Optional TTS and wake word detection. User data stored in ~/.pi/agent/friday/.",
+  "description_zh": "pi 的专用通信侧边栏 — 将所有对话路由到具有打字机效果的独立 tmux 窗格。可选 TTS 和唤醒词检测。用户数据存储在 ~/.pi/agent/friday/。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-exit-resume",
+  "description_en": "Pi extension that copies the resume command when Pi exits.",
+  "description_zh": "Pi 扩展，在 Pi 退出时复制恢复命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

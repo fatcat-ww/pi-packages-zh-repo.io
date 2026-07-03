@@ -1,0 +1,11 @@
+{
+  "name": "pi-permission-gate",
+  "path": "/packages/pi-permission-gate",
+  "url": "https://pi.dev/packages/pi-permission-gate",
+  "types": "",
+  "type_list": [],
+  "downloads": 953,
+  "date_ms": 1781975474067,
+  "description_en": "Config-driven permission system for Pi agents. Deny-by-default tool restriction with glob matching, path normalization, self-protection, and structured logging.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

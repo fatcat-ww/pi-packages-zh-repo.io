@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-compact",
+  "path": "/packages/@artale/pi-compact",
+  "url": "https://pi.dev/packages/@artale/pi-compact",
+  "types": "",
+  "type_list": [],
+  "downloads": 44,
+  "date_ms": 1773505898623,
+  "description_en": "Smart context compaction for Pi. Topic-aware summarization that preserves code context and drops chatter. Configurable strategies.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

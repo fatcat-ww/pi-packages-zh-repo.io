@@ -1,0 +1,11 @@
+{
+  "name": "pi-sumopod-connector",
+  "path": "/packages/pi-sumopod-connector",
+  "url": "https://pi.dev/packages/pi-sumopod-connector",
+  "types": "",
+  "type_list": [],
+  "downloads": 456,
+  "date_ms": 1780298188384,
+  "description_en": "SumoPod AI models for Pi coding agent - One-command setup for all SumoPod models",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

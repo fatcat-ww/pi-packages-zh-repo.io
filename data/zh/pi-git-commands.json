@@ -1,0 +1,6 @@
+{
+  "name": "pi-git-commands",
+  "description_en": "Pi agent extension: /git-commit, /git-push, and /git-tag for commits, pushes, and tag management",
+  "description_zh": "Pi 代理扩展：/git-commit、/git-push 和 /git-tag 用于提交、推送和标签管理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

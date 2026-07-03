@@ -1,0 +1,13 @@
+{
+  "name": "pi-knowledge-search",
+  "path": "/packages/pi-knowledge-search",
+  "url": "https://pi.dev/packages/pi-knowledge-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 395,
+  "date_ms": 1781116071456,
+  "description_en": "Semantic search over local files for pi. Indexes a directory of text files, watches for changes, and exposes a knowledge_search tool to the LLM.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

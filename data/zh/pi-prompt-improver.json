@@ -1,0 +1,6 @@
+{
+  "name": "pi-prompt-improver",
+  "description_en": "Pi Agent extension that improves prompts with a configurable optimizer model before execution.",
+  "description_zh": "Pi Agent扩展，在执行前使用可配置的优化器模型改进提示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

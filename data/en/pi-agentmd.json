@@ -1,0 +1,13 @@
+{
+  "name": "pi-agentmd",
+  "path": "/packages/pi-agentmd",
+  "url": "https://pi.dev/packages/pi-agentmd",
+  "types": "prompt",
+  "type_list": [
+    "prompt"
+  ],
+  "downloads": 147,
+  "date_ms": 1781780219840,
+  "description_en": "Prompt template: scan a codebase and generate comprehensive AGENTS.md documentation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

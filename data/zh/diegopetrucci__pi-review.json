@@ -1,0 +1,6 @@
+{
+  "name": "@diegopetrucci/pi-review",
+  "description_en": "A standalone pi extension that adds /review and /end-review commands adapted from mitsuhiko/agent-stuff.",
+  "description_zh": "一个独立的 pi 扩展，添加了从 mitsuhiko/agent-stuff 适配的 /review 和 /end-review 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

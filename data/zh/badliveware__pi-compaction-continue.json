@@ -1,0 +1,6 @@
+{
+  "name": "@badliveware/pi-compaction-continue",
+  "description_en": "Watchdog nudge extension for Pi after idle compactions or stalled continuation turns.",
+  "description_zh": "Pi 的看门狗提示扩展，用于空闲压缩或停滞的继续回合后",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

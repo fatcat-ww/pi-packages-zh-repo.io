@@ -1,0 +1,14 @@
+{
+  "name": "artystic",
+  "path": "/packages/artystic",
+  "url": "https://pi.dev/packages/artystic",
+  "types": "skill prompt",
+  "type_list": [
+    "skill",
+    "prompt"
+  ],
+  "downloads": 80,
+  "date_ms": 1779736640996,
+  "description_en": "A visual design-polish skill and editorial website for making interfaces feel authored, not templated.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

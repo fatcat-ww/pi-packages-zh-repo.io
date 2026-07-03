@@ -1,0 +1,13 @@
+{
+  "name": "pi-roles",
+  "path": "/packages/pi-roles",
+  "url": "https://pi.dev/packages/pi-roles",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 187,
+  "date_ms": 1778009192017,
+  "description_en": "Role-based session configuration for pi coding agent. Launch a session as a named role and hot-swap roles mid-session, with optional pi-intercom and pi-mcp-adapter integration.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

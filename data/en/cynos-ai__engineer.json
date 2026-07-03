@@ -1,0 +1,13 @@
+{
+  "name": "@cynos-ai/engineer",
+  "path": "/packages/@cynos-ai/engineer",
+  "url": "https://pi.dev/packages/@cynos-ai/engineer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1452,
+  "date_ms": 1783062829275,
+  "description_en": "Cynos — an autonomous AI engineering runtime with evidence-based completion verification.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

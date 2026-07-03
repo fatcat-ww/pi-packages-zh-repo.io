@@ -1,0 +1,6 @@
+{
+  "name": "@arvoretech/pi-elevenlabs-stt",
+  "description_en": "PI extension for push-to-talk speech-to-text using the ElevenLabs Scribe API",
+  "description_zh": "PI 扩展，使用 ElevenLabs Scribe API 进行按讲语音转文本",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

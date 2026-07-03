@@ -1,0 +1,11 @@
+{
+  "name": "@vanillagreen/pi-session-manager",
+  "path": "/packages/@vanillagreen/pi-session-manager",
+  "url": "https://pi.dev/packages/@vanillagreen/pi-session-manager",
+  "types": "",
+  "type_list": [],
+  "downloads": 987,
+  "date_ms": 1781280403669,
+  "description_en": "Polished Pi session manager overlay for browsing, searching, resuming, renaming, and safely deleting sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

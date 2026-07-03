@@ -1,0 +1,6 @@
+{
+  "name": "@ekil9/pi-readonly",
+  "description_en": "Readonly mode for pi — disables edit/write tools and blocks high-risk bash commands",
+  "description_zh": "pi 的只读模式 — 禁用编辑/写入工具并阻止高风险 bash 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

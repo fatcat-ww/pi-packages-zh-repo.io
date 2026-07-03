@@ -1,0 +1,11 @@
+{
+  "name": "@hdh/pi-contributions-bot",
+  "path": "/packages/@hdh/pi-contributions-bot",
+  "url": "https://pi.dev/packages/@hdh/pi-contributions-bot",
+  "types": "",
+  "type_list": [],
+  "downloads": 41,
+  "date_ms": 1773653871901,
+  "description_en": "Pi extension that gates git commit on CONTRIBUTING_BOT.md compliance",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

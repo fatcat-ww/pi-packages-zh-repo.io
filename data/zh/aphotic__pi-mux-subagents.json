@@ -1,0 +1,6 @@
+{
+  "name": "@aphotic/pi-mux-subagents",
+  "description_en": "Interactive + headless subagent framework for pi and Claude Code, with mux-pane support, sync/async orchestration, and a multi-CLI design.",
+  "description_zh": "pi 和 Claude Code 的交互式 + 无头子代理框架，带有 mux 窗格支持、同步/异步编排和多 CLI 设计",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

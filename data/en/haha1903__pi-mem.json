@@ -1,0 +1,13 @@
+{
+  "name": "@haha1903/pi-mem",
+  "path": "/packages/@haha1903/pi-mem",
+  "url": "https://pi.dev/packages/@haha1903/pi-mem",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 197,
+  "date_ms": 1782454207423,
+  "description_en": "Pi coding agent extension for plain-Markdown memory system — long-term memory, daily logs, and scratchpad checklist (haha1903 fork with role: user injection fix for pi-coding-agent ≥ 0.75)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-mcp-bridge",
+  "description_en": "A minimal pi extension that exposes MCP server tools to pi via stdio transport.",
+  "description_zh": "一个最小的 pi 扩展，通过 stdio 传输将 MCP 服务器工具暴露给 pi",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-modus-themes",
+  "path": "/packages/pi-modus-themes",
+  "url": "https://pi.dev/packages/pi-modus-themes",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 37,
+  "date_ms": 1777359306183,
+  "description_en": "Modus Operandi and Modus Vivendi themes for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

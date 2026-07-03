@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-sysmon",
+  "description_en": "System monitor & resource manager. RAM/disk dashboard, process audit, memory hog detection, one-click cleanup. Carmack-style: measure everything, cut the waste.",
+  "description_zh": "系统监控器和资源管理器。RAM/dash 仪表板、进程审计、内存占用检测、一键清理。Carmack 风格：测量一切，消除浪费。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

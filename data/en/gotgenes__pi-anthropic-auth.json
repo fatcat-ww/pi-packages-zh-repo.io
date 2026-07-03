@@ -1,0 +1,11 @@
+{
+  "name": "@gotgenes/pi-anthropic-auth",
+  "path": "/packages/@gotgenes/pi-anthropic-auth",
+  "url": "https://pi.dev/packages/@gotgenes/pi-anthropic-auth",
+  "types": "",
+  "type_list": [],
+  "downloads": 3057,
+  "date_ms": 1782691783734,
+  "description_en": "Pi extension package for Anthropic OAuth compatibility",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

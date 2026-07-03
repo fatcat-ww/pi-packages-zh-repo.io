@@ -1,0 +1,13 @@
+{
+  "name": "@howaboua/pi-skill-project-reference-research",
+  "path": "/packages/@howaboua/pi-skill-project-reference-research",
+  "url": "https://pi.dev/packages/@howaboua/pi-skill-project-reference-research",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 181,
+  "date_ms": 1779991780823,
+  "description_en": "Pi skill package for project-reference-research.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

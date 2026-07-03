@@ -1,0 +1,13 @@
+{
+  "name": "pi-agent-web-access",
+  "path": "/packages/pi-agent-web-access",
+  "url": "https://pi.dev/packages/pi-agent-web-access",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 335,
+  "date_ms": 1778562179224,
+  "description_en": "Web search (Exa + Brave) and content extraction for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

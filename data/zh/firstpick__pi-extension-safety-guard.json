@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-extension-safety-guard",
+  "description_en": "Interactive guardrails for dangerous bash commands and protected file edits in Pi.",
+  "description_zh": "Pi 中危险 bash 命令和受保护文件编辑的交互式护栏",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

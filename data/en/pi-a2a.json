@@ -1,0 +1,14 @@
+{
+  "name": "pi-a2a",
+  "path": "/packages/pi-a2a",
+  "url": "https://pi.dev/packages/pi-a2a",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 97,
+  "date_ms": 1782921999022,
+  "description_en": "Agent-to-agent message bus for pi — decentralized LAN P2P, agents discover each other via mDNS and talk point-to-point, no server required",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

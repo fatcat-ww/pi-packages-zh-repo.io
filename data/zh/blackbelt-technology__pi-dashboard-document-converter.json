@@ -1,0 +1,6 @@
+{
+  "name": "@blackbelt-technology/pi-dashboard-document-converter",
+  "description_en": "TypeScript facade over a Dockerized Python document engine (pi-doc-engine). Bidirectional: ingest any format to provenance-stamped Markdown for kb, produce templated DOCX/PDF with diagrams. Engine quarantined in Docker; TS is the only call surface.",
+  "description_zh": "Docker 化 Python 文档引擎 (pi-doc-engine) 的 TypeScript 门面。双向：将任何格式摄取为带来源标记的 Markdown 用于知识库，生成带图表的模板化 DOCX/PDF。引擎隔离在 Docker 中；TS 是唯一的调用接口",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@quintinshaw/pi-dynamic-workflows",
+  "description_en": "Claude-Code-style dynamic workflows for Pi — fan a task out across 100s of subagents with real model routing, token/cost accounting, resume, git-worktree isolation, an interactive /workflows TUI, and a real /deep-research.",
+  "description_zh": "Pi 的 Claude-Code 风格动态工作流 — 通过实时模型路由、token/成本核算、恢复功能、git-worktree 隔离、交互式 /workflows TUI 和真实的 /deep-research 将任务分发到数百个子代理。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

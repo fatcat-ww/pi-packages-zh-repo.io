@@ -1,0 +1,6 @@
+{
+  "name": "pi-slack-bot",
+  "description_en": "Slack bot exposing pi as a conversational coding agent. Chat with pi in Slack DMs with streaming responses, tool execution, threaded sessions, and model switching.",
+  "description_zh": "将pi作为对话式编码代理暴露在Slack中的机器人。在Slack DM中与pi聊天，具有流式响应、工具执行、会话线程和模型切换功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

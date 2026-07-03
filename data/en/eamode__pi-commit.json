@@ -1,0 +1,13 @@
+{
+  "name": "@eamode/pi-commit",
+  "path": "/packages/@eamode/pi-commit",
+  "url": "https://pi.dev/packages/@eamode/pi-commit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 428,
+  "date_ms": 1782984014888,
+  "description_en": "pi extension for automatic changelog-friendly Conventional Commits with submodule support.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

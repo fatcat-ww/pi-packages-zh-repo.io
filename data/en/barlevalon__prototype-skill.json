@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/prototype-skill",
+  "path": "/packages/@barlevalon/prototype-skill",
+  "url": "https://pi.dev/packages/@barlevalon/prototype-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 93,
+  "date_ms": 1780948732960,
+  "description_en": "Build a throwaway prototype to flesh out a design before committing to it. Routes between two branches — a runnable terminal app for state/business-logic questions, or several radically different UI variations togglea...",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

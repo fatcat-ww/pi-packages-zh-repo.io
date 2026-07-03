@@ -1,0 +1,13 @@
+{
+  "name": "pi-next-cue",
+  "path": "/packages/pi-next-cue",
+  "url": "https://pi.dev/packages/pi-next-cue",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 451,
+  "date_ms": 1782199377664,
+  "description_en": "Predicts your next prompt after each agent turn — Tab to fill, Enter to send.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

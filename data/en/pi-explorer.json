@@ -1,0 +1,13 @@
+{
+  "name": "pi-explorer",
+  "path": "/packages/pi-explorer",
+  "url": "https://pi.dev/packages/pi-explorer",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 44,
+  "date_ms": 1776620165434,
+  "description_en": "Pi skill + command for deep codebase exploration and HTML architecture reports.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

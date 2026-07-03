@@ -1,0 +1,13 @@
+{
+  "name": "@santiago-r/pi-ml-intern",
+  "path": "/packages/@santiago-r/pi-ml-intern",
+  "url": "https://pi.dev/packages/@santiago-r/pi-ml-intern",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 127,
+  "date_ms": 1779183690685,
+  "description_en": "ML Intern extension for Pi — autonomous ML research & implementation with literature-backed recipes. Inspired by Hugging Face's ml-intern.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

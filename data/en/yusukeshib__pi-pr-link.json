@@ -1,0 +1,13 @@
+{
+  "name": "@yusukeshib/pi-pr-link",
+  "path": "/packages/@yusukeshib/pi-pr-link",
+  "url": "https://pi.dev/packages/@yusukeshib/pi-pr-link",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 518,
+  "date_ms": 1781612677460,
+  "description_en": "Show the GitHub PR for the current branch as a clickable link in the footer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

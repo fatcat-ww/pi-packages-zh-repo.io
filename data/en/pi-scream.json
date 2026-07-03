@@ -1,0 +1,13 @@
+{
+  "name": "pi-scream",
+  "path": "/packages/pi-scream",
+  "url": "https://pi.dev/packages/pi-scream",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 48,
+  "date_ms": 1778359982176,
+  "description_en": "Usage limits extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

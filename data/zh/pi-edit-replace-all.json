@@ -1,0 +1,6 @@
+{
+  "name": "pi-edit-replace-all",
+  "description_en": "Pi package that overrides the edit tool with replaceAll support.",
+  "description_zh": "一个 pi 包，用 replaceAll 支持覆盖编辑工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

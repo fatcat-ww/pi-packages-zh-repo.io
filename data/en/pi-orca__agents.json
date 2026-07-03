@@ -1,0 +1,13 @@
+{
+  "name": "@pi-orca/agents",
+  "path": "/packages/@pi-orca/agents",
+  "url": "https://pi.dev/packages/@pi-orca/agents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 250,
+  "date_ms": 1779854973791,
+  "description_en": "Subagent lifecycle via SDK/RPC/tmux",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

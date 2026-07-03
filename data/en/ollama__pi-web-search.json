@@ -1,0 +1,13 @@
+{
+  "name": "@ollama/pi-web-search",
+  "path": "/packages/@ollama/pi-web-search",
+  "url": "https://pi.dev/packages/@ollama/pi-web-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 14590,
+  "date_ms": 1774729894540,
+  "description_en": "Web search and fetch tools for Pi agent - uses Ollama's web search and fetch APIs",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

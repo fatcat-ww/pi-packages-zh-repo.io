@@ -1,0 +1,13 @@
+{
+  "name": "pi-kumite",
+  "path": "/packages/pi-kumite",
+  "url": "https://pi.dev/packages/pi-kumite",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 153,
+  "date_ms": 1781040174755,
+  "description_en": "Pi package for the Kumite project setup and review workflow.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

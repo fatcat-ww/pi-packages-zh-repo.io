@@ -1,0 +1,11 @@
+{
+  "name": "@ifi/pi-remote-tailscale",
+  "path": "/packages/@ifi/pi-remote-tailscale",
+  "url": "https://pi.dev/packages/@ifi/pi-remote-tailscale",
+  "types": "",
+  "type_list": [],
+  "downloads": 50,
+  "date_ms": 1777355441764,
+  "description_en": "Pi extension for secure remote session sharing with Tailscale URLs, QR codes, and TUI status widgets.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

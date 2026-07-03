@@ -1,0 +1,11 @@
+{
+  "name": "opencode-pi",
+  "path": "/packages/opencode-pi",
+  "url": "https://pi.dev/packages/opencode-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 18,
+  "date_ms": 1781865522050,
+  "description_en": "Bridge OpenCode CLI free models into Pi without OpenCode login",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

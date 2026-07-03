@@ -1,0 +1,13 @@
+{
+  "name": "pi-landstrip",
+  "path": "/packages/pi-landstrip",
+  "url": "https://pi.dev/packages/pi-landstrip",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 10177,
+  "date_ms": 1782964435844,
+  "description_en": "Landlock-based sandboxing for pi with interactive permission prompts",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

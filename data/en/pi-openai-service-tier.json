@@ -1,0 +1,13 @@
+{
+  "name": "pi-openai-service-tier",
+  "path": "/packages/pi-openai-service-tier",
+  "url": "https://pi.dev/packages/pi-openai-service-tier",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 81,
+  "date_ms": 1777808664206,
+  "description_en": "Cost-correct OpenAI service tier / fast mode extension for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

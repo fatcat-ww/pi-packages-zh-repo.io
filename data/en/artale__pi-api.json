@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-api",
+  "path": "/packages/@artale/pi-api",
+  "url": "https://pi.dev/packages/@artale/pi-api",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 73,
+  "date_ms": 1772993770595,
+  "description_en": "API development toolkit. Route scanning (Express/Next/Flask/FastAPI), endpoint testing, OpenAPI spec generation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

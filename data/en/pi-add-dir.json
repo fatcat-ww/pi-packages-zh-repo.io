@@ -1,0 +1,11 @@
+{
+  "name": "pi-add-dir",
+  "path": "/packages/pi-add-dir",
+  "url": "https://pi.dev/packages/pi-add-dir",
+  "types": "",
+  "type_list": [],
+  "downloads": 678,
+  "date_ms": 1774957858466,
+  "description_en": "Add external directories to your pi session — loads their AGENTS.md, CLAUDE.md, and skills into context.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

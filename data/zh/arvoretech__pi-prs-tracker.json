@@ -1,0 +1,6 @@
+{
+  "name": "@arvoretech/pi-prs-tracker",
+  "description_en": "PI extension that keeps open/recently-merged PRs pinned in the chat as a persistent widget",
+  "description_zh": "Pi 扩展，将打开/最近合并的 PR 作为持久小部件固定在聊天中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-stop",
+  "description_en": "ALWAYS stops the current pi.dev agent — keyboard shortcut, /stop command, and standalone kill script",
+  "description_zh": "总是停止当前的 pi.dev 代理 — 键盘快捷键、/stop 命令和独立的终止脚本",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

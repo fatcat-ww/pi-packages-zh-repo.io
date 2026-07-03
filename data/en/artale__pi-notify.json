@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-notify",
+  "path": "/packages/@artale/pi-notify",
+  "url": "https://pi.dev/packages/@artale/pi-notify",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 48,
+  "date_ms": 1772992914014,
+  "description_en": "Cross-platform notifications. Desktop toasts (Win/Mac/Linux), Slack/Discord webhooks, notification history.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

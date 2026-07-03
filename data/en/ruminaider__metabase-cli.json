@@ -1,0 +1,11 @@
+{
+  "name": "@ruminaider/metabase-cli",
+  "path": "/packages/@ruminaider/metabase-cli",
+  "url": "https://pi.dev/packages/@ruminaider/metabase-cli",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782921189316,
+  "description_en": "Metabase CLI with full read/write access: cards, dashboards, databases, tables, queries, collections, search, and revisions from the terminal. Token-efficient JSON output.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

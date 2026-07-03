@@ -1,0 +1,14 @@
+{
+  "name": "pi-namespace",
+  "path": "/packages/pi-namespace",
+  "url": "https://pi.dev/packages/pi-namespace",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 465,
+  "date_ms": 1781881302584,
+  "description_en": "Namespace tools and skills in pi — group tools by extension with configurable prefix rewriting",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

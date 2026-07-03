@@ -1,0 +1,13 @@
+{
+  "name": "pi-autoskills",
+  "path": "/packages/pi-autoskills",
+  "url": "https://pi.dev/packages/pi-autoskills",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 22,
+  "date_ms": 1777845634129,
+  "description_en": "Audited autoskills-style installer for pi. Detect stack, discover vetted skills, audit upstream bundles, cache locally, install safely.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

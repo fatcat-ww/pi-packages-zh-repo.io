@@ -1,0 +1,6 @@
+{
+  "name": "@piotr-oles/pi-subagents",
+  "description_en": "Pi Agent extension: spawn specialized subagents with isolated sessions",
+  "description_zh": "Pi Agent 扩展：使用隔离的会话生成专门的子代理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

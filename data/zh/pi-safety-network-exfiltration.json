@@ -1,0 +1,6 @@
+{
+  "name": "pi-safety-network-exfiltration",
+  "description_en": "Blocks data exfiltration, remote code execution via piped downloads, secrets embedded in commands, and unauthorized network operations before they run.",
+  "description_zh": "阻止数据泄露、通过管道下载的远程代码执行、嵌入在命令中的机密和未经授权的网络操作在运行前执行",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

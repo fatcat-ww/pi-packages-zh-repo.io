@@ -1,0 +1,11 @@
+{
+  "name": "pi-bash-image",
+  "path": "/packages/pi-bash-image",
+  "url": "https://pi.dev/packages/pi-bash-image",
+  "types": "",
+  "type_list": [],
+  "downloads": 46,
+  "date_ms": 1777445582586,
+  "description_en": "Inject images into bash tool results",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

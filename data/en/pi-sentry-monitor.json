@@ -1,0 +1,13 @@
+{
+  "name": "pi-sentry-monitor",
+  "path": "/packages/pi-sentry-monitor",
+  "url": "https://pi.dev/packages/pi-sentry-monitor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 88,
+  "date_ms": 1774993745393,
+  "description_en": "Sentry AI Monitoring extension for pi coding agent sessions and tool calls",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-goalie",
+  "description_en": "Autonomous goal DAG for pi — Codex-like /goal with dependency chains, steering, and queue management",
+  "description_zh": "Pi 的自主目标 DAG — 类似 Codex 的 /goal，具有依赖链、转向和队列管理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

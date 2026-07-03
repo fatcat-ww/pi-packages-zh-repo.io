@@ -1,0 +1,11 @@
+{
+  "name": "holdpty",
+  "path": "/packages/holdpty",
+  "url": "https://pi.dev/packages/holdpty",
+  "types": "",
+  "type_list": [],
+  "downloads": 113,
+  "date_ms": 1775227526940,
+  "description_en": "Minimal cross-platform detached PTY. Launch commands in a pseudo-terminal, attach/view/record later.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

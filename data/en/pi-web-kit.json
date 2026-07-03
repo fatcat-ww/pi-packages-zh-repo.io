@@ -1,0 +1,13 @@
+{
+  "name": "pi-web-kit",
+  "path": "/packages/pi-web-kit",
+  "url": "https://pi.dev/packages/pi-web-kit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 761,
+  "date_ms": 1782868267341,
+  "description_en": "Context-efficient web search and fetch tools for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

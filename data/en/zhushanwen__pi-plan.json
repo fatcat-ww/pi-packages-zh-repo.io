@@ -1,0 +1,13 @@
+{
+  "name": "@zhushanwen/pi-plan",
+  "path": "/packages/@zhushanwen/pi-plan",
+  "url": "https://pi.dev/packages/@zhushanwen/pi-plan",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 95,
+  "date_ms": 1782533051205,
+  "description_en": "Lightweight plan mode for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

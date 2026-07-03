@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-verify",
+  "path": "/packages/@artale/pi-verify",
+  "url": "https://pi.dev/packages/@artale/pi-verify",
+  "types": "",
+  "type_list": [],
+  "downloads": 101,
+  "date_ms": 1777989037490,
+  "description_en": "Auto-verify Pi agent output. Two-agent system: builder runs, verifier checks, auto-corrects.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-mode-manager",
+  "path": "/packages/pi-mode-manager",
+  "url": "https://pi.dev/packages/pi-mode-manager",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783065538391,
+  "description_en": "Switch editing mode in pi: auto, manual (confirm changes), or plan (read-only with planning)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

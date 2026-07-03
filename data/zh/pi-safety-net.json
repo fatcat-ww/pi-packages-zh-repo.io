@@ -1,0 +1,6 @@
+{
+  "name": "pi-safety-net",
+  "description_en": "Fail-open fork of cc-safety-net — blocks destructive git/filesystem commands, but defaults to fail-OPEN on broken/legacy config so the shell never bricks.",
+  "description_zh": "cc-safety-net 的失败开放分支 — 阻止破坏性的 git/文件系统命令，但在损坏/遗留配置上默认为失败开放，因此 shell 从不会损坏。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

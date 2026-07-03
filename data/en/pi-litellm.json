@@ -1,0 +1,11 @@
+{
+  "name": "pi-litellm",
+  "path": "/packages/pi-litellm",
+  "url": "https://pi.dev/packages/pi-litellm",
+  "types": "",
+  "type_list": [],
+  "downloads": 71,
+  "date_ms": 1778193597126,
+  "description_en": "LiteLLM integration for Pi — dynamic model sync, accurate cost tracking, and session grouping",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-whisper-voice",
+  "path": "/packages/pi-whisper-voice",
+  "url": "https://pi.dev/packages/pi-whisper-voice",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 106,
+  "date_ms": 1777256322090,
+  "description_en": "Minimal hold-SPACE voice input for Pi using an OpenAI-compatible Whisper/STT endpoint.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

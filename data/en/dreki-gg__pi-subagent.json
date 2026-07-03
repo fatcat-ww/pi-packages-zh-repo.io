@@ -1,0 +1,11 @@
+{
+  "name": "@dreki-gg/pi-subagent",
+  "path": "/packages/@dreki-gg/pi-subagent",
+  "url": "https://pi.dev/packages/@dreki-gg/pi-subagent",
+  "types": "",
+  "type_list": [],
+  "downloads": 934,
+  "date_ms": 1782617264494,
+  "description_en": "Subagent tool and direct agent runs for pi — isolated agents, parallel scouts, manager workflows, and bundled prompts",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

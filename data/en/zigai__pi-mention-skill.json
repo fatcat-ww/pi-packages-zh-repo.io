@@ -1,0 +1,14 @@
+{
+  "name": "@zigai/pi-mention-skill",
+  "path": "/packages/@zigai/pi-mention-skill",
+  "url": "https://pi.dev/packages/@zigai/pi-mention-skill",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 874,
+  "date_ms": 1782833512141,
+  "description_en": "Pi package that moves skill discovery from slash commands to $ mentions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

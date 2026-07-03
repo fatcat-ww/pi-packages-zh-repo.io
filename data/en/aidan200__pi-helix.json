@@ -1,0 +1,13 @@
+{
+  "name": "@aidan200/pi-helix",
+  "path": "/packages/@aidan200/pi-helix",
+  "url": "https://pi.dev/packages/@aidan200/pi-helix",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 98,
+  "date_ms": 1780906662503,
+  "description_en": "Helix package for pi: vibe coding runtime, todo, plan mode, multi-agent collaboration, tracing, and Claude Code plugin compatibility.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

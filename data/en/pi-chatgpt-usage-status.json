@@ -1,0 +1,13 @@
+{
+  "name": "pi-chatgpt-usage-status",
+  "path": "/packages/pi-chatgpt-usage-status",
+  "url": "https://pi.dev/packages/pi-chatgpt-usage-status",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 40,
+  "date_ms": 1777436938806,
+  "description_en": "Pi extension that shows ChatGPT 5h and weekly rate-limit usage in the status bar.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

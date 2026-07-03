@@ -1,0 +1,13 @@
+{
+  "name": "@badliveware/pi-tool-feedback",
+  "path": "/packages/@badliveware/pi-tool-feedback",
+  "url": "https://pi.dev/packages/@badliveware/pi-tool-feedback",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 58,
+  "date_ms": 1778966552720,
+  "description_en": "Generic watched-tool feedback prompts and passive summaries for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

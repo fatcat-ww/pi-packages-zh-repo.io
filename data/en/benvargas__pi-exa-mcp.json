@@ -1,0 +1,13 @@
+{
+  "name": "@benvargas/pi-exa-mcp",
+  "path": "/packages/@benvargas/pi-exa-mcp",
+  "url": "https://pi.dev/packages/@benvargas/pi-exa-mcp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 195,
+  "date_ms": 1779738046310,
+  "description_en": "Exa MCP tools for pi - Web search and code context via Exa's Model Context Protocol",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

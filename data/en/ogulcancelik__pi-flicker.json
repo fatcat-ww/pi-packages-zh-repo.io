@@ -1,0 +1,13 @@
+{
+  "name": "@ogulcancelik/pi-flicker",
+  "path": "/packages/@ogulcancelik/pi-flicker",
+  "url": "https://pi.dev/packages/@ogulcancelik/pi-flicker",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 40,
+  "date_ms": 1778169452731,
+  "description_en": "A pi extension that brings Claude Code flicker to pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

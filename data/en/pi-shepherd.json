@@ -1,0 +1,11 @@
+{
+  "name": "pi-shepherd",
+  "path": "/packages/pi-shepherd",
+  "url": "https://pi.dev/packages/pi-shepherd",
+  "types": "",
+  "type_list": [],
+  "downloads": 240,
+  "date_ms": 1780308780510,
+  "description_en": "Line count guard and behavior rules extension for pi-coding-agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

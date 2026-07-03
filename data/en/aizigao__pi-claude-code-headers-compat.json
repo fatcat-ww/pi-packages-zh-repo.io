@@ -1,0 +1,13 @@
+{
+  "name": "@aizigao/pi-claude-code-headers-compat",
+  "path": "/packages/@aizigao/pi-claude-code-headers-compat",
+  "url": "https://pi.dev/packages/@aizigao/pi-claude-code-headers-compat",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 617,
+  "date_ms": 1781591066574,
+  "description_en": "Pi extension package for Claude-compatible header and request-path adaptation across multiple providers.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

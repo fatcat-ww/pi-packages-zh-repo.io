@@ -1,0 +1,6 @@
+{
+  "name": "pi-overwatch",
+  "description_en": "Minimal TUI observability for Pi sessions, with tmux session awareness and cwd fallback",
+  "description_zh": "Pi 会话的最小 TUI 可观测性，具有 tmux 会话意识和 cwd 回退功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

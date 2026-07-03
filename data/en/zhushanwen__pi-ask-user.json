@@ -1,0 +1,13 @@
+{
+  "name": "@zhushanwen/pi-ask-user",
+  "path": "/packages/@zhushanwen/pi-ask-user",
+  "url": "https://pi.dev/packages/@zhushanwen/pi-ask-user",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 89,
+  "date_ms": 1782547929575,
+  "description_en": "Inline adaptive ask_user tool for Pi — single/multi-question structured input with split-pane preview, inline editor, and optional comments.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

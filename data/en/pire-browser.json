@@ -1,0 +1,14 @@
+{
+  "name": "pire-browser",
+  "path": "/packages/pire-browser",
+  "url": "https://pi.dev/packages/pire-browser",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 2810,
+  "date_ms": 1783007579752,
+  "description_en": "Cross-platform Pi extension and Firefox bridge for local browser automation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@tryinget/pi-ontology-workflows",
+  "path": "/packages/@tryinget/pi-ontology-workflows",
+  "url": "https://pi.dev/packages/@tryinget/pi-ontology-workflows",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 54,
+  "date_ms": 1773519429244,
+  "description_en": "Pi extension package for ontology inspection, routing, and change workflows backed by ROCS.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

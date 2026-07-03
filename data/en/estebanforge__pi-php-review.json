@@ -1,0 +1,13 @@
+{
+  "name": "@estebanforge/pi-php-review",
+  "path": "/packages/@estebanforge/pi-php-review",
+  "url": "https://pi.dev/packages/@estebanforge/pi-php-review",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 214,
+  "date_ms": 1782832951761,
+  "description_en": "PHP code-review tool for Pi. Grades your git diffs against a focused PHP 8.2+ rubric (4 sections, 16 entries: strict-types/typing, error handling, builtin correctness, security). Each entry has a bad/good pair; the LLM proposes a corrected snippet. Return",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

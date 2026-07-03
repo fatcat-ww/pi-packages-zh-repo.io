@@ -1,0 +1,13 @@
+{
+  "name": "@unseated7635/pi-roxy-seo",
+  "path": "/packages/@unseated7635/pi-roxy-seo",
+  "url": "https://pi.dev/packages/@unseated7635/pi-roxy-seo",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 44,
+  "date_ms": 1777938874323,
+  "description_en": "Roxy SEO extension for pi-coding-agent with an installable SEO, AEO, and GEO skill companion.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

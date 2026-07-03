@@ -1,0 +1,11 @@
+{
+  "name": "@hemocode/pi-model-selector",
+  "path": "/packages/@hemocode/pi-model-selector",
+  "url": "https://pi.dev/packages/@hemocode/pi-model-selector",
+  "types": "",
+  "type_list": [],
+  "downloads": 27,
+  "date_ms": 1772737414447,
+  "description_en": "A Pi extension that automatically selects the best model based on remaining usage quotas across various providers (Claude, OpenAI, Gemini, etc.).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

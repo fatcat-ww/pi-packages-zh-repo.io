@@ -1,0 +1,6 @@
+{
+  "name": "worktree-sessions",
+  "description_en": "Share pi coding-agent sessions across linked git worktrees by storing them in the main worktree.",
+  "description_zh": "通过将会话存储在主工作树中，在链接的 git 工作树之间共享 pi 编码代理会话。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

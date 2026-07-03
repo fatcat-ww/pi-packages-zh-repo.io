@@ -1,0 +1,13 @@
+{
+  "name": "@johnnywu/pi-webfetch",
+  "path": "/packages/@johnnywu/pi-webfetch",
+  "url": "https://pi.dev/packages/@johnnywu/pi-webfetch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 162,
+  "date_ms": 1780036550956,
+  "description_en": "Fetch web pages and URLs from pi with readable text, Markdown, HTML, or JSON output.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

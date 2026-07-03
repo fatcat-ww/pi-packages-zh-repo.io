@@ -1,0 +1,13 @@
+{
+  "name": "pi-fast-mode",
+  "path": "/packages/pi-fast-mode",
+  "url": "https://pi.dev/packages/pi-fast-mode",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 75,
+  "date_ms": 1776224816239,
+  "description_en": "Persistent fast-mode toggle for pi that injects service_tier for configured provider/model pairs.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

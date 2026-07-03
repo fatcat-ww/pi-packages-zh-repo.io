@@ -1,0 +1,13 @@
+{
+  "name": "@tifan/pi-mermaid-open",
+  "path": "/packages/@tifan/pi-mermaid-open",
+  "url": "https://pi.dev/packages/@tifan/pi-mermaid-open",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 213,
+  "date_ms": 1780652832222,
+  "description_en": "Extract and open Mermaid diagrams from pi agent responses.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

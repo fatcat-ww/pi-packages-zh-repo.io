@@ -1,0 +1,13 @@
+{
+  "name": "pi-claude-style-tools",
+  "path": "/packages/pi-claude-style-tools",
+  "url": "https://pi.dev/packages/pi-claude-style-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 5815,
+  "date_ms": 1782863220378,
+  "description_en": "Claude Code-style grouped tool rows for pi with Ctrl+O/Ctrl+Shift+O previews, math rendering, and consistent built-in, MCP, and custom tool rendering",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

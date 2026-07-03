@@ -1,0 +1,6 @@
+{
+  "name": "@engrammic/veil-subagents",
+  "description_en": "A pi extension that brings smart Claude Code-style autonomous sub-agents to pi. Fork of @tintinweb/pi-subagents with Veil memory hooks.",
+  "description_zh": "为 pi 带来智能 Claude Code 风格自主子代理的 pi 扩展。@tintinweb/pi-subagents 的分支，带有 Veil 内存钩子",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

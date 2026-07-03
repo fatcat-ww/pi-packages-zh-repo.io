@@ -1,0 +1,6 @@
+{
+  "name": "@xynogen/pix-data",
+  "description_en": "Pi extension — shared model data layer (models.dev + BenchLM), cached at ~/.cache/pi",
+  "description_zh": "Pi 扩展 — 共享模型数据层（models.dev + BenchLM），缓存在 ~/.cache/pi",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

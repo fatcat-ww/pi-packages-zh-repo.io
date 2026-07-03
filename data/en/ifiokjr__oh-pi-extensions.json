@@ -1,0 +1,11 @@
+{
+  "name": "@ifiokjr/oh-pi-extensions",
+  "path": "/packages/@ifiokjr/oh-pi-extensions",
+  "url": "https://pi.dev/packages/@ifiokjr/oh-pi-extensions",
+  "types": "",
+  "type_list": [],
+  "downloads": 43,
+  "date_ms": 1772960952609,
+  "description_en": "Core pi extensions: safe-guard, git-guard, auto-session, custom-footer, and more.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

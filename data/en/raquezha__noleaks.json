@@ -1,0 +1,11 @@
+{
+  "name": "@raquezha/noleaks",
+  "path": "/packages/@raquezha/noleaks",
+  "url": "https://pi.dev/packages/@raquezha/noleaks",
+  "types": "",
+  "type_list": [],
+  "downloads": 809,
+  "date_ms": 1781542767101,
+  "description_en": "Security credentials protector shield for the Pi Coding Agent — blocks LLM access to .env, keys, and secrets",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

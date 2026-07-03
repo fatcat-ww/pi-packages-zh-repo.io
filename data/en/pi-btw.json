@@ -1,0 +1,13 @@
+{
+  "name": "pi-btw",
+  "path": "/packages/pi-btw",
+  "url": "https://pi.dev/packages/pi-btw",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 8404,
+  "date_ms": 1781043509759,
+  "description_en": "A pi extension for parallel side conversations with /btw",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

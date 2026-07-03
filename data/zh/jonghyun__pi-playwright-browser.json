@@ -1,0 +1,6 @@
+{
+  "name": "@jonghyun/pi-playwright-browser",
+  "description_en": "Playwright browser automation extension for pi - runs Chromium in Microsoft Docker container in headless mode",
+  "description_zh": "pi的Playwright浏览器自动化扩展 - 在Microsoft Docker容器中以无头模式运行Chromium",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

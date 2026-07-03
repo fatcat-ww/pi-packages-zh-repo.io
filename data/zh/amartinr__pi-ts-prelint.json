@@ -1,0 +1,6 @@
+{
+  "name": "@amartinr/pi-ts-prelint",
+  "description_en": "Pre-write TypeScript linting for pi — non-blocking tsc check on .ts/.tsx files with error injection",
+  "description_zh": "pi 的预写 TypeScript 检查 — 对 .ts/.tsx 文件进行非阻塞 tsc 检查，带有错误注入",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

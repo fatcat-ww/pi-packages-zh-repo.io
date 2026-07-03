@@ -1,0 +1,6 @@
+{
+  "name": "@0xkobold/pi-ollama",
+  "description_en": "Ollama extension for pi-coding-agent. Unified local + cloud Ollama support with model management",
+  "description_zh": "Pi 编码代理的 Ollama 扩展。统一的本地 + 云 Ollama 支持和模型管理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

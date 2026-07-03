@@ -1,0 +1,6 @@
+{
+  "name": "@agnishc/edb-agent-mode",
+  "description_en": "Pi extension: switch the main agent's personality/mode via /mode command",
+  "description_zh": "Pi 扩展：通过 /mode 命令切换主代理的个性/模式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

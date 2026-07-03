@@ -1,0 +1,11 @@
+{
+  "name": "pi-symphony",
+  "path": "/packages/pi-symphony",
+  "url": "https://pi.dev/packages/pi-symphony",
+  "types": "",
+  "type_list": [],
+  "downloads": 104,
+  "date_ms": 1774168129983,
+  "description_en": "Unattended issue orchestration for Pi — polls Linear, spawns workers, manages PRs",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

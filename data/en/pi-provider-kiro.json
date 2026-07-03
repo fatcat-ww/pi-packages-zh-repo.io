@@ -1,0 +1,11 @@
+{
+  "name": "pi-provider-kiro",
+  "path": "/packages/pi-provider-kiro",
+  "url": "https://pi.dev/packages/pi-provider-kiro",
+  "types": "",
+  "type_list": [],
+  "downloads": 822,
+  "date_ms": 1782836466836,
+  "description_en": "pi extension for the Kiro API (AWS CodeWhisperer/Q) — 12 kiro-cli-verified models with OAuth authentication",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

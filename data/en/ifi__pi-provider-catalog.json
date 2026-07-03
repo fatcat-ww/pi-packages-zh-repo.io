@@ -1,0 +1,11 @@
+{
+  "name": "@ifi/pi-provider-catalog",
+  "path": "/packages/@ifi/pi-provider-catalog",
+  "url": "https://pi.dev/packages/@ifi/pi-provider-catalog",
+  "types": "",
+  "type_list": [],
+  "downloads": 60,
+  "date_ms": 1777355443499,
+  "description_en": "Experimental multi-provider package for pi backed by the OpenCode models.dev catalog.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

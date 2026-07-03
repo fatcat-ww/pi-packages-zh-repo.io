@@ -1,0 +1,15 @@
+{
+  "name": "pi-until-done",
+  "path": "/packages/pi-until-done",
+  "url": "https://pi.dev/packages/pi-until-done",
+  "types": "extension skill prompt",
+  "type_list": [
+    "extension",
+    "skill",
+    "prompt"
+  ],
+  "downloads": 390,
+  "date_ms": 1777944377821,
+  "description_en": "Pi extension that brings Hermes Agent's /goal (Ralph loop with judge) to Pi as /until-done. Pi self-judges every turn, runs verifyCommand to confirm done, and routes all CI/CD through mise across 18 language profiles.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

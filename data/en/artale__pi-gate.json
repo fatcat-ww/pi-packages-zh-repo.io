@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-gate",
+  "path": "/packages/@artale/pi-gate",
+  "url": "https://pi.dev/packages/@artale/pi-gate",
+  "types": "",
+  "type_list": [],
+  "downloads": 44,
+  "date_ms": 1773504052013,
+  "description_en": "Conditional execution gates for Pi. Hold, approve, or block tool calls based on rules. Safety layer for dangerous operations.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

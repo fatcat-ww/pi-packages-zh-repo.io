@@ -1,0 +1,13 @@
+{
+  "name": "pi-sticky-model",
+  "path": "/packages/pi-sticky-model",
+  "url": "https://pi.dev/packages/pi-sticky-model",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 154,
+  "date_ms": 1782525332026,
+  "description_en": "Pi extension that keeps your selected model across /new, /resume, and /fork within the same session. Model resets on Ctrl+C.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-openai-fast",
+  "path": "/packages/pi-openai-fast",
+  "url": "https://pi.dev/packages/pi-openai-fast",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 108,
+  "date_ms": 1779394303034,
+  "description_en": "Focused Pi extension for OpenAI Fast Mode priority service-tier requests.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

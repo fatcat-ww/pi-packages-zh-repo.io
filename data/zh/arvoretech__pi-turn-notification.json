@@ -1,0 +1,6 @@
+{
+  "name": "@arvoretech/pi-turn-notification",
+  "description_en": "PI extension that sends a native desktop notification at the end of each agent turn (macOS and Linux)",
+  "description_zh": "在每个智能体回合结束时发送原生桌面通知的 PI 扩展（macOS 和 Linux）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

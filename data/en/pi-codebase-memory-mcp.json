@@ -1,0 +1,11 @@
+{
+  "name": "pi-codebase-memory-mcp",
+  "path": "/packages/pi-codebase-memory-mcp",
+  "url": "https://pi.dev/packages/pi-codebase-memory-mcp",
+  "types": "",
+  "type_list": [],
+  "downloads": 409,
+  "date_ms": 1781759304124,
+  "description_en": "Pi package that bridges the codebase-memory-mcp server into pi as native tools — a tree-sitter knowledge graph for fast structural code search, call-path tracing, architecture overviews, and impact analysis.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

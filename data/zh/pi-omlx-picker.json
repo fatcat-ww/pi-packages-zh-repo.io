@@ -1,0 +1,6 @@
+{
+  "name": "pi-omlx-picker",
+  "description_en": "Pi extension that discovers models from a local OMLX server and registers them as a native Pi provider.",
+  "description_zh": "Pi 扩展，从本地 OMLX 服务器发现模型，并将其注册为原生 Pi 提供者",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

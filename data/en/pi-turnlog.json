@@ -1,0 +1,13 @@
+{
+  "name": "pi-turnlog",
+  "path": "/packages/pi-turnlog",
+  "url": "https://pi.dev/packages/pi-turnlog",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 242,
+  "date_ms": 1781982266610,
+  "description_en": "Compact Pi extension for recording turnlog provenance with low prompt overhead.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

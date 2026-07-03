@@ -1,0 +1,6 @@
+{
+  "name": "pi-ultra-subagents",
+  "description_en": "Pi sub-agent extension with isolated child sessions, fork-current context, interactive agent chats, bundled agents, and structured result merging.",
+  "description_zh": "Pi 子代理扩展，具有隔离的子会话、fork-current 上下文、交互式代理聊天、捆绑代理和结构化结果合并功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

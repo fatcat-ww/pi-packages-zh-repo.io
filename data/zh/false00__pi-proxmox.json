@@ -1,0 +1,6 @@
+{
+  "name": "@false00/pi-proxmox",
+  "description_en": "Production-focused Proxmox VE automation tools for the Pi coding agent — VMs, LXC, storage, cluster, firewall, backup, HA, replication, and access control via the REST API",
+  "description_zh": "面向生产的 Proxmox VE 自动化工具，用于 Pi 编码代理 — 通过 REST API 进行 VM、LXC、存储、集群、防火墙、备份、HA、复制和访问控制",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

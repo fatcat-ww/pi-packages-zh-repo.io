@@ -1,0 +1,13 @@
+{
+  "name": "pi-doc-injector",
+  "path": "/packages/pi-doc-injector",
+  "url": "https://pi.dev/packages/pi-doc-injector",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1091,
+  "date_ms": 1781637962184,
+  "description_en": "Auto-inject relevant project documentation into Pi's LLM context based on keyword matching",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

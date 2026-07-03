@@ -1,0 +1,11 @@
+{
+  "name": "pi-chutes",
+  "path": "/packages/pi-chutes",
+  "url": "https://pi.dev/packages/pi-chutes",
+  "types": "",
+  "type_list": [],
+  "downloads": 234,
+  "date_ms": 1781638545561,
+  "description_en": "Pi coding agent extension to integrate Chutes.ai as a provider.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

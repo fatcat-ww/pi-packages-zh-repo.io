@@ -1,0 +1,13 @@
+{
+  "name": "@hyperprior/pi-review",
+  "path": "/packages/@hyperprior/pi-review",
+  "url": "https://pi.dev/packages/@hyperprior/pi-review",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 38,
+  "date_ms": 1771219071848,
+  "description_en": "Structured review findings for code review workflows",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

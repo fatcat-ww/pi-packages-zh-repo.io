@@ -1,0 +1,11 @@
+{
+  "name": "@spences10/pi-recall",
+  "path": "/packages/@spences10/pi-recall",
+  "url": "https://pi.dev/packages/@spences10/pi-recall",
+  "types": "",
+  "type_list": [],
+  "downloads": 312,
+  "date_ms": 1779389249950,
+  "description_en": "Pi extension that syncs pirecall and nudges agents to query past Pi sessions when history matters",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

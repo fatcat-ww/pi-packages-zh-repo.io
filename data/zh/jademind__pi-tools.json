@@ -1,0 +1,6 @@
+{
+  "name": "@jademind/pi-tools",
+  "description_en": "pi extension that registers additional CLI tools from local/global config files",
+  "description_zh": "pi 扩展，从本地/全局配置文件注册额外的 CLI 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

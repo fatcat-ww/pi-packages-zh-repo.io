@@ -1,0 +1,11 @@
+{
+  "name": "@johnnywu/pi-default-tools",
+  "path": "/packages/@johnnywu/pi-default-tools",
+  "url": "https://pi.dev/packages/@johnnywu/pi-default-tools",
+  "types": "",
+  "type_list": [],
+  "downloads": 36,
+  "date_ms": 1778754619911,
+  "description_en": "Activate default tools from settings.json — reads project or global settings to enable built-in tools like grep, find, and ls on session start",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

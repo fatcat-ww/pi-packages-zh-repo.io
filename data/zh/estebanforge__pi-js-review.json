@@ -1,0 +1,6 @@
+{
+  "name": "@estebanforge/pi-js-review",
+  "description_en": "JavaScript code-review tool for Pi. Grades your git diffs against a focused JS flaws rubric (5 sections, 18 entries: equality/coercion, async, mutation/scope, globals/prototypes, security). Each entry has a bad/good pair; the LLM proposes a corrected snip",
+  "description_zh": "Pi 的 JavaScript 代码审查工具。根据专注的 JS 缺陷评分标准（5 个部分，18 个条目：相等性/强制转换、异步、突变/作用域、全局变量/原型、安全）对你的 git 差异进行评分。每个条目都有坏/好对；LLM 提出修正代码片段",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

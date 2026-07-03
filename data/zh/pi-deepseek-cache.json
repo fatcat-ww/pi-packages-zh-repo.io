@@ -1,0 +1,6 @@
+{
+  "name": "pi-deepseek-cache",
+  "description_en": "DeepSeek prefix-cache extension for pi — hit-rate telemetry, prefix guard, and cache-friendly compaction.",
+  "description_zh": "pi 的 DeepSeek 前缀缓存扩展 — 命中率遥测、前缀保护和缓存友好型压缩",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

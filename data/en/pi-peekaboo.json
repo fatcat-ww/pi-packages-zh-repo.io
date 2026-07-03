@@ -1,0 +1,13 @@
+{
+  "name": "pi-peekaboo",
+  "path": "/packages/pi-peekaboo",
+  "url": "https://pi.dev/packages/pi-peekaboo",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782821968555,
+  "description_en": "Computer use for Pi via Peekaboo. Enable macOS screen capture, accessibility inspection, and GUI automation with /peekaboo.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

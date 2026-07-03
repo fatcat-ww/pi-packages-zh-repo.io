@@ -1,0 +1,13 @@
+{
+  "name": "@juicesharp/rpiv-voice",
+  "path": "/packages/@juicesharp/rpiv-voice",
+  "url": "https://pi.dev/packages/@juicesharp/rpiv-voice",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2999,
+  "date_ms": 1781526940698,
+  "description_en": "Pi extension. Voice dictation via /voice — local on-device STT with sherpa-onnx Whisper (base multilingual int8), microphone capture via decibri.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

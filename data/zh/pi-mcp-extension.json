@@ -1,0 +1,6 @@
+{
+  "name": "pi-mcp-extension",
+  "description_en": "MCP (Model Context Protocol) client extension for the Pi coding agent — connect Pi to any MCP server",
+  "description_zh": "Pi 编码代理的 MCP (Model Context Protocol) 客户端扩展 — 将 Pi 连接到任何 MCP 服务器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

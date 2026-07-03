@@ -1,0 +1,13 @@
+{
+  "name": "pi-impeccable",
+  "path": "/packages/pi-impeccable",
+  "url": "https://pi.dev/packages/pi-impeccable",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 176,
+  "date_ms": 1782067418200,
+  "description_en": "Run Impeccable skills from Pi without blocking the agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

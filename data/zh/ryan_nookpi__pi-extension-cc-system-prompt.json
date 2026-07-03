@@ -1,0 +1,6 @@
+{
+  "name": "@ryan_nookpi/pi-extension-cc-system-prompt",
+  "description_en": "Pi extension that swaps pi's system prompt with a vendored Claude Code system prompt.",
+  "description_zh": "Pi 扩展，用供应商提供的 Claude Code 系统提示替换 pi 的系统提示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

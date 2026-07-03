@@ -1,0 +1,13 @@
+{
+  "name": "@nvaughn/pi-asu-provider",
+  "path": "/packages/@nvaughn/pi-asu-provider",
+  "url": "https://pi.dev/packages/@nvaughn/pi-asu-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 54,
+  "date_ms": 1778820304001,
+  "description_en": "ASU provider extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

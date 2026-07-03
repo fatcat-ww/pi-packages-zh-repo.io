@@ -1,0 +1,11 @@
+{
+  "name": "@ontomics/ontomics",
+  "path": "/packages/@ontomics/ontomics",
+  "url": "https://pi.dev/packages/@ontomics/ontomics",
+  "types": "",
+  "type_list": [],
+  "downloads": 565,
+  "date_ms": 1776134043474,
+  "description_en": "MCP server that extracts domain ontologies from Python codebases",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

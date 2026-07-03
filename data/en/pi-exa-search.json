@@ -1,0 +1,13 @@
+{
+  "name": "pi-exa-search",
+  "path": "/packages/pi-exa-search",
+  "url": "https://pi.dev/packages/pi-exa-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 60,
+  "date_ms": 1772868163771,
+  "description_en": "Exa-powered source discovery and search workflows for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

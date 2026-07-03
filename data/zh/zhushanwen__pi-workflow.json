@@ -1,0 +1,6 @@
+{
+  "name": "@zhushanwen/pi-workflow",
+  "description_en": "Multi-agent workflow orchestration for Pi — stateful workflow management with persistence, state machine, and execution tracing.",
+  "description_zh": "Pi的多代理工作流编排 — 具有持久性、状态机和执行跟踪的状态工作流管理。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

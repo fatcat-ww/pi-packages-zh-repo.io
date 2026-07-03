@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-git-hooks",
+  "description_en": "Git hook manager. Install pre-commit, commit-msg, pre-push hooks from templates.",
+  "description_zh": "Git 钩子管理器。从模板安装 pre-commit、commit-msg、pre-push 钩子",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

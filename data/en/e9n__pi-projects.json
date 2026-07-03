@@ -1,0 +1,11 @@
+{
+  "name": "@e9n/pi-projects",
+  "path": "/packages/@e9n/pi-projects",
+  "url": "https://pi.dev/packages/@e9n/pi-projects",
+  "types": "",
+  "type_list": [],
+  "downloads": 38,
+  "date_ms": 1777233172116,
+  "description_en": "Project tracking extension for pi — auto-discovers git repos with health status dashboard",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

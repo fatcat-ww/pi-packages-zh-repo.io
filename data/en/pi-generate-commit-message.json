@@ -1,0 +1,13 @@
+{
+  "name": "pi-generate-commit-message",
+  "path": "/packages/pi-generate-commit-message",
+  "url": "https://pi.dev/packages/pi-generate-commit-message",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 238,
+  "date_ms": 1782225330788,
+  "description_en": "Pi extension for generating commit messages from staged diffs",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

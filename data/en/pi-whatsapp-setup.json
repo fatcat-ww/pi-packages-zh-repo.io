@@ -1,0 +1,11 @@
+{
+  "name": "pi-whatsapp-setup",
+  "path": "/packages/pi-whatsapp-setup",
+  "url": "https://pi.dev/packages/pi-whatsapp-setup",
+  "types": "",
+  "type_list": [],
+  "downloads": 209,
+  "date_ms": 1781467258853,
+  "description_en": "WhatsApp setup for Pi Agent: a local WhatsApp Web/Baileys bridge for running Pi from WhatsApp.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

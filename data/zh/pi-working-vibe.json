@@ -1,0 +1,6 @@
+{
+  "name": "pi-working-vibe",
+  "description_en": "Custom Working… message + tool-aware spinner for pi. Vibe files with [default] and [tool:<name>] sections; ships with mafia, hacker, pirate, zen.",
+  "description_zh": "Pi 的自定义 Working... 消息 + 工具感知加载器。包含 [default] 和 [tool:<name>] 部分的氛围文件；附带 mafia、hacker、pirate、zen。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

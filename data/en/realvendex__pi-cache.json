@@ -1,0 +1,13 @@
+{
+  "name": "@realvendex/pi-cache",
+  "path": "/packages/@realvendex/pi-cache",
+  "url": "https://pi.dev/packages/@realvendex/pi-cache",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782592322614,
+  "description_en": "Pi-native runtime cache and memoization toolkit for pi.dev extension tools: deterministic cache keys, TTL/SWR policies, tag/namespace invalidation, optional local persistence.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

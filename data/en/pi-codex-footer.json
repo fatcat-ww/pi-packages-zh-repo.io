@@ -1,0 +1,13 @@
+{
+  "name": "pi-codex-footer",
+  "path": "/packages/pi-codex-footer",
+  "url": "https://pi.dev/packages/pi-codex-footer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 38,
+  "date_ms": 1775744631413,
+  "description_en": "Pi extension that adds a 2-line footer with live OpenAI Codex 5h/7d quota usage and reset timers.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

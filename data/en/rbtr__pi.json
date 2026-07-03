@@ -1,0 +1,11 @@
+{
+  "name": "@rbtr/pi",
+  "path": "/packages/@rbtr/pi",
+  "url": "https://pi.dev/packages/@rbtr/pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 772,
+  "date_ms": 1782674620496,
+  "description_en": "pi extension that surfaces rbtr's structural code index to the LLM — symbol search, source read, file outlines, dependency edges, and cross-ref diffs without raw shell commands.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-zellij-tab-namer",
+  "description_en": "Automatically renames the active Zellij tab to a short summary of the conversation after each agent turn, using a fast model for minimal overhead.",
+  "description_zh": "每次代理轮次后，使用快速模型以最小开销自动将活动 Zellij 选项卡重命名为对话的简短摘要",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

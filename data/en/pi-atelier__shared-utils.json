@@ -1,0 +1,11 @@
+{
+  "name": "@pi-atelier/shared-utils",
+  "path": "/packages/@pi-atelier/shared-utils",
+  "url": "https://pi.dev/packages/@pi-atelier/shared-utils",
+  "types": "",
+  "type_list": [],
+  "downloads": 598,
+  "date_ms": 1781771783852,
+  "description_en": "Shared utilities for pi-atelier extensions — settings, project config, memory parsing, tool output truncation, and more",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

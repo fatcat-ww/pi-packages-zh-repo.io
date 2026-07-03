@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-todo",
+  "path": "/packages/@agnishc/edb-todo",
+  "url": "https://pi.dev/packages/@agnishc/edb-todo",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 653,
+  "date_ms": 1782119194210,
+  "description_en": "Pi extension: structured task list with live widget and system-prompt injection to prevent goal drift",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

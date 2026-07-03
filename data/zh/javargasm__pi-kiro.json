@@ -1,0 +1,6 @@
+{
+  "name": "@javargasm/pi-kiro",
+  "description_en": "Kiro provider for the pi coding agent: AWS Builder ID / IAM Identity Center login and the CodeWhisperer streaming API, exposing the Kiro Claude model family.",
+  "description_zh": "pi 编码代理的 Kiro 提供程序：AWS Builder ID / IAM Identity Center 登录和 CodeWhisperer 流式 API，暴露 Kiro Claude 模型系列。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

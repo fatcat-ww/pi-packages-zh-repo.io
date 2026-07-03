@@ -1,0 +1,6 @@
+{
+  "name": "@foxfirecodes/pi-usage",
+  "description_en": "Pi extension that reports token usage and cost for the current session or all persisted sessions.",
+  "description_zh": "Pi 扩展，报告当前会话或所有持久化会话的令牌使用情况和成本",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-package-manager",
+  "description_en": "Installed packages manager — web dashboard for browsing, installing, and removing pi packages from your agent. Adds the /packages slash command.",
+  "description_zh": "已安装包管理器 — 用于浏览、安装和从您的代理中移除 pi 包的 Web 仪表板。添加 /packages 斜杠命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

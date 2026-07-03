@@ -1,0 +1,6 @@
+{
+  "name": "pi-schedule-prompt",
+  "description_en": "Pi's Heartbeat - A pi extension for scheduling recurring and one-shot main agent or background prompts with cron-like functionality",
+  "description_zh": "Pi 的心跳 - 一个 pi 扩展，用于使用类似 cron 的功能安排定期和一次性主代理或后台提示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

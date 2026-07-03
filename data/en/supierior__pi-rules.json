@@ -1,0 +1,11 @@
+{
+  "name": "@supierior/pi-rules",
+  "path": "/packages/@supierior/pi-rules",
+  "url": "https://pi.dev/packages/@supierior/pi-rules",
+  "types": "",
+  "type_list": [],
+  "downloads": 46,
+  "date_ms": 1778527804455,
+  "description_en": "Pi package for generating, injecting, and maintaining path-scoped project rules in .pi/rules.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

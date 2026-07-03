@@ -1,0 +1,6 @@
+{
+  "name": "pi-gemini-search",
+  "description_en": "Web search & research tools for the Pi coding agent, backed by the Gemini API with Google Search grounding — keeps raw page noise out of your context.",
+  "description_zh": "Pi 编码代理的网页搜索和研究工具，由带 Google Search 基础的 Gemini API 支持 — 将原始页面噪声排除在您的上下文之外。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

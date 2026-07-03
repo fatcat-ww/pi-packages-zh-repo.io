@@ -1,0 +1,6 @@
+{
+  "name": "@lustepe/elixir-pi",
+  "description_en": "Pi package for Elixir projects: Mix post-edit checks, Expert LSP bridge, commands, LLM tools, and Elixir/Phoenix/Ecto/OTP skills.",
+  "description_zh": "Elixir 项目的 Pi 包：Mix 后编辑检查、专家 LSP 桥接、命令、LLM 工具和 Elixir/Phoenix/Ecto/OTP 技能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

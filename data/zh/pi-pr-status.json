@@ -1,0 +1,6 @@
+{
+  "name": "pi-pr-status",
+  "description_en": "A Pi extension that shows the current PR link, CI check status, and unresolved review comments in the footer status bar",
+  "description_zh": "Pi 扩展，在页脚状态栏显示当前 PR 链接、CI 检查状态和未解决的审查评论",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-ephemeral",
+  "description_en": "Toggle Pi session persistence mid-session (delete session file on exit)",
+  "description_zh": "切换 Pi 会话持久性（退出时删除会话文件）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

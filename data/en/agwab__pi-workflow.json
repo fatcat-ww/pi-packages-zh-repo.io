@@ -1,0 +1,13 @@
+{
+  "name": "@agwab/pi-workflow",
+  "path": "/packages/@agwab/pi-workflow",
+  "url": "https://pi.dev/packages/@agwab/pi-workflow",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 268,
+  "date_ms": 1783069577447,
+  "description_en": "Workflow orchestration for Pi subagents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

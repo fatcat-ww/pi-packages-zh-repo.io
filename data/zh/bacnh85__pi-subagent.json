@@ -1,0 +1,6 @@
+{
+  "name": "@bacnh85/pi-subagent",
+  "description_en": "Minimal-overhead sub-agent extension for pi. Delegate tasks to specialized agents with isolated context using the pi SDK in-process.",
+  "description_zh": "pi 的最小开销子代理扩展。使用 pi SDK 在进程中将任务委托给具有隔离上下文的专业代理。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

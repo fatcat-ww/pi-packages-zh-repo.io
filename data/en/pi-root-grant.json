@@ -1,0 +1,13 @@
+{
+  "name": "pi-root-grant",
+  "path": "/packages/pi-root-grant",
+  "url": "https://pi.dev/packages/pi-root-grant",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 172,
+  "date_ms": 1778582835501,
+  "description_en": "Pi extension that lets agents request temporary sudo-backed root access with explicit user approval.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

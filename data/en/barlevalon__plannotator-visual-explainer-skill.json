@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/plannotator-visual-explainer-skill",
+  "path": "/packages/@barlevalon/plannotator-visual-explainer-skill",
+  "url": "https://pi.dev/packages/@barlevalon/plannotator-visual-explainer-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 35,
+  "date_ms": 1780948752344,
+  "description_en": "Generate self-contained HTML visualizations with Plannotator theming. Use for implementation plans, PR explainers, architecture diagrams, data tables, slide decks, and any visual explanation of technical concepts. Pla...",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

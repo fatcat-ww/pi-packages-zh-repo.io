@@ -1,0 +1,13 @@
+{
+  "name": "pi-submarine",
+  "path": "/packages/pi-submarine",
+  "url": "https://pi.dev/packages/pi-submarine",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 184,
+  "date_ms": 1782429637526,
+  "description_en": "A no-nonsense Pi extension for focused foreground child-session delegation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

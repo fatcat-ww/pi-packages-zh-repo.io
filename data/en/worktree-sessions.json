@@ -1,0 +1,13 @@
+{
+  "name": "worktree-sessions",
+  "path": "/packages/worktree-sessions",
+  "url": "https://pi.dev/packages/worktree-sessions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 466,
+  "date_ms": 1780713511303,
+  "description_en": "Share pi coding-agent sessions across linked git worktrees by storing them in the main worktree.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

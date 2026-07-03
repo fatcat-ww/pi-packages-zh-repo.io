@@ -1,0 +1,6 @@
+{
+  "name": "pi-editor",
+  "description_en": "Pi extension to open files in your preferred editor ($VISUAL / $EDITOR)",
+  "description_zh": "Pi 扩展，在您首选的编辑器中打开文件（$VISUAL / $EDITOR）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

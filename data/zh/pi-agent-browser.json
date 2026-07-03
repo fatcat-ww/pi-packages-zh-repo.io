@@ -1,0 +1,6 @@
+{
+  "name": "pi-agent-browser",
+  "description_en": "Browser automation tool for pi — interactive browsing, screenshots with inline vision, and session cleanup via agent-browser CLI",
+  "description_zh": "pi 的浏览器自动化工具 — 交互式浏览、带内联视觉的截图，以及通过 agent-browser CLI 的会话清理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

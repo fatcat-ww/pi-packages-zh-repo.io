@@ -1,0 +1,11 @@
+{
+  "name": "@nqbao/pi-json-schema",
+  "path": "/packages/@nqbao/pi-json-schema",
+  "url": "https://pi.dev/packages/@nqbao/pi-json-schema",
+  "types": "",
+  "type_list": [],
+  "downloads": 436,
+  "date_ms": 1778911487761,
+  "description_en": "Pi extension for validating and writing structured JSON output against a JSON Schema.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

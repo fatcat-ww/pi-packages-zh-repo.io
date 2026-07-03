@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-bug-reporter",
+  "description_en": "Agents should invoke this skill when defects, regressions, failed tests, unexpected behavior, or spec mismatches are found. Produces structured reproducible bug reports with severity, evidence, environment, and actionable next steps.",
+  "description_zh": "代理在发现缺陷、回归、失败测试、意外行为或规范不匹配时应调用此技能。生成包含严重性、证据、环境和可操作下一步的结构化可重现错误报告",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

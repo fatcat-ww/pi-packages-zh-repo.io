@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-pi",
+  "path": "/packages/whatsapp-pi",
+  "url": "https://pi.dev/packages/whatsapp-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 643,
+  "date_ms": 1780461068493,
+  "description_en": "WhatsApp integration extension for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

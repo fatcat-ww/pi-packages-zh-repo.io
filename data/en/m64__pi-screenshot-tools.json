@@ -1,0 +1,14 @@
+{
+  "name": "@m64/pi-screenshot-tools",
+  "path": "/packages/@m64/pi-screenshot-tools",
+  "url": "https://pi.dev/packages/@m64/pi-screenshot-tools",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 119,
+  "date_ms": 1776032151803,
+  "description_en": "Screenshot skill and inline screenshot extension for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

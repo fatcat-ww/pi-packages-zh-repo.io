@@ -1,0 +1,13 @@
+{
+  "name": "@pandi-coding-agent/plan",
+  "path": "/packages/@pandi-coding-agent/plan",
+  "url": "https://pi.dev/packages/@pandi-coding-agent/plan",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783061703846,
+  "description_en": "Pi extension for Claude-style read-only plan mode with explicit approval before mutation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

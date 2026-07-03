@@ -1,0 +1,11 @@
+{
+  "name": "pi-ate-scheduler",
+  "path": "/packages/pi-ate-scheduler",
+  "url": "https://pi.dev/packages/pi-ate-scheduler",
+  "types": "",
+  "type_list": [],
+  "downloads": 205,
+  "date_ms": 1780658085915,
+  "description_en": "Timer and recurring task extension for pi-coding-agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

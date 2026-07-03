@@ -1,0 +1,13 @@
+{
+  "name": "pi-diet-lsp",
+  "path": "/packages/pi-diet-lsp",
+  "url": "https://pi.dev/packages/pi-diet-lsp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1186,
+  "date_ms": 1781982238471,
+  "description_en": "On-demand LSP code-intelligence tools for Pi without automatic diagnostics or context injection.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

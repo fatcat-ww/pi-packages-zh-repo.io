@@ -1,0 +1,11 @@
+{
+  "name": "@offbynan/pi-cursor-provider",
+  "path": "/packages/@offbynan/pi-cursor-provider",
+  "url": "https://pi.dev/packages/@offbynan/pi-cursor-provider",
+  "types": "",
+  "type_list": [],
+  "downloads": 926,
+  "date_ms": 1780878528601,
+  "description_en": "Pi extension providing access to Cursor models via OAuth and a local OpenAI-compatible gRPC proxy",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

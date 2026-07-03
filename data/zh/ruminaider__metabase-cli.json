@@ -1,0 +1,6 @@
+{
+  "name": "@ruminaider/metabase-cli",
+  "description_en": "Metabase CLI with full read/write access: cards, dashboards, databases, tables, queries, collections, search, and revisions from the terminal. Token-efficient JSON output.",
+  "description_zh": "具有完整读/写访问权限的 Metabase CLI：从终端访问卡片、仪表板、数据库、表、查询、集合、搜索和修订。高效的 JSON 输出",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

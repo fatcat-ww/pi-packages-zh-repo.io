@@ -1,0 +1,11 @@
+{
+  "name": "pi-code-tool",
+  "path": "/packages/pi-code-tool",
+  "url": "https://pi.dev/packages/pi-code-tool",
+  "types": "",
+  "type_list": [],
+  "downloads": 1357,
+  "date_ms": 1781379050431,
+  "description_en": "Code-mode tool for the pi coding agent: a sandboxed Python meta-tool (via @pydantic/monty) that lets the agent write code against host tools and build ephemeral code tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

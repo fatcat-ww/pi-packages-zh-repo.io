@@ -1,0 +1,14 @@
+{
+  "name": "pi-hermes-memory",
+  "path": "/packages/pi-hermes-memory",
+  "url": "https://pi.dev/packages/pi-hermes-memory",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 14377,
+  "date_ms": 1782650314138,
+  "description_en": "🧠 Persistent memory + 🔍 session search + 🛡️ secret scanning for Pi. Token-aware policy-only memory by default, SQLite FTS5 search, auto-consolidation, procedural skills. 368 tests. Ported from Hermes agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-handoff-rebase",
+  "description_en": "Interactive git-rebase-style handoff compression for pi sessions",
+  "description_zh": "交互式 git-rebase 风格的会话交接压缩，用于 pi 会话",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

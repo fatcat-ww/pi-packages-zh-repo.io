@@ -1,0 +1,13 @@
+{
+  "name": "@pi-orca/teams",
+  "path": "/packages/@pi-orca/teams",
+  "url": "https://pi.dev/packages/@pi-orca/teams",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 195,
+  "date_ms": 1779854975684,
+  "description_en": "Team templates and orchestrated spinup",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

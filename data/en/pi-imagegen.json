@@ -1,0 +1,13 @@
+{
+  "name": "pi-imagegen",
+  "path": "/packages/pi-imagegen",
+  "url": "https://pi.dev/packages/pi-imagegen",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 87,
+  "date_ms": 1777552276514,
+  "description_en": "Pi package for OpenAI/Codex image generation with a local browser studio.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

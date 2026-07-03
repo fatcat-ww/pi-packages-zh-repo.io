@@ -1,0 +1,13 @@
+{
+  "name": "@aliaksei-raketski/pi-statusline",
+  "path": "/packages/@aliaksei-raketski/pi-statusline",
+  "url": "https://pi.dev/packages/@aliaksei-raketski/pi-statusline",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 242,
+  "date_ms": 1782984650747,
+  "description_en": "Pi extension for a highly customizable, ANSI-aware statusline footer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

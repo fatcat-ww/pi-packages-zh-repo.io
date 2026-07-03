@@ -1,0 +1,13 @@
+{
+  "name": "pi-minimax-pack",
+  "path": "/packages/pi-minimax-pack",
+  "url": "https://pi.dev/packages/pi-minimax-pack",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 47,
+  "date_ms": 1778857199862,
+  "description_en": "Pi agent harness with policy gates, project detection, verification loop, drift protection, artifact validation, and runtime enforcement for weak models",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

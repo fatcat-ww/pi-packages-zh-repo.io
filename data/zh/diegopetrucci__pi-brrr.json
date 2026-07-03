@@ -1,0 +1,6 @@
+{
+  "name": "@diegopetrucci/pi-brrr",
+  "description_en": "A pi extension that sends brrr push notifications when pi is ready for input.",
+  "description_zh": "当 pi 准备好输入时发送 brrr 推送通知的 pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

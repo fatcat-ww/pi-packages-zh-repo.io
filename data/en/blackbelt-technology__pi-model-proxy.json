@@ -1,0 +1,13 @@
+{
+  "name": "@blackbelt-technology/pi-model-proxy",
+  "path": "/packages/@blackbelt-technology/pi-model-proxy",
+  "url": "https://pi.dev/packages/@blackbelt-technology/pi-model-proxy",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 111,
+  "date_ms": 1775165384014,
+  "description_en": "Pi extension that exposes pi's authenticated models as a local OpenAI-compatible and Anthropic-compatible API server",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

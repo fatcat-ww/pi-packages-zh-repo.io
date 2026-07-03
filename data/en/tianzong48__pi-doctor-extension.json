@@ -1,0 +1,13 @@
+{
+  "name": "@tianzong48/pi-doctor-extension",
+  "path": "/packages/@tianzong48/pi-doctor-extension",
+  "url": "https://pi.dev/packages/@tianzong48/pi-doctor-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 74,
+  "date_ms": 1778220841148,
+  "description_en": "Pi diagnostics extension package, starting with startup timing probes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-zellij-tab-namer",
+  "path": "/packages/pi-zellij-tab-namer",
+  "url": "https://pi.dev/packages/pi-zellij-tab-namer",
+  "types": "",
+  "type_list": [],
+  "downloads": 21,
+  "date_ms": 1773417489591,
+  "description_en": "Automatically renames the active Zellij tab to a short summary of the conversation after each agent turn, using a fast model for minimal overhead.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

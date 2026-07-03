@@ -1,0 +1,11 @@
+{
+  "name": "pi-shadow-git",
+  "path": "/packages/pi-shadow-git",
+  "url": "https://pi.dev/packages/pi-shadow-git",
+  "types": "",
+  "type_list": [],
+  "downloads": 84,
+  "date_ms": 1770288638954,
+  "description_en": "Git-based orchestration logging for pi subagents with Mission Control dashboard",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

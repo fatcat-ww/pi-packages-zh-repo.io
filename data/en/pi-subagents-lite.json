@@ -1,0 +1,13 @@
+{
+  "name": "pi-subagents-lite",
+  "path": "/packages/pi-subagents-lite",
+  "url": "https://pi.dev/packages/pi-subagents-lite",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2255,
+  "date_ms": 1782941307279,
+  "description_en": "Lightweight sub-agents for pi — spawn specialized agents with isolated sessions, tools, and models.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

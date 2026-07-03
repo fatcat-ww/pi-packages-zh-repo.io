@@ -1,0 +1,13 @@
+{
+  "name": "pi-nocturne-memory",
+  "path": "/packages/pi-nocturne-memory",
+  "url": "https://pi.dev/packages/pi-nocturne-memory",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1501,
+  "date_ms": 1782709221081,
+  "description_en": "Nocturne Memory extension for Pi — automated memory management with SessionStart boot protocol",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

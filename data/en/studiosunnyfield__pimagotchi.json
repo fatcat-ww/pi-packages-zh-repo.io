@@ -1,0 +1,13 @@
+{
+  "name": "@studiosunnyfield/pimagotchi",
+  "path": "/packages/@studiosunnyfield/pimagotchi",
+  "url": "https://pi.dev/packages/@studiosunnyfield/pimagotchi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 92,
+  "date_ms": 1775284222498,
+  "description_en": "Pimagotchi — tamagotchi virtual pet for pi coding agent. 18 animated species, behavior-based evolution, rarity system, and more.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

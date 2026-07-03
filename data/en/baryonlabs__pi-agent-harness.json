@@ -1,0 +1,11 @@
+{
+  "name": "@baryonlabs/pi-agent-harness",
+  "path": "/packages/@baryonlabs/pi-agent-harness",
+  "url": "https://pi.dev/packages/@baryonlabs/pi-agent-harness",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782912763654,
+  "description_en": "Team-architecture factory for the pi coding agent — turns one domain sentence into a multi-agent team: specialist agents (.pi/agents), their skills (.pi/skills), and orchestration prompts (.pi/prompts), with six team patterns and a bundled subagent (singl",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

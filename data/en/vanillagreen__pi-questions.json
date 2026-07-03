@@ -1,0 +1,13 @@
+{
+  "name": "@vanillagreen/pi-questions",
+  "path": "/packages/@vanillagreen/pi-questions",
+  "url": "https://pi.dev/packages/@vanillagreen/pi-questions",
+  "types": "prompt",
+  "type_list": [
+    "prompt"
+  ],
+  "downloads": 634,
+  "date_ms": 1781280397180,
+  "description_en": "Pi extension for structured multi-tab inline questions and bridge-driven replies.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@apnex/pi-plugin",
+  "path": "/packages/@apnex/pi-plugin",
+  "url": "https://pi.dev/packages/@apnex/pi-plugin",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1783043086803,
+  "description_en": "pi host extension — Universal Agent Adapter for the OIS agentic network (architect peer; reference implementation of the sovereign tool-manager + native-binding architecture)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

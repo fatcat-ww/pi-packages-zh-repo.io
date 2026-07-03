@@ -1,0 +1,11 @@
+{
+  "name": "anchor-edit",
+  "path": "/packages/anchor-edit",
+  "url": "https://pi.dev/packages/anchor-edit",
+  "types": "",
+  "type_list": [],
+  "downloads": 64,
+  "date_ms": 1778195293318,
+  "description_en": "Stateful single-token anchored file editing (Dirac-style). MCP server via `anchor-edit mcp`.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

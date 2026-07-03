@@ -1,0 +1,6 @@
+{
+  "name": "pi-openai-codex-device-login",
+  "description_en": "Pi extension that adds ChatGPT Plus/Pro device-code login for the OpenAI Codex provider.",
+  "description_zh": "Pi 扩展，为 OpenAI Codex 提供者添加 ChatGPT Plus/Pro 设备代码登录。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

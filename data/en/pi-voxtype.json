@@ -1,0 +1,13 @@
+{
+  "name": "pi-voxtype",
+  "path": "/packages/pi-voxtype",
+  "url": "https://pi.dev/packages/pi-voxtype",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 31,
+  "date_ms": 1774354848701,
+  "description_en": "Voxtype bridge for pi with direct session-scoped voice submission",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

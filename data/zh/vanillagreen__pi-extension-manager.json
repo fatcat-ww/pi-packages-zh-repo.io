@@ -1,0 +1,6 @@
+{
+  "name": "@vanillagreen/pi-extension-manager",
+  "description_en": "Pi package manager with update/uninstall actions plus a separate schema-driven settings editor for vstack packages.",
+  "description_zh": "Pi 包管理器，提供更新/卸载操作，以及针对 vstack 包的独立模式驱动设置编辑器。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

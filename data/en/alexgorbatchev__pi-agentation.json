@@ -1,0 +1,13 @@
+{
+  "name": "@alexgorbatchev/pi-agentation",
+  "path": "/packages/@alexgorbatchev/pi-agentation",
+  "url": "https://pi.dev/packages/@alexgorbatchev/pi-agentation",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 157,
+  "date_ms": 1774590978556,
+  "description_en": "pi extension launcher for Agentation Fork",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

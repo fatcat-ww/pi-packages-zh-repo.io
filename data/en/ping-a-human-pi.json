@@ -1,0 +1,11 @@
+{
+  "name": "ping-a-human-pi",
+  "path": "/packages/ping-a-human-pi",
+  "url": "https://pi.dev/packages/ping-a-human-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 354,
+  "date_ms": 1781469713582,
+  "description_en": "Human-in-the-loop and notifications for the pi coding agent, powered by ping-a-human. One command: npx ping-a-human-pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

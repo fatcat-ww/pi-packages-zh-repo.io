@@ -1,0 +1,13 @@
+{
+  "name": "@danchamorro/pi-agent-modes",
+  "path": "/packages/@danchamorro/pi-agent-modes",
+  "url": "https://pi.dev/packages/@danchamorro/pi-agent-modes",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 179,
+  "date_ms": 1775245222051,
+  "description_en": "Agent modes for pi - switch between code, architect, debug, ask, and review modes with enforced tool and bash restrictions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

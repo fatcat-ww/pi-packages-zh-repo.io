@@ -1,0 +1,6 @@
+{
+  "name": "@alpino13/pi-ask",
+  "description_en": "Pi package for interactive multi-question clarification flows, with a model-callable ask_questions tool and tabbed questionnaire UI.",
+  "description_zh": "Pi 包，用于交互式多问题澄清流程，带有模型可调用的 ask_questions 工具和选项式问卷 UI",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

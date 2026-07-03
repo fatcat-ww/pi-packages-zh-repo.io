@@ -1,0 +1,6 @@
+{
+  "name": "@jdiamond/pi-git",
+  "description_en": "Review-gated git/GitHub tools for pi. Every action that creates or publishes content shows a review UI before executing.",
+  "description_zh": "面向 pi 的审查门控 git/GitHub 工具。每个创建或发布内容的操作在执行前都会显示审查 UI。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

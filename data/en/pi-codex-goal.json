@@ -1,0 +1,13 @@
+{
+  "name": "pi-codex-goal",
+  "path": "/packages/pi-codex-goal",
+  "url": "https://pi.dev/packages/pi-codex-goal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 7625,
+  "date_ms": 1782954278278,
+  "description_en": "Codex-style goal tracking and continuation for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

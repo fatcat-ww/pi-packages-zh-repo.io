@@ -1,0 +1,13 @@
+{
+  "name": "@ramarivera/pi-kimi-for-coding",
+  "path": "/packages/@ramarivera/pi-kimi-for-coding",
+  "url": "https://pi.dev/packages/@ramarivera/pi-kimi-for-coding",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 148,
+  "date_ms": 1778336284497,
+  "description_en": "Pi extension that adds Kimi For Coding OAuth support using the official device flow and Kimi-specific request behavior.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

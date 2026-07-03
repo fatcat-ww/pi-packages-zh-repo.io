@@ -1,0 +1,6 @@
+{
+  "name": "pi-shell-completions",
+  "description_en": "Pi extension that adds native shell completions (fish/zsh/bash) to ! and !! bash mode commands",
+  "description_zh": "Pi 扩展，为 ! 和 !! bash 模式命令添加原生 shell 补全（fish/zsh/bash）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

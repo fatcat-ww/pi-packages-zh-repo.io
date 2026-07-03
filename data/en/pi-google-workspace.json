@@ -1,0 +1,13 @@
+{
+  "name": "pi-google-workspace",
+  "path": "/packages/pi-google-workspace",
+  "url": "https://pi.dev/packages/pi-google-workspace",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 63,
+  "date_ms": 1772722067387,
+  "description_en": "Google Workspace extension for pi (Drive, Docs, Sheets, Slides with OAuth)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

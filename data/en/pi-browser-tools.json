@@ -1,0 +1,11 @@
+{
+  "name": "pi-browser-tools",
+  "path": "/packages/pi-browser-tools",
+  "url": "https://pi.dev/packages/pi-browser-tools",
+  "types": "",
+  "type_list": [],
+  "downloads": 142,
+  "date_ms": 1780576898429,
+  "description_en": "Browser automation tools for pi via Playwright (shared Chromium across sessions)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

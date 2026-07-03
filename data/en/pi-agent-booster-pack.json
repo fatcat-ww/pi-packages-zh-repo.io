@@ -1,0 +1,14 @@
+{
+  "name": "pi-agent-booster-pack",
+  "path": "/packages/pi-agent-booster-pack",
+  "url": "https://pi.dev/packages/pi-agent-booster-pack",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 113,
+  "date_ms": 1777401922417,
+  "description_en": "Agent Booster Pack helps Pi produce code that is well-organized, low in complexity and side effects, and is secure and high-performing.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

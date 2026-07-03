@@ -1,0 +1,13 @@
+{
+  "name": "pi-jules",
+  "path": "/packages/pi-jules",
+  "url": "https://pi.dev/packages/pi-jules",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 500,
+  "date_ms": 1781175166714,
+  "description_en": "Delegate coding tasks to Jules from Pi. Async background agent with live status, completion notifications, and kaomoji.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

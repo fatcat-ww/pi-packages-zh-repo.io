@@ -1,0 +1,14 @@
+{
+  "name": "pi-ponytail",
+  "path": "/packages/pi-ponytail",
+  "url": "https://pi.dev/packages/pi-ponytail",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 534,
+  "date_ms": 1781563988552,
+  "description_en": "Ponytail lazy senior developer mode for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

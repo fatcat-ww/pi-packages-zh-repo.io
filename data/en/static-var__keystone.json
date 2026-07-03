@@ -1,0 +1,14 @@
+{
+  "name": "@static-var/keystone",
+  "path": "/packages/@static-var/keystone",
+  "url": "https://pi.dev/packages/@static-var/keystone",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 582,
+  "date_ms": 1782845041271,
+  "description_en": "Keystone: one-router AI engineering workflow extension and skill system for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

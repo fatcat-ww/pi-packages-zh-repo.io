@@ -1,0 +1,6 @@
+{
+  "name": "pi-sdsc-vllm",
+  "description_en": "Pi extension for the SDSC Authentik-protected OpenAI-compatible vLLM gateway.",
+  "description_zh": "SDSC Authentik 保护的 OpenAI 兼容 vLLM 网关的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

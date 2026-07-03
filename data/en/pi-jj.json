@@ -1,0 +1,13 @@
+{
+  "name": "pi-jj",
+  "path": "/packages/pi-jj",
+  "url": "https://pi.dev/packages/pi-jj",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 85,
+  "date_ms": 1772463677226,
+  "description_en": "Pi extension package for Jujutsu workflows (checkpointing, rewind, and jj onboarding)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

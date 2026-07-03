@@ -1,0 +1,6 @@
+{
+  "name": "@arvoretech/pi-orca-bridge",
+  "description_en": "PI extension bridging pi to orca-cli: worktree status sync, long-running terminals, orchestration, and computer use",
+  "description_zh": "PI 扩展，桥接 pi 到 orca-cli：工作树状态同步、长时间运行的终端、编排和计算机使用",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

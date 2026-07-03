@@ -1,0 +1,13 @@
+{
+  "name": "sift-web-tools",
+  "path": "/packages/sift-web-tools",
+  "url": "https://pi.dev/packages/sift-web-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 44,
+  "date_ms": 1778080817760,
+  "description_en": "Pi agent web search, fetch, and save tools powered by the local sift CLI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

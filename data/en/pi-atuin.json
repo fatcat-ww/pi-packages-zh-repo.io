@@ -1,0 +1,13 @@
+{
+  "name": "pi-atuin",
+  "path": "/packages/pi-atuin",
+  "url": "https://pi.dev/packages/pi-atuin",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783063380538,
+  "description_en": "Atuin-style fuzzy history search for pi. Press ↑ for interactive history.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

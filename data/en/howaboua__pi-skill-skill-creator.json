@@ -1,0 +1,13 @@
+{
+  "name": "@howaboua/pi-skill-skill-creator",
+  "path": "/packages/@howaboua/pi-skill-skill-creator",
+  "url": "https://pi.dev/packages/@howaboua/pi-skill-skill-creator",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 417,
+  "date_ms": 1780608538534,
+  "description_en": "Pi skill package for skill-creator.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

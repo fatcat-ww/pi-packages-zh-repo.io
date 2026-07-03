@@ -1,0 +1,11 @@
+{
+  "name": "@counterposition/skill-pi",
+  "path": "/packages/@counterposition/skill-pi",
+  "url": "https://pi.dev/packages/@counterposition/skill-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 341,
+  "date_ms": 1780721624995,
+  "description_en": "Pi coding agent reference skill — extensions, settings, providers, SDK/RPC, packages, and .pi/ config",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

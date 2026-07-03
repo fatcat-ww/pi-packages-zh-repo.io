@@ -1,0 +1,13 @@
+{
+  "name": "pi-defender",
+  "path": "/packages/pi-defender",
+  "url": "https://pi.dev/packages/pi-defender",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1173,
+  "date_ms": 1781684160138,
+  "description_en": "Defense-in-depth protection for Pi coding agent. Blocks dangerous commands and protects sensitive files — rename of pi-damage-control.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

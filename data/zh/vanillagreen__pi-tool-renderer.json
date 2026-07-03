@@ -1,0 +1,6 @@
+{
+  "name": "@vanillagreen/pi-tool-renderer",
+  "description_en": "Compact Claude/opencode-style renderers for Pi tools with rich diffs, apply_patch, generic/MCP rendering, and optional global chrome.",
+  "description_zh": "Pi 工具的紧凑型 Claude/opencode 风格渲染器，具有丰富的差异、apply_patch、通用/MCP 渲染和可选的全局 chrome",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

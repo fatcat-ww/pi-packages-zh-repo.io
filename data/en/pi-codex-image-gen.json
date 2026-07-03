@@ -1,0 +1,13 @@
+{
+  "name": "pi-codex-image-gen",
+  "path": "/packages/pi-codex-image-gen",
+  "url": "https://pi.dev/packages/pi-codex-image-gen",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1069,
+  "date_ms": 1782868254088,
+  "description_en": "Image generation for Pi using the ChatGPT Images 2.0 model.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

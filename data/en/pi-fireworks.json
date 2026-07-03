@@ -1,0 +1,13 @@
+{
+  "name": "pi-fireworks",
+  "path": "/packages/pi-fireworks",
+  "url": "https://pi.dev/packages/pi-fireworks",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 62,
+  "date_ms": 1777018147585,
+  "description_en": "Fireworks AI provider extension package for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-command-history",
+  "description_en": "Folder-based persistent command history for pi. Recall previous commands with ctrl+up/down across sessions.",
+  "description_zh": "pi 的基于文件夹的持久化命令历史。使用 ctrl+up/down 在会话间回忆之前的命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

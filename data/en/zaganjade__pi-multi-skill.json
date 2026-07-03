@@ -1,0 +1,11 @@
+{
+  "name": "@zaganjade/pi-multi-skill",
+  "path": "/packages/@zaganjade/pi-multi-skill",
+  "url": "https://pi.dev/packages/@zaganjade/pi-multi-skill",
+  "types": "",
+  "type_list": [],
+  "downloads": 630,
+  "date_ms": 1781934287640,
+  "description_en": "Chain multiple skills via /skills — bundles (JSON/YAML), load modes, BMAD --auto, /skills-last, /skills-setup, conflict resolution, parallel dispatch, activation stats, bundle attribution for pi-usage.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

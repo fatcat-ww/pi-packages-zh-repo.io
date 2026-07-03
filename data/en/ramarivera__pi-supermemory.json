@@ -1,0 +1,13 @@
+{
+  "name": "@ramarivera/pi-supermemory",
+  "path": "/packages/@ramarivera/pi-supermemory",
+  "url": "https://pi.dev/packages/@ramarivera/pi-supermemory",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 351,
+  "date_ms": 1780107441318,
+  "description_en": "Pi coding-agent extension that recalls and captures session memory through Supermemory.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

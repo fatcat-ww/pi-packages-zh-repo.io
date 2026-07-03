@@ -1,0 +1,13 @@
+{
+  "name": "pi-monofold",
+  "path": "/packages/pi-monofold",
+  "url": "https://pi.dev/packages/pi-monofold",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1596,
+  "date_ms": 1782940504996,
+  "description_en": "Pi extension that folds multiple repositories and folders into a guarded virtual monorepo for AI agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

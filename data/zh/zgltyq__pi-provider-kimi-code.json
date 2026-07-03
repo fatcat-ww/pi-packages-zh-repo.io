@@ -1,0 +1,6 @@
+{
+  "name": "@zgltyq/pi-provider-kimi-code",
+  "description_en": "Kimi Code plan in pi-coding-agent — fork of pi-provider-kimi-code with bearer-auth fix for OAuth tokens",
+  "description_zh": "pi-coding-agent 中的 Kimi Code 计划 — pi-provider-kimi-code 的分支，带有 OAuth 令牌的 bearer-auth 修复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

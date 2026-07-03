@@ -1,0 +1,13 @@
+{
+  "name": "pi-beads-extension",
+  "path": "/packages/pi-beads-extension",
+  "url": "https://pi.dev/packages/pi-beads-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 80,
+  "date_ms": 1775994569296,
+  "description_en": "Pi package that brings Beads-style task tracking commands and workflow context to pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-redline",
+  "path": "/packages/pi-redline",
+  "url": "https://pi.dev/packages/pi-redline",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 54,
+  "date_ms": 1778793182168,
+  "description_en": "Redline pi sessions: an overlay TUI showing every file changed in the current pi session with syntax-highlighted diffs, per-line selection, fix/explain annotations, and a one-key submit-as-prompt flow.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-lcm",
+  "path": "/packages/pi-lcm",
+  "url": "https://pi.dev/packages/pi-lcm",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 107,
+  "date_ms": 1775174369121,
+  "description_en": "Lossless Context Management for Pi — DAG-based summarization with full history recovery",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@tranhoangnguyen0310/pi-flow-external",
+  "path": "/packages/@tranhoangnguyen0310/pi-flow-external",
+  "url": "https://pi.dev/packages/@tranhoangnguyen0310/pi-flow-external",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 288,
+  "date_ms": 1782038783965,
+  "description_en": "External Claude Code and Codex delegation for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

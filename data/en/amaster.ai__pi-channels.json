@@ -1,0 +1,13 @@
+{
+  "name": "@amaster.ai/pi-channels",
+  "path": "/packages/@amaster.ai/pi-channels",
+  "url": "https://pi.dev/packages/@amaster.ai/pi-channels",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 4090,
+  "date_ms": 1782723695160,
+  "description_en": "Pi extension for native messaging channels including Feishu, DingTalk, WeCom, and webhooks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

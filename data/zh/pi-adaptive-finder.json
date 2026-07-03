@@ -1,0 +1,6 @@
+{
+  "name": "pi-adaptive-finder",
+  "description_en": "Fast local workspace Finder for Pi using rg retrieval plus configurable OpenAI-compatible rerankers",
+  "description_zh": "Pi 的快速本地工作区查找器，使用 rg 检索加可配置的 OpenAI 兼容重排序器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

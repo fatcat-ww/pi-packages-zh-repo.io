@@ -1,0 +1,13 @@
+{
+  "name": "observal-pi",
+  "path": "/packages/observal-pi",
+  "url": "https://pi.dev/packages/observal-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2673,
+  "date_ms": 1782932037937,
+  "description_en": "Observal session telemetry for Pi — zero-dependency extension that pushes session traces to your Observal server",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

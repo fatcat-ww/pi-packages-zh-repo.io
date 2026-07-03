@@ -1,0 +1,11 @@
+{
+  "name": "@karutoil/pi-lsp",
+  "path": "/packages/@karutoil/pi-lsp",
+  "url": "https://pi.dev/packages/@karutoil/pi-lsp",
+  "types": "",
+  "type_list": [],
+  "downloads": 163,
+  "date_ms": 1781204866088,
+  "description_en": "Instant tree-sitter syntax diagnostics for Pi coding agent — 80+ languages, sub-ms parses, auto-checks after every edit",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

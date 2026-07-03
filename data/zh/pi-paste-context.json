@@ -1,0 +1,6 @@
+{
+  "name": "pi-paste-context",
+  "description_en": "A pi extension to add coding support to any editor by using the clipboard (aka CTRL+C) for light integration. It searches the current project for the text in your clipboard, and then sends the matching file and snippet into the conversation as context, po",
+  "description_zh": "一个 pi 扩展，通过使用剪贴板（即 CTRL+C）进行轻量级集成，为任何编辑器添加编码支持。它在当前项目中搜索剪贴板中的文本，然后将匹配的文件和片段作为上下文发送到对话中。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

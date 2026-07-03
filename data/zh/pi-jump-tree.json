@@ -1,0 +1,6 @@
+{
+  "name": "pi-jump-tree",
+  "description_en": "Pi extension for showing the current session tree leaf ID and jumping to entries by ID or label.",
+  "description_zh": "Pi 扩展，用于显示当前会话树叶 ID 并按 ID 或标签跳转到条目。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

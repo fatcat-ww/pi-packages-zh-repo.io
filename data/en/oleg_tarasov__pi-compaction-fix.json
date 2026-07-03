@@ -1,0 +1,13 @@
+{
+  "name": "@oleg_tarasov/pi-compaction-fix",
+  "path": "/packages/@oleg_tarasov/pi-compaction-fix",
+  "url": "https://pi.dev/packages/@oleg_tarasov/pi-compaction-fix",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 50,
+  "date_ms": 1778054155211,
+  "description_en": "Pi extension that waits for overflow auto-compaction retry before headless prompt completion.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

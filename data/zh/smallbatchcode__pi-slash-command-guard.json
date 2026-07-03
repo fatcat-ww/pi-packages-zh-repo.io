@@ -1,0 +1,6 @@
+{
+  "name": "@smallbatchcode/pi-slash-command-guard",
+  "description_en": "Pi extension that blocks mistyped or unknown slash commands from being sent as messages.",
+  "description_zh": "阻止错误输入或未知斜杠命令作为消息发送的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

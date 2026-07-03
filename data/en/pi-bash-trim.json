@@ -1,0 +1,11 @@
+{
+  "name": "pi-bash-trim",
+  "path": "/packages/pi-bash-trim",
+  "url": "https://pi.dev/packages/pi-bash-trim",
+  "types": "",
+  "type_list": [],
+  "downloads": 39,
+  "date_ms": 1773020398002,
+  "description_en": "Smart bash output trimming for pi to fit LLM context budgets",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

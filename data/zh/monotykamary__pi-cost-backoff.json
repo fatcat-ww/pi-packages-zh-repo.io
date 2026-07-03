@@ -1,0 +1,6 @@
+{
+  "name": "@monotykamary/pi-cost-backoff",
+  "description_en": "Cost-aware request throttling for pi — exponential backoff when $/M or $/min exceeds your cap. Companion to pi-tps.",
+  "description_zh": "pi 的成本感知请求限流 — 当 $/M 或 $/min 超过上限时采用指数退避。pi-tps 的配套扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

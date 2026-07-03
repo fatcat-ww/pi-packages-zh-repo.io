@@ -1,0 +1,6 @@
+{
+  "name": "more-pi",
+  "description_en": "OpenClaw-flavored pi wrapper that registers OpenClaw Codex models without patching pi packages",
+  "description_zh": "OpenClaw 风格的 pi 包装器，注册 OpenClaw Codex 模型而无需修补 pi 包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

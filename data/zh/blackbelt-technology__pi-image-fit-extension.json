@@ -1,0 +1,6 @@
+{
+  "name": "@blackbelt-technology/pi-image-fit-extension",
+  "description_en": "Pi extension that resizes oversize images at Read-time so they fit model byte and pixel ceilings.",
+  "description_zh": "Pi 扩展，在读取时调整过大图像大小，使其符合模型的字节和像素限制",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

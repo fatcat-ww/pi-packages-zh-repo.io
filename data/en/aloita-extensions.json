@@ -1,0 +1,11 @@
+{
+  "name": "aloita-extensions",
+  "path": "/packages/aloita-extensions",
+  "url": "https://pi.dev/packages/aloita-extensions",
+  "types": "",
+  "type_list": [],
+  "downloads": 639,
+  "date_ms": 1782931363638,
+  "description_en": "A Pi extension: one Pi session connects to an Aloita server and works on tickets natively.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

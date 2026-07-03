@@ -1,0 +1,11 @@
+{
+  "name": "@zhachory1/mewrite-markdown-preview",
+  "path": "/packages/@zhachory1/mewrite-markdown-preview",
+  "url": "https://pi.dev/packages/@zhachory1/mewrite-markdown-preview",
+  "types": "",
+  "type_list": [],
+  "downloads": 1730,
+  "date_ms": 1783048387505,
+  "description_en": "Rendered markdown + LaTeX preview for mewrite-code, with terminal, browser, and PDF output",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

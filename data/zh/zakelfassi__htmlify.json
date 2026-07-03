@@ -1,0 +1,6 @@
+{
+  "name": "@zakelfassi/htmlify",
+  "description_en": "Turn agent answers into self-contained HTML artifacts and presentation decks — operator briefs, review packets, incident timelines, decision briefs, and talks. Zero dependencies, zero build, one file.",
+  "description_zh": "将代理答案转换为独立的 HTML 工件和演示文稿 — 操作简报、审查包、事件时间线、决策简报和演讲。零依赖，零构建，单个文件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

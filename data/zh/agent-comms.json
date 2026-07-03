@@ -1,0 +1,6 @@
+{
+  "name": "agent-comms",
+  "description_en": "Cross-harness communication mesh for LLM agents — rooms, DMs, presence, and real-time push delivery over TCP",
+  "description_zh": "LLM 代理的跨通信网关 — 通过 TCP 进行房间、私信、在线状态和实时推送传递",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

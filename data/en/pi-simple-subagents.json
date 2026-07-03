@@ -1,0 +1,11 @@
+{
+  "name": "pi-simple-subagents",
+  "path": "/packages/pi-simple-subagents",
+  "url": "https://pi.dev/packages/pi-simple-subagents",
+  "types": "",
+  "type_list": [],
+  "downloads": 31,
+  "date_ms": 1779205801871,
+  "description_en": "Minimal Pi extension for fresh synchronous subagents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

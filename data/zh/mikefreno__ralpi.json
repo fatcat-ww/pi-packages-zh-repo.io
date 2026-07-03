@@ -1,0 +1,6 @@
+{
+  "name": "@mikefreno/ralpi",
+  "description_en": "Execute tasks from task files/PRD's using DAG-based dependency resolution with persistent progress tracking",
+  "description_zh": "使用基于 DAG 的依赖解析从任务文件/PRD 执行任务，具有持久进度跟踪",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

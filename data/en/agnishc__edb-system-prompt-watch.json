@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-system-prompt-watch",
+  "path": "/packages/@agnishc/edb-system-prompt-watch",
+  "url": "https://pi.dev/packages/@agnishc/edb-system-prompt-watch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 388,
+  "date_ms": 1782119191938,
+  "description_en": "Pi extension: alert when Pi's bundled default system prompt changes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

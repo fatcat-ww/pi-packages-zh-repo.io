@@ -1,0 +1,13 @@
+{
+  "name": "pi-portia",
+  "path": "/packages/pi-portia",
+  "url": "https://pi.dev/packages/pi-portia",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 58,
+  "date_ms": 1779493921112,
+  "description_en": "Pi-native spatial project memory extension backed by SQLite.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

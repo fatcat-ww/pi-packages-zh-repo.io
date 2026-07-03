@@ -1,0 +1,6 @@
+{
+  "name": "pi-cc-vscode-ext",
+  "description_en": "Pi extension that exposes VS Code editor context through Claude Code's local IDE bridge.",
+  "description_zh": "通过 Claude Code 的本地 IDE 桥接暴露 VS Code 编辑器上下文的 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

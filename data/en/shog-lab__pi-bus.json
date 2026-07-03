@@ -1,0 +1,14 @@
+{
+  "name": "@shog-lab/pi-bus",
+  "path": "/packages/@shog-lab/pi-bus",
+  "url": "https://pi.dev/packages/@shog-lab/pi-bus",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 695,
+  "date_ms": 1783059894388,
+  "description_en": "Atomic inter-pi messaging primitive plus OS-scheduled bus triggers: any pi window on the same host (and git repo) auto-joins. Tools: agent_list / agent_send / agent_inbox / schedule_cron / list_cron / remove_cron.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

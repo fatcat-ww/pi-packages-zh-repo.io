@@ -1,0 +1,11 @@
+{
+  "name": "@lumendigitaldev/pi-wsl-images",
+  "path": "/packages/@lumendigitaldev/pi-wsl-images",
+  "url": "https://pi.dev/packages/@lumendigitaldev/pi-wsl-images",
+  "types": "",
+  "type_list": [],
+  "downloads": 103,
+  "date_ms": 1779384378510,
+  "description_en": "[Alt+V] WSL image paste support for pi using the Windows clipboard",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

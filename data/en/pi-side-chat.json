@@ -1,0 +1,13 @@
+{
+  "name": "pi-side-chat",
+  "path": "/packages/pi-side-chat",
+  "url": "https://pi.dev/packages/pi-side-chat",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 148,
+  "date_ms": 1776275112677,
+  "description_en": "Pi extension that forks the current conversation into a side chat",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

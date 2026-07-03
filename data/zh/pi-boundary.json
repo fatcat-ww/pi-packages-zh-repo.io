@@ -1,0 +1,6 @@
+{
+  "name": "pi-boundary",
+  "description_en": "Filesystem boundary enforcement for pi — prompts before the agent escapes your project",
+  "description_zh": "面向 Pi 的文件系统边界强制执行 — 在代理逃离项目前发出提示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

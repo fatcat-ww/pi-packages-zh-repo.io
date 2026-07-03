@@ -1,0 +1,6 @@
+{
+  "name": "@cleepi/atlassian",
+  "description_en": "Cleevio taste layer over Atlassian's Rovo MCP server: skill + /spec-from-ticket prompt for the ticket → spec → implementation pipeline. Soft-aware of @cleepi/sdd.",
+  "description_zh": "Cleevio 对 Atlassian Rovo MCP 服务器的品味层：用于工单 → 规范 → 实现流程的技能 + /spec-from-ticket 提示。与 @cleepi/sdd 软关联",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-tmux-thread",
+  "path": "/packages/pi-tmux-thread",
+  "url": "https://pi.dev/packages/pi-tmux-thread",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 266,
+  "date_ms": 1782181530446,
+  "description_en": "Pi extension for forking conversations into tmux splits or windows",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

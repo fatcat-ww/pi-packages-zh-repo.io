@@ -1,0 +1,11 @@
+{
+  "name": "@fingerskier/pi-fleet",
+  "path": "/packages/@fingerskier/pi-fleet",
+  "url": "https://pi.dev/packages/@fingerskier/pi-fleet",
+  "types": "",
+  "type_list": [],
+  "downloads": 50,
+  "date_ms": 1778191286897,
+  "description_en": "Fleet AWS monitor plugin for Pi, bridged from fleet-claude-plugin MCP",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

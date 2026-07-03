@@ -1,0 +1,6 @@
+{
+  "name": "pi-prompt-suggestions",
+  "description_en": "Pi extension that suggests a natural next prompt after an agent response.",
+  "description_zh": "Pi扩展，在代理响应后建议自然的下一个提示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

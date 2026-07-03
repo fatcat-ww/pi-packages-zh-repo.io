@@ -1,0 +1,11 @@
+{
+  "name": "pi-llm-as-verifier",
+  "path": "/packages/pi-llm-as-verifier",
+  "url": "https://pi.dev/packages/pi-llm-as-verifier",
+  "types": "",
+  "type_list": [],
+  "downloads": 82,
+  "date_ms": 1776242742265,
+  "description_en": "Pi skill + extension for llm-as-verifier style pairwise, repeated, criteria-decomposed candidate selection.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

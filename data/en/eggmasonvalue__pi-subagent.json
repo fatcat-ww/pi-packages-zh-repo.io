@@ -1,0 +1,11 @@
+{
+  "name": "@eggmasonvalue/pi-subagent",
+  "path": "/packages/@eggmasonvalue/pi-subagent",
+  "url": "https://pi.dev/packages/@eggmasonvalue/pi-subagent",
+  "types": "",
+  "type_list": [],
+  "downloads": 238,
+  "date_ms": 1782560697460,
+  "description_en": "Observable, steerable, isolated-context subagents for pi — resume any child mid-task, flush partial results on interrupt/timeout, lean machine-facing envelope, optional model allowlist.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

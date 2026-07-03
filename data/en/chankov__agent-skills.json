@@ -1,0 +1,13 @@
+{
+  "name": "@chankov/agent-skills",
+  "path": "/packages/@chankov/agent-skills",
+  "url": "https://pi.dev/packages/@chankov/agent-skills",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 2415,
+  "date_ms": 1783076863631,
+  "description_en": "Production-grade engineering skills for AI coding agents. Ships skills, agent personas, slash commands, and pi extensions, with a thin CLI that hands off to the LLM-driven guided setup.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

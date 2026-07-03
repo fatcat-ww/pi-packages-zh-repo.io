@@ -1,0 +1,13 @@
+{
+  "name": "vite-plugin-agent-presence",
+  "path": "/packages/vite-plugin-agent-presence",
+  "url": "https://pi.dev/packages/vite-plugin-agent-presence",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 267,
+  "date_ms": 1779146292148,
+  "description_en": "Vite dev overlay for Pi agent presence",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

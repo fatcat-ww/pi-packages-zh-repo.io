@@ -1,0 +1,11 @@
+{
+  "name": "pi-upgrade",
+  "path": "/packages/pi-upgrade",
+  "url": "https://pi.dev/packages/pi-upgrade",
+  "types": "",
+  "type_list": [],
+  "downloads": 68,
+  "date_ms": 1774237231459,
+  "description_en": "Pi extension that adds a /upgrade command to self-upgrade pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@danchamorro/pi-agent-modes",
+  "description_en": "Agent modes for pi - switch between code, architect, debug, ask, and review modes with enforced tool and bash restrictions",
+  "description_zh": "pi 的代理模式 — 在代码、架构、调试、询问和审查模式之间切换，并强制执行工具和 bash 限制",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

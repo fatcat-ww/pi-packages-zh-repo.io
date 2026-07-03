@@ -1,0 +1,13 @@
+{
+  "name": "pi-tmux-focus-cursor",
+  "path": "/packages/pi-tmux-focus-cursor",
+  "url": "https://pi.dev/packages/pi-tmux-focus-cursor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 45,
+  "date_ms": 1774561401774,
+  "description_en": "Hide Pi's fake editor cursor when the current tmux pane loses focus",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

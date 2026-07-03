@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-cursor-composer",
+  "path": "/packages/@firstpick/pi-extension-cursor-composer",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-cursor-composer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 375,
+  "date_ms": 1781939943851,
+  "description_en": "Pi extension and custom model provider for Cursor SDK Composer 2.5.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

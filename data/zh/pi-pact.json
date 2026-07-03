@@ -1,0 +1,6 @@
+{
+  "name": "pi-pact",
+  "description_en": "Improves Pi compaction by only compacting older history while keeping recent turns intact.",
+  "description_zh": "通过仅压缩较旧的历史记录同时保持最近的轮次完整，来改进 Pi 的压缩。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

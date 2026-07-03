@@ -1,0 +1,14 @@
+{
+  "name": "pi-studio",
+  "path": "/packages/pi-studio",
+  "url": "https://pi.dev/packages/pi-studio",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 6128,
+  "date_ms": 1782957920138,
+  "description_en": "Two-pane browser workspace for pi with prompt/response editing, annotations, critiques, active quiz, prompt/response history, live previews, and tmux-backed REPL/literate REPL workflows",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

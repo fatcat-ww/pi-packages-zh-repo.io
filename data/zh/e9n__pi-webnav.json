@@ -1,0 +1,6 @@
+{
+  "name": "@e9n/pi-webnav",
+  "description_en": "Unified navigation shell for pi-webserver — wraps all mounts in a shared nav layout with iframe routing",
+  "description_zh": "pi-webserver 的统一导航外壳 — 使用 iframe 路由将所有挂载包装在共享导航布局中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

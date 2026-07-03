@@ -1,0 +1,13 @@
+{
+  "name": "pi-git-things",
+  "path": "/packages/pi-git-things",
+  "url": "https://pi.dev/packages/pi-git-things",
+  "types": "prompt",
+  "type_list": [
+    "prompt"
+  ],
+  "downloads": 32,
+  "date_ms": 1778289943509,
+  "description_en": "Pi prompt templates for proposing commit messages and pull request descriptions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

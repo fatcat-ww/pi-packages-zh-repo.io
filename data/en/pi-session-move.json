@@ -1,0 +1,13 @@
+{
+  "name": "pi-session-move",
+  "path": "/packages/pi-session-move",
+  "url": "https://pi.dev/packages/pi-session-move",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1357,
+  "date_ms": 1782941872667,
+  "description_en": "Move the current Pi session context to another working directory without invoking the LLM.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

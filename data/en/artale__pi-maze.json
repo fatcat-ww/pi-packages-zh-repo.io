@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-maze",
+  "path": "/packages/@artale/pi-maze",
+  "url": "https://pi.dev/packages/@artale/pi-maze",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 51,
+  "date_ms": 1772983327989,
+  "description_en": "Procedural maze generator with BFS solver, themes, and timer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

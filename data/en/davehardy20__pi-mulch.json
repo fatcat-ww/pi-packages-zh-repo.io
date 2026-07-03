@@ -1,0 +1,13 @@
+{
+  "name": "@davehardy20/pi-mulch",
+  "path": "/packages/@davehardy20/pi-mulch",
+  "url": "https://pi.dev/packages/@davehardy20/pi-mulch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 47,
+  "date_ms": 1779359926154,
+  "description_en": "Pi package that integrates Mulch priming, search, draft review, and session-aware learning workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

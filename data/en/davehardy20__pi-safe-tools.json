@@ -1,0 +1,13 @@
+{
+  "name": "@davehardy20/pi-safe-tools",
+  "path": "/packages/@davehardy20/pi-safe-tools",
+  "url": "https://pi.dev/packages/@davehardy20/pi-safe-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 43,
+  "date_ms": 1779016975877,
+  "description_en": "Pi safety bundle: safe command runners, damage prevention, and secret redaction.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

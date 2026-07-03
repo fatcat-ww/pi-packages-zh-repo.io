@@ -1,0 +1,6 @@
+{
+  "name": "pi-youtube-tools",
+  "description_en": "Native Pi extension for YouTube Data API search, video details, and transcripts without an MCP daemon.",
+  "description_zh": "用于 YouTube Data API 搜索、视频详情和转录的 Pi 原生扩展，无需 MCP 守护进程。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

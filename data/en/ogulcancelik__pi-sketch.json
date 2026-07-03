@@ -1,0 +1,13 @@
+{
+  "name": "@ogulcancelik/pi-sketch",
+  "path": "/packages/@ogulcancelik/pi-sketch",
+  "url": "https://pi.dev/packages/@ogulcancelik/pi-sketch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 298,
+  "date_ms": 1778169480837,
+  "description_en": "Quick sketch pad for pi - draw in browser, send to models",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

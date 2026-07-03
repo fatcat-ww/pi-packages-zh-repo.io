@@ -1,0 +1,13 @@
+{
+  "name": "pi-edit-hooks",
+  "path": "/packages/pi-edit-hooks",
+  "url": "https://pi.dev/packages/pi-edit-hooks",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 84,
+  "date_ms": 1779059859807,
+  "description_en": "Code quality hooks for the pi coding agent — runs syntax checks on edit and format/lint/typecheck at turn end",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

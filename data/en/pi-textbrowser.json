@@ -1,0 +1,13 @@
+{
+  "name": "pi-textbrowser",
+  "path": "/packages/pi-textbrowser",
+  "url": "https://pi.dev/packages/pi-textbrowser",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 257,
+  "date_ms": 1778777603593,
+  "description_en": "Headless browser for Pi — browse the web with DOM + OCR text maps. No image tokens, 10-50x cheaper than screenshot-based browsing.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

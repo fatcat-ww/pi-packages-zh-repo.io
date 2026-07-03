@@ -1,0 +1,6 @@
+{
+  "name": "@benvargas/pi-claude-code-use",
+  "description_en": "Patch Anthropic OAuth payloads and companion tools for Claude Code-style subscription use",
+  "description_zh": "修补 Anthropic OAuth 负载和 Claude Code 风格订阅使用的配套工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

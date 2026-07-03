@@ -1,0 +1,11 @@
+{
+  "name": "@blackbelt-technology/pi-dashboard-subagents",
+  "path": "/packages/@blackbelt-technology/pi-dashboard-subagents",
+  "url": "https://pi.dev/packages/@blackbelt-technology/pi-dashboard-subagents",
+  "types": "",
+  "type_list": [],
+  "downloads": 124,
+  "date_ms": 1780652047195,
+  "description_en": "A lightweight subagent spawning and managing system for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-tool-guard",
+  "description_en": "Pi extension that corrects LLM tool calls: normalizes argument aliases for edit/write/read and strips trailing pipeline extractors from bash commands",
+  "description_zh": "修正 LLM 工具调用的 Pi 扩展：规范化编辑/写入/读取的参数别名，并从 bash 命令中剥离尾部管道提取器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

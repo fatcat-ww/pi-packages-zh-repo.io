@@ -1,0 +1,6 @@
+{
+  "name": "pi-mux",
+  "description_en": "Run multiple pi sessions concurrently in one terminal via tmux",
+  "description_zh": "通过 tmux 在一个终端中同时运行多个 pi 会话。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

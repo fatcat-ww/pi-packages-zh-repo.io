@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-envman",
+  "path": "/packages/@artale/pi-envman",
+  "url": "https://pi.dev/packages/@artale/pi-envman",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 27,
+  "date_ms": 1772994826786,
+  "description_en": "Environment and secrets manager. Store API tokens, scan env files, detect leaked secrets in code.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

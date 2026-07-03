@@ -1,0 +1,11 @@
+{
+  "name": "pi-cmux",
+  "path": "/packages/pi-cmux",
+  "url": "https://pi.dev/packages/pi-cmux",
+  "types": "",
+  "type_list": [],
+  "downloads": 1139,
+  "date_ms": 1779891938021,
+  "description_en": "Pi package with cmux-powered terminal integrations",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

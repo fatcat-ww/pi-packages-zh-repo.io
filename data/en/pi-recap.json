@@ -1,0 +1,13 @@
+{
+  "name": "pi-recap",
+  "path": "/packages/pi-recap",
+  "url": "https://pi.dev/packages/pi-recap",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 107,
+  "date_ms": 1778519935227,
+  "description_en": "Session recap panel for pi coding agent. Always-visible widget showing the current goal and last few conversation turns with live streaming updates. Auto-selects the fastest, cheapest summarization model using pi-bench benchmark data.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

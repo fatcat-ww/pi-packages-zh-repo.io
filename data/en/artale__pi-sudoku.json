@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-sudoku",
+  "path": "/packages/@artale/pi-sudoku",
+  "url": "https://pi.dev/packages/@artale/pi-sudoku",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 46,
+  "date_ms": 1772983339466,
+  "description_en": "Classic 9x9 Sudoku puzzle with pencil marks, themes, and stats.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

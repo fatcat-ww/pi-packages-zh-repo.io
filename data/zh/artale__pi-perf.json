@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-perf",
+  "description_en": "Performance profiling. Time commands, benchmark with statistics, Node.js profiling.",
+  "description_zh": "性能分析。计时命令，带统计的基准测试，Node.js 分析。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

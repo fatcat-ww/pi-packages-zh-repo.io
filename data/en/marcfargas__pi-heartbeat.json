@@ -1,0 +1,11 @@
+{
+  "name": "@marcfargas/pi-heartbeat",
+  "path": "/packages/@marcfargas/pi-heartbeat",
+  "url": "https://pi.dev/packages/@marcfargas/pi-heartbeat",
+  "types": "",
+  "type_list": [],
+  "downloads": 50,
+  "date_ms": 1771673291314,
+  "description_en": "Non-blocking timers and heartbeats for pi agents — stop using sleep",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-elevenlabs-tts",
+  "description_en": "Pi extension that reads assistant text responses aloud with ElevenLabs text-to-speech.",
+  "description_zh": "Pi 扩展，使用 ElevenLabs 文本转语音大声朗读助手文本响应。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

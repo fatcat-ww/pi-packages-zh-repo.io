@@ -1,0 +1,11 @@
+{
+  "name": "@sp1in/kimi-agent",
+  "path": "/packages/@sp1in/kimi-agent",
+  "url": "https://pi.dev/packages/@sp1in/kimi-agent",
+  "types": "",
+  "type_list": [],
+  "downloads": 42,
+  "date_ms": 1777477825034,
+  "description_en": "Kimi CLI bridge — type /kimi, scan QR code, chat with Kimi from WeChat",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

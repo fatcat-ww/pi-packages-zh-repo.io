@@ -1,0 +1,6 @@
+{
+  "name": "@upstash/context7-pi",
+  "description_en": "Official Context7 extension for pi.dev — adds resolve-library-id and query-docs tools to the pi coding agent",
+  "description_zh": "pi.dev 的官方 Context7 扩展 — 为 pi 编码代理添加 resolve-library-id 和 query-docs 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

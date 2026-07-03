@@ -1,0 +1,11 @@
+{
+  "name": "@aalzubidy/pi-signal",
+  "path": "/packages/@aalzubidy/pi-signal",
+  "url": "https://pi.dev/packages/@aalzubidy/pi-signal",
+  "types": "",
+  "type_list": [],
+  "downloads": 476,
+  "date_ms": 1782951373734,
+  "description_en": "Connect pi to Signal Messenger via native signal-cli daemon",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

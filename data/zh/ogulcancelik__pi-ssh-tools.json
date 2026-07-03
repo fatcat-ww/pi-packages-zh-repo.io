@@ -1,0 +1,6 @@
+{
+  "name": "@ogulcancelik/pi-ssh-tools",
+  "description_en": "Explicit SSH tools for pi. Toggle /ssh on for a host, then use ssh_read, ssh_write, ssh_edit, and ssh_bash without replacing local tools.",
+  "description_zh": "面向 Pi 的显式 SSH 工具。为主机启用 /ssh，然后在不替换本地工具的情况下使用 ssh_read、ssh_write、ssh_edit 和 ssh_bash。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

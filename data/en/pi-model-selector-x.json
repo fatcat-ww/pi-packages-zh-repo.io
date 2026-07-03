@@ -1,0 +1,13 @@
+{
+  "name": "pi-model-selector-x",
+  "path": "/packages/pi-model-selector-x",
+  "url": "https://pi.dev/packages/pi-model-selector-x",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 40,
+  "date_ms": 1777457208817,
+  "description_en": "Enhances pi's /model selector with context window, cost, input modalities, protocol, and reasoning info",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

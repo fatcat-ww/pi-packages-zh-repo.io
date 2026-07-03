@@ -1,0 +1,13 @@
+{
+  "name": "@gravewhisper/pi-theme-monokai-classic",
+  "path": "/packages/@gravewhisper/pi-theme-monokai-classic",
+  "url": "https://pi.dev/packages/@gravewhisper/pi-theme-monokai-classic",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 39,
+  "date_ms": 1774426065176,
+  "description_en": "A Monokai Classic theme for Pi with softer borders, balanced code colors, and neutral tool panels.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

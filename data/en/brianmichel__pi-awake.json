@@ -1,0 +1,13 @@
+{
+  "name": "@brianmichel/pi-awake",
+  "path": "/packages/@brianmichel/pi-awake",
+  "url": "https://pi.dev/packages/@brianmichel/pi-awake",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 35,
+  "date_ms": 1778556146311,
+  "description_en": "Pi extension package that keeps macOS awake while pi is actively working.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

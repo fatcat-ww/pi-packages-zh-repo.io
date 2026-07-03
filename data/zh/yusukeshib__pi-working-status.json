@@ -1,0 +1,6 @@
+{
+  "name": "@yusukeshib/pi-working-status",
+  "description_en": "Replace pi's plain \"Working...\" loader with a live, detailed status line that tracks the agent through every phase of a turn.",
+  "description_zh": "用实时、详细的状态行替换 pi 的普通 \"Working...\" 加载器，该状态行跟踪代理在每个转换阶段的进程",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

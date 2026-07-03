@@ -1,0 +1,14 @@
+{
+  "name": "@0xkobold/pi-mcp",
+  "path": "/packages/@0xkobold/pi-mcp",
+  "url": "https://pi.dev/packages/@0xkobold/pi-mcp",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 162,
+  "date_ms": 1775601779813,
+  "description_en": "Model Context Protocol (MCP) integration for pi-coding-agent. Connect to any MCP server (stdio, SSE, StreamableHTTP, WebSocket) and use its tools, resources, and prompts natively.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

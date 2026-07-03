@@ -1,0 +1,11 @@
+{
+  "name": "@codewithkenzo/pi-blitz",
+  "path": "/packages/@codewithkenzo/pi-blitz",
+  "url": "https://pi.dev/packages/@codewithkenzo/pi-blitz",
+  "types": "",
+  "type_list": [],
+  "downloads": 727,
+  "date_ms": 1783031384523,
+  "description_en": "Pi extension for Blitz: fast, token-efficient code edits using the Zig Blitz CLI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

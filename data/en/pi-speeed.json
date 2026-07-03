@@ -1,0 +1,13 @@
+{
+  "name": "pi-speeed",
+  "path": "/packages/pi-speeed",
+  "url": "https://pi.dev/packages/pi-speeed",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 566,
+  "date_ms": 1781383635852,
+  "description_en": "A pi extension that shows live model speed with a configurable RunCat speed badge.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

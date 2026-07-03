@@ -1,0 +1,13 @@
+{
+  "name": "@pandi-coding-agent/local-memory",
+  "path": "/packages/@pandi-coding-agent/local-memory",
+  "url": "https://pi.dev/packages/@pandi-coding-agent/local-memory",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783061693193,
+  "description_en": "Pi extension that injects a project-local .pi/memory/ folder (capped MEMORY.md index plus on-demand topic files) into the system prompt.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

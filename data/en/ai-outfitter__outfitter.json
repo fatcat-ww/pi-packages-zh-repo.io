@@ -1,0 +1,11 @@
+{
+  "name": "@ai-outfitter/outfitter",
+  "path": "/packages/@ai-outfitter/outfitter",
+  "url": "https://pi.dev/packages/@ai-outfitter/outfitter",
+  "types": "",
+  "type_list": [],
+  "downloads": 471,
+  "date_ms": 1783031637776,
+  "description_en": "Profile-oriented wrapper for launching pi, Claude Code, and future agent CLIs with reproducible configuration.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@shuv1337/pi-shuv",
+  "path": "/packages/@shuv1337/pi-shuv",
+  "url": "https://pi.dev/packages/@shuv1337/pi-shuv",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 103,
+  "date_ms": 1780301121087,
+  "description_en": "Pi package with Shuv's generic extensions, slash commands, skills, and themes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

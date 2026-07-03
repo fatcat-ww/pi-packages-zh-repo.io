@@ -1,0 +1,13 @@
+{
+  "name": "pi-claude-agent",
+  "path": "/packages/pi-claude-agent",
+  "url": "https://pi.dev/packages/pi-claude-agent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 154,
+  "date_ms": 1780418750360,
+  "description_en": "Pi extension that delegates tasks to the local Claude Code CLI with tmux sessions and inspectable artifacts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

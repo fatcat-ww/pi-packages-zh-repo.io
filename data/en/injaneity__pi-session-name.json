@@ -1,0 +1,13 @@
+{
+  "name": "@injaneity/pi-session-name",
+  "path": "/packages/@injaneity/pi-session-name",
+  "url": "https://pi.dev/packages/@injaneity/pi-session-name",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 82,
+  "date_ms": 1782146303685,
+  "description_en": "Pi extension that names sessions with random three-word names.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@marckrenn/pi-sub-bar",
+  "path": "/packages/@marckrenn/pi-sub-bar",
+  "url": "https://pi.dev/packages/@marckrenn/pi-sub-bar",
+  "types": "",
+  "type_list": [],
+  "downloads": 297,
+  "date_ms": 1774460416133,
+  "description_en": "Usage widget extension for pi-coding-agent - shows current provider usage above the editor",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

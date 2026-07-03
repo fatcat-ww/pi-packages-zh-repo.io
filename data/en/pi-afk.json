@@ -1,0 +1,13 @@
+{
+  "name": "pi-afk",
+  "path": "/packages/pi-afk",
+  "url": "https://pi.dev/packages/pi-afk",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 34,
+  "date_ms": 1779270904585,
+  "description_en": "A Pi package extension that allows the agent to communicate with the user when they're afk.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

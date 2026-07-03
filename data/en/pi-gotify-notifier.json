@@ -1,0 +1,13 @@
+{
+  "name": "pi-gotify-notifier",
+  "path": "/packages/pi-gotify-notifier",
+  "url": "https://pi.dev/packages/pi-gotify-notifier",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 77,
+  "date_ms": 1776585618237,
+  "description_en": "Send Gotify notifications for pi agent session events",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

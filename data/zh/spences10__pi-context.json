@@ -1,0 +1,6 @@
+{
+  "name": "@spences10/pi-context",
+  "description_en": "Searchable local SQLite sidecar that keeps oversized Pi tool output useful without flooding model context",
+  "description_zh": "可搜索的本地 SQLite 旁路，保持过大的 Pi 工具输出有用而不会淹没模型上下文",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

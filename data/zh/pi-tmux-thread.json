@@ -1,0 +1,6 @@
+{
+  "name": "pi-tmux-thread",
+  "description_en": "Pi extension for forking conversations into tmux splits or windows",
+  "description_zh": "Pi 扩展，用于将对话分叉到 tmux 分割或窗口",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

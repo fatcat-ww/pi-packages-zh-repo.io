@@ -1,0 +1,6 @@
+{
+  "name": "pi-ghost-autocomplete",
+  "description_en": "Inline ghost-text autocomplete extension for the Pi coding agent (pi.dev). Cloud and local LLM providers, zero-flicker rendering, no popup interference.",
+  "description_zh": "Pi 编码代理 (pi.dev) 的内联幽灵文本自动完成扩展。支持云和本地 LLM 提供商，零闪烁渲染，无弹窗干扰。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

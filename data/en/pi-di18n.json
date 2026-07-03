@@ -1,0 +1,13 @@
+{
+  "name": "pi-di18n",
+  "path": "/packages/pi-di18n",
+  "url": "https://pi.dev/packages/pi-di18n",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 632,
+  "date_ms": 1782332877128,
+  "description_en": "pi-di18n: full TUI i18n for pi (continues pi-i18n) plus summary localization (integrates pi-compaction-i18n)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-compact",
+  "description_en": "Smart context compaction for Pi. Topic-aware summarization that preserves code context and drops chatter. Configurable strategies.",
+  "description_zh": "Pi 的智能上下文压缩。主题感知的摘要，保留代码上下文并过滤无关信息。可配置策略",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@rahulmutt/pi-ralph",
+  "description_en": "Pi extension that adds the /ralph command — a Ralph Wiggum loop that runs a prompt file over multiple fresh sessions",
+  "description_zh": "Pi 扩展，添加 /ralph 命令 — 在多个新会话中运行提示文件的 Ralph Wiggum 循环",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-weighted-model-router",
+  "path": "/packages/pi-weighted-model-router",
+  "url": "https://pi.dev/packages/pi-weighted-model-router",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 730,
+  "date_ms": 1782781871862,
+  "description_en": "Pi extension that balances model/provider usage across weighted model pools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

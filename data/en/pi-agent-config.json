@@ -1,0 +1,11 @@
+{
+  "name": "pi-agent-config",
+  "path": "/packages/pi-agent-config",
+  "url": "https://pi.dev/packages/pi-agent-config",
+  "types": "",
+  "type_list": [],
+  "downloads": 58,
+  "date_ms": 1777294549843,
+  "description_en": "Personal [pi](https://pi.dev) coding agent configuration: safety extensions, subagent definitions, skills, and prompt templates for a more powerful AI-assisted development workflow.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

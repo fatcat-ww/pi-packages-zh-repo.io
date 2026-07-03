@@ -1,0 +1,6 @@
+{
+  "name": "pi-widget-host",
+  "description_en": "Host package for managing one shared Pi widget slot across multiple providers with preset policies and a built-in demo provider.",
+  "description_zh": "主机包，用于在多个提供商之间管理一个共享的 Pi 小部件插槽，具有预设策略和内置的演示提供商。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

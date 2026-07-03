@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-code-security",
+  "description_en": "Agents should invoke this skill for code security reviews, leaked secret checks, dependency risk, unsafe shell/Python/TypeScript/Rust patterns, auth/input-validation flaws, SAST-style audits, or supply-chain concerns in repositories.",
+  "description_zh": "代理应调用此技能进行代码安全审查、泄露密钥检查、依赖风险、不安全的 shell/Python/TypeScript/Rust 模式、认证/输入验证缺陷、SAST 风格审计或仓库中的供应链问题",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

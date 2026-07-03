@@ -1,0 +1,13 @@
+{
+  "name": "pi-librarian",
+  "path": "/packages/pi-librarian",
+  "url": "https://pi.dev/packages/pi-librarian",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 904,
+  "date_ms": 1778172606356,
+  "description_en": "GitHub research subagent package for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

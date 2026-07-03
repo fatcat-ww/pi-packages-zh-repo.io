@@ -1,0 +1,6 @@
+{
+  "name": "@spences10/pi-recall",
+  "description_en": "Pi extension that syncs pirecall and nudges agents to query past Pi sessions when history matters",
+  "description_zh": "Pi 扩展，同步 pirecall 并在历史记录重要时提醒代理查询过去的 Pi 会话",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

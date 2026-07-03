@@ -1,0 +1,6 @@
+{
+  "name": "pi-lean-grep",
+  "description_en": "A lightweight upgrade for pi’s built-in grep. Fewer noisy results, lower token burn, and a cleaner path from search to read.",
+  "description_zh": "pi内置grep的轻量级升级。更少的噪音结果，更低的token消耗，以及从搜索到读取的更清晰路径。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@capyup/pi-codex-image",
+  "description_en": "Pi package that exposes Codex-style image_generation and view_image tools with dynamic model routing.",
+  "description_zh": "通过动态模型路由暴露 Codex 式 image_generation 和 view_image 工具的 pi 包。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-alert",
+  "description_en": "Pi extension that sends a system notification when the agent ends its turn",
+  "description_zh": "Pi 扩展，当代理结束其回合时发送系统通知",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

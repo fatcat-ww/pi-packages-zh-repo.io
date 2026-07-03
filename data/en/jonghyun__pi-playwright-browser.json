@@ -1,0 +1,11 @@
+{
+  "name": "@jonghyun/pi-playwright-browser",
+  "path": "/packages/@jonghyun/pi-playwright-browser",
+  "url": "https://pi.dev/packages/@jonghyun/pi-playwright-browser",
+  "types": "",
+  "type_list": [],
+  "downloads": 55,
+  "date_ms": 1778736261278,
+  "description_en": "Playwright browser automation extension for pi - runs Chromium in Microsoft Docker container in headless mode",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

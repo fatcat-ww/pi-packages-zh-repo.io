@@ -1,0 +1,6 @@
+{
+  "name": "@omardev_11/pi-stop-notify",
+  "description_en": "Notifies (sound + native + terminal OSC) when the pi agent stops — either finished or awaiting input.",
+  "description_zh": "当 pi 代理停止时发出通知（声音 + 原生 + 终端 OSC）— 无论是完成还是等待输入",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

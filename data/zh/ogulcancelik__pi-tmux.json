@@ -1,0 +1,6 @@
+{
+  "name": "@ogulcancelik/pi-tmux",
+  "description_en": "Tmux pane management for pi. Run dev servers, watchers, and long-running processes in named panes without blocking the agent.",
+  "description_zh": "用于 pi 的 Tmux 窗格管理。在命名窗格中运行开发服务器、监视器和长时间运行的进程，而不阻塞代理。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

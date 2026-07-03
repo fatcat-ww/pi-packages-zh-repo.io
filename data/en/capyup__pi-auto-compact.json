@@ -1,0 +1,13 @@
+{
+  "name": "@capyup/pi-auto-compact",
+  "path": "/packages/@capyup/pi-auto-compact",
+  "url": "https://pi.dev/packages/@capyup/pi-auto-compact",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1015,
+  "date_ms": 1778323553335,
+  "description_en": "Pre-turn auto-compaction for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

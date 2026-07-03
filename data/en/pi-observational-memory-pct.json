@@ -1,0 +1,13 @@
+{
+  "name": "pi-observational-memory-pct",
+  "path": "/packages/pi-observational-memory-pct",
+  "url": "https://pi.dev/packages/pi-observational-memory-pct",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 498,
+  "date_ms": 1781552255813,
+  "description_en": "Fork de pi-observational-memory com suporte a percentuais nos thresholds e auto-detecção da janela de contexto — forked from elpapi42/pi-observational-memory",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

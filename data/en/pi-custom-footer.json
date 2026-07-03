@@ -1,0 +1,11 @@
+{
+  "name": "pi-custom-footer",
+  "path": "/packages/pi-custom-footer",
+  "url": "https://pi.dev/packages/pi-custom-footer",
+  "types": "",
+  "type_list": [],
+  "downloads": 159,
+  "date_ms": 1780479896228,
+  "description_en": "Custom footer extension for pi — shows absolute token counts, cache hit rate, and thinking level",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

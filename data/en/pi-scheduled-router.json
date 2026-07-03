@@ -1,0 +1,11 @@
+{
+  "name": "pi-scheduled-router",
+  "path": "/packages/pi-scheduled-router",
+  "url": "https://pi.dev/packages/pi-scheduled-router",
+  "types": "",
+  "type_list": [],
+  "downloads": 223,
+  "date_ms": 1780881110101,
+  "description_en": "Switch Pi's AI provider and model based on time of day via YAML time-slot configuration.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

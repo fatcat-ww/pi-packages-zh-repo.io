@@ -1,0 +1,6 @@
+{
+  "name": "pi-session-move",
+  "description_en": "Move the current Pi session context to another working directory without invoking the LLM.",
+  "description_zh": "将当前 Pi 会话上下文移动到另一个工作目录，而不调用 LLM",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

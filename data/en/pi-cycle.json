@@ -1,0 +1,13 @@
+{
+  "name": "pi-cycle",
+  "path": "/packages/pi-cycle",
+  "url": "https://pi.dev/packages/pi-cycle",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 174,
+  "date_ms": 1777179624599,
+  "description_en": "Pi extension: /cycle + hotkey cycles model+thinking profiles (OpenAI-focused) with a menu-based config UI for Pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

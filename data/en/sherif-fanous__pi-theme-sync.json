@@ -1,0 +1,11 @@
+{
+  "name": "@sherif-fanous/pi-theme-sync",
+  "path": "/packages/@sherif-fanous/pi-theme-sync",
+  "url": "https://pi.dev/packages/@sherif-fanous/pi-theme-sync",
+  "types": "",
+  "type_list": [],
+  "downloads": 76,
+  "date_ms": 1778610108746,
+  "description_en": "Pi package extension that automatically switches Pi themes to match terminal or OS appearance",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

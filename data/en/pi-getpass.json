@@ -1,0 +1,11 @@
+{
+  "name": "pi-getpass",
+  "path": "/packages/pi-getpass",
+  "url": "https://pi.dev/packages/pi-getpass",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1783066313907,
+  "description_en": "Pi package providing a secure getpass tool for temporary secret environment variables",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-poolside",
+  "path": "/packages/pi-poolside",
+  "url": "https://pi.dev/packages/pi-poolside",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 30,
+  "date_ms": 1779009238370,
+  "description_en": "Poolside AI provider extension for Pi - registers Poolside models as OpenAI-compatible provider",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

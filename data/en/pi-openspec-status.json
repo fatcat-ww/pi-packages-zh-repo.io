@@ -1,0 +1,13 @@
+{
+  "name": "pi-openspec-status",
+  "path": "/packages/pi-openspec-status",
+  "url": "https://pi.dev/packages/pi-openspec-status",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 241,
+  "date_ms": 1779977825250,
+  "description_en": "Pi coding agent extension that displays OpenSpec change status — active change, artifact completion, and task progress — as a persistent TUI widget.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

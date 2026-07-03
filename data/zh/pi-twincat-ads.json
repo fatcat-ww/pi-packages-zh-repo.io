@@ -1,0 +1,6 @@
+{
+  "name": "pi-twincat-ads",
+  "description_en": "Pi extension for reading and writing TwinCAT runtime values over ADS.",
+  "description_zh": "用于通过 ADS 读取和写入 TwinCAT 运行时值的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

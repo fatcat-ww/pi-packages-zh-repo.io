@@ -1,0 +1,13 @@
+{
+  "name": "@pi-unipi/web-api",
+  "path": "/packages/@pi-unipi/web-api",
+  "url": "https://pi.dev/packages/@pi-unipi/web-api",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1220,
+  "date_ms": 1782924725915,
+  "description_en": "Web search, read, and summarize tools with provider-based backend selection for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

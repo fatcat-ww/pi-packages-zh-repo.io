@@ -1,0 +1,11 @@
+{
+  "name": "pi-native-web-search",
+  "path": "/packages/pi-native-web-search",
+  "url": "https://pi.dev/packages/pi-native-web-search",
+  "types": "",
+  "type_list": [],
+  "downloads": 34,
+  "date_ms": 1773417487609,
+  "description_en": "Adds a web_search tool powered by Anthropic's native web search — no third-party API key needed. Always runs via claude-haiku-4-5 for fast, cheap retrieval with source URLs.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

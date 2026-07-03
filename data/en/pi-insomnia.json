@@ -1,0 +1,13 @@
+{
+  "name": "pi-insomnia",
+  "path": "/packages/pi-insomnia",
+  "url": "https://pi.dev/packages/pi-insomnia",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 61,
+  "date_ms": 1782868264893,
+  "description_en": "Prevent macOS idle sleep while Pi agents are working.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

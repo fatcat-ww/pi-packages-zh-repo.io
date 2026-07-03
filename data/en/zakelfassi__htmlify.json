@@ -1,0 +1,13 @@
+{
+  "name": "@zakelfassi/htmlify",
+  "path": "/packages/@zakelfassi/htmlify",
+  "url": "https://pi.dev/packages/@zakelfassi/htmlify",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 359,
+  "date_ms": 1781237676086,
+  "description_en": "Turn agent answers into self-contained HTML artifacts and presentation decks — operator briefs, review packets, incident timelines, decision briefs, and talks. Zero dependencies, zero build, one file.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

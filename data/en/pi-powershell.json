@@ -1,0 +1,13 @@
+{
+  "name": "pi-powershell",
+  "path": "/packages/pi-powershell",
+  "url": "https://pi.dev/packages/pi-powershell",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 589,
+  "date_ms": 1781877102465,
+  "description_en": "Robust PowerShell extension for pi on Windows — token-based bash-to-PS translation, background jobs, diagnostics",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

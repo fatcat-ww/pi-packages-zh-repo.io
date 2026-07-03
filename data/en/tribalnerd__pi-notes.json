@@ -1,0 +1,13 @@
+{
+  "name": "@tribalnerd/pi-notes",
+  "path": "/packages/@tribalnerd/pi-notes",
+  "url": "https://pi.dev/packages/@tribalnerd/pi-notes",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 45,
+  "date_ms": 1775442703929,
+  "description_en": "A Pi extension for deterministic human notes across project and global scopes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

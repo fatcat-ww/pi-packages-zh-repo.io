@@ -1,0 +1,6 @@
+{
+  "name": "pi-tmux-focus-cursor",
+  "description_en": "Hide Pi's fake editor cursor when the current tmux pane loses focus",
+  "description_zh": "当当前tmux窗格失去焦点时隐藏Pi的假编辑器光标",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

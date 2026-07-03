@@ -1,0 +1,6 @@
+{
+  "name": "checkpoint-pi",
+  "description_en": "Git-based checkpoint extension for pi-coding-agent - creates checkpoints at each turn for code state restoration",
+  "description_zh": "pi-coding-agent 的基于 Git 的检查点扩展 — 在每次轮次创建检查点用于代码状态恢复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

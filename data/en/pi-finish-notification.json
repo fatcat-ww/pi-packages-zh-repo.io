@@ -1,0 +1,11 @@
+{
+  "name": "pi-finish-notification",
+  "path": "/packages/pi-finish-notification",
+  "url": "https://pi.dev/packages/pi-finish-notification",
+  "types": "",
+  "type_list": [],
+  "downloads": 699,
+  "date_ms": 1781167065782,
+  "description_en": "Sends native macOS/terminal notifications with sound when pi coding agent finishes and your terminal isn't active. No config, no frills — just works.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

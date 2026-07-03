@@ -1,0 +1,13 @@
+{
+  "name": "@vaayne/pi-rules",
+  "path": "/packages/@vaayne/pi-rules",
+  "url": "https://pi.dev/packages/@vaayne/pi-rules",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 37,
+  "date_ms": 1772086092249,
+  "description_en": "Pi extension that scans .claude/rules/ and .agents/rules/ folders for project rules",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

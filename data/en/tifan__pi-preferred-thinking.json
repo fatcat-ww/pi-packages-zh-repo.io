@@ -1,0 +1,13 @@
+{
+  "name": "@tifan/pi-preferred-thinking",
+  "path": "/packages/@tifan/pi-preferred-thinking",
+  "url": "https://pi.dev/packages/@tifan/pi-preferred-thinking",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 718,
+  "date_ms": 1780316651836,
+  "description_en": "Persist preferred thinking level per model in pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@testzugang/pi-audit-agents-md",
+  "path": "/packages/@testzugang/pi-audit-agents-md",
+  "url": "https://pi.dev/packages/@testzugang/pi-audit-agents-md",
+  "types": "",
+  "type_list": [],
+  "downloads": 170,
+  "date_ms": 1779483738705,
+  "description_en": "Pi skill to audit AGENTS.md for clarity and safety rule violations",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

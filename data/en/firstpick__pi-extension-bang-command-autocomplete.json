@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-bang-command-autocomplete",
+  "path": "/packages/@firstpick/pi-extension-bang-command-autocomplete",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-bang-command-autocomplete",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 755,
+  "date_ms": 1780954467587,
+  "description_en": "Autocomplete for !<command> in Pi, with optional shell-history indexing.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

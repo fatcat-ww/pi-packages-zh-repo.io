@@ -1,0 +1,6 @@
+{
+  "name": "pi-high-availability",
+  "description_en": "High Availability extension for pi - automatic failover when quota or capacity is exhausted",
+  "description_zh": "Pi 的高可用性扩展 - 当配额或容量耗尽时自动故障转移",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

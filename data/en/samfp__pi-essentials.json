@@ -1,0 +1,13 @@
+{
+  "name": "@samfp/pi-essentials",
+  "path": "/packages/@samfp/pi-essentials",
+  "url": "https://pi.dev/packages/@samfp/pi-essentials",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 122,
+  "date_ms": 1776970094196,
+  "description_en": "Essential extensions for pi — auto session naming, compact header, clipboard images, image pruning, markdown viewer, screenshots, and subagents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

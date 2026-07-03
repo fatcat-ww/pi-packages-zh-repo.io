@@ -1,0 +1,11 @@
+{
+  "name": "@ntimpano/pi-flint",
+  "path": "/packages/@ntimpano/pi-flint",
+  "url": "https://pi.dev/packages/@ntimpano/pi-flint",
+  "types": "",
+  "type_list": [],
+  "downloads": 46,
+  "date_ms": 1779585161571,
+  "description_en": "flint memory tools for Pi coding agent — save, recall, get, and list notes via local SQLite",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

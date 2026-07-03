@@ -1,0 +1,11 @@
+{
+  "name": "@guwidoe/pi-web-search",
+  "path": "/packages/@guwidoe/pi-web-search",
+  "url": "https://pi.dev/packages/@guwidoe/pi-web-search",
+  "types": "",
+  "type_list": [],
+  "downloads": 51,
+  "date_ms": 1771954115336,
+  "description_en": "pi skill: web search via DuckDuckGo with optional page content extraction",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

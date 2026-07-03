@@ -1,0 +1,6 @@
+{
+  "name": "pi-better-compact",
+  "description_en": "A pi extension that replaces default compaction with a cache-aware dynamic programming economic model",
+  "description_zh": "Pi 扩展，用缓存感知的动态规划经济模型替换默认压缩",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@odradekk/vera-setup",
+  "path": "/packages/@odradekk/vera-setup",
+  "url": "https://pi.dev/packages/@odradekk/vera-setup",
+  "types": "",
+  "type_list": [],
+  "downloads": 411,
+  "date_ms": 1781265960698,
+  "description_en": "Setup CLI for deploying Vera agent resources to Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

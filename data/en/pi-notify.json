@@ -1,0 +1,11 @@
+{
+  "name": "pi-notify",
+  "path": "/packages/pi-notify",
+  "url": "https://pi.dev/packages/pi-notify",
+  "types": "",
+  "type_list": [],
+  "downloads": 799,
+  "date_ms": 1780419478379,
+  "description_en": "Desktop notifications for Pi agent via OSC 777/99/9 and Windows toast",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

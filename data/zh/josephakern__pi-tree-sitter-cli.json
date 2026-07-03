@@ -1,0 +1,6 @@
+{
+  "name": "@josephakern/pi-tree-sitter-cli",
+  "description_en": "Thin pi extension exposing the tree-sitter CLI as capped agent tools.",
+  "description_zh": "将 tree-sitter CLI 作为代理工具暴露的轻量级 pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-eurouter",
+  "description_en": "EUrouter provider for pi. 127 models via API, fallback if offline.",
+  "description_zh": "pi的EUrouter提供者。通过API提供127个模型，离线时回退。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

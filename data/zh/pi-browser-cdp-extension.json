@@ -1,0 +1,6 @@
+{
+  "name": "pi-browser-cdp-extension",
+  "description_en": "Pi coding-agent extension exposing BrowserCode CDP browser_execute",
+  "description_zh": "暴露 BrowserCode CDP browser_execute 的 Pi 编码代理扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

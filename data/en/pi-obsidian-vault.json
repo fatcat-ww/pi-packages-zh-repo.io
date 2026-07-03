@@ -1,0 +1,13 @@
+{
+  "name": "pi-obsidian-vault",
+  "path": "/packages/pi-obsidian-vault",
+  "url": "https://pi.dev/packages/pi-obsidian-vault",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 178,
+  "date_ms": 1778184587633,
+  "description_en": "Agent-safe Obsidian vault access for Pi: auto-detect, retrieve, validate, plan, write, edit, manage, and explicitly destroy Markdown with human approval.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

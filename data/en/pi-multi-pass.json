@@ -1,0 +1,13 @@
+{
+  "name": "pi-multi-pass",
+  "path": "/packages/pi-multi-pass",
+  "url": "https://pi.dev/packages/pi-multi-pass",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 398,
+  "date_ms": 1775324966119,
+  "description_en": "Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

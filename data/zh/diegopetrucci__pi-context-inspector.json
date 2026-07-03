@@ -1,0 +1,6 @@
+{
+  "name": "@diegopetrucci/pi-context-inspector",
+  "description_en": "A pi extension that opens a local HTML dashboard explaining where the current session context is going.",
+  "description_zh": "一个 pi 扩展，打开本地 HTML 仪表板，解释当前会话上下文的来源。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

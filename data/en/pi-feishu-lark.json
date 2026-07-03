@@ -1,0 +1,13 @@
+{
+  "name": "pi-feishu-lark",
+  "path": "/packages/pi-feishu-lark",
+  "url": "https://pi.dev/packages/pi-feishu-lark",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1156,
+  "date_ms": 1780819218692,
+  "description_en": "Feishu/Lark bridge for Pi coding agent — chat with Pi from Feishu or Lark",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

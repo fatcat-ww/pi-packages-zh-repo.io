@@ -1,0 +1,13 @@
+{
+  "name": "pi-fallback-provider",
+  "path": "/packages/pi-fallback-provider",
+  "url": "https://pi.dev/packages/pi-fallback-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 69,
+  "date_ms": 1776372470810,
+  "description_en": "Model fallback chain extension for pi — automatic retry and failover across AI providers",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

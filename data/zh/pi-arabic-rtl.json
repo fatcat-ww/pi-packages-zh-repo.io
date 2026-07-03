@@ -1,0 +1,6 @@
+{
+  "name": "pi-arabic-rtl",
+  "description_en": "Arabic/RTL rendering support patch for Pi TUI on terminals that do not handle BiDi text correctly.",
+  "description_zh": "针对 Pi TUI 的阿拉伯语/RTL 渲染支持补丁，适用于无法正确处理双向文本的终端",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

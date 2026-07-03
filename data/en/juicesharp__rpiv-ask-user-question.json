@@ -1,0 +1,13 @@
+{
+  "name": "@juicesharp/rpiv-ask-user-question",
+  "path": "/packages/@juicesharp/rpiv-ask-user-question",
+  "url": "https://pi.dev/packages/@juicesharp/rpiv-ask-user-question",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 35210,
+  "date_ms": 1781526930641,
+  "description_en": "Pi extension. A structured questionnaire the model can put to you when it would otherwise guess, with typed options instead of free-form replies.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

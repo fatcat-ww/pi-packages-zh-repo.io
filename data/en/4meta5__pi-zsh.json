@@ -1,0 +1,13 @@
+{
+  "name": "@4meta5/pi-zsh",
+  "path": "/packages/@4meta5/pi-zsh",
+  "url": "https://pi.dev/packages/@4meta5/pi-zsh",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 73,
+  "date_ms": 1771440302088,
+  "description_en": "Allowlist-only zsh script runner extension for pi coding agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

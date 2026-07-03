@@ -1,0 +1,13 @@
+{
+  "name": "@alexgorbatchev/pi-env",
+  "path": "/packages/@alexgorbatchev/pi-env",
+  "url": "https://pi.dev/packages/@alexgorbatchev/pi-env",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 85,
+  "date_ms": 1775624744017,
+  "description_en": "Pi extension that injects environment variables from project config settings.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

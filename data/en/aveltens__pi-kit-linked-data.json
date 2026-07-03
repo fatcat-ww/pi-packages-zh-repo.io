@@ -1,0 +1,11 @@
+{
+  "name": "@aveltens/pi-kit-linked-data",
+  "path": "/packages/@aveltens/pi-kit-linked-data",
+  "url": "https://pi.dev/packages/@aveltens/pi-kit-linked-data",
+  "types": "",
+  "type_list": [],
+  "downloads": 569,
+  "date_ms": 1780330242583,
+  "description_en": "Pi Coding Agent skills and extensions to work with RDF, SPARQL and other Linked Data technologies",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

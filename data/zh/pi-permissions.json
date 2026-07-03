@@ -1,0 +1,6 @@
+{
+  "name": "pi-permissions",
+  "description_en": "Configurable allow/deny permission rules for pi tool calls — control which bash commands, file reads, writes, and edits the agent can perform.",
+  "description_zh": "pi 工具调用的可配置允许/拒绝权限规则 — 控制代理可以执行哪些 bash 命令、文件读取、写入和编辑",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

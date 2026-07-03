@@ -1,0 +1,6 @@
+{
+  "name": "@aalalice233/pi-goal-x",
+  "description_en": "Goal mode extension for pi: persistent long-running objectives, /goal-set drafting, Sisyphus prompt style, autoContinue, and an above-editor status overlay. Fork with merged PR fixes for runtime init error and checkpoint delegation.",
+  "description_zh": "pi的目标模式扩展：持久化的长期目标、/goal-set草稿、西西弗斯提示风格、autoContinue和编辑器上方的状态覆盖。合并了运行时初始化错误和检查点委托修复的PR的分支",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

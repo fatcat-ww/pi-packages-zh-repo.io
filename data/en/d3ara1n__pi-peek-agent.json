@@ -1,0 +1,11 @@
+{
+  "name": "@d3ara1n/pi-peek-agent",
+  "path": "/packages/@d3ara1n/pi-peek-agent",
+  "url": "https://pi.dev/packages/@d3ara1n/pi-peek-agent",
+  "types": "",
+  "type_list": [],
+  "downloads": 514,
+  "date_ms": 1782657366995,
+  "description_en": "LLM tool for pi-peek — lets the main agent peek at another pi instance or ask it a question, without disturbing it",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

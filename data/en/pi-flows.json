@@ -1,0 +1,13 @@
+{
+  "name": "pi-flows",
+  "path": "/packages/pi-flows",
+  "url": "https://pi.dev/packages/pi-flows",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 826,
+  "date_ms": 1781155020517,
+  "description_en": "Delegate pi work to isolated, budgeted sub-agents with verification loops and tracing.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

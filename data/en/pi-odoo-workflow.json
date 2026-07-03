@@ -1,0 +1,13 @@
+{
+  "name": "pi-odoo-workflow",
+  "path": "/packages/pi-odoo-workflow",
+  "url": "https://pi.dev/packages/pi-odoo-workflow",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 185,
+  "date_ms": 1779972008549,
+  "description_en": "Odoo 18/19 module development for pi and Claude Code — auto-detects your modules, finds XML IDs, and scaffolds models, views, wizards, reports, controllers, OWL components, tests and migrations with 15 /odoo-* slash commands. Includes TypeScript extension",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

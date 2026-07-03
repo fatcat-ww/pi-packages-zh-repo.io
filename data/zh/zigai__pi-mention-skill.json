@@ -1,0 +1,6 @@
+{
+  "name": "@zigai/pi-mention-skill",
+  "description_en": "Pi package that moves skill discovery from slash commands to $ mentions.",
+  "description_zh": "将技能发现从斜杠命令移动到 $ 提及的 Pi 包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

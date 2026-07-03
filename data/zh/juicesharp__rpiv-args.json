@@ -1,0 +1,6 @@
+{
+  "name": "@juicesharp/rpiv-args",
+  "description_en": "Pi extension. Shell-style $1 / $ARGUMENTS placeholders and !`cmd` / ```! shell substitution, expanded into your Pi skills at invocation.",
+  "description_zh": "Pi 扩展。Shell 风格的 $1 / $ARGUMENTS 占位符和 !`cmd` / ```! shell 替换，在调用时扩展到您的 Pi 技能中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

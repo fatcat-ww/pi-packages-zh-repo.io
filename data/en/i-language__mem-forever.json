@@ -1,0 +1,11 @@
+{
+  "name": "@i-language/mem-forever",
+  "path": "/packages/@i-language/mem-forever",
+  "url": "https://pi.dev/packages/@i-language/mem-forever",
+  "types": "",
+  "type_list": [],
+  "downloads": 62,
+  "date_ms": 1777286027867,
+  "description_en": "Every AI tool forgets you. This one doesn't. Ever. Persistent memory across sessions and tools. Auto-generates profile, saves decisions and lessons to .ilang/, applies preferences forever.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

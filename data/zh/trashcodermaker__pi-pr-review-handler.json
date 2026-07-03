@@ -1,0 +1,6 @@
+{
+  "name": "@trashcodermaker/pi-pr-review-handler",
+  "description_en": "Systematically process GitHub PR review comments: triage for validity, fix code, and post replies. Pi package — install with `pi install npm:@trashcodermaker/pi-pr-review-handler`.",
+  "description_zh": "系统处理 GitHub PR 审查评论：分类有效性、修复代码并发布回复。Pi 包 - 使用 `pi install npm:@trashcodermaker/pi-pr-review-handler` 安装。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

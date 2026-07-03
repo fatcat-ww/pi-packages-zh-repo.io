@@ -1,0 +1,13 @@
+{
+  "name": "@ttiimmaahh/pi-xcode",
+  "path": "/packages/@ttiimmaahh/pi-xcode",
+  "url": "https://pi.dev/packages/@ttiimmaahh/pi-xcode",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782762368711,
+  "description_en": "Use the Pi coding agent as an Xcode Intelligence ACP agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

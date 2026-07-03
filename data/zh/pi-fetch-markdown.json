@@ -1,0 +1,6 @@
+{
+  "name": "pi-fetch-markdown",
+  "description_en": "Pi skill: fetch any web page as clean markdown via Cloudflare content negotiation or Jina Reader",
+  "description_zh": "Pi 技能：通过 Cloudflare 内容协商或 Jina Reader 将任何网页获取为干净的 markdown",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@ifiokjr/oh-pi",
+  "path": "/packages/@ifiokjr/oh-pi",
+  "url": "https://pi.dev/packages/@ifiokjr/oh-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 17,
+  "date_ms": 1772960964363,
+  "description_en": "One-click setup for pi-coding-agent — extensions, themes, prompts, skills, and ant-colony swarm. Like oh-my-zsh for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

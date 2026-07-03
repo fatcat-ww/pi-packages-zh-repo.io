@@ -1,0 +1,11 @@
+{
+  "name": "@0xkobold/pi-codebase-wiki",
+  "path": "/packages/@0xkobold/pi-codebase-wiki",
+  "url": "https://pi.dev/packages/@0xkobold/pi-codebase-wiki",
+  "types": "",
+  "type_list": [],
+  "downloads": 387,
+  "date_ms": 1779062026385,
+  "description_en": "Keeps a wiki for your code that updates itself — reads your git history and docs so you can ask questions about your codebase",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-sensitive-guard",
+  "description_en": "Pi extension that protects sensitive files, blocks secret writes, and optionally redacts protected read output.",
+  "description_zh": "Pi 扩展，用于保护敏感文件、阻止密钥写入，并可选择性地编辑受保护的读取输出。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

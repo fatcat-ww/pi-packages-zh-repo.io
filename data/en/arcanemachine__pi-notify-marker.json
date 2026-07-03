@@ -1,0 +1,13 @@
+{
+  "name": "@arcanemachine/pi-notify-marker",
+  "path": "/packages/@arcanemachine/pi-notify-marker",
+  "url": "https://pi.dev/packages/@arcanemachine/pi-notify-marker",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 42,
+  "date_ms": 1777875058506,
+  "description_en": "Marker file plugin for Pi coding agent - create files when events occur",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

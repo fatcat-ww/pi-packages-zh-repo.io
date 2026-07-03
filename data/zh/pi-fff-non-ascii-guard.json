@@ -1,0 +1,6 @@
+{
+  "name": "pi-fff-non-ascii-guard",
+  "description_en": "Pi extension that detects and renames non-ASCII filenames before fff-core can panic on UTF-8 byte boundaries.",
+  "description_zh": "Pi 扩展，在 fff-core 可以在 UTF-8 字节边界上 panic 之前检测并重命名非 ASCII 文件名",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

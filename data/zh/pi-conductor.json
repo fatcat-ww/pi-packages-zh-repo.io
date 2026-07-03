@@ -1,0 +1,6 @@
+{
+  "name": "pi-conductor",
+  "description_en": "Multi-role LLM orchestration via a guarded, observable handoff state machine — installs as a pi extension exposing `/conduct`.",
+  "description_zh": "通过受保护、可观察的交接状态机进行多角色 LLM 编排 — 作为 pi 扩展安装，暴露 `/conduct`",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-otel-telemetry",
+  "description_en": "OpenTelemetry traces & metrics extension for pi coding agent",
+  "description_zh": "Pi 编码代理的 OpenTelemetry 追踪和指标扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

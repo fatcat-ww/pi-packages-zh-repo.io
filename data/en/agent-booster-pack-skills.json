@@ -1,0 +1,14 @@
+{
+  "name": "agent-booster-pack-skills",
+  "path": "/packages/agent-booster-pack-skills",
+  "url": "https://pi.dev/packages/agent-booster-pack-skills",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 149,
+  "date_ms": 1778292032129,
+  "description_en": "General Agent Booster Pack skills for Pi: data, security, debugging, refactoring, and more. Runtime-owned skills ship with their matching extension packages. Renamed from pi-agent-booster-pack; old name deprecated.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

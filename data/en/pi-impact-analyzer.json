@@ -1,0 +1,11 @@
+{
+  "name": "pi-impact-analyzer",
+  "path": "/packages/pi-impact-analyzer",
+  "url": "https://pi.dev/packages/pi-impact-analyzer",
+  "types": "",
+  "type_list": [],
+  "downloads": 992,
+  "date_ms": 1781691115053,
+  "description_en": "AST-based dependency tracing that answers: If I change this symbol, what else could break? Passive mode with auto-indexing and caching.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

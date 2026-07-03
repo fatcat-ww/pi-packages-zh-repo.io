@@ -1,0 +1,11 @@
+{
+  "name": "pi-multimodal-proxy",
+  "path": "/packages/pi-multimodal-proxy",
+  "url": "https://pi.dev/packages/pi-multimodal-proxy",
+  "types": "",
+  "type_list": [],
+  "downloads": 532,
+  "date_ms": 1781990216020,
+  "description_en": "Automatic image, video and audio description for any model in Pi. Routes media to a multimodal model and injects descriptions into context.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

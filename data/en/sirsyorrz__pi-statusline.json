@@ -1,0 +1,11 @@
+{
+  "name": "@sirsyorrz/pi-statusline",
+  "path": "/packages/@sirsyorrz/pi-statusline",
+  "url": "https://pi.dev/packages/@sirsyorrz/pi-statusline",
+  "types": "",
+  "type_list": [],
+  "downloads": 50,
+  "date_ms": 1775653018500,
+  "description_en": "Pi statusline extension — clean one-line footer with context usage and Anthropic rate-limit utilization.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

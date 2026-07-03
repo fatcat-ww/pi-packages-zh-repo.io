@@ -1,0 +1,13 @@
+{
+  "name": "pi-autocommit",
+  "path": "/packages/pi-autocommit",
+  "url": "https://pi.dev/packages/pi-autocommit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 171,
+  "date_ms": 1782031158070,
+  "description_en": "Pi extension that auto-commits all working-tree changes after each response, with a model-generated commit message. Includes a per-project /autocommit on/off toggle.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

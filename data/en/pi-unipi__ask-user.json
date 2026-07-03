@@ -1,0 +1,13 @@
+{
+  "name": "@pi-unipi/ask-user",
+  "path": "/packages/@pi-unipi/ask-user",
+  "url": "https://pi.dev/packages/@pi-unipi/ask-user",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1230,
+  "date_ms": 1782924684534,
+  "description_en": "Structured user input tool for Pi coding agent — single-select, multi-select, freeform",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

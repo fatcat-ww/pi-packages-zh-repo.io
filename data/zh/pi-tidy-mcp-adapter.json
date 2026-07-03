@@ -1,0 +1,6 @@
+{
+  "name": "pi-tidy-mcp-adapter",
+  "description_en": "MCP (Model Context Protocol) adapter extension for Pi coding agent fork form https://github.com/nicobailon/pi-mcp-adapter",
+  "description_zh": "Pi coding agent 的 MCP (Model Context Protocol) 适配器扩展，源自 https://github.com/nicobailon/pi-mcp-adapter",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

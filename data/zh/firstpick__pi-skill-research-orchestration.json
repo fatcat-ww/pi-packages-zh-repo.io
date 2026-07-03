@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-research-orchestration",
+  "description_en": "Agents should invoke this skill for broad multi-claim research projects needing planning, parallel investigation, source merging, gap closure, citation audit, and final synthesis when narrower research skills are insufficient.",
+  "description_zh": "代理应在需要规划、并行调查、源合并、差距关闭、引用审核和最终合成等广泛多声明研究项目时调用此技能，当更狭窄的研究技能不足时",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

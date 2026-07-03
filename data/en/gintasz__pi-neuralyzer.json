@@ -1,0 +1,13 @@
+{
+  "name": "@gintasz/pi-neuralyzer",
+  "path": "/packages/@gintasz/pi-neuralyzer",
+  "url": "https://pi.dev/packages/@gintasz/pi-neuralyzer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 283,
+  "date_ms": 1781957128047,
+  "description_en": "AI agent harness tool allowing it to wipe its own session context and re-run the first message",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

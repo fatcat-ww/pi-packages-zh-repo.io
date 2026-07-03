@@ -1,0 +1,6 @@
+{
+  "name": "pi-context-saver",
+  "description_en": "Pi extension that prevents context bloat by automatically sandboxing heavy tool outputs (bash, web_search, fetch_content, exa_search, read) to temp files",
+  "description_zh": "Pi扩展，通过自动将重型工具输出（bash、web_search、fetch_content、exa_search、read）沙盒化到临时文件来防止上下文膨胀",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

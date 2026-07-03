@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-agent-steer",
+  "path": "/packages/@agnishc/edb-agent-steer",
+  "url": "https://pi.dev/packages/@agnishc/edb-agent-steer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 585,
+  "date_ms": 1782119154811,
+  "description_en": "Pi extension: intercepts mid-turn messages with a steer / queue / discard / edit prompt",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

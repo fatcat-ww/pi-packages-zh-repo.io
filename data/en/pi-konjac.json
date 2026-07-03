@@ -1,0 +1,13 @@
+{
+  "name": "pi-konjac",
+  "path": "/packages/pi-konjac",
+  "url": "https://pi.dev/packages/pi-konjac",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 19,
+  "date_ms": 1778944574336,
+  "description_en": "Pi coding agent input translation extension using Bergamot language pair models.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

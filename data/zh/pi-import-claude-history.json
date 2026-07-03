@@ -1,0 +1,6 @@
+{
+  "name": "pi-import-claude-history",
+  "description_en": "Pi coding agent extension: import Claude Code JSONL sessions into Pi session format",
+  "description_zh": "Pi编码代理扩展：将Claude Code JSONL会话导入Pi会话格式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

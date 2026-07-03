@@ -1,0 +1,6 @@
+{
+  "name": "@ryan_nookpi/pi-extension-clipboard",
+  "description_en": "Clipboard copy and paste tools for pi (OSC52 copy + pbpaste/xclip/wl-paste/Get-Clipboard paste).",
+  "description_zh": "pi 的剪贴板复制粘贴工具（OSC52 复制 + pbpaste/xclip/wl-paste/Get-Clipboard 粘贴）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

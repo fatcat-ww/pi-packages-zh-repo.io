@@ -1,0 +1,13 @@
+{
+  "name": "pi-gateway",
+  "path": "/packages/pi-gateway",
+  "url": "https://pi.dev/packages/pi-gateway",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 822,
+  "date_ms": 1780100069852,
+  "description_en": "OpenAI-compatible local API on top of pi.dev — LiteLLM-shape stateless protocol translator. Standalone CLI + pi-extension wrapper.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

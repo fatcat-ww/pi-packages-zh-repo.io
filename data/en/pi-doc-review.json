@@ -1,0 +1,11 @@
+{
+  "name": "pi-doc-review",
+  "path": "/packages/pi-doc-review",
+  "url": "https://pi.dev/packages/pi-doc-review",
+  "types": "",
+  "type_list": [],
+  "downloads": 201,
+  "date_ms": 1782526606366,
+  "description_en": "Native Markdown document review window for AI coding agents (pi, Claude Code, Codex CLI). Opens a Glimpse window that renders Markdown, lets the user leave selection and document comments, edit the raw Markdown, and returns feedback to the agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

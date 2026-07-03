@@ -1,0 +1,6 @@
+{
+  "name": "pi-packs",
+  "description_en": "Umbrella Pi package: /install picker for a curated set of pi extensions (pi-qq, pi-chrome, pi-linter, pi-bar, pi-prompt-shelf, pi-caveman, pi-graphite, pi-gh-cli, pi-loadout, pi-cp).",
+  "description_zh": "Pi 总包：用于精选 pi 扩展集合 (/install 选择器)（pi-qq、pi-chrome、pi-linter、pi-bar、pi-prompt-shelf、pi-caveman、pi-graphite、pi-gh-cli、pi-loadout、pi-cp）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@blackbelt-technology/pi-dashboard-authoring-toolkit",
+  "description_en": "General-purpose authoring skills for pi sessions — skill-creator (author/update skills) and session-to-guideline (turn a pi session JSONL transcript into a how-we-did-it Markdown playbook). Pure-skill package, no extension.ts. skill-creator adapted from A",
+  "description_zh": "pi 会话的通用创作技能 — skill-creator（创作/更新技能）和 session-to-guideline（将 pi 会话 JSONL 转录为 how-we-did-it Markdown 操作手册）。纯技能包，无 extension.ts。skill-creator 改编自 A",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

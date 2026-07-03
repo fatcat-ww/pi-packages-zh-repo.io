@@ -1,0 +1,13 @@
+{
+  "name": "@wierdbytes/pi-web",
+  "path": "/packages/@wierdbytes/pi-web",
+  "url": "https://pi.dev/packages/@wierdbytes/pi-web",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 156,
+  "date_ms": 1778770977022,
+  "description_en": "Anthropic-powered web_search tool for the pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

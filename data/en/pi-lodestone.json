@@ -1,0 +1,11 @@
+{
+  "name": "pi-lodestone",
+  "path": "/packages/pi-lodestone",
+  "url": "https://pi.dev/packages/pi-lodestone",
+  "types": "",
+  "type_list": [],
+  "downloads": 377,
+  "date_ms": 1780967636494,
+  "description_en": "Persistent memory for the Pi coding agent, tuned for local LLMs. Curated decisions, preferences, and workflows that survive future sessions, with cheap context-aware injection.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

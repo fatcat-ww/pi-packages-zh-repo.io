@@ -1,0 +1,6 @@
+{
+  "name": "@pandi-coding-agent/rename",
+  "description_en": "Pi extension that adds a Claude-style /rename command to rename the current session, auto-generating a name from history when none is given.",
+  "description_zh": "Pi 扩展，添加 Claude 风格的 /rename 命令来重命名当前会话，未提供名称时自动从历史记录生成名称。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

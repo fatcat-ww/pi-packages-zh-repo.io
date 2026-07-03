@@ -1,0 +1,11 @@
+{
+  "name": "@foxfirecodes/pi-alerts",
+  "path": "/packages/@foxfirecodes/pi-alerts",
+  "url": "https://pi.dev/packages/@foxfirecodes/pi-alerts",
+  "types": "",
+  "type_list": [],
+  "downloads": 47,
+  "date_ms": 1779937543251,
+  "description_en": "Pi extension that rings the terminal bell when pi needs your input.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

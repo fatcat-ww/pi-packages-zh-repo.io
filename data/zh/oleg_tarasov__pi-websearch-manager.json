@@ -1,0 +1,6 @@
+{
+  "name": "@oleg_tarasov/pi-websearch-manager",
+  "description_en": "Pi extension that routes web search tools between OpenAI/Codex web_run and extension-provided web tools by active model.",
+  "description_zh": "Pi 扩展，根据活动模型在网络搜索工具之间路由 OpenAI/Codex web_run 和扩展提供的网络工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

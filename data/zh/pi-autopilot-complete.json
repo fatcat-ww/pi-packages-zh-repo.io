@@ -1,0 +1,6 @@
+{
+  "name": "pi-autopilot-complete",
+  "description_en": "Pi extension that adds a complete tool and autopilot loop so the model keeps working until it explicitly completes",
+  "description_zh": "Pi 扩展，添加完整的工具和自动驾驶循环，使模型持续工作直到明确完成",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

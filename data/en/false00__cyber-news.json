@@ -1,0 +1,13 @@
+{
+  "name": "@false00/cyber-news",
+  "path": "/packages/@false00/cyber-news",
+  "url": "https://pi.dev/packages/@false00/cyber-news",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 861,
+  "date_ms": 1782950444257,
+  "description_en": "Interactive cybersecurity news briefing for the Pi coding agent with live multi-source headlines and deep-dive story prompts",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

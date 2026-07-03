@@ -1,0 +1,6 @@
+{
+  "name": "@gnoviawan/pi-litellm-auto-detect",
+  "description_en": "Loads LiteLLM models from a remote /model/info endpoint on startup.",
+  "description_zh": "启动时从远程 /model/info 端点加载 LiteLLM 模型。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

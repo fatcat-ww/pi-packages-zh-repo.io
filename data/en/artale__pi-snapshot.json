@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-snapshot",
+  "path": "/packages/@artale/pi-snapshot",
+  "url": "https://pi.dev/packages/@artale/pi-snapshot",
+  "types": "",
+  "type_list": [],
+  "downloads": 39,
+  "date_ms": 1773496415786,
+  "description_en": "Session snapshot for Pi. Export conversation as markdown, JSON, or HTML. Share sessions, create reports.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

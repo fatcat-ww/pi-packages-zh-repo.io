@@ -1,0 +1,13 @@
+{
+  "name": "@the-forge-flow/camoufox-pi",
+  "path": "/packages/@the-forge-flow/camoufox-pi",
+  "url": "https://pi.dev/packages/@the-forge-flow/camoufox-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 160,
+  "date_ms": 1776099237764,
+  "description_en": "PI extension for stealth web search and URL fetching via Camoufox",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

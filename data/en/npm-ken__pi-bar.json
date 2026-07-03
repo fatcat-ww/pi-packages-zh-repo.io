@@ -1,0 +1,13 @@
+{
+  "name": "@npm-ken/pi-bar",
+  "path": "/packages/@npm-ken/pi-bar",
+  "url": "https://pi.dev/packages/@npm-ken/pi-bar",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 929,
+  "date_ms": 1781999564651,
+  "description_en": "Configurable status bar extension for the pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-code-quality",
+  "description_en": "Declarative Pi extension that automatically formats and lints files after write/edit.",
+  "description_zh": "声明式 Pi 扩展，在写入/编辑后自动格式化和检查文件。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

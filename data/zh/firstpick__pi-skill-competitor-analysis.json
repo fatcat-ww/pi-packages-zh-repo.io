@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-competitor-analysis",
+  "description_en": "Agents should invoke this skill when comparing competing products, services, libraries, tools, vendors, or approaches for market/product positioning, feature matrices, strategic trade-offs, pricing, adoption, or differentiation.",
+  "description_zh": "代理在比较竞争产品、服务、库、工具、供应商或方法以进行市场/产品定位、功能矩阵、战略权衡、定价、采用或差异化时应调用此技能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@fnnm/pi-session-breakdown",
+  "description_en": "Interactive TUI for Pi session analysis (usage, cost, models).",
+  "description_zh": "Pi 会话分析的交互式 TUI（使用情况、成本、模型）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

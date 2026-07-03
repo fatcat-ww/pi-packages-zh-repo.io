@@ -1,0 +1,6 @@
+{
+  "name": "pi-git-delegate",
+  "description_en": "Pi extension: delegate git operations (diff/log/blame) to cheaper models via subagents, saving costs and keeping parent context clean.",
+  "description_zh": "Pi 扩展：通过子代理将 git 操作（diff/log/blame）委派给更便宜的模型，节省成本并保持父级上下文清洁",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

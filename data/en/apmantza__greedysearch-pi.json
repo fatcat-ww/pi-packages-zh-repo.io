@@ -1,0 +1,11 @@
+{
+  "name": "@apmantza/greedysearch-pi",
+  "path": "/packages/@apmantza/greedysearch-pi",
+  "url": "https://pi.dev/packages/@apmantza/greedysearch-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 1728,
+  "date_ms": 1782033473991,
+  "description_en": "Headless multi-engine AI search (Perplexity, Google AI, ChatGPT, Gemini) via browser automation. NO API KEYS needed. Grounded all-engine search fetches sources by default, with optional configurable synthesis and deep research.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@jademind/pi-telemetry",
+  "description_en": "Structured runtime telemetry for pi-coding-agent, optimized for external services and observability pipelines.",
+  "description_zh": "pi-coding-agent 的结构化运行时遥测，针对外部服务和可观察性管道优化",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

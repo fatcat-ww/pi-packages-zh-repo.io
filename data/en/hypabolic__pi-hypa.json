@@ -1,0 +1,11 @@
+{
+  "name": "@hypabolic/pi-hypa",
+  "path": "/packages/@hypabolic/pi-hypa",
+  "url": "https://pi.dev/packages/@hypabolic/pi-hypa",
+  "types": "",
+  "type_list": [],
+  "downloads": 204816,
+  "date_ms": 1782089746134,
+  "description_en": "Pi extension that keeps noisy tool output out of your context window. Automatically rewrites shell commands through Hypa for local, deterministic compression, context-aware file tools, and recoverable evidence.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-dteam",
+  "path": "/packages/pi-dteam",
+  "url": "https://pi.dev/packages/pi-dteam",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1620,
+  "date_ms": 1782087079624,
+  "description_en": "dteam - goal-driven self-growing multi-worker collaboration extension for Pi (summon pool / collective intelligence); synchronous foreground Orchestrator Loop with fixed five roles and mandatory check gate",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

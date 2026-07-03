@@ -1,0 +1,13 @@
+{
+  "name": "@narumitw/pi-subagents",
+  "path": "/packages/@narumitw/pi-subagents",
+  "url": "https://pi.dev/packages/@narumitw/pi-subagents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3330,
+  "date_ms": 1782712275639,
+  "description_en": "Pi extension for delegating work to specialized isolated subagents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

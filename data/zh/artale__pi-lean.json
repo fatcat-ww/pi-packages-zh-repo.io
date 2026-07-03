@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-lean",
+  "description_en": "Lean tool output for Pi. Auto-truncate verbose bash output, collapse npm/pip noise, keep errors and results visible.",
+  "description_zh": "Pi 的 Lean 工具输出。自动截断冗长的 bash 输出，折叠 npm/pip 噪声，保持错误和结果可见",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

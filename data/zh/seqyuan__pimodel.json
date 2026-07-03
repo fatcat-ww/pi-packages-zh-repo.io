@@ -1,0 +1,6 @@
+{
+  "name": "@seqyuan/pimodel",
+  "description_en": "Import OpenAI-compatible model providers into PI models.json",
+  "description_zh": "将 OpenAI 兼容的模型提供商导入 PI models.json",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-code-tool",
+  "description_en": "Code-mode tool for the pi coding agent: a sandboxed Python meta-tool (via @pydantic/monty) that lets the agent write code against host tools and build ephemeral code tools",
+  "description_zh": "Pi 编码代理的代码模式工具：通过 @pydantic/monty 的沙盒 Python 元工具，允许代理针对主机工具编写代码并构建临时代码工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

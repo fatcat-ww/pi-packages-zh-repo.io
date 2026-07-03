@@ -1,0 +1,11 @@
+{
+  "name": "@rad-pi/core",
+  "path": "/packages/@rad-pi/core",
+  "url": "https://pi.dev/packages/@rad-pi/core",
+  "types": "",
+  "type_list": [],
+  "downloads": 240,
+  "date_ms": 1782458538554,
+  "description_en": "Deterministic Radicle agent tooling for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

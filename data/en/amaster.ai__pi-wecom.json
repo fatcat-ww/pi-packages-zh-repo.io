@@ -1,0 +1,13 @@
+{
+  "name": "@amaster.ai/pi-wecom",
+  "path": "/packages/@amaster.ai/pi-wecom",
+  "url": "https://pi.dev/packages/@amaster.ai/pi-wecom",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1206,
+  "date_ms": 1782723869002,
+  "description_en": "Pi extension for WeCom (enterprise WeChat) workspace — contacts, messages, meetings, schedules, docs and more via wecom-cli.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

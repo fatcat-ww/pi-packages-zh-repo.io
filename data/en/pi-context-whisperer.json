@@ -1,0 +1,13 @@
+{
+  "name": "pi-context-whisperer",
+  "path": "/packages/pi-context-whisperer",
+  "url": "https://pi.dev/packages/pi-context-whisperer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 24,
+  "date_ms": 1779482681862,
+  "description_en": "Smart gradual auto-compaction for Pi — summarizes conversation mid-session before context limits hit, preserving key decisions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

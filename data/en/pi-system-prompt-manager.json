@@ -1,0 +1,13 @@
+{
+  "name": "pi-system-prompt-manager",
+  "path": "/packages/pi-system-prompt-manager",
+  "url": "https://pi.dev/packages/pi-system-prompt-manager",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 313,
+  "date_ms": 1781485326646,
+  "description_en": "Manage a library of named system prompts in pi, with per-session enable/disable, selection, and optional per-model scoping.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

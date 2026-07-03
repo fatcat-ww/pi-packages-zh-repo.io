@@ -1,0 +1,11 @@
+{
+  "name": "think-tags",
+  "path": "/packages/think-tags",
+  "url": "https://pi.dev/packages/think-tags",
+  "types": "",
+  "type_list": [],
+  "downloads": 32,
+  "date_ms": 1776945827127,
+  "description_en": "Pi extension that splits <think> tags into collapsible thinking blocks in assistant messages",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

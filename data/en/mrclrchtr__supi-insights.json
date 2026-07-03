@@ -1,0 +1,13 @@
+{
+  "name": "@mrclrchtr/supi-insights",
+  "path": "/packages/@mrclrchtr/supi-insights",
+  "url": "https://pi.dev/packages/@mrclrchtr/supi-insights",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2471,
+  "date_ms": 1783012928611,
+  "description_en": "SuPi Insights extension — generate usage reports analyzing your PI sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-arena",
+  "path": "/packages/@artale/pi-arena",
+  "url": "https://pi.dev/packages/@artale/pi-arena",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 144,
+  "date_ms": 1777725772905,
+  "description_en": "Model benchmarking with domain-aware hallucination tracking, per-model leaderboards, and task templates. Track speed, quality, and pass rate across coding, reasoning, and general knowledge.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

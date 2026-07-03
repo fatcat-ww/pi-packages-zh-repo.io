@@ -1,0 +1,6 @@
+{
+  "name": "@shog-lab/pi-bus",
+  "description_en": "Atomic inter-pi messaging primitive plus OS-scheduled bus triggers: any pi window on the same host (and git repo) auto-joins. Tools: agent_list / agent_send / agent_inbox / schedule_cron / list_cron / remove_cron.",
+  "description_zh": "原子级跨 Pi 消息原语加上操作系统调度的总线触发器：同一主机（和 git 仓库）上的任何 Pi 窗口自动加入。工具：agent_list / agent_send / agent_inbox / schedule_cron / list_cron / remove_cron",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

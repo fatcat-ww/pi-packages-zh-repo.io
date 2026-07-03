@@ -1,0 +1,13 @@
+{
+  "name": "@ersintarhan/pi-sync",
+  "path": "/packages/@ersintarhan/pi-sync",
+  "url": "https://pi.dev/packages/@ersintarhan/pi-sync",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 805,
+  "date_ms": 1783069467999,
+  "description_en": "Encrypted + compressed per-session sync for pi coding agent (S3/R2 compatible).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

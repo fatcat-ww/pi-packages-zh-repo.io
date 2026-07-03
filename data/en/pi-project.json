@@ -1,0 +1,13 @@
+{
+  "name": "pi-project",
+  "path": "/packages/pi-project",
+  "url": "https://pi.dev/packages/pi-project",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 291,
+  "date_ms": 1781339951806,
+  "description_en": "Pi extension that switches projects/sessions by a single command, with an tidy picker and project explorer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

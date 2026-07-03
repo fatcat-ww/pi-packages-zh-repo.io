@@ -1,0 +1,11 @@
+{
+  "name": "pi-tmux-harness",
+  "path": "/packages/pi-tmux-harness",
+  "url": "https://pi.dev/packages/pi-tmux-harness",
+  "types": "",
+  "type_list": [],
+  "downloads": 20,
+  "date_ms": 1777913728203,
+  "description_en": "Pi extension exposing tmux as native tools — drive other TUIs (pi, claude, copilot CLI, lazygit, etc.) for adversarial testing without fragile sleep+grep loops.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

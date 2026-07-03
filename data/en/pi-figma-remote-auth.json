@@ -1,0 +1,11 @@
+{
+  "name": "pi-figma-remote-auth",
+  "path": "/packages/pi-figma-remote-auth",
+  "url": "https://pi.dev/packages/pi-figma-remote-auth",
+  "types": "",
+  "type_list": [],
+  "downloads": 131,
+  "date_ms": 1778215050352,
+  "description_en": "Pi extension that authenticates and configures Figma Remote MCP for pi-mcp-adapter.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

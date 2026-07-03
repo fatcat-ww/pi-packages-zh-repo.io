@@ -1,0 +1,6 @@
+{
+  "name": "pi-comment-checker",
+  "description_en": "Pi extension that enforces self-documenting code by detecting and blocking unnecessary comments",
+  "description_zh": "Pi 扩展，通过检测和阻止不必要的注释来强制执行自记录代码",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

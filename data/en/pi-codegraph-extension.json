@@ -1,0 +1,13 @@
+{
+  "name": "pi-codegraph-extension",
+  "path": "/packages/pi-codegraph-extension",
+  "url": "https://pi.dev/packages/pi-codegraph-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 45,
+  "date_ms": 1780631516638,
+  "description_en": "CodeGraph MCP tools for the Pi Coding Agent — semantic code search, impact analysis, call graphs, and deep exploration.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

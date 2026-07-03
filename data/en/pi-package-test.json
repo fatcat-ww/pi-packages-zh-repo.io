@@ -1,0 +1,15 @@
+{
+  "name": "pi-package-test",
+  "path": "/packages/pi-package-test",
+  "url": "https://pi.dev/packages/pi-package-test",
+  "types": "extension skill theme",
+  "type_list": [
+    "extension",
+    "skill",
+    "theme"
+  ],
+  "downloads": 65,
+  "date_ms": 1769301212915,
+  "description_en": "Test package for pi coding agent with extensions, skills, themes, and prompts",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-gpt-fast-mode",
+  "path": "/packages/pi-gpt-fast-mode",
+  "url": "https://pi.dev/packages/pi-gpt-fast-mode",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 393,
+  "date_ms": 1782189012732,
+  "description_en": "Pi extension to control OpenAI's GPT service tier (priority/flex/default/auto) for GPT-5.4 / GPT-5.5, with subagent hand-off.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

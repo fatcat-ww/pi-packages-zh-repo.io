@@ -1,0 +1,6 @@
+{
+  "name": "pi-openai-codex-fast",
+  "description_en": "Pi package that adds an openai-codex-fast provider backed by openai-codex with priority service tier",
+  "description_zh": "添加由具有优先服务层的 openai-codex 支持的 openai-codex-fast 提供程序的 Pi 包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

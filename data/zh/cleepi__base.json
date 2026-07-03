@@ -1,0 +1,6 @@
+{
+  "name": "@cleepi/base",
+  "description_en": "Cleevio's base pi package: voice (system-prompt append) and theme. The first package every Cleevian installs.",
+  "description_zh": "Cleevio 的基础 pi 包：语音（系统提示追加）和主题。每个 Cleevian 安装的第一个包。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

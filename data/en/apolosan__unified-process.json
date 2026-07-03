@@ -1,0 +1,14 @@
+{
+  "name": "@apolosan/unified-process",
+  "path": "/packages/@apolosan/unified-process",
+  "url": "https://pi.dev/packages/@apolosan/unified-process",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 494,
+  "date_ms": 1781017901932,
+  "description_en": "Pi package that bundles the Object-Oriented Unified Process extension and skills for the pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

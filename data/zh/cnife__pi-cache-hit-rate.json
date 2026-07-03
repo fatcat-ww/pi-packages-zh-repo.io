@@ -1,0 +1,6 @@
+{
+  "name": "@cnife/pi-cache-hit-rate",
+  "description_en": "Show cumulative session cache hit rate in pi footer",
+  "description_zh": "在 pi 页脚中显示累积会话缓存命中率",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

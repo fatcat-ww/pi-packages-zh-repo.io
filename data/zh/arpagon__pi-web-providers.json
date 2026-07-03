@@ -1,0 +1,6 @@
+{
+  "name": "@arpagon/pi-web-providers",
+  "description_en": "Configurable web access extension for pi with per-tool provider routing for search, contents, answers, and research across Claude, Cloudflare, Codex, Custom CLI, Exa, Gemini, Perplexity, Parallel, and Valyu.",
+  "description_zh": "Pi 的可配置网页访问扩展，每个工具提供者路由用于搜索、内容、答案和研究，跨越 Claude、Cloudflare、Codex、自定义 CLI、Exa、Gemini、Perplexity、Parallel 和 Valyu",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

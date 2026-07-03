@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-backup-manager",
+  "description_en": "Agents should invoke this skill for backup health checks, restore testing, NAS/Gitea backup integrity, 3-2-1 strategy review, backup script audits, or verifying repositories and archives can be restored safely.",
+  "description_zh": "代理应在备份健康检查、恢复测试、NAS/Gitea 备份完整性、3-2-1 策略审查、备份脚本审计或验证存储库和档案可安全恢复时调用此技能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

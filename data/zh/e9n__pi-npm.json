@@ -1,0 +1,6 @@
+{
+  "name": "@e9n/pi-npm",
+  "description_en": "NPM workflow extension for pi — run common npm commands including publish",
+  "description_zh": "pi 的 NPM 工作流扩展 — 运行包括 publish 在内的常见 npm 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-package-search",
+  "path": "/packages/pi-package-search",
+  "url": "https://pi.dev/packages/pi-package-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 86,
+  "date_ms": 1776625096189,
+  "description_en": "Discover and install Pi packages from npm directly inside Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

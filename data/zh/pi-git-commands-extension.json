@@ -1,0 +1,6 @@
+{
+  "name": "pi-git-commands-extension",
+  "description_en": "Shareable Pi package that adds /commit, /push, /commit-and-push, and /commit-pr git commands.",
+  "description_zh": "可共享的 Pi 包，添加 /commit、/push、/commit-and-push 和 /commit-pr git 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@johnnywu/pi-default-tools",
+  "description_en": "Activate default tools from settings.json — reads project or global settings to enable built-in tools like grep, find, and ls on session start",
+  "description_zh": "从 settings.json 激活默认工具 — 读取项目或全局设置，在会话启动时启用内置工具如 grep、find 和 ls",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

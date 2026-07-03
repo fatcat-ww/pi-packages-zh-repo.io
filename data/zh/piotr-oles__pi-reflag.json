@@ -1,0 +1,6 @@
+{
+  "name": "@piotr-oles/pi-reflag",
+  "description_en": "Pi Agent extension: transparently rewrite grep commands to rg (ripgrep) for faster searches",
+  "description_zh": "Pi Agent 扩展：将 grep 命令透明地重写为 rg (ripgrep) 以实现更快的搜索",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

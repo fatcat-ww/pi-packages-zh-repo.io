@@ -1,0 +1,6 @@
+{
+  "name": "@kickythrust/pi-fnox",
+  "description_en": "Pi extension that injects fnox vault secrets into process.env and bash, scrubs them from output.",
+  "description_zh": "将 fnox 保管库密钥注入 process.env 和 bash 并从输出中清除它们的 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

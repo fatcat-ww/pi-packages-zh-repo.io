@@ -1,0 +1,13 @@
+{
+  "name": "@mjfuertesf/pi-difit",
+  "path": "/packages/@mjfuertesf/pi-difit",
+  "url": "https://pi.dev/packages/@mjfuertesf/pi-difit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 364,
+  "date_ms": 1781182040309,
+  "description_en": "Thin Pi wrapper that opens difit to review branch changes against a base ref",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

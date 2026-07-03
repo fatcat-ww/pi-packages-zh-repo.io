@@ -1,0 +1,6 @@
+{
+  "name": "pi-ask-user",
+  "description_en": "Interactive ask_user tool for pi-coding-agent with searchable split-pane selection UI, multi-select, and freeform input",
+  "description_zh": "pi-coding-agent 的交互式 ask_user 工具，具有可搜索的分窗格选择 UI、多选和自由输入功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

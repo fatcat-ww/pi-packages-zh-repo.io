@@ -1,0 +1,6 @@
+{
+  "name": "@junghanacs/pi-shell-acp",
+  "description_en": "ACP bridge providing Claude Code, Codex, and Gemini CLI backends to pi-coding-agent, with the entwurf orchestration surface for cross-session delegation.",
+  "description_zh": "ACP 桥接，为 pi-coding-agent 提供 Claude Code、Codex 和 Gemini CLI 后端，具有用于跨会话委托的 entwurf 编排表面",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

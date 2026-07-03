@@ -1,0 +1,11 @@
+{
+  "name": "@mjakl/pi-subagent",
+  "path": "/packages/@mjakl/pi-subagent",
+  "url": "https://pi.dev/packages/@mjakl/pi-subagent",
+  "types": "",
+  "type_list": [],
+  "downloads": 248,
+  "date_ms": 1779478266597,
+  "description_en": "Subagent extension for Pi coding agent. Delegate tasks to specialized agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

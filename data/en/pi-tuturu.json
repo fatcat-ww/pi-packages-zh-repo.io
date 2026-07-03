@@ -1,0 +1,13 @@
+{
+  "name": "pi-tuturu",
+  "path": "/packages/pi-tuturu",
+  "url": "https://pi.dev/packages/pi-tuturu",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 71,
+  "date_ms": 1777287424562,
+  "description_en": "Completion sound notifications for pi with selectable sound and volume.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

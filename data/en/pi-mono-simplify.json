@@ -1,0 +1,13 @@
+{
+  "name": "pi-mono-simplify",
+  "path": "/packages/pi-mono-simplify",
+  "url": "https://pi.dev/packages/pi-mono-simplify",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 126,
+  "date_ms": 1778280209909,
+  "description_en": "Pi extension that reviews changed code for reuse, quality, and efficiency, then fixes any issues found",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

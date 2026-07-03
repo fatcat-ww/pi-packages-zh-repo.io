@@ -1,0 +1,11 @@
+{
+  "name": "pi-agent-permissions",
+  "path": "/packages/pi-agent-permissions",
+  "url": "https://pi.dev/packages/pi-agent-permissions",
+  "types": "",
+  "type_list": [],
+  "downloads": 176,
+  "date_ms": 1778578324524,
+  "description_en": "Pi CLI extension — configurable permission policy from .agents/permissions.json and native agent configs",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

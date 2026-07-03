@@ -1,0 +1,11 @@
+{
+  "name": "pi-clear",
+  "path": "/packages/pi-clear",
+  "url": "https://pi.dev/packages/pi-clear",
+  "types": "",
+  "type_list": [],
+  "downloads": 84,
+  "date_ms": 1773417477241,
+  "description_en": "Adds /clear and /c commands (plus bare message interception) to wipe the conversation context and start a fresh session with a runtime reload.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

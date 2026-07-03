@@ -1,0 +1,6 @@
+{
+  "name": "pi-caffeinate",
+  "description_en": "Pi extension that keeps the machine awake while the agent is working (macOS, Linux, Windows)",
+  "description_zh": "Pi 扩展，在代理工作时保持计算机唤醒（macOS、Linux、Windows）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

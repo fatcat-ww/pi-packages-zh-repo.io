@@ -1,0 +1,6 @@
+{
+  "name": "pi-comview",
+  "description_en": "Pi package providing /review command powered by bundled comview binaries",
+  "description_zh": "Pi 包，提供由捆绑的 comview 二进制文件驱动的 /review 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

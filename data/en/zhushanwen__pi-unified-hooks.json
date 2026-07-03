@@ -1,0 +1,13 @@
+{
+  "name": "@zhushanwen/pi-unified-hooks",
+  "path": "/packages/@zhushanwen/pi-unified-hooks",
+  "url": "https://pi.dev/packages/@zhushanwen/pi-unified-hooks",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1062,
+  "date_ms": 1782207116560,
+  "description_en": "Unified hooks extension - collect scattered hooks in one place for easy maintenance",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

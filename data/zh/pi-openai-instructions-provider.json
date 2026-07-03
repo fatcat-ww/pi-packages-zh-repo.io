@@ -1,0 +1,6 @@
+{
+  "name": "pi-openai-instructions-provider",
+  "description_en": "Pi provider package for OpenAI-compatible Responses APIs that sends system prompts via instructions and uses a stable prompt_cache_key.",
+  "description_zh": "Pi 提供商包，用于 OpenAI 兼容的 Responses API，通过指令发送系统提示并使用稳定的 prompt_cache_key。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

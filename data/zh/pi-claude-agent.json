@@ -1,0 +1,6 @@
+{
+  "name": "pi-claude-agent",
+  "description_en": "Pi extension that delegates tasks to the local Claude Code CLI with tmux sessions and inspectable artifacts.",
+  "description_zh": "Pi 扩展，通过 tmux 会话和可检查的工件将任务委托给本地 Claude Code CLI",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

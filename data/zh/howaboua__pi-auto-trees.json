@@ -1,0 +1,6 @@
+{
+  "name": "@howaboua/pi-auto-trees",
+  "description_en": "A Pi package that adds /marker and /end commands for incremental long-running coding sessions.",
+  "description_zh": "Pi 包，添加了 /marker 和 /end 命令，用于增量式长时间运行的编码会话",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

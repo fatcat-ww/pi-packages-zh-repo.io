@@ -1,0 +1,11 @@
+{
+  "name": "pi-agent-codebase-workflows",
+  "path": "/packages/pi-agent-codebase-workflows",
+  "url": "https://pi.dev/packages/pi-agent-codebase-workflows",
+  "types": "",
+  "type_list": [],
+  "downloads": 385,
+  "date_ms": 1781435372082,
+  "description_en": "Pi skills and prompt templates for structured YAML artifact workflows: safe-start, codebase-recon, safe-change, architecture review, structured-doc validation, and legacy docs migration.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-safety-net",
+  "path": "/packages/pi-safety-net",
+  "url": "https://pi.dev/packages/pi-safety-net",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782830730110,
+  "description_en": "Fail-open fork of cc-safety-net — blocks destructive git/filesystem commands, but defaults to fail-OPEN on broken/legacy config so the shell never bricks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

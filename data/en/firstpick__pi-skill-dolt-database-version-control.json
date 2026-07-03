@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-dolt-database-version-control",
+  "path": "/packages/@firstpick/pi-skill-dolt-database-version-control",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-dolt-database-version-control",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 482,
+  "date_ms": 1780954599849,
+  "description_en": "Use automatically when evaluating or applying Dolt, the Git-like version-controlled SQL database, for database branching, merging, diffs, audit history, rollback, or versioned MySQL replica workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

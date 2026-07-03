@@ -1,0 +1,11 @@
+{
+  "name": "@yylan/pi-memory",
+  "path": "/packages/@yylan/pi-memory",
+  "url": "https://pi.dev/packages/@yylan/pi-memory",
+  "types": "",
+  "type_list": [],
+  "downloads": 64,
+  "date_ms": 1779412670204,
+  "description_en": "High-performance long-term memory system for pi coding agent — SQLite FTS5 + local ONNX embeddings",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

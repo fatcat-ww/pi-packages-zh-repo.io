@@ -1,0 +1,6 @@
+{
+  "name": "@latitude-data/pi-telemetry",
+  "description_en": "Pi coding agent extension that streams sessions to Latitude as OTLP traces",
+  "description_zh": "Pi 编码代理扩展，将会话流式传输到 Latitude 作为 OTLP 跟踪",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

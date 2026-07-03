@@ -1,0 +1,6 @@
+{
+  "name": "@jerryan/pi-subagent-lite",
+  "description_en": "Minimal pi extension that delegates tasks to isolated subagent processes with optional skill loading",
+  "description_zh": "最小化 pi 扩展，将任务委托给具有可选技能加载的隔离子代理进程",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

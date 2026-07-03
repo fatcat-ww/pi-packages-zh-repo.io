@@ -1,0 +1,6 @@
+{
+  "name": "@blackbelt-technology/frontend-mockup-loop",
+  "description_en": "Pi extension + skill for a ground→contract→mockup→test→fix→learn frontend design loop. Ships a live mockup server tool, a Playwright breakpoint-screenshot tool, and a design-contract scaffolder. Works in any React/Tailwind/shadcn project.",
+  "description_zh": "Pi 扩展 + 技能，用于前端设计循环：需求→合同→原型→测试→修复→学习。提供实时原型服务器工具、Playwright 断点截图工具和设计合同脚手架。适用于任何 React/Tailwind/shadcn 项目。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

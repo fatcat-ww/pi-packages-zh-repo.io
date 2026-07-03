@@ -1,0 +1,6 @@
+{
+  "name": "@brain0pia/pi-extension-times",
+  "description_en": "Profile Pi extension startup time, inspect slow extensions, and guide safe performance optimizations.",
+  "description_zh": "分析 Pi 扩展启动时间，检查缓慢的扩展，并指导安全的性能优化",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

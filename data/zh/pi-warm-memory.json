@@ -1,0 +1,6 @@
+{
+  "name": "pi-warm-memory",
+  "description_en": "Cross-session episodic memory for pi agents: /archive-session handoff & checkpoint packets with a searchable append-only index.",
+  "description_zh": "pi 代理的跨会话情景记忆：/archive-session 交接和带有可搜索仅追加索引的检查点数据包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

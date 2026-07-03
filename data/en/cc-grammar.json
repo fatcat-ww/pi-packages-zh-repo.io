@@ -1,0 +1,13 @@
+{
+  "name": "cc-grammar",
+  "path": "/packages/cc-grammar",
+  "url": "https://pi.dev/packages/cc-grammar",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 95,
+  "date_ms": 1776481080041,
+  "description_en": "Grammar checking for coding agents — Claude Code, Pi, Codex CLI, Gemini CLI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

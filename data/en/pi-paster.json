@@ -1,0 +1,13 @@
+{
+  "name": "pi-paster",
+  "path": "/packages/pi-paster",
+  "url": "https://pi.dev/packages/pi-paster",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 503,
+  "date_ms": 1782770311920,
+  "description_en": "Pi extension that turns pasted image paths into first-class image attachments.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-git-graph-sidebar",
+  "path": "/packages/pi-git-graph-sidebar",
+  "url": "https://pi.dev/packages/pi-git-graph-sidebar",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 36,
+  "date_ms": 1779046000512,
+  "description_en": "A VS Code Git Graph-style sidebar overlay for the Pi coding agent TUI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

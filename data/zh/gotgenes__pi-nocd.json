@@ -1,0 +1,6 @@
+{
+  "name": "@gotgenes/pi-nocd",
+  "description_en": "Pi extension that injects the resolved working directory into the system prompt so the agent never cd-prefixes the current working directory",
+  "description_zh": "Pi 扩展，将解析的工作目录注入系统提示，这样代理永远不会在当前工作目录前添加 cd 前缀",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@edmundmiller/pi-dcp",
+  "path": "/packages/@edmundmiller/pi-dcp",
+  "url": "https://pi.dev/packages/@edmundmiller/pi-dcp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 61,
+  "date_ms": 1771908843768,
+  "description_en": "Dynamic Context Pruning extension for pi - intelligently removes obsolete messages to optimize token usage",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-mascot",
+  "path": "/packages/pi-mascot",
+  "url": "https://pi.dev/packages/pi-mascot",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 259,
+  "date_ms": 1780925485493,
+  "description_en": "Pi extension: copy current thread user and assistant messages to clipboard.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

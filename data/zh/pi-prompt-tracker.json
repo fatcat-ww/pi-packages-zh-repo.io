@@ -1,0 +1,6 @@
+{
+  "name": "pi-prompt-tracker",
+  "description_en": "Track complete prompts sent to the LLM gateway — system prompt, tools, messages, responses, and usage",
+  "description_zh": "跟踪发送到 LLM 网关的完整提示 — 系统提示、工具、消息、响应和使用情况",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

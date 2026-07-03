@@ -1,0 +1,13 @@
+{
+  "name": "@shuv1337/pi-mcp-adapter",
+  "path": "/packages/@shuv1337/pi-mcp-adapter",
+  "url": "https://pi.dev/packages/@shuv1337/pi-mcp-adapter",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 146,
+  "date_ms": 1780277713671,
+  "description_en": "MCP (Model Context Protocol) adapter extension for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

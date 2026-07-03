@@ -1,0 +1,13 @@
+{
+  "name": "@rohaquinlop/pi-deepseek-cache",
+  "path": "/packages/@rohaquinlop/pi-deepseek-cache",
+  "url": "https://pi.dev/packages/@rohaquinlop/pi-deepseek-cache",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1230,
+  "date_ms": 1782187939424,
+  "description_en": "DeepSeek prefix cache optimization for pi — date/CWD freeze, hit-rate telemetry, cache-friendly compaction, and TUI overlays",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@felixoid/py-yank",
+  "path": "/packages/@felixoid/py-yank",
+  "url": "https://pi.dev/packages/@felixoid/py-yank",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 350,
+  "date_ms": 1780771640980,
+  "description_en": "Pi agent copy command: enhanced /y (yank/copy) for indexed and rendered assistant message clipboard copy",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

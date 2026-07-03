@@ -1,0 +1,6 @@
+{
+  "name": "pi-minimax-cli",
+  "description_en": "A pi coding agent extension that wraps the MiniMax mmx CLI as callable tools with self-evolving architecture",
+  "description_zh": "一个 Pi 编码代理扩展，将 MiniMax mmx CLI 包装为可调用工具，具有自进化架构",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

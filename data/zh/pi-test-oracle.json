@@ -1,0 +1,6 @@
+{
+  "name": "pi-test-oracle",
+  "description_en": "Automated TDD oracle that generates minimal failing tests (RED), tracks state to GREEN, and suggests refactors for the Pi coding agent.",
+  "description_zh": "自动化 TDD 预言家，生成最小的失败测试（RED），跟踪状态到 GREEN，并为 Pi 编码代理建议重构",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

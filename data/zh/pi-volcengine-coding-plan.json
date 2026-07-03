@@ -1,0 +1,6 @@
+{
+  "name": "pi-volcengine-coding-plan",
+  "description_en": "Pi extension for Volcengine Coding Plan, registering Volcengine as a custom OpenAI-compatible provider for domestic coding models.",
+  "description_zh": "Pi 编程计划扩展，注册火山引擎作为自定义 OpenAI 兼容的国内编程模型提供商",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

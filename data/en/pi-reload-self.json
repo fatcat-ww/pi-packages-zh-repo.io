@@ -1,0 +1,13 @@
+{
+  "name": "pi-reload-self",
+  "path": "/packages/pi-reload-self",
+  "url": "https://pi.dev/packages/pi-reload-self",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 261,
+  "date_ms": 1782116132599,
+  "description_en": "Pi extension development helper that lets agents reload Pi and continue in-session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

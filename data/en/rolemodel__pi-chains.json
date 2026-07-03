@@ -1,0 +1,13 @@
+{
+  "name": "@rolemodel/pi-chains",
+  "path": "/packages/@rolemodel/pi-chains",
+  "url": "https://pi.dev/packages/@rolemodel/pi-chains",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 374,
+  "date_ms": 1782460765691,
+  "description_en": "Dynamic Chain Extension — discovers .chain.json files and registers slash commands",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

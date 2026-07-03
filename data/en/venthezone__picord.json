@@ -1,0 +1,11 @@
+{
+  "name": "@venthezone/picord",
+  "path": "/packages/@venthezone/picord",
+  "url": "https://pi.dev/packages/@venthezone/picord",
+  "types": "",
+  "type_list": [],
+  "downloads": 268,
+  "date_ms": 1776993250453,
+  "description_en": "Discord integration extension for pi that maps project channels to workspaces and threads to native pi sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

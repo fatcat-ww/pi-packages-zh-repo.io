@@ -1,0 +1,6 @@
+{
+  "name": "pi-model-filter",
+  "description_en": "Filter and block models from any provider via declarative allow/block rules. Hide unwanted Copilot models, enforce global allowlists, or block by context window size.",
+  "description_zh": "通过声明性允许/阻止规则过滤和阻止任何提供商的模型。隐藏不需要的 Copilot 模型，强制执行全局允许列表，或按上下文窗口大小阻止。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

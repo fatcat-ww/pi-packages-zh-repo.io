@@ -1,0 +1,13 @@
+{
+  "name": "pi-service-tier",
+  "path": "/packages/pi-service-tier",
+  "url": "https://pi.dev/packages/pi-service-tier",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 101,
+  "date_ms": 1778223294544,
+  "description_en": "Fast mode and provider service-tier controls for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

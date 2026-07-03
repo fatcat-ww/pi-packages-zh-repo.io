@@ -1,0 +1,13 @@
+{
+  "name": "pi-pr-status",
+  "path": "/packages/pi-pr-status",
+  "url": "https://pi.dev/packages/pi-pr-status",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 39,
+  "date_ms": 1771264339539,
+  "description_en": "A Pi extension that shows the current PR link, CI check status, and unresolved review comments in the footer status bar",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

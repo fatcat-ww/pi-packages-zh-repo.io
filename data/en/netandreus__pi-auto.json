@@ -1,0 +1,11 @@
+{
+  "name": "@netandreus/pi-auto",
+  "path": "/packages/@netandreus/pi-auto",
+  "url": "https://pi.dev/packages/@netandreus/pi-auto",
+  "types": "",
+  "type_list": [],
+  "downloads": 62,
+  "date_ms": 1771697174608,
+  "description_en": "Pi package: usage-aware model switching and load-balancing for pi-coding-agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

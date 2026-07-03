@@ -1,0 +1,6 @@
+{
+  "name": "@jdrly/pi-toolbox",
+  "description_en": "Deferred tool loading for Pi: keep heavy tool schemas out of context until prompts need them.",
+  "description_zh": "Pi 的延迟工具加载：将重型工具模式保留在上下文外，直到提示需要它们",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@mjakl/pi-processes",
+  "path": "/packages/@mjakl/pi-processes",
+  "url": "https://pi.dev/packages/@mjakl/pi-processes",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 264,
+  "date_ms": 1781371316892,
+  "description_en": "> **Note** > This is a stripped down fork of https://github.com/aliou/pi-processes. > Most people should likely use the original project instead.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

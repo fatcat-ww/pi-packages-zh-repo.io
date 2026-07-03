@@ -1,0 +1,11 @@
+{
+  "name": "@nqbao/pi-inbox",
+  "path": "/packages/@nqbao/pi-inbox",
+  "url": "https://pi.dev/packages/@nqbao/pi-inbox",
+  "types": "",
+  "type_list": [],
+  "downloads": 317,
+  "date_ms": 1780180230945,
+  "description_en": "Inter-session communication extension for Pi — file-based, channel-oriented, threaded messaging between independently-running Pi sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@pi-unipi/kanboard",
+  "path": "/packages/@pi-unipi/kanboard",
+  "url": "https://pi.dev/packages/@pi-unipi/kanboard",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1273,
+  "date_ms": 1782924704270,
+  "description_en": "Visualization layer for unipi workflow — HTTP server with htmx/Alpine.js UI, modular parsers, TUI overlay, and kanban board",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

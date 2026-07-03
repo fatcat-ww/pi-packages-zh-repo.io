@@ -1,0 +1,6 @@
+{
+  "name": "pi-slim-tools",
+  "description_en": "Pi 扩展：将 bash/read/edit/write/grep/find/ls 的输出压缩为单行摘要，终端更清爽。按 Ctrl+O 展开。",
+  "description_zh": "Pi 扩展：将 bash/read/edit/write/grep/find/ls 的输出压缩为单行摘要，终端更清爽。按 Ctrl+O 展开。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

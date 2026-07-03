@@ -1,0 +1,13 @@
+{
+  "name": "pi-revit",
+  "path": "/packages/pi-revit",
+  "url": "https://pi.dev/packages/pi-revit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 687,
+  "date_ms": 1781772037137,
+  "description_en": "Native Pi connector for Autodesk Revit. Run npx.cmd -y pi-revit for the full Windows install.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

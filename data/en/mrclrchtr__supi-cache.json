@@ -1,0 +1,13 @@
+{
+  "name": "@mrclrchtr/supi-cache",
+  "path": "/packages/@mrclrchtr/supi-cache",
+  "url": "https://pi.dev/packages/@mrclrchtr/supi-cache",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2436,
+  "date_ms": 1783012897593,
+  "description_en": "SuPi Cache — prompt cache health monitoring and cross-session forensics",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

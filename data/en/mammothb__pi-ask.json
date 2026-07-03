@@ -1,0 +1,11 @@
+{
+  "name": "@mammothb/pi-ask",
+  "path": "/packages/@mammothb/pi-ask",
+  "url": "https://pi.dev/packages/@mammothb/pi-ask",
+  "types": "",
+  "type_list": [],
+  "downloads": 842,
+  "date_ms": 1782395295646,
+  "description_en": "A pi extension that adds an ask tool for interactive user prompting during execution",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

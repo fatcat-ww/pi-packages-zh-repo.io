@@ -1,0 +1,11 @@
+{
+  "name": "@vanillagreen/pi-hooks",
+  "path": "/packages/@vanillagreen/pi-hooks",
+  "url": "https://pi.dev/packages/@vanillagreen/pi-hooks",
+  "types": "",
+  "type_list": [],
+  "downloads": 389,
+  "date_ms": 1782594892119,
+  "description_en": "First-class Pi port of the vstack safety hooks: bare-cd blocking, pre-commit fmt+clippy, post-edit clippy, end-of-turn lint. Per-hook toggles via pi-extension-manager.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

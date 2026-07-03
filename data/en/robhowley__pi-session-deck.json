@@ -1,0 +1,11 @@
+{
+  "name": "@robhowley/pi-session-deck",
+  "path": "/packages/@robhowley/pi-session-deck",
+  "url": "https://pi.dev/packages/@robhowley/pi-session-deck",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782936119438,
+  "description_en": "A TUI dashboard for Pi sessions: live windows, worktrees, PRs, activity, and statuses in one place.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

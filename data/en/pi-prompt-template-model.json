@@ -1,0 +1,14 @@
+{
+  "name": "pi-prompt-template-model",
+  "path": "/packages/pi-prompt-template-model",
+  "url": "https://pi.dev/packages/pi-prompt-template-model",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 7503,
+  "date_ms": 1782881761864,
+  "description_en": "Prompt template model selector extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@zigai/pi-run-timer",
+  "description_en": "Pi package that shows live loader elapsed time, optional rotating working-bar messages, and post-run agent timing stats.",
+  "description_zh": "Pi 包，显示实时加载器经过时间，可选旋转工作栏消息，以及运行后代理计时统计",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@braintrust/pi-extension",
+  "path": "/packages/@braintrust/pi-extension",
+  "url": "https://pi.dev/packages/@braintrust/pi-extension",
+  "types": "",
+  "type_list": [],
+  "downloads": 8538,
+  "date_ms": 1782847731830,
+  "description_en": "Braintrust extension for pi. Includes automatic tracing for pi sessions, turns, LLM calls, and tool executions to Braintrust.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

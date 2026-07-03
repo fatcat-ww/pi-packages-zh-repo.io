@@ -1,0 +1,11 @@
+{
+  "name": "max-context",
+  "path": "/packages/max-context",
+  "url": "https://pi.dev/packages/max-context",
+  "types": "",
+  "type_list": [],
+  "downloads": 535,
+  "date_ms": 1781255891716,
+  "description_en": "Pi extension to keep context usage near a configurable soft limit",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

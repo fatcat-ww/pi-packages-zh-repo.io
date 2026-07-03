@@ -1,0 +1,6 @@
+{
+  "name": "@davehardy20/pi-lsp-tools",
+  "description_en": "Pi package for LSP-powered code navigation: goto definition, find references, diagnostics, symbols, and rename.",
+  "description_zh": "Pi 包，提供 LSP 驱动的代码导航：转到定义、查找引用、诊断、符号和重命名。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "predexec",
+  "path": "/packages/predexec",
+  "url": "https://pi.dev/packages/predexec",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1783050665964,
+  "description_en": "Predictive execution: collapse an adaptive multi-level tool sequence into a single model round-trip via a deterministic plan tree. pi coding agent extension / opencode plugin.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

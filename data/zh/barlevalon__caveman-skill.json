@@ -1,0 +1,6 @@
+{
+  "name": "@barlevalon/caveman-skill",
+  "description_en": "Ultra-compressed communication mode. Cuts token usage ~75% by speaking like caveman while keeping full technical accuracy. Supports intensity levels: lite, full (default), ultra, wenyan-lite, wenyan-full, wenyan-ultra...",
+  "description_zh": "超压缩通信模式。通过类似原始人的说话方式减少约 75% 的令牌使用，同时保持完整的技术准确性。支持强度级别：lite、full（默认）、ultra、wenyan-lite、wenyan-full、wenyan-ultra...",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

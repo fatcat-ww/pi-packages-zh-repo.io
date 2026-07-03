@@ -1,0 +1,13 @@
+{
+  "name": "pi-ghost-autocomplete",
+  "path": "/packages/pi-ghost-autocomplete",
+  "url": "https://pi.dev/packages/pi-ghost-autocomplete",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 612,
+  "date_ms": 1782188948334,
+  "description_en": "Inline ghost-text autocomplete extension for the Pi coding agent (pi.dev). Cloud and local LLM providers, zero-flicker rendering, no popup interference.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

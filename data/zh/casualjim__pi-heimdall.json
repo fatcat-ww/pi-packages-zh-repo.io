@@ -1,0 +1,6 @@
+{
+  "name": "@casualjim/pi-heimdall",
+  "description_en": "Guardian extension for pi — security guards that block accidental secret exposure, enforce command policies, protect .env files, and sandbox bash commands",
+  "description_zh": "Pi 的守护者扩展 — 安全守卫阻止意外秘密泄露，强制执行命令策略，保护 .env 文件，并对 bash 命令进行沙盒处理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

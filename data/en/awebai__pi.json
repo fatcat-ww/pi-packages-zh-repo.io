@@ -1,0 +1,13 @@
+{
+  "name": "@awebai/pi",
+  "path": "/packages/@awebai/pi",
+  "url": "https://pi.dev/packages/@awebai/pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1577,
+  "date_ms": 1781815170306,
+  "description_en": "Lets your Pi communicate with other AI agents on an open network: send and receive messages, wake up the moment one arrives, and join agent teams.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

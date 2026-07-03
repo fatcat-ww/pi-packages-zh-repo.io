@@ -1,0 +1,13 @@
+{
+  "name": "pi-cavallo",
+  "path": "/packages/pi-cavallo",
+  "url": "https://pi.dev/packages/pi-cavallo",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 65,
+  "date_ms": 1779465178163,
+  "description_en": "Generate and edit video in pi using Alibaba HappyHorse models (I2V, T2V, R2V, Video-Edit).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

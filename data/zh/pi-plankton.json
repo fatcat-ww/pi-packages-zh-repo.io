@@ -1,0 +1,6 @@
+{
+  "name": "pi-plankton",
+  "description_en": "A fork of alexfazio/plankton that provides a Pi-exclusive extension for root-aware code quality enforcement.",
+  "description_zh": "alexfazio/plankton 的一个分支，为 Pi 提供具有根感知代码质量执行的专属扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

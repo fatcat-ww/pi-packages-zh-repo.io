@@ -1,0 +1,13 @@
+{
+  "name": "@nukcole-xinluo9510/pi-extension-guy",
+  "path": "/packages/@nukcole-xinluo9510/pi-extension-guy",
+  "url": "https://pi.dev/packages/@nukcole-xinluo9510/pi-extension-guy",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 88,
+  "date_ms": 1782405824872,
+  "description_en": "Pi extension — a control panel to hot enable/disable your local extensions by typing /extensions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

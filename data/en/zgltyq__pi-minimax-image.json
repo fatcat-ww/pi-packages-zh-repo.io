@@ -1,0 +1,13 @@
+{
+  "name": "@zgltyq/pi-minimax-image",
+  "path": "/packages/@zgltyq/pi-minimax-image",
+  "url": "https://pi.dev/packages/@zgltyq/pi-minimax-image",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 87,
+  "date_ms": 1780043625740,
+  "description_en": "Fallback image understanding for models without native vision support - provides understand_image tool via MiniMax API",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

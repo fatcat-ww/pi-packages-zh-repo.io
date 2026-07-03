@@ -1,0 +1,13 @@
+{
+  "name": "pi-task-tracker",
+  "path": "/packages/pi-task-tracker",
+  "url": "https://pi.dev/packages/pi-task-tracker",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782998598125,
+  "description_en": "Session-scoped task tracking extension for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

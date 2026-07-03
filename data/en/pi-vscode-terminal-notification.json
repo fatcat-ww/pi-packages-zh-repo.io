@@ -1,0 +1,11 @@
+{
+  "name": "pi-vscode-terminal-notification",
+  "path": "/packages/pi-vscode-terminal-notification",
+  "url": "https://pi.dev/packages/pi-vscode-terminal-notification",
+  "types": "",
+  "type_list": [],
+  "downloads": 39,
+  "date_ms": 1770387116452,
+  "description_en": "Pi extension for VS Code terminal notifications when Pi finishes a turn.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

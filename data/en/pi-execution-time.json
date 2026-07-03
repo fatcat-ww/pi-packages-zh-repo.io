@@ -1,0 +1,13 @@
+{
+  "name": "pi-execution-time",
+  "path": "/packages/pi-execution-time",
+  "url": "https://pi.dev/packages/pi-execution-time",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 403,
+  "date_ms": 1782200861641,
+  "description_en": "Pi extension that shows prompt execution time in the footer while the agent works.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

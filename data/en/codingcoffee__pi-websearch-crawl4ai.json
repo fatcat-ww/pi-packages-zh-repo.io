@@ -1,0 +1,13 @@
+{
+  "name": "@codingcoffee/pi-websearch-crawl4ai",
+  "path": "/packages/@codingcoffee/pi-websearch-crawl4ai",
+  "url": "https://pi.dev/packages/@codingcoffee/pi-websearch-crawl4ai",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 111,
+  "date_ms": 1777230895617,
+  "description_en": "a pi extension to let your LLM crawl & see the web",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@rsrini/pi-headroom",
+  "description_en": "Headroom proxy extension for pi-coding-agent - routes requests through local Headroom compression proxy for 30-60% token savings, with CCR retrieval support",
+  "description_zh": "pi-coding-agent 的 Headroom 代理扩展 — 通过本地 Headroom 压缩代理路由请求，实现 30-60% 的令牌节省，支持 CCR 检索",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

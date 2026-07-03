@@ -1,0 +1,13 @@
+{
+  "name": "@odinlayer/pi-statusbar",
+  "path": "/packages/@odinlayer/pi-statusbar",
+  "url": "https://pi.dev/packages/@odinlayer/pi-statusbar",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782787201971,
+  "description_en": "Footer / statusline extension for pi, by odinlayer. Shows model + effort, CWD, context usage, live token rate, and session cost.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

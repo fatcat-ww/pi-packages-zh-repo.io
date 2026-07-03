@@ -1,0 +1,6 @@
+{
+  "name": "pi-holdpty",
+  "description_en": "Detached PTY sessions with regex watcher, exit notification, NDJSON events, ownership tracking, and Pi extension wiring. Fork of holdpty.",
+  "description_zh": "具有正则表达式监视器、退出通知、NDJSON 事件、所有权跟踪和 Pi 扩展连接的分离式 PTY 会话。holdpty 的分支",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

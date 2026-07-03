@@ -1,0 +1,13 @@
+{
+  "name": "@dhruv2mars/pi-queue",
+  "path": "/packages/@dhruv2mars/pi-queue",
+  "url": "https://pi.dev/packages/@dhruv2mars/pi-queue",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 79,
+  "date_ms": 1777974743368,
+  "description_en": "Advanced FIFO message queue and steering for pi — queue follow-ups while the agent works",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

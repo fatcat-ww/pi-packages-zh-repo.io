@@ -1,0 +1,14 @@
+{
+  "name": "pi-agent-memory",
+  "path": "/packages/pi-agent-memory",
+  "url": "https://pi.dev/packages/pi-agent-memory",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 177,
+  "date_ms": 1776360773044,
+  "description_en": "Persistent memory for pi-agents, powered by claude-mem (55k+ stars). Cross-session, cross-engine memory with hybrid search.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

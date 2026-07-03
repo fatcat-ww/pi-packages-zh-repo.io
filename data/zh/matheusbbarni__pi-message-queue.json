@@ -1,0 +1,6 @@
+{
+  "name": "@matheusbbarni/pi-message-queue",
+  "description_en": "A Pi extension for queueing user messages and sending them one after another.",
+  "description_zh": "Pi 扩展，用于排队用户消息并逐一发送",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

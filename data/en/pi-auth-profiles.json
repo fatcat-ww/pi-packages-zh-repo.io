@@ -1,0 +1,13 @@
+{
+  "name": "pi-auth-profiles",
+  "path": "/packages/pi-auth-profiles",
+  "url": "https://pi.dev/packages/pi-auth-profiles",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 49,
+  "date_ms": 1773868809981,
+  "description_en": "Auth profile switching for pi — save and switch between named credential profiles via slash commands",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

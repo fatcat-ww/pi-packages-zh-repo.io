@@ -1,0 +1,11 @@
+{
+  "name": "@e9n/pi-webserver",
+  "path": "/packages/@e9n/pi-webserver",
+  "url": "https://pi.dev/packages/@e9n/pi-webserver",
+  "types": "",
+  "type_list": [],
+  "downloads": 79,
+  "date_ms": 1777233145022,
+  "description_en": "Shared HTTP server for pi — authenticated web host with extension mount points",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

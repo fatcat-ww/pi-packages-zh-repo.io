@@ -1,0 +1,6 @@
+{
+  "name": "pi-icarus-hook",
+  "description_en": "Thin Pi lifecycle bridge to local Hermes/Icarus Memory OS hooks and tools",
+  "description_zh": "Pi 到本地 Hermes/Icarus Memory 钩子和工具的薄生命周期桥接",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

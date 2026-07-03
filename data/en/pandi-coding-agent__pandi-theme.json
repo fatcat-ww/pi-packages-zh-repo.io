@@ -1,0 +1,13 @@
+{
+  "name": "@pandi-coding-agent/pandi-theme",
+  "path": "/packages/@pandi-coding-agent/pandi-theme",
+  "url": "https://pi.dev/packages/@pandi-coding-agent/pandi-theme",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 0,
+  "date_ms": 1783061699526,
+  "description_en": "Pi theme package with Panda Syntax dark and light themes, the visual companion to the Pandi mascot.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

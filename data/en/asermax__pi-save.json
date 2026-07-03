@@ -1,0 +1,13 @@
+{
+  "name": "@asermax/pi-save",
+  "path": "/packages/@asermax/pi-save",
+  "url": "https://pi.dev/packages/@asermax/pi-save",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 73,
+  "date_ms": 1778441607235,
+  "description_en": "Stash and restore your Pi prompt via alt+s",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

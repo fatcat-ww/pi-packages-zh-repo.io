@@ -1,0 +1,11 @@
+{
+  "name": "@jdiamond/pi-git",
+  "path": "/packages/@jdiamond/pi-git",
+  "url": "https://pi.dev/packages/@jdiamond/pi-git",
+  "types": "",
+  "type_list": [],
+  "downloads": 268,
+  "date_ms": 1780813245472,
+  "description_en": "Review-gated git/GitHub tools for pi. Every action that creates or publishes content shows a review UI before executing.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

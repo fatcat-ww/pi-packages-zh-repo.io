@@ -1,0 +1,6 @@
+{
+  "name": "@taylorsatula/pi-hud",
+  "description_en": "Ambient HUD injected into the model's context on every LLM call. Live briefing notes (time, context budget, git, cwd) that refresh as assistant messages complete — kept off the transcript and out of the user's view.",
+  "description_zh": "注入到每个 LLM 调用模型上下文中的环境 HUD。实时简报笔记（时间、上下文预算、git、cwd）在助手消息完成时刷新 — 保留在转录之外且不在用户视图中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

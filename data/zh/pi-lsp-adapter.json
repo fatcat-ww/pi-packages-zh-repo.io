@@ -1,0 +1,6 @@
+{
+  "name": "pi-lsp-adapter",
+  "description_en": "Pi extension that gives coding agents Language Server Protocol tools for diagnostics, hover, definitions, references, and symbol search",
+  "description_zh": "为编码智能体提供语言服务器协议工具的 Pi 扩展，用于诊断、悬停、定义、引用和符号搜索",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

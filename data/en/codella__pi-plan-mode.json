@@ -1,0 +1,13 @@
+{
+  "name": "@codella/pi-plan-mode",
+  "path": "/packages/@codella/pi-plan-mode",
+  "url": "https://pi.dev/packages/@codella/pi-plan-mode",
+  "types": "prompt",
+  "type_list": [
+    "prompt"
+  ],
+  "downloads": 153,
+  "date_ms": 1779829188530,
+  "description_en": "Compatibility package renamed to @codella/pi-prompt-plan.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

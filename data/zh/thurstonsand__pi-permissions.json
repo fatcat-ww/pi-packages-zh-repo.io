@@ -1,0 +1,6 @@
+{
+  "name": "@thurstonsand/pi-permissions",
+  "description_en": "Pi extension package for user, project, and package-level tool permission hooks",
+  "description_zh": "用于用户、项目和包级别工具权限钩子的 Pi 扩展包。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

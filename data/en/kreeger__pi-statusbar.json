@@ -1,0 +1,13 @@
+{
+  "name": "@kreeger/pi-statusbar",
+  "path": "/packages/@kreeger/pi-statusbar",
+  "url": "https://pi.dev/packages/@kreeger/pi-statusbar",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 84,
+  "date_ms": 1781812917344,
+  "description_en": "A configurable statusbar footer for the pi-coding-agent TUI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

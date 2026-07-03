@@ -1,0 +1,13 @@
+{
+  "name": "pi-better-openai",
+  "path": "/packages/pi-better-openai",
+  "url": "https://pi.dev/packages/pi-better-openai",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 760,
+  "date_ms": 1781336541729,
+  "description_en": "Personal pi extension that improves OpenAI with fast mode, usage stats, and footer polish.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

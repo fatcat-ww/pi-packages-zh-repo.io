@@ -1,0 +1,13 @@
+{
+  "name": "@amaster.ai/pi-lark",
+  "path": "/packages/@amaster.ai/pi-lark",
+  "url": "https://pi.dev/packages/@amaster.ai/pi-lark",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1265,
+  "date_ms": 1782723727641,
+  "description_en": "Pi extension for Lark/Feishu workspace — calendar, docs, drive, sheets, tasks, mail and more via lark-cli.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

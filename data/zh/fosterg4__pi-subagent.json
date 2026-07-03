@@ -1,0 +1,6 @@
+{
+  "name": "@fosterg4/pi-subagent",
+  "description_en": "Delegate tasks to specialized subagents with isolated context windows, structured JSON handoff, contract schemas, and live TUI streaming",
+  "description_zh": "将任务委托给具有隔离上下文窗口、结构化 JSON 交接、合同模式和实时 TUI 流的专业子代理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

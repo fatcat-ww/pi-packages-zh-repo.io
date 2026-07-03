@@ -1,0 +1,6 @@
+{
+  "name": "@ifi/pi-web-remote",
+  "description_en": "Pi extension: /remote command for sharing sessions via web UI.",
+  "description_zh": "Pi 扩展：通过 Web UI 共享会话的 /remote 命令。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

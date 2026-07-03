@@ -1,0 +1,6 @@
+{
+  "name": "pi-agent-shell",
+  "description_en": "High-performance interactive shell extension for pi — OS-level read-block detection gives agents a single turn() primitive with no polling or timing heuristics",
+  "description_zh": "pi 的高性能交互式 shell 扩展 — OS 级别读取阻塞检测为代理提供单个 turn() 原语，无需轮询或时间启发式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

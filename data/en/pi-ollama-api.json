@@ -1,0 +1,13 @@
+{
+  "name": "pi-ollama-api",
+  "path": "/packages/pi-ollama-api",
+  "url": "https://pi.dev/packages/pi-ollama-api",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 637,
+  "date_ms": 1780150173378,
+  "description_en": "Ollama Cloud provider extension for Pi — connect to Ollama Cloud models via the OpenAI-compatible API",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

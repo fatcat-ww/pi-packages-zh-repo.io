@@ -1,0 +1,13 @@
+{
+  "name": "pi-nvim",
+  "path": "/packages/pi-nvim",
+  "url": "https://pi.dev/packages/pi-nvim",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 956,
+  "date_ms": 1781552661609,
+  "description_en": "Bridge between pi coding agent and Neovim",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

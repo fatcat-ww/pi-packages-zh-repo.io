@@ -1,0 +1,14 @@
+{
+  "name": "pi-rules",
+  "path": "/packages/pi-rules",
+  "url": "https://pi.dev/packages/pi-rules",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 210,
+  "date_ms": 1780317634645,
+  "description_en": "PI extension that injects markdown rules for any pi tool, including custom registered tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

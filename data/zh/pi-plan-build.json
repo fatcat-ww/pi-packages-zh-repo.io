@@ -1,0 +1,6 @@
+{
+  "name": "pi-plan-build",
+  "description_en": "Plan/Build mode toggle for pi CLI — opencode-style read-only plan ↔ full build",
+  "description_zh": "pi CLI 的计划/构建模式切换 — opencode 样式的只读计划 ↔ 完整构建",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

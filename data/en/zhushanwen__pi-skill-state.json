@@ -1,0 +1,14 @@
+{
+  "name": "@zhushanwen/pi-skill-state",
+  "path": "/packages/@zhushanwen/pi-skill-state",
+  "url": "https://pi.dev/packages/@zhushanwen/pi-skill-state",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 299,
+  "date_ms": 1780402553941,
+  "description_en": "Automatic skill execution tracker for Pi — state-machine driven skill lifecycle management.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

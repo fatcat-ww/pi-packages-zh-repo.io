@@ -1,0 +1,13 @@
+{
+  "name": "@akepka/pi-cursor-cli-provider",
+  "path": "/packages/@akepka/pi-cursor-cli-provider",
+  "url": "https://pi.dev/packages/@akepka/pi-cursor-cli-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 400,
+  "date_ms": 1781788429914,
+  "description_en": "Cursor CLI provider extension for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

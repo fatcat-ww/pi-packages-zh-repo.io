@@ -1,0 +1,6 @@
+{
+  "name": "@aizigao/pi-proxy-fetch",
+  "description_en": "Pi extension package that routes globalThis.fetch through direct, proxy, or fallback behavior based on hostname rules.",
+  "description_zh": "Pi 扩展包，根据主机名规则将 globalThis.fetch 路由到直接、代理或回退行为。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

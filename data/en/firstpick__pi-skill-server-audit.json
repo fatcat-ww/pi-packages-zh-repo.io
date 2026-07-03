@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-server-audit",
+  "path": "/packages/@firstpick/pi-skill-server-audit",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-server-audit",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 570,
+  "date_ms": 1780954627058,
+  "description_en": "Agents should invoke this skill for Linux server security reviews, SSH hardening, firewall/open-port audits, user/permission checks, exposed services, or host hardening requests. Produces severity-rated findings and practical remediation steps.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

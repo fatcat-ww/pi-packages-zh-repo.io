@@ -1,0 +1,13 @@
+{
+  "name": "pi-hashline-readmap",
+  "path": "/packages/pi-hashline-readmap",
+  "url": "https://pi.dev/packages/pi-hashline-readmap",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2493,
+  "date_ms": 1781897121633,
+  "description_en": "Unified pi extension: hash-anchored read/edit/grep, structural code maps, AST-grep, file exploration (ls/find), and bash output compression",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

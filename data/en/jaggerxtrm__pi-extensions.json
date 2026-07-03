@@ -1,0 +1,13 @@
+{
+  "name": "@jaggerxtrm/pi-extensions",
+  "path": "/packages/@jaggerxtrm/pi-extensions",
+  "url": "https://pi.dev/packages/@jaggerxtrm/pi-extensions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 428,
+  "date_ms": 1780794671416,
+  "description_en": "Unified Pi extension entrypoint for xtrm-managed extensions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

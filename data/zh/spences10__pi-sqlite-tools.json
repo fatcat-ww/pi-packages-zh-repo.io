@@ -1,0 +1,6 @@
+{
+  "name": "@spences10/pi-sqlite-tools",
+  "description_en": "SQLite safety workflow reminder that steers Pi agents to use gated mcp-sqlite-tools instead of raw sqlite3",
+  "description_zh": "SQLite 安全工作流提醒，引导 Pi 代理使用受控的 mcp-sqlite-tools 而不是原始的 sqlite3",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

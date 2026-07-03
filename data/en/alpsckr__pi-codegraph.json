@@ -1,0 +1,11 @@
+{
+  "name": "@alpsckr/pi-codegraph",
+  "path": "/packages/@alpsckr/pi-codegraph",
+  "url": "https://pi.dev/packages/@alpsckr/pi-codegraph",
+  "types": "",
+  "type_list": [],
+  "downloads": 77,
+  "date_ms": 1782383761141,
+  "description_en": "Pi native extension for CodeGraph tools and indexing commands.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

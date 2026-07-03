@@ -1,0 +1,13 @@
+{
+  "name": "@pi-stef/pair",
+  "path": "/packages/@pi-stef/pair",
+  "url": "https://pi.dev/packages/@pi-stef/pair",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1220,
+  "date_ms": 1782081831740,
+  "description_en": "Pi extension for plan/review/implement workflows using pi-subagents for reviewer spawning.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

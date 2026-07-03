@@ -1,0 +1,6 @@
+{
+  "name": "pi-extension-observational-memory",
+  "description_en": "Observational-memory compaction strategy for pi with observer/reflector token thresholds",
+  "description_zh": "Pi 的观察记忆压缩策略，带有观察者/反射器 token 阈值",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-sre-mode",
+  "path": "/packages/pi-sre-mode",
+  "url": "https://pi.dev/packages/pi-sre-mode",
+  "types": "",
+  "type_list": [],
+  "downloads": 63,
+  "date_ms": 1773311798719,
+  "description_en": "Pi-native incident investigation workflow with support for private overlays.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-agentmd",
+  "description_en": "Prompt template: scan a codebase and generate comprehensive AGENTS.md documentation",
+  "description_zh": "提示模板：扫描代码库并生成全面的 AGENTS.md 文档",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

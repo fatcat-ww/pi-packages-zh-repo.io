@@ -1,0 +1,6 @@
+{
+  "name": "@barlevalon/plannotator-compound-skill",
+  "description_en": "Analyze a user's Plannotator plan archive to extract denial patterns, feedback taxonomy, evolution over time, and actionable prompt improvements — then produce a polished HTML dashboard report. Falls back to Claude Co...",
+  "description_zh": "分析用户的 Plannotator 计划存档，以提取拒绝模式、反馈分类法、时间演变和可操作的提示改进 — 然后生成精美的 HTML 仪表板报告。回退到 Claude Co...",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

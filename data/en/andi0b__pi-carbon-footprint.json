@@ -1,0 +1,13 @@
+{
+  "name": "@andi0b/pi-carbon-footprint",
+  "path": "/packages/@andi0b/pi-carbon-footprint",
+  "url": "https://pi.dev/packages/@andi0b/pi-carbon-footprint",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 246,
+  "date_ms": 1781705396027,
+  "description_en": "Show EcoLogits CO₂ and water estimates for your current Pi session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

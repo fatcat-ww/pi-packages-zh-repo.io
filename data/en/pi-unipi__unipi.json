@@ -1,0 +1,13 @@
+{
+  "name": "@pi-unipi/unipi",
+  "path": "/packages/@pi-unipi/unipi",
+  "url": "https://pi.dev/packages/@pi-unipi/unipi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1393,
+  "date_ms": 1782924735899,
+  "description_en": "All-in-one extension suite for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

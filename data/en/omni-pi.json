@@ -1,0 +1,11 @@
+{
+  "name": "omni-pi",
+  "path": "/packages/omni-pi",
+  "url": "https://pi.dev/packages/omni-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 270,
+  "date_ms": 1777281541845,
+  "description_en": "Single-agent Pi package that interviews the user, documents the spec, and implements work in bounded slices.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

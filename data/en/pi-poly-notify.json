@@ -1,0 +1,11 @@
+{
+  "name": "pi-poly-notify",
+  "path": "/packages/pi-poly-notify",
+  "url": "https://pi.dev/packages/pi-poly-notify",
+  "types": "",
+  "type_list": [],
+  "downloads": 140,
+  "date_ms": 1778173582139,
+  "description_en": "Highly configurable desktop/sound/Pushover notifications when Pi agent turn finishes and took longer than a definable threshold",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

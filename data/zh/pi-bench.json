@@ -1,0 +1,6 @@
+{
+  "name": "pi-bench",
+  "description_en": "LLM benchmark toolkit for pi coding agent. Probes every available model with real streaming API calls and ranks by latency, cost, and output quality. Provides curated model chain and blacklist for smart model selection in pi-recap and other extensions.",
+  "description_zh": "pi 编码代理的 LLM 基准测试工具包。使用真实的流式 API 调用探测每个可用模型，并根据延迟、成本和输出质量进行排名。为 pi-recap 和其他扩展中的智能模型选择提供精选的模型链和黑名单",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

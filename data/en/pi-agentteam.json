@@ -1,0 +1,11 @@
+{
+  "name": "pi-agentteam",
+  "path": "/packages/pi-agentteam",
+  "url": "https://pi.dev/packages/pi-agentteam",
+  "types": "",
+  "type_list": [],
+  "downloads": 546,
+  "date_ms": 1780563064157,
+  "description_en": "Multi-agent team orchestration for pi — leader-coordinator pattern with researcher, planner, and implementer teammates in tmux panes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

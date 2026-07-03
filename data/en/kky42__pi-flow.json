@@ -1,0 +1,13 @@
+{
+  "name": "@kky42/pi-flow",
+  "path": "/packages/@kky42/pi-flow",
+  "url": "https://pi.dev/packages/@kky42/pi-flow",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 932,
+  "date_ms": 1783078330172,
+  "description_en": "Multi-backend subagents and dynamic workflow orchestration for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

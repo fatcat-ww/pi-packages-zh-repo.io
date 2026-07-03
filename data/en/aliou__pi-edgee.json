@@ -1,0 +1,13 @@
+{
+  "name": "@aliou/pi-edgee",
+  "path": "/packages/@aliou/pi-edgee",
+  "url": "https://pi.dev/packages/@aliou/pi-edgee",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782732469383,
+  "description_en": "Pi provider extension for [Edgee](https://www.edgee.ai), the Agent Gateway that compresses, routes, and observes LLM requests.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@narumitw/pi-caffeinate",
+  "path": "/packages/@narumitw/pi-caffeinate",
+  "url": "https://pi.dev/packages/@narumitw/pi-caffeinate",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3359,
+  "date_ms": 1782712229487,
+  "description_en": "Pi extension that keeps the computer awake while the agent is running.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

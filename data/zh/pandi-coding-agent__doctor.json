@@ -1,0 +1,6 @@
+{
+  "name": "@pandi-coding-agent/doctor",
+  "description_en": "Pi extension that adds /doctor: an in-session run of the pi-dynamic-workflows environment check (scripts/doctor.mjs).",
+  "description_zh": "Pi 扩展，添加 /doctor 命令：在会话中运行 pi-dynamic-workflows 环境检查（scripts/doctor.mjs）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

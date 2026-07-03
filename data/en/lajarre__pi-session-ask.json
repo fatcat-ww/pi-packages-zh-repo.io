@@ -1,0 +1,11 @@
+{
+  "name": "@lajarre/pi-session-ask",
+  "path": "/packages/@lajarre/pi-session-ask",
+  "url": "https://pi.dev/packages/@lajarre/pi-session-ask",
+  "types": "",
+  "type_list": [],
+  "downloads": 42,
+  "date_ms": 1774999428665,
+  "description_en": "Ask questions about any Pi session (by path, UUID, or name) via an isolated subagent, keeping current context clean.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

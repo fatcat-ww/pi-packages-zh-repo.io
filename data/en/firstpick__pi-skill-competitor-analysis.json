@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-competitor-analysis",
+  "path": "/packages/@firstpick/pi-skill-competitor-analysis",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-competitor-analysis",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 384,
+  "date_ms": 1780954587015,
+  "description_en": "Agents should invoke this skill when comparing competing products, services, libraries, tools, vendors, or approaches for market/product positioning, feature matrices, strategic trade-offs, pricing, adoption, or differentiation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

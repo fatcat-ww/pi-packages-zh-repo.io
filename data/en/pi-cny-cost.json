@@ -1,0 +1,13 @@
+{
+  "name": "pi-cny-cost",
+  "path": "/packages/pi-cny-cost",
+  "url": "https://pi.dev/packages/pi-cny-cost",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 64,
+  "date_ms": 1779680355153,
+  "description_en": "Pi extension to display model costs in CNY (Chinese Yuan)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

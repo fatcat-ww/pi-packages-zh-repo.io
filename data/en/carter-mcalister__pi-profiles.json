@@ -1,0 +1,13 @@
+{
+  "name": "@carter-mcalister/pi-profiles",
+  "path": "/packages/@carter-mcalister/pi-profiles",
+  "url": "https://pi.dev/packages/@carter-mcalister/pi-profiles",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 67,
+  "date_ms": 1778371344453,
+  "description_en": "Session-scoped profile loader for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

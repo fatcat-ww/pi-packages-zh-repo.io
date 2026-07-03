@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-kokoro-tts",
+  "path": "/packages/@arvoretech/pi-kokoro-tts",
+  "url": "https://pi.dev/packages/@arvoretech/pi-kokoro-tts",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 331,
+  "date_ms": 1782217142611,
+  "description_en": "PI extension that speaks the assistant's responses out loud using a Kokoro-FastAPI text-to-speech endpoint",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

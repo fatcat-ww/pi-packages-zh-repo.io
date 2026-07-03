@@ -1,0 +1,6 @@
+{
+  "name": "pi-figma-remote-auth",
+  "description_en": "Pi extension that authenticates and configures Figma Remote MCP for pi-mcp-adapter.",
+  "description_zh": "Pi 扩展，为 pi-mcp-adapter 认证和配置 Figma Remote MCP",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

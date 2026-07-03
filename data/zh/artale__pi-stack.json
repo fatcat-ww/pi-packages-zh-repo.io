@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-stack",
+  "description_en": "Local AI infrastructure generator. Docker compose for Ollama, n8n, Flowise, Supabase, Neo4j, and more.",
+  "description_zh": "本地AI基础设施生成器。Ollama、n8n、Flowise、Supabase、Neo4j等的Docker compose。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-code-review",
+  "description_en": "A Pi extension that provides automated, language-aware code review after the agent writes or modifies files.",
+  "description_zh": "Pi 扩展，在代理编写或修改文件后提供自动化的、语言感知的代码审查",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

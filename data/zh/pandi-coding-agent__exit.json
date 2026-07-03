@@ -1,0 +1,6 @@
+{
+  "name": "@pandi-coding-agent/exit",
+  "description_en": "Pi extension that adds a Claude-style /exit command as an alias for the native /quit (clean shutdown).",
+  "description_zh": "Pi 扩展，添加 Claude 风格的 /exit 命令作为原生 /quit（正常关闭）的别名。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

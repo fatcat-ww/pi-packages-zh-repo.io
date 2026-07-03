@@ -1,0 +1,13 @@
+{
+  "name": "pi-proof",
+  "path": "/packages/pi-proof",
+  "url": "https://pi.dev/packages/pi-proof",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 47,
+  "date_ms": 1776553653006,
+  "description_en": "Proof-first Pi extension that uses a red-green-refactor cycle when behavior should be specified in tests first, with built-in parsing for popular test frameworks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

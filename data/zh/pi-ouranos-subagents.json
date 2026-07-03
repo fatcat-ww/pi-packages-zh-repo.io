@@ -1,0 +1,6 @@
+{
+  "name": "pi-ouranos-subagents",
+  "description_en": "Delegate tasks to a fleet of 9 specialized subagents with isolated context. Supports single, parallel, and chained execution modes.",
+  "description_zh": "将任务委派给具有隔离上下文的 9 个专业化子代理舰队。支持单次、并行和链式执行模式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

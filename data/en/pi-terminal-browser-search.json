@@ -1,0 +1,13 @@
+{
+  "name": "pi-terminal-browser-search",
+  "path": "/packages/pi-terminal-browser-search",
+  "url": "https://pi.dev/packages/pi-terminal-browser-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 29,
+  "date_ms": 1778089156911,
+  "description_en": "Pi Harness /search extension with system-default and multi-browser support",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

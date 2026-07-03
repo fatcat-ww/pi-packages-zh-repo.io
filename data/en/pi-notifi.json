@@ -1,0 +1,13 @@
+{
+  "name": "pi-notifi",
+  "path": "/packages/pi-notifi",
+  "url": "https://pi.dev/packages/pi-notifi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 129,
+  "date_ms": 1779582454262,
+  "description_en": "Pi extension that sends focus-aware desktop notifications when pi finishes a task.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

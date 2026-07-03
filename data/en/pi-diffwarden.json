@@ -1,0 +1,11 @@
+{
+  "name": "pi-diffwarden",
+  "path": "/packages/pi-diffwarden",
+  "url": "https://pi.dev/packages/pi-diffwarden",
+  "types": "",
+  "type_list": [],
+  "downloads": 594,
+  "date_ms": 1783045066342,
+  "description_en": "Diffwarden Pi package: native /dw commands plus bundled skill discovery.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

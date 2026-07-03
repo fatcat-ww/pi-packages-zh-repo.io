@@ -1,0 +1,13 @@
+{
+  "name": "@shog-lab/pi-subagent",
+  "path": "/packages/@shog-lab/pi-subagent",
+  "url": "https://pi.dev/packages/@shog-lab/pi-subagent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 47,
+  "date_ms": 1783059898098,
+  "description_en": "Spawn focused sub-pi processes from inside pi. Registers a `spawn_subagent` tool: agent calls it with cwd + prompt, gets back the sub-agent's response. Fire-and-forget child pi via spawnPi. Previously bundled in @shog-lab/pi-toolkit 0.2.x.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

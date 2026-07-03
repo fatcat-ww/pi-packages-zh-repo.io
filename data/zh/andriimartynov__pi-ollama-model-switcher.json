@@ -1,0 +1,6 @@
+{
+  "name": "@andriimartynov/pi-ollama-model-switcher",
+  "description_en": "Monitors and manages Ollama model instances within the pi coding agent harness.",
+  "description_zh": "监控和管理 Pi 编码代理工具中的 Ollama 模型实例",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

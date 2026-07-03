@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-weigh",
+  "path": "/packages/@artale/pi-weigh",
+  "url": "https://pi.dev/packages/@artale/pi-weigh",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 93,
+  "date_ms": 1776776885585,
+  "description_en": "Weigh your context. Visual HTML report of system prompt token budget — per-tool breakdown, section analysis, health indicator. Zero dependencies.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

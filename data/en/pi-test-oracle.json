@@ -1,0 +1,11 @@
+{
+  "name": "pi-test-oracle",
+  "path": "/packages/pi-test-oracle",
+  "url": "https://pi.dev/packages/pi-test-oracle",
+  "types": "",
+  "type_list": [],
+  "downloads": 672,
+  "date_ms": 1781691122592,
+  "description_en": "Automated TDD oracle that generates minimal failing tests (RED), tracks state to GREEN, and suggests refactors for the Pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@wierdbytes/pi-facelift",
+  "path": "/packages/@wierdbytes/pi-facelift",
+  "url": "https://pi.dev/packages/@wierdbytes/pi-facelift",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 518,
+  "date_ms": 1782143189620,
+  "description_en": "Cosmetic facelift for built-in pi tool output — open-right rounded frames, syntax-highlighted reads, status-aware bash summaries, find/grep.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

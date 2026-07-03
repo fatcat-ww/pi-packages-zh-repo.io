@@ -1,0 +1,13 @@
+{
+  "name": "@pi-orca/profiles",
+  "path": "/packages/@pi-orca/profiles",
+  "url": "https://pi.dev/packages/@pi-orca/profiles",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 251,
+  "date_ms": 1779854978424,
+  "description_en": "Named extension sets with CLI switcher",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

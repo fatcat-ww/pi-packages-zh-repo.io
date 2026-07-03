@@ -1,0 +1,6 @@
+{
+  "name": "pi-guard",
+  "description_en": "General-purpose permission system for pi tools, handling permissions for bash and file tools with extensible matchers for custom tools.",
+  "description_zh": "适用于 pi 工具的通用权限系统，处理 bash 和文件工具的权限，并为自定义工具提供可扩展的匹配器。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

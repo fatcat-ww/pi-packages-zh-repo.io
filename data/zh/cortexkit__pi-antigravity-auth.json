@@ -1,0 +1,6 @@
+{
+  "name": "@cortexkit/pi-antigravity-auth",
+  "description_en": "Google Antigravity OAuth extension for pi - access Gemini 3 and Claude 4.6 using Google credentials",
+  "description_zh": "pi的Google Antigravity OAuth扩展 - 使用Google凭据访问Gemini 3和Claude 4.6",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-landstrip",
+  "description_en": "Landlock-based sandboxing for pi with interactive permission prompts",
+  "description_zh": "基于 Landlock 的 pi 沙盒，具有交互式权限提示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

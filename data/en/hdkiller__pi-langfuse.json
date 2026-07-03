@@ -1,0 +1,13 @@
+{
+  "name": "@hdkiller/pi-langfuse",
+  "path": "/packages/@hdkiller/pi-langfuse",
+  "url": "https://pi.dev/packages/@hdkiller/pi-langfuse",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 188,
+  "date_ms": 1777215718156,
+  "description_en": "Production-grade Langfuse observability for Pi. Tracks prompts, turns, tools, and streaming assistant responses with native trace hierarchies, token usage, and cost monitoring.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

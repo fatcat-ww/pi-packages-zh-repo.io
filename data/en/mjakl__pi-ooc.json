@@ -1,0 +1,13 @@
+{
+  "name": "@mjakl/pi-ooc",
+  "path": "/packages/@mjakl/pi-ooc",
+  "url": "https://pi.dev/packages/@mjakl/pi-ooc",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 35,
+  "date_ms": 1779476688349,
+  "description_en": "Pi extension that adds /ooc for out-of-context side questions using the current session context.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

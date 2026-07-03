@@ -1,0 +1,13 @@
+{
+  "name": "@heart-of-gold/toolkit",
+  "path": "/packages/@heart-of-gold/toolkit",
+  "url": "https://pi.dev/packages/@heart-of-gold/toolkit",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 514,
+  "date_ms": 1777223960622,
+  "description_en": "Cross-platform installer for Heart of Gold skills — works with Codex, OpenCode, Pi, Claude Code, and more",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@qagent/pidev-package",
+  "path": "/packages/@qagent/pidev-package",
+  "url": "https://pi.dev/packages/@qagent/pidev-package",
+  "types": "",
+  "type_list": [],
+  "downloads": 447,
+  "date_ms": 1780584950571,
+  "description_en": "Let Pi QA your web app in a real browser and return evidence-backed pass/fail checks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

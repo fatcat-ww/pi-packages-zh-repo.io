@@ -1,0 +1,13 @@
+{
+  "name": "@anthnykr/pi-study-commits",
+  "path": "/packages/@anthnykr/pi-study-commits",
+  "url": "https://pi.dev/packages/@anthnykr/pi-study-commits",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 51,
+  "date_ms": 1773942969229,
+  "description_en": "Pi extension for selecting recent git commits and injecting their diffs into the conversation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

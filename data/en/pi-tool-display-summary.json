@@ -1,0 +1,13 @@
+{
+  "name": "pi-tool-display-summary",
+  "path": "/packages/pi-tool-display-summary",
+  "url": "https://pi.dev/packages/pi-tool-display-summary",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 31,
+  "date_ms": 1779295055381,
+  "description_en": "Pi extension that adds model-written user-facing display summaries to tool calls.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

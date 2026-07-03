@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-warp-tab-title",
+  "path": "/packages/@arvoretech/pi-warp-tab-title",
+  "url": "https://pi.dev/packages/@arvoretech/pi-warp-tab-title",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 405,
+  "date_ms": 1782217157235,
+  "description_en": "PI extension that lets the LLM rename the Warp terminal tab to reflect the current task focus",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

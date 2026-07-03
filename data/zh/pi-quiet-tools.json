@@ -1,0 +1,6 @@
+{
+  "name": "pi-quiet-tools",
+  "description_en": "Pi extension that automatically compacts large tool outputs before they enter the model context window, saving tokens while preserving full output as recoverable local artifacts.",
+  "description_zh": "Pi 扩展，在大型工具输出进入模型上下文窗口前自动压缩，节省 token 同时将完整输出保存为可恢复的本地工件。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

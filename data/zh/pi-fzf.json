@@ -1,0 +1,6 @@
+{
+  "name": "pi-fzf",
+  "description_en": "A [Pi](https://github.com/badlogic/pi) extension for fuzzy finding. Define commands that list candidates from any shell command, then perform actions on the selected item—fill the editor, send to the agent, or run shell commands.",
+  "description_zh": "一个用于模糊查找的 [Pi](https://github.com/badlogic/pi) 扩展。定义从任何 shell 命令列出候选对象的命令，然后对所选项目执行操作—填充编辑器、发送到代理或运行 shell 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

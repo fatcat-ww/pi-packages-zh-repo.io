@@ -1,0 +1,6 @@
+{
+  "name": "pi-lazy-extensions",
+  "description_en": "Lazy-load pi extensions on demand via a ToolSearch-style proxy tool",
+  "description_zh": "通过 ToolSearch 风格的代理工具按需延迟加载 pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

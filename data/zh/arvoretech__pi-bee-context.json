@@ -1,0 +1,6 @@
+{
+  "name": "@arvoretech/pi-bee-context",
+  "description_en": "PI extension that injects confirmed personal facts from the Bee wearable assistant into the system prompt for personalized responses",
+  "description_zh": "Pi 扩展，将 Bee 可穿戴助手确认的个人事实注入系统提示，以实现个性化响应",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

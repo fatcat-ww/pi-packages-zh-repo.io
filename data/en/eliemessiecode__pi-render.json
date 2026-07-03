@@ -1,0 +1,13 @@
+{
+  "name": "@eliemessiecode/pi-render",
+  "path": "/packages/@eliemessiecode/pi-render",
+  "url": "https://pi.dev/packages/@eliemessiecode/pi-render",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 86,
+  "date_ms": 1773827279277,
+  "description_en": "Extension for pi-coding-agent — displays interactive HTML pages in the browser and auto-saves them",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

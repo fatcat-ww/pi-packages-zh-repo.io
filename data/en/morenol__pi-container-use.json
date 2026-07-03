@@ -1,0 +1,13 @@
+{
+  "name": "@morenol/pi-container-use",
+  "path": "/packages/@morenol/pi-container-use",
+  "url": "https://pi.dev/packages/@morenol/pi-container-use",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 28,
+  "date_ms": 1779742455137,
+  "description_en": "A pi package that routes built-in coding tools through container-use environments.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

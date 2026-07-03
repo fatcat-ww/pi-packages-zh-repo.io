@@ -1,0 +1,6 @@
+{
+  "name": "cc-safety-net",
+  "description_en": "A coding agent CLI hook - block destructive git and filesystem commands before execution",
+  "description_zh": "编码代理 CLI 钩子 - 在执行前阻止破坏性的 git 和文件系统命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

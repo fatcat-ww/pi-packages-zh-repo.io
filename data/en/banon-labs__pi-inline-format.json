@@ -1,0 +1,13 @@
+{
+  "name": "@banon-labs/pi-inline-format",
+  "path": "/packages/@banon-labs/pi-inline-format",
+  "url": "https://pi.dev/packages/@banon-labs/pi-inline-format",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 104,
+  "date_ms": 1775086570405,
+  "description_en": "Strict Pi extension project with a Rust core subproject and a TypeScript extension wrapper.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

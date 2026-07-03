@@ -1,0 +1,13 @@
+{
+  "name": "@mrclrchtr/supi-flow",
+  "path": "/packages/@mrclrchtr/supi-flow",
+  "url": "https://pi.dev/packages/@mrclrchtr/supi-flow",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 514,
+  "date_ms": 1782335643891,
+  "description_en": "PI extension for spec-driven workflow (brainstorm → plan → apply → archive) with TNDM ticket coordination, 7 custom tools, and 5 auto-discovered skills",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

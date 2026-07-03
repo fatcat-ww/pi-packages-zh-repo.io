@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-stats",
+  "path": "/packages/@firstpick/pi-extension-stats",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-stats",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2624,
+  "date_ms": 1781219163611,
+  "description_en": "Token and cost usage analytics command for Pi session history.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

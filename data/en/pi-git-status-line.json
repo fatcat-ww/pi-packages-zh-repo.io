@@ -1,0 +1,13 @@
+{
+  "name": "pi-git-status-line",
+  "path": "/packages/pi-git-status-line",
+  "url": "https://pi.dev/packages/pi-git-status-line",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 65,
+  "date_ms": 1776006791393,
+  "description_en": "Shareable Pi package that extends the status line with git branch, uncommitted files, and ahead/behind counts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

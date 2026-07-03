@@ -1,0 +1,11 @@
+{
+  "name": "@e9n/pi-memory",
+  "path": "/packages/@e9n/pi-memory",
+  "url": "https://pi.dev/packages/@e9n/pi-memory",
+  "types": "",
+  "type_list": [],
+  "downloads": 33,
+  "date_ms": 1771319498219,
+  "description_en": "Persistent memory system for pi — long-term facts, daily logs, and search",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

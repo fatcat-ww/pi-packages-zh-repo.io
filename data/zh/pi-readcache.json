@@ -1,0 +1,6 @@
+{
+  "name": "pi-readcache",
+  "description_en": "🧠 Pi extension that optimizes read tool calls with replay-aware caching and compaction-safe trust reconstruction",
+  "description_zh": "🧠 Pi 扩展，通过重放感知缓存和压缩安全信任重建优化读取工具调用",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

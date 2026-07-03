@@ -1,0 +1,11 @@
+{
+  "name": "pi-tutor",
+  "path": "/packages/pi-tutor",
+  "url": "https://pi.dev/packages/pi-tutor",
+  "types": "",
+  "type_list": [],
+  "downloads": 63,
+  "date_ms": 1776627181037,
+  "description_en": "A stateful tutor package for pi that adds hint-first, track-aware teaching workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

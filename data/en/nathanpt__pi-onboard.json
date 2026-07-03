@@ -1,0 +1,11 @@
+{
+  "name": "@nathanpt/pi-onboard",
+  "path": "/packages/@nathanpt/pi-onboard",
+  "url": "https://pi.dev/packages/@nathanpt/pi-onboard",
+  "types": "",
+  "type_list": [],
+  "downloads": 823,
+  "date_ms": 1782009069460,
+  "description_en": "Pi extension for onboarding into a repository: generates AGENTS.md and a visual HTML overview.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

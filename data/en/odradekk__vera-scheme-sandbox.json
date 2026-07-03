@@ -1,0 +1,11 @@
+{
+  "name": "@odradekk/vera-scheme-sandbox",
+  "path": "/packages/@odradekk/vera-scheme-sandbox",
+  "url": "https://pi.dev/packages/@odradekk/vera-scheme-sandbox",
+  "types": "",
+  "type_list": [],
+  "downloads": 223,
+  "date_ms": 1781265955820,
+  "description_en": "Chez Scheme WASM sandbox for Vera agent — platform-independent Scheme evaluation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "pi-skill-arg-hints",
+  "path": "/packages/pi-skill-arg-hints",
+  "url": "https://pi.dev/packages/pi-skill-arg-hints",
+  "types": "extension skill prompt",
+  "type_list": [
+    "extension",
+    "skill",
+    "prompt"
+  ],
+  "downloads": 818,
+  "date_ms": 1780070476391,
+  "description_en": "Inline argument-hint placeholders for Pi skill and prompt template slash commands.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-design-patterns",
+  "path": "/packages/@firstpick/pi-skill-design-patterns",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-design-patterns",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 455,
+  "date_ms": 1780954596549,
+  "description_en": "Agents should invoke this skill when choosing patterns, designing traits/interfaces/components, deciding abstraction boundaries, evaluating dependency injection/callbacks, or comparing implementation approaches in Rust, TypeScript/React, or Django/Python.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

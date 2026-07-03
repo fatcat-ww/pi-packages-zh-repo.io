@@ -1,0 +1,13 @@
+{
+  "name": "pi-code-rollback",
+  "path": "/packages/pi-code-rollback",
+  "url": "https://pi.dev/packages/pi-code-rollback",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 56,
+  "date_ms": 1776761414811,
+  "description_en": "Claude Code-style restore for pi with automatic git-backed code snapshots and restore mode selection",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

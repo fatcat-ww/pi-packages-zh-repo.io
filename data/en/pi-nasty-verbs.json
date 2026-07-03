@@ -1,0 +1,13 @@
+{
+  "name": "pi-nasty-verbs",
+  "path": "/packages/pi-nasty-verbs",
+  "url": "https://pi.dev/packages/pi-nasty-verbs",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 38,
+  "date_ms": 1776244963220,
+  "description_en": "Replaces Pi's default 'Working...' message with some better words.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

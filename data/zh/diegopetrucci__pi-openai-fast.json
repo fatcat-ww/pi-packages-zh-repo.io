@@ -1,0 +1,6 @@
+{
+  "name": "@diegopetrucci/pi-openai-fast",
+  "description_en": "A pi extension that enables OpenAI Codex Fast mode for ChatGPT-auth GPT-5.4 and GPT-5.5 by injecting the priority service tier.",
+  "description_zh": "Pi 扩展，通过注入优先服务层为 ChatGPT-auth GPT-5.4 和 GPT-5.5 启用 OpenAI Codex 快速模式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-stuck-helper",
+  "description_en": "Detect when problem-solving degrades into unproductive loops, over-reflection, or runaway self-criticism, then stop and escalate to the user for help.",
+  "description_zh": "当问题解决演变为非生产性循环、过度反思或失控的自我批评时检测，然后停止并升级请求用户帮助。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

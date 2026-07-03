@@ -1,0 +1,6 @@
+{
+  "name": "pi-web-toolkit",
+  "description_en": "Web research toolkit for the pi coding agent. Search via SearXNG, fetch pages with scrapling, browse interactively via agent-browser, batch-read sources in parallel, and optionally fall back to Firecrawl Keyless (no API key) when a local backend fails.",
+  "description_zh": "pi 编码代理的网络研究工具。通过 SearXNG 搜索，使用 scrapling 获取页面，通过 agent-browser 交互浏览，并行批量读取源，并在本地后端失败时可选回退到 Firecrawl Keyless（无需 API 密钥）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

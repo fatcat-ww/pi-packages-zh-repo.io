@@ -1,0 +1,13 @@
+{
+  "name": "@johnnywu/pi-subagents",
+  "path": "/packages/@johnnywu/pi-subagents",
+  "url": "https://pi.dev/packages/@johnnywu/pi-subagents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1161,
+  "date_ms": 1781683098187,
+  "description_en": "Sub-agents extension for pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

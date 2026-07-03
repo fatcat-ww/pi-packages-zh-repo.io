@@ -1,0 +1,13 @@
+{
+  "name": "@victormilk/pi-droid",
+  "path": "/packages/@victormilk/pi-droid",
+  "url": "https://pi.dev/packages/@victormilk/pi-droid",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 48,
+  "date_ms": 1778903709515,
+  "description_en": "Pi Coding Agent extension that registers Factory.AI Droid models as a custom-streamSimple provider backed by a long-lived `droid exec` subprocess.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@davehardy20/pi-hashline-tools",
+  "description_en": "Pi package for hash-anchored file reading and editing (read_hashed / hashline_edit).",
+  "description_zh": "Pi 包，用于基于哈希锚点的文件读取和编辑 (read_hashed / hashline_edit)",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

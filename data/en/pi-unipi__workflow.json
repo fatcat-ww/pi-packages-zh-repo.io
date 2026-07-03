@@ -1,0 +1,13 @@
+{
+  "name": "@pi-unipi/workflow",
+  "path": "/packages/@pi-unipi/workflow",
+  "url": "https://pi.dev/packages/@pi-unipi/workflow",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1443,
+  "date_ms": 1782924728287,
+  "description_en": "Structured development workflow commands for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

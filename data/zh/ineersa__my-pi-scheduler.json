@@ -1,0 +1,6 @@
+{
+  "name": "@ineersa/my-pi-scheduler",
+  "description_en": "Scheduler extension for pi: recurring checks, one-time reminders, and the LLM-callable schedule_prompt tool.",
+  "description_zh": "Pi 的调度器扩展：定期检查、一次性提醒和 LLM 可调用的 schedule_prompt 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@aslamplr/pi-ios-notify",
+  "description_en": "Send iOS push notifications via Bark when pi completes agent turns",
+  "description_zh": "当 pi 完成代理轮次时通过 Bark 发送 iOS 推送通知",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

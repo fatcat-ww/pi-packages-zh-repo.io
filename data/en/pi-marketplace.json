@@ -1,0 +1,13 @@
+{
+  "name": "pi-marketplace",
+  "path": "/packages/pi-marketplace",
+  "url": "https://pi.dev/packages/pi-marketplace",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 334,
+  "date_ms": 1781109375256,
+  "description_en": "Pi extension for searching, auditing, and installing pi packages from npm — with security review and optional pi.dev enrichment",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

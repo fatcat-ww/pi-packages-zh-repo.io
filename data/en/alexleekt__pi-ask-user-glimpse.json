@@ -1,0 +1,13 @@
+{
+  "name": "@alexleekt/pi-ask-user-glimpse",
+  "path": "/packages/@alexleekt/pi-ask-user-glimpse",
+  "url": "https://pi.dev/packages/@alexleekt/pi-ask-user-glimpse",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 771,
+  "date_ms": 1781415111119,
+  "description_en": "Ask better questions. Get better answers. Rich native WebView dialogs for the Pi agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

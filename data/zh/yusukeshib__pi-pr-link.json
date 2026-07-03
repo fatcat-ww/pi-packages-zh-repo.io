@@ -1,0 +1,6 @@
+{
+  "name": "@yusukeshib/pi-pr-link",
+  "description_en": "Show the GitHub PR for the current branch as a clickable link in the footer.",
+  "description_zh": "在页脚显示当前分支的 GitHub PR 作为可点击链接。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

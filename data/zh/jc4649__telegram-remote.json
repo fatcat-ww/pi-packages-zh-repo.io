@@ -1,0 +1,6 @@
+{
+  "name": "@jc4649/telegram-remote",
+  "description_en": "pi coding-agent extension: lightweight Telegram remote control — configure a bot token and drive a session from anywhere. Pure outbound HTTPS, no inbound port.",
+  "description_zh": "pi coding-agent 扩展：轻量级 Telegram 远程控制 — 配置机器人令牌并从任何地方驱动会话。纯出站 HTTPS，无入站端口。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

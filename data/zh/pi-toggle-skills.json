@@ -1,0 +1,6 @@
+{
+  "name": "pi-toggle-skills",
+  "description_en": "Toggle skill visibility in pi's system prompt — flip disable-model-invocation on skills via an interactive TUI",
+  "description_zh": "在 pi 的系统提示中切换技能可见性 — 通过交互式 TUI 在技能上翻转 disable-model-invocation",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

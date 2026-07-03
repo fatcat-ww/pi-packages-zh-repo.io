@@ -1,0 +1,13 @@
+{
+  "name": "pi-flare",
+  "path": "/packages/pi-flare",
+  "url": "https://pi.dev/packages/pi-flare",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 27,
+  "date_ms": 1777068865665,
+  "description_en": "Pi custom provider extension for Cloudflare Workers AI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

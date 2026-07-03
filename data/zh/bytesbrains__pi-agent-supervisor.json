@@ -1,0 +1,6 @@
+{
+  "name": "@bytesbrains/pi-agent-supervisor",
+  "description_en": "Runtime safety net for AI agents — blocks dangerous commands, protects files, enforces rate limits, and records sessions.",
+  "description_zh": "AI 代理的运行时安全网 — 阻止危险命令、保护文件、强制执行速率限制和记录会话",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

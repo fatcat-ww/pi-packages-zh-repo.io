@@ -1,0 +1,13 @@
+{
+  "name": "pi-skills-sync",
+  "path": "/packages/pi-skills-sync",
+  "url": "https://pi.dev/packages/pi-skills-sync",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 67,
+  "date_ms": 1778155985869,
+  "description_en": "Manage pi skills via GitHub Gists",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

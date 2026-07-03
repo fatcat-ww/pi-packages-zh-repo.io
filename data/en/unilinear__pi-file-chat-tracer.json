@@ -1,0 +1,11 @@
+{
+  "name": "@unilinear/pi-file-chat-tracer",
+  "path": "/packages/@unilinear/pi-file-chat-tracer",
+  "url": "https://pi.dev/packages/@unilinear/pi-file-chat-tracer",
+  "types": "",
+  "type_list": [],
+  "downloads": 104,
+  "date_ms": 1780300392556,
+  "description_en": "Align Pi conversation tree navigation with git file-state checkpoints for safe AI exploration and rollback.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-refactoring-advisor",
+  "path": "/packages/@firstpick/pi-skill-refactoring-advisor",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-refactoring-advisor",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 397,
+  "date_ms": 1780954617822,
+  "description_en": "Agents should invoke this skill for refactors, code smells, migrations, duplication removal, module splitting, API cleanup, or restructuring plans. Emphasizes small safe steps, behavior preservation, and verification after each change.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

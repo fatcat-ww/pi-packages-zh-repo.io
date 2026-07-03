@@ -1,0 +1,6 @@
+{
+  "name": "pi-auto-router",
+  "description_en": "pi-auto-router: auto-router and failover extension for Pi coding agent with multi-provider routing, budget-aware policies, and same-request failover",
+  "description_zh": "pi-auto-router: Pi 编码代理的自动路由器和故障转移扩展，具有多提供商路由、预算感知策略和相同请求故障转移",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@blackbelt-technology/pi-anthropic-messages",
+  "path": "/packages/@blackbelt-technology/pi-anthropic-messages",
+  "url": "https://pi.dev/packages/@blackbelt-technology/pi-anthropic-messages",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 395,
+  "date_ms": 1781794247337,
+  "description_en": "Anthropic-messages protocol bridge for pi. Activates for any anthropic-messages API session (Anthropic OAuth/API-key + proxy providers): canonicalizes lowercase pi core tools (read/write/bash/grep → Read/Write/Bash/Grep), namespaces custom tools under mcp",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

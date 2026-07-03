@@ -1,0 +1,11 @@
+{
+  "name": "@yandy0725/pi-vision-tools",
+  "path": "/packages/@yandy0725/pi-vision-tools",
+  "url": "https://pi.dev/packages/@yandy0725/pi-vision-tools",
+  "types": "",
+  "type_list": [],
+  "downloads": 98,
+  "date_ms": 1782374585680,
+  "description_en": "pi package adding a describe_image tool that lets non-multimodal models delegate image analysis to a vision model",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

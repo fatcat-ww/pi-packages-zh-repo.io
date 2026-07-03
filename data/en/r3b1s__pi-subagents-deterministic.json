@@ -1,0 +1,13 @@
+{
+  "name": "@r3b1s/pi-subagents-deterministic",
+  "path": "/packages/@r3b1s/pi-subagents-deterministic",
+  "url": "https://pi.dev/packages/@r3b1s/pi-subagents-deterministic",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 515,
+  "date_ms": 1781229340846,
+  "description_en": "Deterministic subagent routing via Pi's tool_call hook — resolves model and thinking from model-routing.yml and injects them into pi-subagents' subagent tool calls.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

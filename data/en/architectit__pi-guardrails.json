@@ -1,0 +1,11 @@
+{
+  "name": "@architectit/pi-guardrails",
+  "path": "/packages/@architectit/pi-guardrails",
+  "url": "https://pi.dev/packages/@architectit/pi-guardrails",
+  "types": "",
+  "type_list": [],
+  "downloads": 122,
+  "date_ms": 1779278216533,
+  "description_en": "Four Laws guardrails enforcement for pi coding agent — standalone + MCP bridge",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@ifpi/session-files",
+  "description_en": "Track and review files edited by the AI in the current pi session — with TUI browser and VS Code integration.",
+  "description_zh": "跟踪和审查 AI 在当前 pi 会话中编辑的文件 — 带 TUI 浏览器和 VS Code 集成",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

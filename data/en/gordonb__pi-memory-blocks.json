@@ -1,0 +1,11 @@
+{
+  "name": "@gordonb/pi-memory-blocks",
+  "path": "/packages/@gordonb/pi-memory-blocks",
+  "url": "https://pi.dev/packages/@gordonb/pi-memory-blocks",
+  "types": "",
+  "type_list": [],
+  "downloads": 40,
+  "date_ms": 1773130199562,
+  "description_en": "Letta-style persistent memory blocks for Pi coding agents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

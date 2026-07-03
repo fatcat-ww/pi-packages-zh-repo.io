@@ -1,0 +1,13 @@
+{
+  "name": "pi-tokensaver",
+  "path": "/packages/pi-tokensaver",
+  "url": "https://pi.dev/packages/pi-tokensaver",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 79,
+  "date_ms": 1778251256165,
+  "description_en": "Give your Pi AI agent a semantic memory — bridges tokensave's Rust-powered local graph engine into your coding workflow for token-efficient codebase exploration",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

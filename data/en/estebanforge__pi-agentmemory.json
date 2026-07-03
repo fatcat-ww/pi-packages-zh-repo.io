@@ -1,0 +1,11 @@
+{
+  "name": "@estebanforge/pi-agentmemory",
+  "path": "/packages/@estebanforge/pi-agentmemory",
+  "url": "https://pi.dev/packages/@estebanforge/pi-agentmemory",
+  "types": "",
+  "type_list": [],
+  "downloads": 410,
+  "date_ms": 1782840001113,
+  "description_en": "Pi-native agent-memory.dev tools — cross-session memory via REST, no MCP dependency",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

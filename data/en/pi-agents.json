@@ -1,0 +1,13 @@
+{
+  "name": "pi-agents",
+  "path": "/packages/pi-agents",
+  "url": "https://pi.dev/packages/pi-agents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 306,
+  "date_ms": 1778223279807,
+  "description_en": "A generic framework for agent orchestration in pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-direnv",
+  "description_en": "Auto-load direnv environment at session start — ensures bash commands have project-specific env vars from .envrc",
+  "description_zh": "在会话开始时自动加载 direnv 环境 — 确保 bash 命令拥有来自 .envrc 的项目特定环境变量",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

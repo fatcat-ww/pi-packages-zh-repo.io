@@ -1,0 +1,6 @@
+{
+  "name": "@richardgill/pi-tmux-bash",
+  "description_en": "Drop-in `bash` replacement that runs commands in the background using tmux.",
+  "description_zh": "即用型 `bash` 替代品，使用 tmux 在后台运行命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

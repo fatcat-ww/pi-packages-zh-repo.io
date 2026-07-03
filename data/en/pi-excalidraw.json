@@ -1,0 +1,13 @@
+{
+  "name": "pi-excalidraw",
+  "path": "/packages/pi-excalidraw",
+  "url": "https://pi.dev/packages/pi-excalidraw",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 59,
+  "date_ms": 1773849537225,
+  "description_en": "A pi package that provides a locally hosted Excalidraw canvas plus AI-callable diagramming tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-power-toys",
+  "path": "/packages/pi-power-toys",
+  "url": "https://pi.dev/packages/pi-power-toys",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782596369075,
+  "description_en": "Power-user customizations for the Pi coding agent — yellow session names in the footer, a /power-settings toggle menu, and more.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@littlerandom/pi-setup",
+  "path": "/packages/@littlerandom/pi-setup",
+  "url": "https://pi.dev/packages/@littlerandom/pi-setup",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 155,
+  "date_ms": 1782154337038,
+  "description_en": "LittleRandom's personal pi agent setup — extensions, themes, and config",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

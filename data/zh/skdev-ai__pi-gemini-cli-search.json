@@ -1,0 +1,6 @@
+{
+  "name": "@skdev-ai/pi-gemini-cli-search",
+  "description_en": "Pi/GSD extension providing grounded web search via Gemini CLI's A2A and ACP protocols. Uses your existing Google AI Pro subscription.",
+  "description_zh": "Pi/GSD 扩展，通过 Gemini CLI 的 A2A 和 ACP 协议提供基于网络的搜索。使用您现有的 Google AI Pro 订阅",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@0xkobold/pi-task",
+  "path": "/packages/@0xkobold/pi-task",
+  "url": "https://pi.dev/packages/@0xkobold/pi-task",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 97,
+  "date_ms": 1775859507251,
+  "description_en": "Kanban-style task management for pi agents — backlog, in-progress, review, blocked, done with SQLite persistence",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

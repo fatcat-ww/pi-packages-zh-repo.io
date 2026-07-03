@@ -1,0 +1,6 @@
+{
+  "name": "pi-auth-profiles",
+  "description_en": "Auth profile switching for pi — save and switch between named credential profiles via slash commands",
+  "description_zh": "pi 的认证配置文件切换 — 通过斜杠命令保存和切换命名凭据配置文件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

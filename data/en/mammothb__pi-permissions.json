@@ -1,0 +1,11 @@
+{
+  "name": "@mammothb/pi-permissions",
+  "path": "/packages/@mammothb/pi-permissions",
+  "url": "https://pi.dev/packages/@mammothb/pi-permissions",
+  "types": "",
+  "type_list": [],
+  "downloads": 582,
+  "date_ms": 1782023841425,
+  "description_en": "Permission enforcement extension for pi — gates tool calls, bash commands (via arbiter executable), and file paths",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

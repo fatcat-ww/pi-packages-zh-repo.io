@@ -1,0 +1,13 @@
+{
+  "name": "pi-cbm",
+  "path": "/packages/pi-cbm",
+  "url": "https://pi.dev/packages/pi-cbm",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 591,
+  "date_ms": 1782550899727,
+  "description_en": "Extension that exposes `codebase-memory-mcp` as native Pi tools, adds auto-indexing and deliberate obtimizations for agent-workflows and token saving.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

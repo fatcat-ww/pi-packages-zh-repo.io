@@ -1,0 +1,11 @@
+{
+  "name": "pi-guard-sandbox",
+  "path": "/packages/pi-guard-sandbox",
+  "url": "https://pi.dev/packages/pi-guard-sandbox",
+  "types": "",
+  "type_list": [],
+  "downloads": 131,
+  "date_ms": 1778080483805,
+  "description_en": "A lightweight OS-level guard for Pi: agents stay useful, sensitive paths stay blocked, and writes stay inside the workspace you allow. No container overhead. No workflow drama.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

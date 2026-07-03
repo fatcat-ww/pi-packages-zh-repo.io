@@ -1,0 +1,6 @@
+{
+  "name": "pi-agent-browser-native",
+  "description_en": "pi extension that exposes agent-browser as a native tool for browser automation",
+  "description_zh": "pi 扩展，将 agent-browser 作为原生工具暴露给浏览器自动化",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

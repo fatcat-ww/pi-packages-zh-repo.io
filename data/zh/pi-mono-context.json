@@ -1,0 +1,6 @@
+{
+  "name": "pi-mono-context",
+  "description_en": "Pi extension that prints current context-window usage without adding the report to future LLM context",
+  "description_zh": "Pi 扩展，打印当前上下文窗口使用情况，不将报告添加到未来的 LLM 上下文",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

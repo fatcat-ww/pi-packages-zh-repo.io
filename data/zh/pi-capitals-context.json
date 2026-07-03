@@ -1,0 +1,6 @@
+{
+  "name": "pi-capitals-context",
+  "description_en": "Auto-inject ALL_CAPS context files into pi's system prompt — per-file toggles, folder collapse, global ~/.pi/CAPS, search, sort, preview, file watcher",
+  "description_zh": "自动将所有大写文件上下文注入 pi 的系统提示 — 每文件切换、文件夹折叠、全局 ~/.pi/CAPS、搜索、排序、预览、文件监视",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

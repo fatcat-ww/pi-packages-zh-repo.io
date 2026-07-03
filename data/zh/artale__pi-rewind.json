@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-rewind",
+  "description_en": "Checkpoint and rewind for Pi. Auto-snapshot before edits, /rewind to restore with diff preview.",
+  "description_zh": "Pi 的检查点和回退功能。编辑前自动快照，/rewind 恢复并带有差异预览。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

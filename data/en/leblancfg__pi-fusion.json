@@ -1,0 +1,13 @@
+{
+  "name": "@leblancfg/pi-fusion",
+  "path": "/packages/@leblancfg/pi-fusion",
+  "url": "https://pi.dev/packages/@leblancfg/pi-fusion",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 803,
+  "date_ms": 1782487831008,
+  "description_en": "Parallel agentic planning and test-time compute scaling for pi coding agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

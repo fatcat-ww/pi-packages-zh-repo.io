@@ -1,0 +1,6 @@
+{
+  "name": "@mammothb/pi-permissions",
+  "description_en": "Permission enforcement extension for pi — gates tool calls, bash commands (via arbiter executable), and file paths",
+  "description_zh": "Pi 的权限执行扩展 — 控制工具调用、bash 命令（通过仲裁器可执行文件）和文件路径",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

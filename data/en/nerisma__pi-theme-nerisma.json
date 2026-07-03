@@ -1,0 +1,13 @@
+{
+  "name": "@nerisma/pi-theme-nerisma",
+  "path": "/packages/@nerisma/pi-theme-nerisma",
+  "url": "https://pi.dev/packages/@nerisma/pi-theme-nerisma",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 0,
+  "date_ms": 1782558862081,
+  "description_en": "Nerisma — a deep purple dark theme for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

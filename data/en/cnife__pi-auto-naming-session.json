@@ -1,0 +1,11 @@
+{
+  "name": "@cnife/pi-auto-naming-session",
+  "path": "/packages/@cnife/pi-auto-naming-session",
+  "url": "https://pi.dev/packages/@cnife/pi-auto-naming-session",
+  "types": "",
+  "type_list": [],
+  "downloads": 278,
+  "date_ms": 1782135609755,
+  "description_en": "Auto-generate and refresh session titles at turn boundaries",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

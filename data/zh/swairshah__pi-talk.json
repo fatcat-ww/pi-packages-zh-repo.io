@@ -1,0 +1,6 @@
+{
+  "name": "@swairshah/pi-talk",
+  "description_en": "Text-to-speech extension for Pi coding agent using Loqui",
+  "description_zh": "使用 Loqui 为 pi coding agent 提供文本转语音扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

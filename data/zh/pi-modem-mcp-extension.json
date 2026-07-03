@@ -1,0 +1,6 @@
+{
+  "name": "pi-modem-mcp-extension",
+  "description_en": "Pi extension that exposes the Modem MCP server as Pi tools.",
+  "description_zh": "将 Modem MCP 服务器作为 Pi 工具暴露的 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@rohaquinlop/pi-subagents",
+  "path": "/packages/@rohaquinlop/pi-subagents",
+  "url": "https://pi.dev/packages/@rohaquinlop/pi-subagents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 760,
+  "date_ms": 1782101359300,
+  "description_en": "Pi extension for delegating tasks to subagents — parallel execution, agent discovery, and TUI rendering",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

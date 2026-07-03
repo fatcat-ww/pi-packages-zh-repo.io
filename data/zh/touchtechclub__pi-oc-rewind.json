@@ -1,0 +1,6 @@
+{
+  "name": "@touchtechclub/pi-oc-rewind",
+  "description_en": "Pi coding-agent extension: per-message undo/redo with shadow-git snapshots. Opencode-inspired.",
+  "description_zh": "Pi coding-agent 扩展：带 shadow-git 快照的每消息撤销/重做。受 Opencode 启发。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

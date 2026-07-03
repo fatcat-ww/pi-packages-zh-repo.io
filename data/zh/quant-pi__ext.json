@@ -1,0 +1,6 @@
+{
+  "name": "@quant-pi/ext",
+  "description_en": "Small, hand-written, composable modules for pi-agent — inspired by mini.nvim, focused on simple, predictable building blocks for coding agents.",
+  "description_zh": "pi-agent 的小型、手写、可组合模块 — 受 mini.nvim 启发，专注于编码代理的简单、可预测构建块",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

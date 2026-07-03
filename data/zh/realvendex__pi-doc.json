@@ -1,0 +1,6 @@
+{
+  "name": "@realvendex/pi-doc",
+  "description_en": "API documentation generator for pi.dev extensions — parse TypeBox schemas and generate Markdown/HTML docs",
+  "description_zh": "pi.dev 扩展的 API 文档生成器 — 解析 TypeBox 模式并生成 Markdown/HTML 文档",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

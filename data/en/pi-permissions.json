@@ -1,0 +1,13 @@
+{
+  "name": "pi-permissions",
+  "path": "/packages/pi-permissions",
+  "url": "https://pi.dev/packages/pi-permissions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 118,
+  "date_ms": 1774342075472,
+  "description_en": "Configurable allow/deny permission rules for pi tool calls — control which bash commands, file reads, writes, and edits the agent can perform.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

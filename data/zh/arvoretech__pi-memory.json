@@ -1,0 +1,6 @@
+{
+  "name": "@arvoretech/pi-memory",
+  "description_en": "PI extension for cloud-based memory with RAG (Qdrant + GitHub OAuth)",
+  "description_zh": "基于云内存的 PI 扩展，具有 RAG (Qdrant + GitHub OAuth)",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

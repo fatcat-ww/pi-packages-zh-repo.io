@@ -1,0 +1,6 @@
+{
+  "name": "pi-puppeteer",
+  "description_en": "Pi extension package for browser-agnostic automation with Puppeteer-core, Chromium-first and Firefox-ready architecture.",
+  "description_zh": "用于与 Puppeteer-core 进行浏览器无关自动化的 Pi 扩展包，采用优先 Chromium 和支持 Firefox 的架构。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

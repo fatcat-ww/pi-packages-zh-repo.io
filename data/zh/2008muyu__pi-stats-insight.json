@@ -1,0 +1,6 @@
+{
+  "name": "@2008muyu/pi-stats-insight",
+  "description_en": "Observability extension for pi: token/cost/cache/tool/context stats in footer + /stats command",
+  "description_zh": "pi 的可观察性扩展：页脚中的 token/成本/缓存/工具/上下文统计 + /stats 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

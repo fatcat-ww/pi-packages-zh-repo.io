@@ -1,0 +1,13 @@
+{
+  "name": "@sevten/pi-data-masking",
+  "path": "/packages/@sevten/pi-data-masking",
+  "url": "https://pi.dev/packages/@sevten/pi-data-masking",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782922298489,
+  "description_en": "Pi extension that masks sensitive data before it reaches the LLM and restores it for users and tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

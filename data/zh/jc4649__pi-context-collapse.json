@@ -1,0 +1,6 @@
+{
+  "name": "@jc4649/pi-context-collapse",
+  "description_en": "Deterministic write-once collapse of bulky tool outputs, with reversible originals cache",
+  "description_zh": "使用可逆原始缓存对大型工具输出进行确定性一次写入压缩。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

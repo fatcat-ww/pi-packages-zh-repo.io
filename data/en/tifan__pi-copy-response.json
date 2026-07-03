@@ -1,0 +1,13 @@
+{
+  "name": "@tifan/pi-copy-response",
+  "path": "/packages/@tifan/pi-copy-response",
+  "url": "https://pi.dev/packages/@tifan/pi-copy-response",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 290,
+  "date_ms": 1780652832014,
+  "description_en": "Pick and copy an assistant response from the current pi session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

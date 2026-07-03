@@ -1,0 +1,6 @@
+{
+  "name": "@nqbao/pi-sandbox",
+  "description_en": "OS-level sandbox for pi coding agent — macOS sandbox-exec / Linux bubblewrap kernel-enforced isolation",
+  "description_zh": "pi coding agent 的操作系统级沙盒 — macOS sandbox-exec / Linux bubblewrap 内核强制隔离",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

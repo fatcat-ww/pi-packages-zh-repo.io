@@ -1,0 +1,6 @@
+{
+  "name": "@getpipher/armory-memory",
+  "description_en": "Memory for pi — Claude-Code-compatible cwd-keyed memory, auto-injected into every prompt. One-command CC→Pi import. The cross-tool on-ramp from Claude Code to pi.",
+  "description_zh": "pi 的记忆 — Claude-Code 兼容的 cwd 密钥记忆，自动注入到每个提示中。一键 CC→Pi 导入。从 Claude Code 到 pi 的跨工具入口。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

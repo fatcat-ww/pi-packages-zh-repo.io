@@ -1,0 +1,6 @@
+{
+  "name": "pi-scheduled-tasks",
+  "description_en": "A pi extension for scheduled prompts, recurring checks, and prompt-executable slash commands",
+  "description_zh": "用于计划提示、定期检查和可执行斜杠命令的pi扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

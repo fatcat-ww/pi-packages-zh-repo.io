@@ -1,0 +1,13 @@
+{
+  "name": "pi-minimax-usage",
+  "path": "/packages/pi-minimax-usage",
+  "url": "https://pi.dev/packages/pi-minimax-usage",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 171,
+  "date_ms": 1780567818804,
+  "description_en": "Minimax M3 token usage, cost, prompt-cache savings, and 5h/weekly subscription quota in the Pi status line",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

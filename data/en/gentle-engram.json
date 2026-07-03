@@ -1,0 +1,13 @@
+{
+  "name": "gentle-engram",
+  "path": "/packages/gentle-engram",
+  "url": "https://pi.dev/packages/gentle-engram",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 7952,
+  "date_ms": 1782822791428,
+  "description_en": "Persistent memory for Pi agents — one local-or-cloud brain shared across sessions, compactions, and MCP agents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

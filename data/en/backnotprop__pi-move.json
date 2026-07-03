@@ -1,0 +1,13 @@
+{
+  "name": "@backnotprop/pi-move",
+  "path": "/packages/@backnotprop/pi-move",
+  "url": "https://pi.dev/packages/@backnotprop/pi-move",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 55,
+  "date_ms": 1780625974020,
+  "description_en": "Pi extension that adds /move session relocation with Git worktree support.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

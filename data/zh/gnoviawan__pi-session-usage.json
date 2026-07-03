@@ -1,0 +1,6 @@
+{
+  "name": "@gnoviawan/pi-session-usage",
+  "description_en": "Tracks time usage, prompts, turns, and tool calls in a session.",
+  "description_zh": "跟踪会话中的时间使用、提示、轮次和工具调用。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

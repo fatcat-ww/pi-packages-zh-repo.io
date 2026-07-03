@@ -1,0 +1,13 @@
+{
+  "name": "@steptian/ai-deps-review",
+  "path": "/packages/@steptian/ai-deps-review",
+  "url": "https://pi.dev/packages/@steptian/ai-deps-review",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 59,
+  "date_ms": 1779676301335,
+  "description_en": "AI agent toolchain dependency version checker for Pi. Scans Pi Coding Agent, Claude Code, Codex, Pi Packages and extensions for updates, compares versions, and evaluates update necessity. Trigger: check deps, dependency update, version check, review deps.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

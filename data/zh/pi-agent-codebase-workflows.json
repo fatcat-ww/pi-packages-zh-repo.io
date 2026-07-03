@@ -1,0 +1,6 @@
+{
+  "name": "pi-agent-codebase-workflows",
+  "description_en": "Pi skills and prompt templates for structured YAML artifact workflows: safe-start, codebase-recon, safe-change, architecture review, structured-doc validation, and legacy docs migration.",
+  "description_zh": "Pi 技能和提示模板，用于结构化 YAML 工件工作流：安全启动、代码库侦察、安全更改、架构审查、结构化文档验证和遗留文档迁移",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

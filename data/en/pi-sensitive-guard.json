@@ -1,0 +1,13 @@
+{
+  "name": "pi-sensitive-guard",
+  "path": "/packages/pi-sensitive-guard",
+  "url": "https://pi.dev/packages/pi-sensitive-guard",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 471,
+  "date_ms": 1783049642538,
+  "description_en": "Pi extension that protects sensitive files, blocks secret writes, and optionally redacts protected read output.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

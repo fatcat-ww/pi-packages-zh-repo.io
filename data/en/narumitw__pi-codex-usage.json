@@ -1,0 +1,13 @@
+{
+  "name": "@narumitw/pi-codex-usage",
+  "path": "/packages/@narumitw/pi-codex-usage",
+  "url": "https://pi.dev/packages/@narumitw/pi-codex-usage",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 4126,
+  "date_ms": 1782712238706,
+  "description_en": "Pi extension that shows Codex ChatGPT subscription usage without requiring Codex CLI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

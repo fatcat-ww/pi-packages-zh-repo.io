@@ -1,0 +1,13 @@
+{
+  "name": "@kim05/pi-autoprompt",
+  "path": "/packages/@kim05/pi-autoprompt",
+  "url": "https://pi.dev/packages/@kim05/pi-autoprompt",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 259,
+  "date_ms": 1782744331495,
+  "description_en": "A Pi extension that automatically continues with required follow-up coding tasks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

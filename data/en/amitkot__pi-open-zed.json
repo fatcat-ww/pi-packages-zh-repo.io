@@ -1,0 +1,13 @@
+{
+  "name": "@amitkot/pi-open-zed",
+  "path": "/packages/@amitkot/pi-open-zed",
+  "url": "https://pi.dev/packages/@amitkot/pi-open-zed",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 182,
+  "date_ms": 1781469250597,
+  "description_en": "Host-side Zed IDE bridge for Pi — opens files at a line number from the coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

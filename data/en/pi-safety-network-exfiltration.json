@@ -1,0 +1,11 @@
+{
+  "name": "pi-safety-network-exfiltration",
+  "path": "/packages/pi-safety-network-exfiltration",
+  "url": "https://pi.dev/packages/pi-safety-network-exfiltration",
+  "types": "",
+  "type_list": [],
+  "downloads": 23,
+  "date_ms": 1773417485334,
+  "description_en": "Blocks data exfiltration, remote code execution via piped downloads, secrets embedded in commands, and unauthorized network operations before they run.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

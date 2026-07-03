@@ -1,0 +1,6 @@
+{
+  "name": "pi-c2c",
+  "description_en": "Native c2c for Pi — anywhere-to-anywhere messaging between AI coding agents. Adds c2c send/list/rooms tools, slash commands, and background auto-delivery of inbound messages straight into pi's transcript.",
+  "description_zh": "Pi 的原生 c2c — AI 编码代理之间的任意到任意消息传递。添加 c2c 发送/列表/房间工具、斜杠命令和将传入消息直接传递到 pi 转录本的背景自动传递",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

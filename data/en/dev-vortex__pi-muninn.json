@@ -1,0 +1,11 @@
+{
+  "name": "@dev-vortex/pi-muninn",
+  "path": "/packages/@dev-vortex/pi-muninn",
+  "url": "https://pi.dev/packages/@dev-vortex/pi-muninn",
+  "types": "",
+  "type_list": [],
+  "downloads": 155,
+  "date_ms": 1779996726576,
+  "description_en": "Pi Muninn: project-aware memory extension architecture built on top of pi-mempalace.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

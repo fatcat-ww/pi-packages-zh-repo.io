@@ -1,0 +1,13 @@
+{
+  "name": "@fbraza/pi-zenodo",
+  "path": "/packages/@fbraza/pi-zenodo",
+  "url": "https://pi.dev/packages/@fbraza/pi-zenodo",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 366,
+  "date_ms": 1782239378532,
+  "description_en": "Pi extension with Zenodo draft tools for journal article deposits.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

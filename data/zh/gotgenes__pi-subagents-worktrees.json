@@ -1,0 +1,6 @@
+{
+  "name": "@gotgenes/pi-subagents-worktrees",
+  "description_en": "Git worktree isolation for @gotgenes/pi-subagents — a WorkspaceProvider that runs subagents in isolated worktrees.",
+  "description_zh": "@gotgenes/pi-subagents 的 Git worktree 隔离 — 在隔离的 worktrees 中运行子代理的 WorkspaceProvider",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

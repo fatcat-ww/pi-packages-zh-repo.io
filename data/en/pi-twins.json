@@ -1,0 +1,11 @@
+{
+  "name": "pi-twins",
+  "path": "/packages/pi-twins",
+  "url": "https://pi.dev/packages/pi-twins",
+  "types": "",
+  "type_list": [],
+  "downloads": 340,
+  "date_ms": 1782514469532,
+  "description_en": "Dual-model synthesis for Pi — run the same prompt on two models, get one synthesized answer",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

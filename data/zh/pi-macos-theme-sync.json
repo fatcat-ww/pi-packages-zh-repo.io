@@ -1,0 +1,6 @@
+{
+  "name": "pi-macos-theme-sync",
+  "description_en": "Pi package that syncs Pi's theme with macOS light/dark appearance without polling",
+  "description_zh": "Pi 包，将 Pi 的主题与 macOS 明暗外观同步，无需轮询",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

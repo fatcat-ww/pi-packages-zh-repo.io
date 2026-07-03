@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-datasci",
+  "description_en": "Data science toolkit. Profile datasets, correlation matrices, outlier detection, statistical summaries. CSV/JSON/JSONL support.",
+  "description_zh": "数据科学工具包。数据集分析、相关性矩阵、异常检测、统计摘要。支持 CSV/JSON/JSONL 格式。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

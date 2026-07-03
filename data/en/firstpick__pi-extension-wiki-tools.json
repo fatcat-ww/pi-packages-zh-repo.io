@@ -1,0 +1,14 @@
+{
+  "name": "@firstpick/pi-extension-wiki-tools",
+  "path": "/packages/@firstpick/pi-extension-wiki-tools",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-wiki-tools",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 621,
+  "date_ms": 1780954535908,
+  "description_en": "Pi tools and skill for scaffolding local wiki extension packages from repository templates.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

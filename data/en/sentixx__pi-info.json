@@ -1,0 +1,13 @@
+{
+  "name": "@sentixx/pi-info",
+  "path": "/packages/@sentixx/pi-info",
+  "url": "https://pi.dev/packages/@sentixx/pi-info",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1480,
+  "date_ms": 1781248235387,
+  "description_en": "Fully customizable statusline for pi — pluggable segments, priority ordering, per-segment colors, and an open registry API so any extension can contribute its own widgets.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

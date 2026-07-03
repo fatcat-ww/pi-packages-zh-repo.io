@@ -1,0 +1,13 @@
+{
+  "name": "pi-oracle",
+  "path": "/packages/pi-oracle",
+  "url": "https://pi.dev/packages/pi-oracle",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2605,
+  "date_ms": 1782960471083,
+  "description_en": "ChatGPT and Grok web-oracle extension for pi with isolated browser auth, async jobs, and project-context archives.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

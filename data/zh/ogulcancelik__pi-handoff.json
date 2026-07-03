@@ -1,0 +1,6 @@
+{
+  "name": "@ogulcancelik/pi-handoff",
+  "description_en": "Context-aware session handoff for pi. Transfer context to a new session via command, tool, or automatic context guard.",
+  "description_zh": "pi 的上下文感知会话交接。通过命令、工具或自动上下文守卫将上下文传输到新会话",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

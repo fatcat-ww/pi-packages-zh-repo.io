@@ -1,0 +1,6 @@
+{
+  "name": "grok-pi",
+  "description_en": "Bridge Grok CLI session models (Composer 2.5, Grok Build) into Pi via cli-chat-proxy",
+  "description_zh": "通过 cli-chat-proxy 将 Grok CLI 会话模型（Composer 2.5、Grok Build）桥接到 Pi",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

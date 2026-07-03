@@ -1,0 +1,13 @@
+{
+  "name": "@estebanforge/pi-ts-review",
+  "path": "/packages/@estebanforge/pi-ts-review",
+  "url": "https://pi.dev/packages/@estebanforge/pi-ts-review",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 62,
+  "date_ms": 1782832970211,
+  "description_en": "TypeScript / React code-review tool for Pi. Grades your git diffs against a focused TS + React rubric (2 sections, 14 entries: TypeScript type-system + React/JSX semantic mistakes). Targets .ts/.mts/.cts/.tsx. Each entry has a bad/good pair; the LLM propo",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-continue",
+  "description_en": "Mid-turn continuation for long Pi tool runs: compact safely before context overflow, then resume the same session from a structured handoff ledger.",
+  "description_zh": "长 Pi 工具运行的中途继续：在上下文溢出前安全压缩，然后从结构化交接账本恢复同一会话。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

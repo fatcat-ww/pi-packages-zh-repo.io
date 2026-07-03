@@ -1,0 +1,13 @@
+{
+  "name": "@yusukeshib/pi-token-counter",
+  "path": "/packages/@yusukeshib/pi-token-counter",
+  "url": "https://pi.dev/packages/@yusukeshib/pi-token-counter",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 314,
+  "date_ms": 1780712575119,
+  "description_en": "Append each tool's own output token cost to its tool-use row, color-coded by size.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

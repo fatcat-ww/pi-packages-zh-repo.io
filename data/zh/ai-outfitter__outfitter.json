@@ -1,0 +1,6 @@
+{
+  "name": "@ai-outfitter/outfitter",
+  "description_en": "Profile-oriented wrapper for launching pi, Claude Code, and future agent CLIs with reproducible configuration.",
+  "description_zh": "用于启动 pi、Claude Code 和未来代理 CLI 的面向配置文件的包装器，具有可重现配置。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

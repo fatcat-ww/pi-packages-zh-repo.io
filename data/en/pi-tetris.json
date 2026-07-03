@@ -1,0 +1,11 @@
+{
+  "name": "pi-tetris",
+  "path": "/packages/pi-tetris",
+  "url": "https://pi.dev/packages/pi-tetris",
+  "types": "",
+  "type_list": [],
+  "downloads": 117,
+  "date_ms": 1772888115175,
+  "description_en": "Play Tetris in pi! All 7 tetrominoes, ghost piece, wall kicks, hold piece, score, levels, and session save/restore.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-feishu",
+  "path": "/packages/pi-feishu",
+  "url": "https://pi.dev/packages/pi-feishu",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2101,
+  "date_ms": 1780967129755,
+  "description_en": "Pi extension: remote control Pi via Feishu (飞书) Bot API — WebSocket chat bridge using official Lark SDK",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

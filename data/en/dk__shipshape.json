@@ -1,0 +1,14 @@
+{
+  "name": "@dk/shipshape",
+  "path": "/packages/@dk/shipshape",
+  "url": "https://pi.dev/packages/@dk/shipshape",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 1067,
+  "date_ms": 1781211477142,
+  "description_en": "Portable three-role spec-driven agent workflow for Pi and other coding agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-fixit",
+  "path": "/packages/pi-fixit",
+  "url": "https://pi.dev/packages/pi-fixit",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782946025218,
+  "description_en": "Bug-fix delivery pipeline — ClickUp ticket in, worktrees + MR out",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

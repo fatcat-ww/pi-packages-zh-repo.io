@@ -1,0 +1,13 @@
+{
+  "name": "@swairshah/pi-canvas",
+  "path": "/packages/@swairshah/pi-canvas",
+  "url": "https://pi.dev/packages/@swairshah/pi-canvas",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 25,
+  "date_ms": 1777160292304,
+  "description_en": "Use any Tailscale-connected phone/tablet/browser as a drawing or photo input surface for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

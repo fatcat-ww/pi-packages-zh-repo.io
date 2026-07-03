@@ -1,0 +1,13 @@
+{
+  "name": "@lanquarden/pi-dev-worktrees",
+  "path": "/packages/@lanquarden/pi-dev-worktrees",
+  "url": "https://pi.dev/packages/@lanquarden/pi-dev-worktrees",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1223,
+  "date_ms": 1781106411136,
+  "description_en": "Pi extension for isolated branch workspaces — git worktrees via wtp and optional devcontainer targeting",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

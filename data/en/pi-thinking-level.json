@@ -1,0 +1,13 @@
+{
+  "name": "pi-thinking-level",
+  "path": "/packages/pi-thinking-level",
+  "url": "https://pi.dev/packages/pi-thinking-level",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 159,
+  "date_ms": 1778251454221,
+  "description_en": "A tiny pi package that adds a /thinking command to set and persist pi's default thinking level.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-gh-my-starred",
+  "path": "/packages/pi-gh-my-starred",
+  "url": "https://pi.dev/packages/pi-gh-my-starred",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1091,
+  "date_ms": 1780767212145,
+  "description_en": "PI extension for browsing GitHub starred repositories and star lists",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

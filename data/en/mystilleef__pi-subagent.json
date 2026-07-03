@@ -1,0 +1,13 @@
+{
+  "name": "@mystilleef/pi-subagent",
+  "path": "/packages/@mystilleef/pi-subagent",
+  "url": "https://pi.dev/packages/@mystilleef/pi-subagent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1088,
+  "date_ms": 1782333954780,
+  "description_en": "Pi subagent for the SPAE Framework",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

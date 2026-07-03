@@ -1,0 +1,6 @@
+{
+  "name": "@clankie/memory",
+  "description_en": "Persistent memory with TursoDB native vector search for clankie",
+  "description_zh": "clankie 的持久化内存，具有 TursoDB 原生向量搜索功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

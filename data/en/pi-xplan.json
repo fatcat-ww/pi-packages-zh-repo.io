@@ -1,0 +1,13 @@
+{
+  "name": "pi-xplan",
+  "path": "/packages/pi-xplan",
+  "url": "https://pi.dev/packages/pi-xplan",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 592,
+  "date_ms": 1782920749673,
+  "description_en": "Planning and step-by-step implementation workflow extension for pi with lightweight mutation guards.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

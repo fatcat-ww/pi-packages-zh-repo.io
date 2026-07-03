@@ -1,0 +1,11 @@
+{
+  "name": "@rad-pi/cob",
+  "path": "/packages/@rad-pi/cob",
+  "url": "https://pi.dev/packages/@rad-pi/cob",
+  "types": "",
+  "type_list": [],
+  "downloads": 196,
+  "date_ms": 1782458540595,
+  "description_en": "Optional Radicle COB integrations for pi (plan and context)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

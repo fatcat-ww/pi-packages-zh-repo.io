@@ -1,0 +1,13 @@
+{
+  "name": "pi-digital-rust-theme",
+  "path": "/packages/pi-digital-rust-theme",
+  "url": "https://pi.dev/packages/pi-digital-rust-theme",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 294,
+  "date_ms": 1780179015260,
+  "description_en": "A warm, tech-dystopian color scheme for Pi, inspired by corrupted hardware and failing systems.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

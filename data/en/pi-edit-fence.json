@@ -1,0 +1,13 @@
+{
+  "name": "pi-edit-fence",
+  "path": "/packages/pi-edit-fence",
+  "url": "https://pi.dev/packages/pi-edit-fence",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 441,
+  "date_ms": 1781605824756,
+  "description_en": "Stop concurrent pi sessions from clobbering each other's edits. Per-file locks, auto-claim on edit, retry-later, lease expiry, crash recovery. No git worktrees.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-header",
+  "path": "/packages/pi-header",
+  "url": "https://pi.dev/packages/pi-header",
+  "types": "",
+  "type_list": [],
+  "downloads": 552,
+  "date_ms": 1781949272731,
+  "description_en": "A pi coding agent extension that displays a styled ASCII art header with model info at the top of every new session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

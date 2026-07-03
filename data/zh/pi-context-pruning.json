@@ -1,0 +1,6 @@
+{
+  "name": "pi-context-pruning",
+  "description_en": "OpenCode-style proactive tool output pruning for pi — reduce token usage by pruning stale tool outputs before each LLM call",
+  "description_zh": "pi 的 OpenCode 式主动工具输出修剪 — 在每次 LLM 调用前修剪过时的工具输出以减少 token 使用。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

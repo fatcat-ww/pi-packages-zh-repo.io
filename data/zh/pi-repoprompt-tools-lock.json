@@ -1,0 +1,6 @@
+{
+  "name": "pi-repoprompt-tools-lock",
+  "description_en": "Forces the agent to use RepoPrompt tools during repo-scoped work by disabling Pi's native tools when RepoPrompt tools are available (through either the `pi-repoprompt-cli` or `pi-repoprompt-mcp` Pi packages/extensions)",
+  "description_zh": "通过禁用 Pi 的原生工具（当 RepoPrompt 工具可通过 `pi-repoprompt-cli` 或 `pi-repoprompt-mcp` Pi 包/扩展获得时）强制代理在仓库范围内工作中使用 RepoPrompt 工具。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

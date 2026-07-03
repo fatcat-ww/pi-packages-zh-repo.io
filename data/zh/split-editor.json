@@ -1,0 +1,6 @@
+{
+  "name": "split-editor",
+  "description_en": "Open pi prompt editing in a live tmux split editor without freezing the pi UI.",
+  "description_zh": "在活动的 tmux 拆分编辑器中打开 pi 提示编辑，而不会冻结 pi UI",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

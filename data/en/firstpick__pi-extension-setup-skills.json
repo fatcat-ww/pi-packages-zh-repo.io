@@ -1,0 +1,14 @@
+{
+  "name": "@firstpick/pi-extension-setup-skills",
+  "path": "/packages/@firstpick/pi-extension-setup-skills",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-setup-skills",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 2101,
+  "date_ms": 1780954515036,
+  "description_en": "Interactive Pi command to enable or disable local skills from a multi-selection list.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

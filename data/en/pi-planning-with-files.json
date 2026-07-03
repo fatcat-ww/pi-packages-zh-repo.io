@@ -1,0 +1,13 @@
+{
+  "name": "pi-planning-with-files",
+  "path": "/packages/pi-planning-with-files",
+  "url": "https://pi.dev/packages/pi-planning-with-files",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 161,
+  "date_ms": 1770204148150,
+  "description_en": "Manus-style file-based planning for Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

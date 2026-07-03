@@ -1,0 +1,6 @@
+{
+  "name": "pi-session-name",
+  "description_en": "pi extension that auto-generates a concise session title from the first user prompt and shows agent running/idle status in the terminal title.",
+  "description_zh": "pi 扩展，根据第一个用户提示自动生成简洁的会话标题，并在终端标题中显示代理运行/空闲状态",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

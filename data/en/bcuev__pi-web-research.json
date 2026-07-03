@@ -1,0 +1,13 @@
+{
+  "name": "@bcuev/pi-web-research",
+  "path": "/packages/@bcuev/pi-web-research",
+  "url": "https://pi.dev/packages/@bcuev/pi-web-research",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 89,
+  "date_ms": 1780031833850,
+  "description_en": "Web search and page extraction tools for Pi — add web search and focused page extraction to your coding agent sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

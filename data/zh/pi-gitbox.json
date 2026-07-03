@@ -1,0 +1,6 @@
+{
+  "name": "pi-gitbox",
+  "description_en": "Pi extension that impersonates gitignored paths to reduce secrets exposure.",
+  "description_zh": "模拟 gitignore 路径以减少秘密暴露的 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

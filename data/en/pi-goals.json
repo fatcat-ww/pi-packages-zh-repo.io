@@ -1,0 +1,13 @@
+{
+  "name": "pi-goals",
+  "path": "/packages/pi-goals",
+  "url": "https://pi.dev/packages/pi-goals",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 203,
+  "date_ms": 1778866218641,
+  "description_en": "Persistent goal tracking for Pi with /tree-compatible state, budgets, reusable prompts, and churn monitoring.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

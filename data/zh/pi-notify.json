@@ -1,0 +1,6 @@
+{
+  "name": "pi-notify",
+  "description_en": "Desktop notifications for Pi agent via OSC 777/99/9 and Windows toast",
+  "description_zh": "通过 OSC 777/99/9 和 Windows toast 实现 Pi 代理的桌面通知",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

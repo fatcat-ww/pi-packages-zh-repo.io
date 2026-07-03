@@ -1,0 +1,6 @@
+{
+  "name": "pi-pip2uv",
+  "description_en": "A pi extension that blocks pip install-style Python dependency changes and guides agents to use uv.",
+  "description_zh": "一个 pi 扩展，阻止 pip install 风格的 Python 依赖更改并指导代理使用 uv",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

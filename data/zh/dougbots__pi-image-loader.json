@@ -1,0 +1,6 @@
+{
+  "name": "@dougbots/pi-image-loader",
+  "description_en": "Image-to-base64 tool for pi — lets image-capable models see local image files",
+  "description_zh": "pi 的图像转 base64 工具 — 让支持图像的模型能够查看本地图像文件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

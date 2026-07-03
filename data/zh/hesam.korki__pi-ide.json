@@ -1,0 +1,6 @@
+{
+  "name": "@hesam.korki/pi-ide",
+  "description_en": "A minimal Neovim workspace for supervising multiple pi agent shells without losing traditional dev tools.",
+  "description_zh": "用于监督多个 pi 代理 shell 的最小化 Neovim 工作区，不丢失传统开发工具。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

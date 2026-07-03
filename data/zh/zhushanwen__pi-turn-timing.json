@@ -1,0 +1,6 @@
+{
+  "name": "@zhushanwen/pi-turn-timing",
+  "description_en": "Record per-phase execution timing (thinking, text, toolcall generation, tool execution) for each turn",
+  "description_zh": "记录每个轮次的每个阶段（思考、文本、工具调用生成、工具执行）的执行时间。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

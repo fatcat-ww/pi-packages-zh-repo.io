@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-performance-optimizer",
+  "description_en": "Agents should invoke this skill for slow code, high CPU/memory, latency, large data processing, algorithmic complexity, profiling plans, benchmarks, or optimization requests. Profiles first and weighs trade-offs before changing code.",
+  "description_zh": "代理应在处理慢代码、高 CPU/内存、延迟、大数据处理、算法复杂度、分析计划、基准测试或优化请求时调用此技能。首先分析并在更改代码之前权衡权衡",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

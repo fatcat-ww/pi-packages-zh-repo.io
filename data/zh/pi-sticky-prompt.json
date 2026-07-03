@@ -1,0 +1,6 @@
+{
+  "name": "pi-sticky-prompt",
+  "description_en": "Always-on-top, full-width macOS prompt bar for pi. A floating native window that survives terminal scrollback and lets you keep typing while you read scrollback history.",
+  "description_zh": "pi 的始终置顶、全宽 macOS 提示栏。一个在终端回滚中幸存的原生浮动窗口，让您可以在阅读回滚历史的同时继续输入。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-uv",
+  "description_en": "pi extension — auto-rewrites Python commands to execute inside a uv-managed virtual environment",
+  "description_zh": "pi 扩展 — 自动将 Python 命令重写为在 uv 管理的虚拟环境中执行",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

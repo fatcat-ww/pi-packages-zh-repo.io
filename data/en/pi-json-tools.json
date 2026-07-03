@@ -1,0 +1,11 @@
+{
+  "name": "pi-json-tools",
+  "path": "/packages/pi-json-tools",
+  "url": "https://pi.dev/packages/pi-json-tools",
+  "types": "",
+  "type_list": [],
+  "downloads": 331,
+  "date_ms": 1777794349193,
+  "description_en": "Smart Recovery for Qwen Coder - Auto hallucination detection, auto reminder, smart recovery for qwen2.5-coder family",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

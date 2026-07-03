@@ -1,0 +1,14 @@
+{
+  "name": "@mem0/pi-agent-plugin",
+  "path": "/packages/@mem0/pi-agent-plugin",
+  "url": "https://pi.dev/packages/@mem0/pi-agent-plugin",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 319,
+  "date_ms": 1782925066627,
+  "description_en": "Mem0 memory extension for Pi Agent persistent, scoped, semantic memory across sessions and projects",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-todo",
+  "path": "/packages/@artale/pi-todo",
+  "url": "https://pi.dev/packages/@artale/pi-todo",
+  "types": "",
+  "type_list": [],
+  "downloads": 26,
+  "date_ms": 1773498121753,
+  "description_en": "Persistent todo list for Pi. Track tasks across sessions with priorities, tags, and due dates.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@counterposition/pi-web-search",
+  "path": "/packages/@counterposition/pi-web-search",
+  "url": "https://pi.dev/packages/@counterposition/pi-web-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 423,
+  "date_ms": 1780722088053,
+  "description_en": "Multi-provider web search and markdown page fetch for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

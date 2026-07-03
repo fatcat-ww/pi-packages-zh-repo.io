@@ -1,0 +1,13 @@
+{
+  "name": "@ff-labs/pi-fff",
+  "path": "/packages/@ff-labs/pi-fff",
+  "url": "https://pi.dev/packages/@ff-labs/pi-fff",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 23105,
+  "date_ms": 1782069380644,
+  "description_en": "pi extension: FFF-powered fuzzy file and content search",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

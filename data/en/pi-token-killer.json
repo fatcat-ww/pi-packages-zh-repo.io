@@ -1,0 +1,13 @@
+{
+  "name": "pi-token-killer",
+  "path": "/packages/pi-token-killer",
+  "url": "https://pi.dev/packages/pi-token-killer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 73,
+  "date_ms": 1775174372427,
+  "description_en": "Token Killer for Pi -- reduce LLM token consumption by 60-90% on common dev commands",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

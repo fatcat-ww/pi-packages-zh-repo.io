@@ -1,0 +1,6 @@
+{
+  "name": "@pandi-coding-agent/local-memory",
+  "description_en": "Pi extension that injects a project-local .pi/memory/ folder (capped MEMORY.md index plus on-demand topic files) into the system prompt.",
+  "description_zh": "Pi 扩展，将项目本地的 .pi/memory/ 文件夹（限制 MEMORY.md 索引加按需主题文件）注入系统提示中。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

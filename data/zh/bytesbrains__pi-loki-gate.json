@@ -1,0 +1,6 @@
+{
+  "name": "@bytesbrains/pi-loki-gate",
+  "description_en": "Loki log gateway for pi agents — query Grafana Loki for container/job/worker logs from the wrok.in AI Factory.",
+  "description_zh": "pi 代理的 Loki 日志网关 — 从 wrok.in AI Factory 查询 Grafana Loki 中的容器/作业/工作日志",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

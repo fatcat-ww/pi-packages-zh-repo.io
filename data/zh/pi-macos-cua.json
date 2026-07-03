@@ -1,0 +1,6 @@
+{
+  "name": "pi-macos-cua",
+  "description_en": "Pi extension that lets Pi drive local macOS apps through cua-driver.",
+  "description_zh": "允许 Pi 通过 cua-driver 驱动本地 macOS 应用的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

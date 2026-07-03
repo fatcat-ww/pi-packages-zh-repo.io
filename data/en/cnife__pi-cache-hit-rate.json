@@ -1,0 +1,11 @@
+{
+  "name": "@cnife/pi-cache-hit-rate",
+  "path": "/packages/@cnife/pi-cache-hit-rate",
+  "url": "https://pi.dev/packages/@cnife/pi-cache-hit-rate",
+  "types": "",
+  "type_list": [],
+  "downloads": 340,
+  "date_ms": 1782659307268,
+  "description_en": "Show cumulative session cache hit rate in pi footer",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

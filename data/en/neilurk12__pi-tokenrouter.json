@@ -1,0 +1,13 @@
+{
+  "name": "@neilurk12/pi-tokenrouter",
+  "path": "/packages/@neilurk12/pi-tokenrouter",
+  "url": "https://pi.dev/packages/@neilurk12/pi-tokenrouter",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 334,
+  "date_ms": 1781459097529,
+  "description_en": "TokenRouter AI model provider extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

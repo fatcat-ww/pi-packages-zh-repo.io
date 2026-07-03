@@ -1,0 +1,6 @@
+{
+  "name": "@paulrobello/par-tts-core-ts",
+  "description_en": "Provider-neutral TypeScript text-to-speech library for Node, browsers via proxy, and pi extensions",
+  "description_zh": "提供者无关的 TypeScript 文本转语音库，适用于 Node、浏览器代理和 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@davehardy20/pi-hashline-tools",
+  "path": "/packages/@davehardy20/pi-hashline-tools",
+  "url": "https://pi.dev/packages/@davehardy20/pi-hashline-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 49,
+  "date_ms": 1779016941481,
+  "description_en": "Pi package for hash-anchored file reading and editing (read_hashed / hashline_edit).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

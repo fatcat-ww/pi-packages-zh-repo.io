@@ -1,0 +1,13 @@
+{
+  "name": "@benvargas/pi-synthetic-provider",
+  "path": "/packages/@benvargas/pi-synthetic-provider",
+  "url": "https://pi.dev/packages/@benvargas/pi-synthetic-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 601,
+  "date_ms": 1783031155637,
+  "description_en": "Synthetic (synthetic.new) model provider for pi - Dynamic model fetching with reasoning, vision, and tools support",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

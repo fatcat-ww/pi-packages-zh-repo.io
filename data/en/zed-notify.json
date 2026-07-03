@@ -1,0 +1,11 @@
+{
+  "name": "zed-notify",
+  "path": "/packages/zed-notify",
+  "url": "https://pi.dev/packages/zed-notify",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782559347860,
+  "description_en": "Pi extension that emits a terminal bell so Zed Terminal Threads can show completion notifications",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

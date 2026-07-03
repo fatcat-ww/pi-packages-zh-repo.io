@@ -1,0 +1,6 @@
+{
+  "name": "pi-web-access",
+  "description_en": "Web search, URL fetching, GitHub repo cloning, PDF extraction, YouTube video understanding, and local video analysis for Pi coding agent. Supports OpenAI, Brave, Parallel, Tavily, Exa, Perplexity, and Gemini.",
+  "description_zh": "Pi 编程代理的网页搜索、URL 获取、GitHub 仓库克隆、PDF 提取、YouTube 视频理解和本地视频分析。支持 OpenAI、Brave、Parallel、Tavily、Exa、Perplexity 和 Gemini。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

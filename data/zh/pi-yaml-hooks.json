@@ -1,0 +1,6 @@
+{
+  "name": "pi-yaml-hooks",
+  "description_en": "YAML hook automation for the PI coding agent: tool guards, session hooks, prompts, notifications, and bash actions.",
+  "description_zh": "PI coding agent 的 YAML 钩子自动化：工具防护、会话钩子、提示、通知和 bash 操作",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

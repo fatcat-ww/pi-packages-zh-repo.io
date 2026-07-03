@@ -1,0 +1,11 @@
+{
+  "name": "@ai-devkit/pi-session-tracker",
+  "path": "/packages/@ai-devkit/pi-session-tracker",
+  "url": "https://pi.dev/packages/@ai-devkit/pi-session-tracker",
+  "types": "",
+  "type_list": [],
+  "downloads": 134,
+  "date_ms": 1781094465965,
+  "description_en": "Pi extension that tracks active sessions by PID in a shared JSON registry (~/.pi/agent/sessions.json)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

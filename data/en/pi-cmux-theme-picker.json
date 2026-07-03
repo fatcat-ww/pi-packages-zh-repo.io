@@ -1,0 +1,14 @@
+{
+  "name": "pi-cmux-theme-picker",
+  "path": "/packages/pi-cmux-theme-picker",
+  "url": "https://pi.dev/packages/pi-cmux-theme-picker",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 170,
+  "date_ms": 1775581445386,
+  "description_en": "Live cmux terminal theme picker for Pi with synchronized pi + cmux theme switching and debounced preview.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

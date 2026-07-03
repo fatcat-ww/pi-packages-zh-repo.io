@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-db",
+  "path": "/packages/@artale/pi-db",
+  "url": "https://pi.dev/packages/@artale/pi-db",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 40,
+  "date_ms": 1772994083141,
+  "description_en": "Local database with SQL-like queries. JSON-backed tables with where clauses, schema, export.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

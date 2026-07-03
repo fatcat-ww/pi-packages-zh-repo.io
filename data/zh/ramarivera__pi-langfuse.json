@@ -1,0 +1,6 @@
+{
+  "name": "@ramarivera/pi-langfuse",
+  "description_en": "Pi extension that exports model usage and tool activity to Langfuse via OpenTelemetry",
+  "description_zh": "Pi 扩展，通过 OpenTelemetry 将模型使用情况和工具活动导出到 Langfuse",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

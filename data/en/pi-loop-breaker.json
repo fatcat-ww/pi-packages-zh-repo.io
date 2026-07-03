@@ -1,0 +1,13 @@
+{
+  "name": "pi-loop-breaker",
+  "path": "/packages/pi-loop-breaker",
+  "url": "https://pi.dev/packages/pi-loop-breaker",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 65,
+  "date_ms": 1773934121480,
+  "description_en": "Pi extension that aborts repeated failing tool loops",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

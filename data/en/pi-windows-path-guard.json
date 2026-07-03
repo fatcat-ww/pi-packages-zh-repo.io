@@ -1,0 +1,13 @@
+{
+  "name": "pi-windows-path-guard",
+  "path": "/packages/pi-windows-path-guard",
+  "url": "https://pi.dev/packages/pi-windows-path-guard",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 45,
+  "date_ms": 1777867554177,
+  "description_en": "Prevents Windows-native Pi file tools from silently writing to mangled paths when agents reuse Git Bash/MSYS paths like /c/Users/...",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

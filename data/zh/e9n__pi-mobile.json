@@ -1,0 +1,6 @@
+{
+  "name": "@e9n/pi-mobile",
+  "description_en": "PWA mobile app for Pi agents — mounts on pi-webserver at /mobile",
+  "description_zh": "Pi 代理的 PWA 移动应用 — 挂载在 pi-webserver 的 /mobile 路径下",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

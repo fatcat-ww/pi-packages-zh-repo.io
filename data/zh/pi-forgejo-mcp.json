@@ -1,0 +1,6 @@
+{
+  "name": "pi-forgejo-mcp",
+  "description_en": "Pi extension that exposes Forgejo via the official forgejo-mcp CLI.",
+  "description_zh": "Pi 扩展，通过官方 forgejo-mcp CLI 暴露 Forgejo",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

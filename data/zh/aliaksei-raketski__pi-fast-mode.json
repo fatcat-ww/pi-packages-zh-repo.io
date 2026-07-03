@@ -1,0 +1,6 @@
+{
+  "name": "@aliaksei-raketski/pi-fast-mode",
+  "description_en": "Pi extension that enables fast-mode payload tuning for supported Claude/OpenAI models.",
+  "description_zh": "为支持的 Claude/OpenAI 模型启用快速模式有效调优的 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

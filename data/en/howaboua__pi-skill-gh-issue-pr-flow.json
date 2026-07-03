@@ -1,0 +1,13 @@
+{
+  "name": "@howaboua/pi-skill-gh-issue-pr-flow",
+  "path": "/packages/@howaboua/pi-skill-gh-issue-pr-flow",
+  "url": "https://pi.dev/packages/@howaboua/pi-skill-gh-issue-pr-flow",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 423,
+  "date_ms": 1780235976550,
+  "description_en": "Pi skill package for gh-issue-pr-flow.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

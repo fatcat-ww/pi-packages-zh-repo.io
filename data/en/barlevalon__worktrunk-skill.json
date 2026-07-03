@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/worktrunk-skill",
+  "path": "/packages/@barlevalon/worktrunk-skill",
+  "url": "https://pi.dev/packages/@barlevalon/worktrunk-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 90,
+  "date_ms": 1782997189951,
+  "description_en": "Use Worktrunk for git worktree workflows, hooks, config, aliases, approvals, LLM commit generation, and troubleshooting.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

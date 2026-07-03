@@ -1,0 +1,13 @@
+{
+  "name": "@originintelligence/pi-figma",
+  "path": "/packages/@originintelligence/pi-figma",
+  "url": "https://pi.dev/packages/@originintelligence/pi-figma",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 41,
+  "date_ms": 1776806855403,
+  "description_en": "pi extension: token-efficient Figma file access via REST. Never returns raw Figma JSON — every tool transforms to a compact, LLM-friendly shape and caches by file version.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

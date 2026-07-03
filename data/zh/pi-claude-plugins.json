@@ -1,0 +1,6 @@
+{
+  "name": "pi-claude-plugins",
+  "description_en": "Pi extension that exposes Claude marketplace plugin skills from ~/.claude/plugins/marketplaces into the current pi session.",
+  "description_zh": "Pi 扩展，将 ~/.claude/plugins/marketplaces 中的 Claude 市场插件技能暴露到当前 pi 会话中。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

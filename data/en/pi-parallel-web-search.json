@@ -1,0 +1,13 @@
+{
+  "name": "pi-parallel-web-search",
+  "path": "/packages/pi-parallel-web-search",
+  "url": "https://pi.dev/packages/pi-parallel-web-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 135,
+  "date_ms": 1771780602362,
+  "description_en": "A pi extension that adds a web_search tool powered by Parallel AI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

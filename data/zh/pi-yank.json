@@ -1,0 +1,6 @@
+{
+  "name": "pi-yank",
+  "description_en": "Lightweight /yank extension for pi that copies the last assistant message or a selected code block.",
+  "description_zh": "pi 的轻量级 /yank 扩展，复制最后一条助手消息或选定的代码块。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

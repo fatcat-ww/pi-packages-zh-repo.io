@@ -1,0 +1,13 @@
+{
+  "name": "@fitchmultz/pi-stash",
+  "path": "/packages/@fitchmultz/pi-stash",
+  "url": "https://pi.dev/packages/@fitchmultz/pi-stash",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1277,
+  "date_ms": 1782320243631,
+  "description_en": "A pi extension for stashing draft messages and restoring them later.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

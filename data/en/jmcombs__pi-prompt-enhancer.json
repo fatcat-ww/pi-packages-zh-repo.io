@@ -1,0 +1,13 @@
+{
+  "name": "@jmcombs/pi-prompt-enhancer",
+  "path": "/packages/@jmcombs/pi-prompt-enhancer",
+  "url": "https://pi.dev/packages/@jmcombs/pi-prompt-enhancer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 92,
+  "date_ms": 1778179226617,
+  "description_en": "Codebase-aware prompt enhancer for the Pi coding agent — rewrites rough prompts into precise ones, with project tree, git context, and referenced file contents, before they reach the model.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

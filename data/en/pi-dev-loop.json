@@ -1,0 +1,11 @@
+{
+  "name": "pi-dev-loop",
+  "path": "/packages/pi-dev-loop",
+  "url": "https://pi.dev/packages/pi-dev-loop",
+  "types": "",
+  "type_list": [],
+  "downloads": 460,
+  "date_ms": 1782284802729,
+  "description_en": "Autonomous development loop engine for pi — verify-driven iteration with subagent isolation and error tracking",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

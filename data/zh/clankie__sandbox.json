@@ -1,0 +1,6 @@
+{
+  "name": "@clankie/sandbox",
+  "description_en": "Gondolin micro-VM sandbox for clankie — runs agent tools inside an isolated VM with network policies, secret injection, and filesystem isolation",
+  "description_zh": "clankie 的 Gondolin 微型 VM 沙盒 — 在具有网络策略、秘密注入和文件系统隔离的隔离 VM 中运行代理工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

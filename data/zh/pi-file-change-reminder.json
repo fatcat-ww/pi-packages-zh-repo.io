@@ -1,0 +1,6 @@
+{
+  "name": "pi-file-change-reminder",
+  "description_en": "Pi extension that injects reminder messages when specific files are modified.",
+  "description_zh": "Pi 扩展，在特定文件被修改时注入提醒消息",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-pixel-header",
+  "path": "/packages/pi-pixel-header",
+  "url": "https://pi.dev/packages/pi-pixel-header",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 509,
+  "date_ms": 1782018873165,
+  "description_en": "Pixel Pi logo header with random Catppuccin Mocha accents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

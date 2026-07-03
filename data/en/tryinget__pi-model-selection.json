@@ -1,0 +1,13 @@
+{
+  "name": "@tryinget/pi-model-selection",
+  "path": "/packages/@tryinget/pi-model-selection",
+  "url": "https://pi.dev/packages/@tryinget/pi-model-selection",
+  "types": "prompt",
+  "type_list": [
+    "prompt"
+  ],
+  "downloads": 48,
+  "date_ms": 1778728389046,
+  "description_en": "Shared Pi model selection and auth resolution primitives.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@pi-archimedes/notify",
+  "path": "/packages/@pi-archimedes/notify",
+  "url": "https://pi.dev/packages/@pi-archimedes/notify",
+  "types": "",
+  "type_list": [],
+  "downloads": 268,
+  "date_ms": 1783083069906,
+  "description_en": "Delayed desktop notifications with circuit breaker for pi-archimedes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

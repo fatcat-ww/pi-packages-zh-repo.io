@@ -1,0 +1,11 @@
+{
+  "name": "bun-docx",
+  "path": "/packages/bun-docx",
+  "url": "https://pi.dev/packages/bun-docx",
+  "types": "",
+  "type_list": [],
+  "downloads": 1793,
+  "date_ms": 1782851613781,
+  "description_en": "Read, edit, redline, and comment on Microsoft Word .docx files from the command line — built for AI agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

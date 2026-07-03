@@ -1,0 +1,6 @@
+{
+  "name": "pi-code-rollback",
+  "description_en": "Claude Code-style restore for pi with automatic git-backed code snapshots and restore mode selection",
+  "description_zh": "带有自动 git 支持的代码快照和恢复模式选择的 Claude Code 样式恢复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

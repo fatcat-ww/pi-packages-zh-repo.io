@@ -1,0 +1,13 @@
+{
+  "name": "@jamesjfoong/pi-ollama",
+  "path": "/packages/@jamesjfoong/pi-ollama",
+  "url": "https://pi.dev/packages/@jamesjfoong/pi-ollama",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 185,
+  "date_ms": 1777731195481,
+  "description_en": "Auto-discover and register Ollama models in pi. No more manual models.json editing.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

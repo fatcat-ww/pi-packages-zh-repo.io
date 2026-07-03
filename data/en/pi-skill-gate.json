@@ -1,0 +1,14 @@
+{
+  "name": "pi-skill-gate",
+  "path": "/packages/pi-skill-gate",
+  "url": "https://pi.dev/packages/pi-skill-gate",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 1936,
+  "date_ms": 1782641873815,
+  "description_en": "Interactive skill visibility manager for pi coding agent — browse, toggle, invoke, and track usage of skills from a keyboard-driven TUI overlay.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

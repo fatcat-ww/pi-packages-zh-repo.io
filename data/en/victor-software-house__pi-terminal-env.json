@@ -1,0 +1,11 @@
+{
+  "name": "@victor-software-house/pi-terminal-env",
+  "path": "/packages/@victor-software-house/pi-terminal-env",
+  "url": "https://pi.dev/packages/@victor-software-house/pi-terminal-env",
+  "types": "",
+  "type_list": [],
+  "downloads": 123,
+  "date_ms": 1778652166835,
+  "description_en": "Tiny zero-dep helpers to detect the terminal emulator pi is running in (iTerm2, tmux, etc.). Pure env-var probes, no I/O.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

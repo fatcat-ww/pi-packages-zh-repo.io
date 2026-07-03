@@ -1,0 +1,13 @@
+{
+  "name": "@geminixiang/pi-cicd-status",
+  "path": "/packages/@geminixiang/pi-cicd-status",
+  "url": "https://pi.dev/packages/@geminixiang/pi-cicd-status",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 169,
+  "date_ms": 1777868207631,
+  "description_en": "Pi coding agent skill for checking CI/CD status from GitHub check runs, workflow runs, branches, PRs, commits, and releases",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

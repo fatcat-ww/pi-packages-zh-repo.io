@@ -1,0 +1,11 @@
+{
+  "name": "@jnsahaj/pi-lumen-diff",
+  "path": "/packages/@jnsahaj/pi-lumen-diff",
+  "url": "https://pi.dev/packages/@jnsahaj/pi-lumen-diff",
+  "types": "",
+  "type_list": [],
+  "downloads": 193,
+  "date_ms": 1780259831882,
+  "description_en": "Pi extension that opens lumen on the diff after each agent turn and feeds annotations back as the next user message",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

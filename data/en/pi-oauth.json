@@ -1,0 +1,13 @@
+{
+  "name": "pi-oauth",
+  "path": "/packages/pi-oauth",
+  "url": "https://pi.dev/packages/pi-oauth",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 30,
+  "date_ms": 1779765233156,
+  "description_en": "Installable pi package for OAuth/subscription-backed model providers not yet built into pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

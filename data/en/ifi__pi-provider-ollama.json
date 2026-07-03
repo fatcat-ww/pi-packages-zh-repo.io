@@ -1,0 +1,11 @@
+{
+  "name": "@ifi/pi-provider-ollama",
+  "path": "/packages/@ifi/pi-provider-ollama",
+  "url": "https://pi.dev/packages/@ifi/pi-provider-ollama",
+  "types": "",
+  "type_list": [],
+  "downloads": 55,
+  "date_ms": 1777355414007,
+  "description_en": "Experimental Ollama provider for pi with local discovery and cloud login support.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

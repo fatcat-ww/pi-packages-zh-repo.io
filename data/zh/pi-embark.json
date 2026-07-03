@@ -1,0 +1,6 @@
+{
+  "name": "pi-embark",
+  "description_en": "Pi extension and remote task runner for dispatching Embark jobs through a Cloudflare broker to remote Pi workers.",
+  "description_zh": "Pi 扩展和远程任务运行器，通过 Cloudflare 经纪人将 Embark 作业分派到远程 Pi 工作器。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

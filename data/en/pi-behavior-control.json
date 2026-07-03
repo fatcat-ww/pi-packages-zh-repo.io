@@ -1,0 +1,11 @@
+{
+  "name": "pi-behavior-control",
+  "path": "/packages/pi-behavior-control",
+  "url": "https://pi.dev/packages/pi-behavior-control",
+  "types": "",
+  "type_list": [],
+  "downloads": 1207,
+  "date_ms": 1782917019520,
+  "description_en": "Pi extension that enforces read-before-edit, post-edit review reminders, and speculation verification on every assistant turn. Runtime-agnostic — runs under upstream pi (@earendil-works/pi-coding-agent) and OMP (@oh-my-pi/pi-coding-agent).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

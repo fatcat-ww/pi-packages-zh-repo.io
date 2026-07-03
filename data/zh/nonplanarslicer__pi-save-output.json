@@ -1,0 +1,6 @@
+{
+  "name": "@nonplanarslicer/pi-save-output",
+  "description_en": "Save the last assistant message to a markdown file via /save-output",
+  "description_zh": "通过 /save-output 将最后一条助手消息保存到 markdown 文件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

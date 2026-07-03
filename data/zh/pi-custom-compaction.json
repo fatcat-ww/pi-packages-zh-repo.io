@@ -1,0 +1,6 @@
+{
+  "name": "pi-custom-compaction",
+  "description_en": "Custom compaction for pi — swap the model, template, and trigger for context compaction",
+  "description_zh": "pi 的自定义压缩 — 替换上下文压缩的模型、模板和触发器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

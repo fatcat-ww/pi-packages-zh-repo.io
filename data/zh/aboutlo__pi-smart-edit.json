@@ -1,0 +1,6 @@
+{
+  "name": "@aboutlo/pi-smart-edit",
+  "description_en": "A [pi](https://github.com/badlogic/pi) extension that overrides the built-in `edit` tool with whitespace-tolerant matching, designed for local/quantized LLMs.",
+  "description_zh": "一个覆盖内置 `edit` 工具的 [pi] 扩展，具有空容错匹配，专为本地/量化 LLM 设计",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

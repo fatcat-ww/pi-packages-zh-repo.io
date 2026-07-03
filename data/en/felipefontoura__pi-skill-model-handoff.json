@@ -1,0 +1,14 @@
+{
+  "name": "@felipefontoura/pi-skill-model-handoff",
+  "path": "/packages/@felipefontoura/pi-skill-model-handoff",
+  "url": "https://pi.dev/packages/@felipefontoura/pi-skill-model-handoff",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 66,
+  "date_ms": 1778798449639,
+  "description_en": "Pi extension that switches model/thinking from skill frontmatter",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "pi-theme-picker",
+  "path": "/packages/pi-theme-picker",
+  "url": "https://pi.dev/packages/pi-theme-picker",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 577,
+  "date_ms": 1780371691695,
+  "description_en": "Pi extension that adds a /theme command for switching themes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-cost",
+  "path": "/packages/pi-cost",
+  "url": "https://pi.dev/packages/pi-cost",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 254,
+  "date_ms": 1779025622743,
+  "description_en": "Cost dashboard for the pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-supacode",
+  "description_en": "Pi extension that reports agent lifecycle hooks to Supacode via Unix domain socket",
+  "description_zh": "Pi 扩展，通过 Unix 域套接字向 Supacode 报告代理生命周期钩子",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

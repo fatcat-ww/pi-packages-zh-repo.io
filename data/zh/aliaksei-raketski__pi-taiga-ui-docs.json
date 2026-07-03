@@ -1,0 +1,6 @@
+{
+  "name": "@aliaksei-raketski/pi-taiga-ui-docs",
+  "description_en": "Pi package with a Taiga UI docs skill backed by a self-contained llms-full.txt helper script.",
+  "description_zh": "带有自包含 llms-full.txt 帮助脚本支持的 Taiga UI 文档技能的 Pi 包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

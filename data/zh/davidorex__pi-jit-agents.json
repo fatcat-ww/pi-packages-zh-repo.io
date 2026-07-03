@@ -1,0 +1,6 @@
+{
+  "name": "@davidorex/pi-jit-agents",
+  "description_en": "Agent spec compilation and in-process dispatch runtime — the package that owns everything between 'I have a spec' and 'I have a typed result'",
+  "description_zh": "代理规范编译和进程内调度运行时 — 拥有从'我有一个规范'到'我有一个类型化结果'之间的所有内容。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

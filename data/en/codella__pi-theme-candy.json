@@ -1,0 +1,13 @@
+{
+  "name": "@codella/pi-theme-candy",
+  "path": "/packages/@codella/pi-theme-candy",
+  "url": "https://pi.dev/packages/@codella/pi-theme-candy",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 72,
+  "date_ms": 1779829415592,
+  "description_en": "Bright neon candy theme for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

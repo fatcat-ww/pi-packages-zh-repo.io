@@ -1,0 +1,13 @@
+{
+  "name": "pi-evolve",
+  "path": "/packages/pi-evolve",
+  "url": "https://pi.dev/packages/pi-evolve",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 34,
+  "date_ms": 1776714410323,
+  "description_en": "Genetic-programming style brainstorming command for pi. /evolve generates 5 alternatives, you pick one, repeat until you finalize.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

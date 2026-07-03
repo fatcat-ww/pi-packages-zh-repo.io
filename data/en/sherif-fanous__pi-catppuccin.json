@@ -1,0 +1,13 @@
+{
+  "name": "@sherif-fanous/pi-catppuccin",
+  "path": "/packages/@sherif-fanous/pi-catppuccin",
+  "url": "https://pi.dev/packages/@sherif-fanous/pi-catppuccin",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 323,
+  "date_ms": 1775344106817,
+  "description_en": "Catppuccin themes for the Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

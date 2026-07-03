@@ -1,0 +1,15 @@
+{
+  "name": "@vpellegrino/pi-skills",
+  "path": "/packages/@vpellegrino/pi-skills",
+  "url": "https://pi.dev/packages/@vpellegrino/pi-skills",
+  "types": "extension skill theme",
+  "type_list": [
+    "extension",
+    "skill",
+    "theme"
+  ],
+  "downloads": 83,
+  "date_ms": 1770050507761,
+  "description_en": "Vitor's collection of pi coding agent skills, extensions, and themes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

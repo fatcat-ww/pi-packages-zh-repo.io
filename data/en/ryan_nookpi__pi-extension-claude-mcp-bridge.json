@@ -1,0 +1,11 @@
+{
+  "name": "@ryan_nookpi/pi-extension-claude-mcp-bridge",
+  "path": "/packages/@ryan_nookpi/pi-extension-claude-mcp-bridge",
+  "url": "https://pi.dev/packages/@ryan_nookpi/pi-extension-claude-mcp-bridge",
+  "types": "",
+  "type_list": [],
+  "downloads": 99,
+  "date_ms": 1779080952290,
+  "description_en": "Bridge Claude Code MCP server configs into pi — auto-discovers tools from stdio/sse/http MCP servers.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

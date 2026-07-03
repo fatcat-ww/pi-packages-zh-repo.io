@@ -1,0 +1,11 @@
+{
+  "name": "pi-neovim",
+  "path": "/packages/pi-neovim",
+  "url": "https://pi.dev/packages/pi-neovim",
+  "types": "",
+  "type_list": [],
+  "downloads": 73,
+  "date_ms": 1779405371640,
+  "description_en": "A Neovim tool for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@firstpick/pi-skill-repo-explorer",
+  "path": "/packages/@firstpick/pi-skill-repo-explorer",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-repo-explorer",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 1287,
+  "date_ms": 1782042735549,
+  "description_en": "Agents should invoke this skill before modifying unfamiliar codebases, answering where/how something is implemented, tracing dependencies, mapping repo structure, or planning changes. Explores a repository and returns a strict JSON handoff with key files,",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

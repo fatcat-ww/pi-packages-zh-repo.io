@@ -1,0 +1,11 @@
+{
+  "name": "pi-usage-stats",
+  "path": "/packages/pi-usage-stats",
+  "url": "https://pi.dev/packages/pi-usage-stats",
+  "types": "",
+  "type_list": [],
+  "downloads": 217,
+  "date_ms": 1780308870325,
+  "description_en": "Tool and command usage statistics for pi-coding-agent extensions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

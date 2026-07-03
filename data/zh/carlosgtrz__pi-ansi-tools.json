@@ -1,0 +1,6 @@
+{
+  "name": "@carlosgtrz/pi-ansi-tools",
+  "description_en": "Pi extension with read_ansi, write_ansi, and edit_ansi tools for legacy-encoded source files.",
+  "description_zh": "Pi扩展，包含用于遗留编码源文件的read_ansi、write_ansi和edit_ansi工具。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

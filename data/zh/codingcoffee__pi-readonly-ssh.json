@@ -1,0 +1,6 @@
+{
+  "name": "@codingcoffee/pi-readonly-ssh",
+  "description_en": "a pi extension for safely running allow-listed, read-only commands on remote hosts over SSH",
+  "description_zh": "一个 pi 扩展，用于通过 SSH 在远程主机上安全运行允许的只读命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

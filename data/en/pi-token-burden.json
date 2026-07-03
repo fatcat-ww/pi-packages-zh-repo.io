@@ -1,0 +1,13 @@
+{
+  "name": "pi-token-burden",
+  "path": "/packages/pi-token-burden",
+  "url": "https://pi.dev/packages/pi-token-burden",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 614,
+  "date_ms": 1778985740766,
+  "description_en": "Pi extension that shows a token-budget breakdown of the assembled system prompt",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

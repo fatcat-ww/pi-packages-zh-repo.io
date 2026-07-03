@@ -1,0 +1,13 @@
+{
+  "name": "pi-auto-router",
+  "path": "/packages/pi-auto-router",
+  "url": "https://pi.dev/packages/pi-auto-router",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 597,
+  "date_ms": 1780982023132,
+  "description_en": "pi-auto-router: auto-router and failover extension for Pi coding agent with multi-provider routing, budget-aware policies, and same-request failover",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

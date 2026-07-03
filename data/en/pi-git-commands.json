@@ -1,0 +1,13 @@
+{
+  "name": "pi-git-commands",
+  "path": "/packages/pi-git-commands",
+  "url": "https://pi.dev/packages/pi-git-commands",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 82,
+  "date_ms": 1778936462100,
+  "description_en": "Pi agent extension: /git-commit, /git-push, and /git-tag for commits, pushes, and tag management",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

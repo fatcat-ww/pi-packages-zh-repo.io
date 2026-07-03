@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/prd-to-plan-skill",
+  "path": "/packages/@barlevalon/prd-to-plan-skill",
+  "url": "https://pi.dev/packages/@barlevalon/prd-to-plan-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 182,
+  "date_ms": 1780948730698,
+  "description_en": "Turn a PRD into a multi-phase implementation plan using tracer-bullet vertical slices, saved as a local Markdown file in ./plans/. Use when user wants to break down a PRD, create an implementation plan, plan phases fr...",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

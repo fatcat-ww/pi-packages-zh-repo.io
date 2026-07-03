@@ -1,0 +1,11 @@
+{
+  "name": "pi-supersafety",
+  "path": "/packages/pi-supersafety",
+  "url": "https://pi.dev/packages/pi-supersafety",
+  "types": "",
+  "type_list": [],
+  "downloads": 240,
+  "date_ms": 1777511012319,
+  "description_en": "When the example safety extensions don't cover what you need, this should! Simple with approval flow and windows sandbox capability (with Sandboxie)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

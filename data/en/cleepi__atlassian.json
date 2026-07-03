@@ -1,0 +1,11 @@
+{
+  "name": "@cleepi/atlassian",
+  "path": "/packages/@cleepi/atlassian",
+  "url": "https://pi.dev/packages/@cleepi/atlassian",
+  "types": "",
+  "type_list": [],
+  "downloads": 752,
+  "date_ms": 1780494685534,
+  "description_en": "Cleevio taste layer over Atlassian's Rovo MCP server: skill + /spec-from-ticket prompt for the ticket → spec → implementation pipeline. Soft-aware of @cleepi/sdd.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

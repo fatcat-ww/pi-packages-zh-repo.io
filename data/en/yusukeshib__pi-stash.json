@@ -1,0 +1,14 @@
+{
+  "name": "@yusukeshib/pi-stash",
+  "path": "/packages/@yusukeshib/pi-stash",
+  "url": "https://pi.dev/packages/@yusukeshib/pi-stash",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 244,
+  "date_ms": 1782566069797,
+  "description_en": "A personal stash of reusable prompt fragments for the Pi coding agent. Push prompts you think of mid-task, then pop them into the editor when you need them.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

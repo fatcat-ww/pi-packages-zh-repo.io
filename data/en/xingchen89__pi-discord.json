@@ -1,0 +1,13 @@
+{
+  "name": "@xingchen89/pi-discord",
+  "path": "/packages/@xingchen89/pi-discord",
+  "url": "https://pi.dev/packages/@xingchen89/pi-discord",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 22,
+  "date_ms": 1780990103569,
+  "description_en": "Pi extension: remote control Pi via Discord Bot — Gateway chat bridge using discord.js",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

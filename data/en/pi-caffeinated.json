@@ -1,0 +1,13 @@
+{
+  "name": "pi-caffeinated",
+  "path": "/packages/pi-caffeinated",
+  "url": "https://pi.dev/packages/pi-caffeinated",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 51,
+  "date_ms": 1778181701247,
+  "description_en": "Pi extension that toggles a cross-platform keep-awake process with a centered coffee break modal.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

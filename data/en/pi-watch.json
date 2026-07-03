@@ -1,0 +1,13 @@
+{
+  "name": "pi-watch",
+  "path": "/packages/pi-watch",
+  "url": "https://pi.dev/packages/pi-watch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 31,
+  "date_ms": 1769678263553,
+  "description_en": "Pi extension that watches for AI comments in your code and sends them to the agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

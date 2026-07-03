@@ -1,0 +1,11 @@
+{
+  "name": "pi-context-loader",
+  "path": "/packages/pi-context-loader",
+  "url": "https://pi.dev/packages/pi-context-loader",
+  "types": "",
+  "type_list": [],
+  "downloads": 150,
+  "date_ms": 1781976808507,
+  "description_en": "Config-driven context injection for Pi agents. Loads files at session start and injects them as system prompt or message.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-openrouter-fallback",
+  "description_en": "Pi extension for OpenRouter model scoping and automatic switch to openrouter/free on HTTP 403 with auto-resubmit",
+  "description_zh": "Pi 的 OpenRouter 模型范围扩展，在 HTTP 403 时自动切换到 openrouter/free 并自动重新提交",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

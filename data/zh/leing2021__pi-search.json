@@ -1,0 +1,6 @@
+{
+  "name": "@leing2021/pi-search",
+  "description_en": "Minimal Secure Evidence Gateway for Pi Coding Agent — search, web_search, web_fetch, research_search. Intent-based provider routing, quota fallback, dual-LLM research, 4-layer abuse prevention.",
+  "description_zh": "Pi Coding Agent 的最小安全证据网关 — search、web_search、web_fetch、research_search。基于意图的提供者路由、配额回退、双 LLM 研究、四层滥用防护。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

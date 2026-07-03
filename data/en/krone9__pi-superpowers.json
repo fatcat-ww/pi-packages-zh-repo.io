@@ -1,0 +1,13 @@
+{
+  "name": "@krone9/pi-superpowers",
+  "path": "/packages/@krone9/pi-superpowers",
+  "url": "https://pi.dev/packages/@krone9/pi-superpowers",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 40,
+  "date_ms": 1778183470286,
+  "description_en": "Process-discipline skills bundle for pi (brainstorming, systematic debugging, TDD, plans, verification, worktrees, parallel agents). Inspired by Claude Code's superpowers plugin.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

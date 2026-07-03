@@ -1,0 +1,13 @@
+{
+  "name": "pi-sub2api-provider",
+  "path": "/packages/pi-sub2api-provider",
+  "url": "https://pi.dev/packages/pi-sub2api-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782975068427,
+  "description_en": "Pi extension that auto-registers sub2api/OpenAI-compatible providers and displays quota usage.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

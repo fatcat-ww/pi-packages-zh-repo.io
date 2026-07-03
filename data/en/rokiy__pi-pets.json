@@ -1,0 +1,13 @@
+{
+  "name": "@rokiy/pi-pets",
+  "path": "/packages/@rokiy/pi-pets",
+  "url": "https://pi.dev/packages/@rokiy/pi-pets",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 285,
+  "date_ms": 1780128139090,
+  "description_en": "A virtual pet system for pi - hatch, raise, and bond with coding companions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

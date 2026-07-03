@@ -1,0 +1,11 @@
+{
+  "name": "pi-mulerouter",
+  "path": "/packages/pi-mulerouter",
+  "url": "https://pi.dev/packages/pi-mulerouter",
+  "types": "",
+  "type_list": [],
+  "downloads": 194,
+  "date_ms": 1781465950927,
+  "description_en": "MuleRouter provider for Pi — auto-discovers LLM models via the MuleRouter API",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

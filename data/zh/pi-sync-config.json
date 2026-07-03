@@ -1,0 +1,6 @@
+{
+  "name": "pi-sync-config",
+  "description_en": "Sync your pi config (settings, extensions, themes, skills, prompts) to a remote git repository",
+  "description_zh": "将您的 pi 配置（设置、扩展、主题、技能、提示）同步到远程 git 仓库",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

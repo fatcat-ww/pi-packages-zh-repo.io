@@ -1,0 +1,11 @@
+{
+  "name": "@igormaka/pi-sandbox",
+  "path": "/packages/@igormaka/pi-sandbox",
+  "url": "https://pi.dev/packages/@igormaka/pi-sandbox",
+  "types": "",
+  "type_list": [],
+  "downloads": 95,
+  "date_ms": 1779473592640,
+  "description_en": "A proper sandbox extension for pi, using the Anthropic Sandbox Runtime",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

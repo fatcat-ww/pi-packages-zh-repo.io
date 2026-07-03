@@ -1,0 +1,13 @@
+{
+  "name": "pi-claude-permissions",
+  "path": "/packages/pi-claude-permissions",
+  "url": "https://pi.dev/packages/pi-claude-permissions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 316,
+  "date_ms": 1777015917424,
+  "description_en": "Claude-style allow/deny/ask permission lists for Pi tool calls",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

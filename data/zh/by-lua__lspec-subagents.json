@@ -1,0 +1,6 @@
+{
+  "name": "@by-lua/lspec-subagents",
+  "description_en": "L-Spec Subagents — 9 specialized agents for PI.dev with centralized model config (inspired by oh-my-opencode-slim). Forked from @tintinweb/pi-subagents.",
+  "description_zh": "L-Spec 子代理 — PI.dev 的 9 个专业代理，具有集中式模型配置（受 oh-my-opencode-slim 启发）。从 @tintinweb/pi-subagents 分叉。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

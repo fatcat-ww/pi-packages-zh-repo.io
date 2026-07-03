@@ -1,0 +1,6 @@
+{
+  "name": "@burneikis/pi-copy-code",
+  "description_en": "Pi coding-agent extension that copies fenced code blocks from recent assistant (and tool result) messages into the system clipboard.",
+  "description_zh": "pi 编码代理扩展，将最近的助手（和工具结果）消息中的围栏代码块复制到系统剪贴板",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

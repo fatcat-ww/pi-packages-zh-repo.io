@@ -1,0 +1,13 @@
+{
+  "name": "@gaurav-321/pi-local-llm",
+  "path": "/packages/@gaurav-321/pi-local-llm",
+  "url": "https://pi.dev/packages/@gaurav-321/pi-local-llm",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782926834519,
+  "description_en": "Pi extension: llama-swap provider with dynamic model discovery",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

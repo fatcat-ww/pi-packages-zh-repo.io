@@ -1,0 +1,13 @@
+{
+  "name": "@claaslange/pi-progress-bar",
+  "path": "/packages/@claaslange/pi-progress-bar",
+  "url": "https://pi.dev/packages/@claaslange/pi-progress-bar",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 220,
+  "date_ms": 1780912943938,
+  "description_en": "Native terminal progress indicator support for pi via OSC 9;4",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-mono-team-mode",
+  "path": "/packages/pi-mono-team-mode",
+  "url": "https://pi.dev/packages/pi-mono-team-mode",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 115,
+  "date_ms": 1778280212321,
+  "description_en": "Pi extension for flat peer-agent orchestration — named, addressable teammates with resumable context (mirrors Claude Code's team-mate model)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "osdy-pi",
+  "path": "/packages/osdy-pi",
+  "url": "https://pi.dev/packages/osdy-pi",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 238,
+  "date_ms": 1779291075004,
+  "description_en": "Osdy Pi package: themes, header, and custom editor for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

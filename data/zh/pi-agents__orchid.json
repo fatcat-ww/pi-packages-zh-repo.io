@@ -1,0 +1,6 @@
+{
+  "name": "@pi-agents/orchid",
+  "description_en": "Unified pi orchestration package combining batch orchestrator, Ralph loop, and subagent dispatch for multi-agent pipelines",
+  "description_zh": "统一的 pi 编排包，结合批处理编排器、Ralph 循环和子代理调度，用于多代理流水线",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

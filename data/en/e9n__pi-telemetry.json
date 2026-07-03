@@ -1,0 +1,11 @@
+{
+  "name": "@e9n/pi-telemetry",
+  "path": "/packages/@e9n/pi-telemetry",
+  "url": "https://pi.dev/packages/@e9n/pi-telemetry",
+  "types": "",
+  "type_list": [],
+  "downloads": 54,
+  "date_ms": 1777233174424,
+  "description_en": "Local telemetry extension for pi — captures session events and writes to disk",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

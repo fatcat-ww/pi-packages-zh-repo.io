@@ -1,0 +1,6 @@
+{
+  "name": "pi-subagents-router",
+  "description_en": "A Pi extension that routes agents based on task descriptions using useWhen and avoidWhen criteria",
+  "description_zh": "Pi 扩展，根据任务描述使用 useWhen 和 avoidWhen 条件路由代理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

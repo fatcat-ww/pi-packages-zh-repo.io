@@ -1,0 +1,13 @@
+{
+  "name": "pi-secure-env-collect",
+  "path": "/packages/pi-secure-env-collect",
+  "url": "https://pi.dev/packages/pi-secure-env-collect",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 83,
+  "date_ms": 1776766495163,
+  "description_en": "Secure env var collection tool for Pi with masked input and destination writers",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

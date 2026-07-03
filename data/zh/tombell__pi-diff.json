@@ -1,0 +1,6 @@
+{
+  "name": "@tombell/pi-diff",
+  "description_en": "Show git diff for files changed during the current Pi session",
+  "description_zh": "显示当前 Pi 会话期间更改的文件的 git diff",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

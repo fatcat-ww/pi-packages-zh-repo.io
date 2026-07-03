@@ -1,0 +1,6 @@
+{
+  "name": "@diegopetrucci/pi-agent-workflow-audit",
+  "description_en": "A pi extension that runs an isolated repo workflow audit and returns only the final report to the main session.",
+  "description_zh": "一个 pi 扩展，运行独立的仓库工作流审计，并将最终报告返回给主会话",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

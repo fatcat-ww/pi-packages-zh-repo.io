@@ -1,0 +1,13 @@
+{
+  "name": "@ramarivera/pi-prompt-maestro",
+  "path": "/packages/@ramarivera/pi-prompt-maestro",
+  "url": "https://pi.dev/packages/@ramarivera/pi-prompt-maestro",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 89,
+  "date_ms": 1781428084671,
+  "description_en": "Pi extension providing ergonomic prompt-box utilities, saved prompts, snippets, draft capture, and fuzzy prompt insertion workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

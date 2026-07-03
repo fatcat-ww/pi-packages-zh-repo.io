@@ -1,0 +1,6 @@
+{
+  "name": "pi-compound",
+  "description_en": "Turn your past Pi sessions into system-prompt context docs. A two-stage LLM pipeline extracts durable preferences from session transcripts; you approve or reject from a TUI; approved items are appended to plain-markdown docs that ship verbatim to your sys",
+  "description_zh": "将过去的 Pi 会话转换为系统提示上下文文档。两阶段 LLM 管道从会话记录中提取持久偏好；您可以从 TUI 批准或拒绝；批准的项目将附加到纯 Markdown 文档中，这些文档将原样发送到您的系统",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

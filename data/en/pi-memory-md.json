@@ -1,0 +1,14 @@
+{
+  "name": "pi-memory-md",
+  "path": "/packages/pi-memory-md",
+  "url": "https://pi.dev/packages/pi-memory-md",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 596,
+  "date_ms": 1779703698037,
+  "description_en": "Letta-like memory management for pi using structured markdown files in a git repository",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

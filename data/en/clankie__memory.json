@@ -1,0 +1,11 @@
+{
+  "name": "@clankie/memory",
+  "path": "/packages/@clankie/memory",
+  "url": "https://pi.dev/packages/@clankie/memory",
+  "types": "",
+  "type_list": [],
+  "downloads": 79,
+  "date_ms": 1773234849434,
+  "description_en": "Persistent memory with TursoDB native vector search for clankie",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

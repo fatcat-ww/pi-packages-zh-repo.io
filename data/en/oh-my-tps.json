@@ -1,0 +1,13 @@
+{
+  "name": "oh-my-tps",
+  "path": "/packages/oh-my-tps",
+  "url": "https://pi.dev/packages/oh-my-tps",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 350,
+  "date_ms": 1781099215887,
+  "description_en": "Tiny live TTFT and TPS readouts for the Pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

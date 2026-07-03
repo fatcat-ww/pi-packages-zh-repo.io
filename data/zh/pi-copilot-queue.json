@@ -1,0 +1,6 @@
+{
+  "name": "pi-copilot-queue",
+  "description_en": "Pi extension that queues ask_user responses for Copilot-style workflows",
+  "description_zh": "Pi 扩展，为 Copilot 风格工作流程排队 ask_user 响应",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

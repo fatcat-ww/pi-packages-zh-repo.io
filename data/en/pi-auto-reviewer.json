@@ -1,0 +1,11 @@
+{
+  "name": "pi-auto-reviewer",
+  "path": "/packages/pi-auto-reviewer",
+  "url": "https://pi.dev/packages/pi-auto-reviewer",
+  "types": "",
+  "type_list": [],
+  "downloads": 916,
+  "date_ms": 1782234248871,
+  "description_en": "Auto-review bash commands before your pi agent executes them — akin to Codex Auto-review and Claude Code auto mode.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

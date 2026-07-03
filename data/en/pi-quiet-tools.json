@@ -1,0 +1,13 @@
+{
+  "name": "pi-quiet-tools",
+  "path": "/packages/pi-quiet-tools",
+  "url": "https://pi.dev/packages/pi-quiet-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 95,
+  "date_ms": 1778245890586,
+  "description_en": "Pi extension that automatically compacts large tool outputs before they enter the model context window, saving tokens while preserving full output as recoverable local artifacts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

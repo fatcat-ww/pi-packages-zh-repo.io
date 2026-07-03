@@ -1,0 +1,13 @@
+{
+  "name": "@gotgenes/pi-subagents",
+  "path": "/packages/@gotgenes/pi-subagents",
+  "url": "https://pi.dev/packages/@gotgenes/pi-subagents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 12167,
+  "date_ms": 1782266052241,
+  "description_en": "A focused, in-process sub-agent core for pi — autonomous agents plus a typed API and lifecycle events other extensions build on. Friendly fork of @tintinweb/pi-subagents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-codex-status",
+  "path": "/packages/pi-codex-status",
+  "url": "https://pi.dev/packages/pi-codex-status",
+  "types": "",
+  "type_list": [],
+  "downloads": 99,
+  "date_ms": 1778064345530,
+  "description_en": "ChatGPT Codex quota/status CLI and pi extension",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-rag",
+  "path": "/packages/@artale/pi-rag",
+  "url": "https://pi.dev/packages/@artale/pi-rag",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 46,
+  "date_ms": 1772982591923,
+  "description_en": "Local RAG pipeline. BM25 keyword search over indexed files. Zero cloud, zero deps, fully offline.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

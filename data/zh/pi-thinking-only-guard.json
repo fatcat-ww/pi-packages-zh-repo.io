@@ -1,0 +1,6 @@
+{
+  "name": "pi-thinking-only-guard",
+  "description_en": "Auto-recover trapped tool calls from thinking blocks for Qwen3.6 and similar models",
+  "description_zh": "从思考块中自动恢复被困的工具调用，适用于 Qwen3.6 和类似模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

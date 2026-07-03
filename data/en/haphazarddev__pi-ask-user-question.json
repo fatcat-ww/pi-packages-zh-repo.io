@@ -1,0 +1,13 @@
+{
+  "name": "@haphazarddev/pi-ask-user-question",
+  "path": "/packages/@haphazarddev/pi-ask-user-question",
+  "url": "https://pi.dev/packages/@haphazarddev/pi-ask-user-question",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 253,
+  "date_ms": 1781304217077,
+  "description_en": "A pi extension that adds an ask_user_question tool for collecting clarification, confirmation, and input through the UI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

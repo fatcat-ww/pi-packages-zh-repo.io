@@ -1,0 +1,6 @@
+{
+  "name": "@arvoretech/pi-cloud-sessions",
+  "description_en": "PI extension that syncs your pi sessions to a cloud backend (private Git repo or iCloud Drive) so you can resume them from any machine",
+  "description_zh": "将 Pi 会话同步到云后端的扩展（私有 Git 仓库或 iCloud Drive），以便在任何机器上恢复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

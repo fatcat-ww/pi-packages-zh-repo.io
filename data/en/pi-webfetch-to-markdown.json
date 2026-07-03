@@ -1,0 +1,13 @@
+{
+  "name": "pi-webfetch-to-markdown",
+  "path": "/packages/pi-webfetch-to-markdown",
+  "url": "https://pi.dev/packages/pi-webfetch-to-markdown",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 33,
+  "date_ms": 1772663034174,
+  "description_en": "Fetch web content as clean Markdown for AI consumption. Supports Cloudflare's Markdown for Agents content negotiation with Turndown fallback.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-lean-portal",
+  "path": "/packages/pi-lean-portal",
+  "url": "https://pi.dev/packages/pi-lean-portal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 314,
+  "date_ms": 1782320789503,
+  "description_en": "Pi extension. Interactive web browsing for Pi — Playwright Chromium/Firefox, accessibility-tree snapshots, profiles, cookies, guides. Owns the /web command.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

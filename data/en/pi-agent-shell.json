@@ -1,0 +1,13 @@
+{
+  "name": "pi-agent-shell",
+  "path": "/packages/pi-agent-shell",
+  "url": "https://pi.dev/packages/pi-agent-shell",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 27,
+  "date_ms": 1778179207914,
+  "description_en": "High-performance interactive shell extension for pi — OS-level read-block detection gives agents a single turn() primitive with no polling or timing heuristics",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-env",
+  "path": "/packages/pi-env",
+  "url": "https://pi.dev/packages/pi-env",
+  "types": "",
+  "type_list": [],
+  "downloads": 286,
+  "date_ms": 1780942135783,
+  "description_en": "Pi extension that sets process environment variables from settings.json",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@bakaschwarz/pi-update-adesso",
+  "path": "/packages/@bakaschwarz/pi-update-adesso",
+  "url": "https://pi.dev/packages/@bakaschwarz/pi-update-adesso",
+  "types": "",
+  "type_list": [],
+  "downloads": 41,
+  "date_ms": 1778146095882,
+  "description_en": "pi extension for syncing providers/models from the Adesso AI Hub and viewing usage spend",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

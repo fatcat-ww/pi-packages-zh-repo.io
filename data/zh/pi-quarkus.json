@@ -1,0 +1,6 @@
+{
+  "name": "pi-quarkus",
+  "description_en": "Quarkus extension for pi — dev-mode management via quarkus-agent-mcp",
+  "description_zh": "Pi的Quarkus扩展 — 通过quarkus-agent-mcp进行dev-mode管理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

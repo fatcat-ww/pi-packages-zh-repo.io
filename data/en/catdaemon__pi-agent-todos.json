@@ -1,0 +1,11 @@
+{
+  "name": "@catdaemon/pi-agent-todos",
+  "path": "/packages/@catdaemon/pi-agent-todos",
+  "url": "https://pi.dev/packages/@catdaemon/pi-agent-todos",
+  "types": "",
+  "type_list": [],
+  "downloads": 89,
+  "date_ms": 1778453019414,
+  "description_en": "Conversation todo tools, prompt guidance, and status sidebar for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

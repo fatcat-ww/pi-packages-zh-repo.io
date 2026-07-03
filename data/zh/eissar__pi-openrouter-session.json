@@ -1,0 +1,6 @@
+{
+  "name": "@eissar/pi-openrouter-session",
+  "description_en": "highly minimal extension to send pi agent session ID to OpenRouter",
+  "description_zh": "极简扩展，将 pi 代理会话 ID 发送到 OpenRouter",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

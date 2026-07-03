@@ -1,0 +1,6 @@
+{
+  "name": "@odradekk/vera-session-tools",
+  "description_en": "Session lifecycle tools for Vera agent (ask-user, todo, check-vera, output-guard, compaction, prompt-rules, read-cap, conditional-rules, system-env, skill-catalog, time, notify-sound)",
+  "description_zh": "Vera 代理的会话生命周期工具（ask-user、todo、check-vera、output-guard、compaction、prompt-rules、read-cap、conditional-rules、system-env、skill-catalog、time、notify-sound）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

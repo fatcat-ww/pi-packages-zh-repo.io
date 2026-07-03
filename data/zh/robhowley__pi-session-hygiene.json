@@ -1,0 +1,6 @@
+{
+  "name": "@robhowley/pi-session-hygiene",
+  "description_en": "A tiny Pi extension that adds a session-health light to the status bar.",
+  "description_zh": "一个微小的 Pi 扩展，在状态栏中添加会话健康指示灯",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

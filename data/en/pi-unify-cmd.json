@@ -1,0 +1,13 @@
+{
+  "name": "pi-unify-cmd",
+  "path": "/packages/pi-unify-cmd",
+  "url": "https://pi.dev/packages/pi-unify-cmd",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 172,
+  "date_ms": 1780235865956,
+  "description_en": "Load slash commands from Claude Code, OpenCode, Codex, and Gemini CLI into pi — adapter pattern with configurable sources and formats",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

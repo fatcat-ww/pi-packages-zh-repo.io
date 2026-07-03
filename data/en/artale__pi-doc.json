@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-doc",
+  "path": "/packages/@artale/pi-doc",
+  "url": "https://pi.dev/packages/@artale/pi-doc",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 38,
+  "date_ms": 1772994087772,
+  "description_en": "Documentation generator. Scan exports, check doc coverage, scaffold READMEs, generate API reference.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

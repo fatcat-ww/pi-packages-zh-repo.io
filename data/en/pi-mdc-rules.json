@@ -1,0 +1,13 @@
+{
+  "name": "pi-mdc-rules",
+  "path": "/packages/pi-mdc-rules",
+  "url": "https://pi.dev/packages/pi-mdc-rules",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 48,
+  "date_ms": 1771900490351,
+  "description_en": "MDC rules extension for pi-coding-agent - loads and enforces rules from Markdown files",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

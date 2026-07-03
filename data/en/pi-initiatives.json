@@ -1,0 +1,11 @@
+{
+  "name": "pi-initiatives",
+  "path": "/packages/pi-initiatives",
+  "url": "https://pi.dev/packages/pi-initiatives",
+  "types": "",
+  "type_list": [],
+  "downloads": 28,
+  "date_ms": 1776807172792,
+  "description_en": "Initiative and project tracker for pi — manage initiatives, todos, and PRs with a split-panel TUI and LLM-callable tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

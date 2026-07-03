@@ -1,0 +1,14 @@
+{
+  "name": "@taterdoge/pi-ayu",
+  "path": "/packages/@taterdoge/pi-ayu",
+  "url": "https://pi.dev/packages/@taterdoge/pi-ayu",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 631,
+  "date_ms": 1780150103447,
+  "description_en": "Ayu dark and light color themes for the Pi Coding Agent. Low-contrast dark surface with amber, blue, green, and coral accents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

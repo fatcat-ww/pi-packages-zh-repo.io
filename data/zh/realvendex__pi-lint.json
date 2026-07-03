@@ -1,0 +1,6 @@
+{
+  "name": "@realvendex/pi-lint",
+  "description_en": "Pi-native extension linter that checks for pi-specific API anti-patterns — deterministic, no LLM calls, catches runtime bugs before npm publish",
+  "description_zh": "Pi 原生扩展检查器，检查 Pi 特定的 API 反模式 — 确定性，无 LLM 调用，在 npm 发布前捕获运行时错误",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-recon-tools",
+  "description_en": "Security reconnaissance toolkit. Headers audit, SSL check, DNS, port scan, tech fingerprinting, path discovery.",
+  "description_zh": "安全侦察工具包。头部审计、SSL 检查、DNS、端口扫描、技术指纹识别、路径发现。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

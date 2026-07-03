@@ -1,0 +1,11 @@
+{
+  "name": "@fingerskier/pi-dude",
+  "path": "/packages/@fingerskier/pi-dude",
+  "url": "https://pi.dev/packages/@fingerskier/pi-dude",
+  "types": "",
+  "type_list": [],
+  "downloads": 59,
+  "date_ms": 1778191279567,
+  "description_en": "Dude local memory plugin for Pi, bridged from dude-claude-plugin MCP",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

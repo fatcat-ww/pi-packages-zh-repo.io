@@ -1,0 +1,14 @@
+{
+  "name": "pi-macos-theme-sync",
+  "path": "/packages/pi-macos-theme-sync",
+  "url": "https://pi.dev/packages/pi-macos-theme-sync",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 37,
+  "date_ms": 1779789515778,
+  "description_en": "Pi package that syncs Pi's theme with macOS light/dark appearance without polling",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

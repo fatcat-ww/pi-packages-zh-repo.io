@@ -1,0 +1,13 @@
+{
+  "name": "@vtstech/pi-security",
+  "path": "/packages/@vtstech/pi-security",
+  "url": "https://pi.dev/packages/@vtstech/pi-security",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 406,
+  "date_ms": 1778719085783,
+  "description_en": "Security extension for Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

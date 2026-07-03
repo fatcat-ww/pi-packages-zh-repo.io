@@ -1,0 +1,6 @@
+{
+  "name": "@benvargas/pi-openai-fast",
+  "description_en": "OpenAI fast mode toggle for pi - Enables priority service tier on supported GPT-5 models",
+  "description_zh": "pi 的 OpenAI 快速模式切换 - 在支持的 GPT-5 模型上启用优先服务层",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

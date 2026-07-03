@@ -1,0 +1,13 @@
+{
+  "name": "pi-ui-minimal",
+  "path": "/packages/pi-ui-minimal",
+  "url": "https://pi.dev/packages/pi-ui-minimal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 46,
+  "date_ms": 1776736288829,
+  "description_en": "Minimal UI extension for Pi that hides footer info and removes dashed borders around the user input for a cleaner TUI experience.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

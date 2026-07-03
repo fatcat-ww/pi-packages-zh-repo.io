@@ -1,0 +1,13 @@
+{
+  "name": "@mcowger/pi-llmgateway",
+  "path": "/packages/@mcowger/pi-llmgateway",
+  "url": "https://pi.dev/packages/@mcowger/pi-llmgateway",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 175,
+  "date_ms": 1782189225326,
+  "description_en": "A Pi extension that adds [LLM Gateway](https://llmgateway.io) as a model provider, giving you access to 160+ chat models from OpenAI, Anthropic, Google, xAI, Mistral, DeepSeek, and many others through a single OpenAI-compatible API.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

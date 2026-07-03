@@ -1,0 +1,13 @@
+{
+  "name": "bigpowers",
+  "path": "/packages/bigpowers",
+  "url": "https://pi.dev/packages/bigpowers",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 12460,
+  "date_ms": 1783051368615,
+  "description_en": "72 agent skills synthesizing 17 years of software engineering discipline into a prescriptive methodology for solo developers",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

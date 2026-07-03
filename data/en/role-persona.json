@@ -1,0 +1,11 @@
+{
+  "name": "role-persona",
+  "path": "/packages/role-persona",
+  "url": "https://pi.dev/packages/role-persona",
+  "types": "",
+  "type_list": [],
+  "downloads": 64,
+  "date_ms": 1778815187799,
+  "description_en": "Role-based persona system for AI agents — memory, knowledge, embedding. CLI, MCP, daemon, Pi extension.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

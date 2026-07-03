@@ -1,0 +1,6 @@
+{
+  "name": "pi-litellm",
+  "description_en": "LiteLLM integration for Pi — dynamic model sync, accurate cost tracking, and session grouping",
+  "description_zh": "Pi 的 LiteLLM 集成 — 动态模型同步、精确的成本跟踪和会话分组",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

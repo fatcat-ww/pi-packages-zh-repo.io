@@ -1,0 +1,13 @@
+{
+  "name": "pi-token-count",
+  "path": "/packages/pi-token-count",
+  "url": "https://pi.dev/packages/pi-token-count",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 507,
+  "date_ms": 1781039912479,
+  "description_en": "Pi extension that shows tokens, context usage, cost spent, and model/reasoning in the footer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

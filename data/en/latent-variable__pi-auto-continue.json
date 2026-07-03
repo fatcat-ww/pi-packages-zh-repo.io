@@ -1,0 +1,13 @@
+{
+  "name": "@latent-variable/pi-auto-continue",
+  "path": "/packages/@latent-variable/pi-auto-continue",
+  "url": "https://pi.dev/packages/@latent-variable/pi-auto-continue",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 74,
+  "date_ms": 1775884973944,
+  "description_en": "Pi extension that auto-sends a 'continue' message whenever the agent stops, so local agents can run autonomous overnight research loops (autoresearch-style) without babysitting.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

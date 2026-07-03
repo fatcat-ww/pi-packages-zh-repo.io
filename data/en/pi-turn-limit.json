@@ -1,0 +1,11 @@
+{
+  "name": "pi-turn-limit",
+  "path": "/packages/pi-turn-limit",
+  "url": "https://pi.dev/packages/pi-turn-limit",
+  "types": "",
+  "type_list": [],
+  "downloads": 35,
+  "date_ms": 1777288620374,
+  "description_en": "Pi coding agent extension to limit number of turns taken by a model",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

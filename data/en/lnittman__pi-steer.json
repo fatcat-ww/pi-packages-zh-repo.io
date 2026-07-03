@@ -1,0 +1,13 @@
+{
+  "name": "@lnittman/pi-steer",
+  "path": "/packages/@lnittman/pi-steer",
+  "url": "https://pi.dev/packages/@lnittman/pi-steer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 81,
+  "date_ms": 1775762415298,
+  "description_en": "Steering compiler for pi — turn-by-turn decision prompts, context-aware handoff synthesis, and pickup-ready prompt packaging",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

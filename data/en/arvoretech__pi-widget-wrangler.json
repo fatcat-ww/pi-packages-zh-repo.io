@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-widget-wrangler",
+  "path": "/packages/@arvoretech/pi-widget-wrangler",
+  "url": "https://pi.dev/packages/@arvoretech/pi-widget-wrangler",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783025028146,
+  "description_en": "PI extension that corrals widgets from every extension into one panel where you show or hide each one 🤠",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

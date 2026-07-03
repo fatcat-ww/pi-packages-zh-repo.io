@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-params",
+  "path": "/packages/@artale/pi-params",
+  "url": "https://pi.dev/packages/@artale/pi-params",
+  "types": "",
+  "type_list": [],
+  "downloads": 64,
+  "date_ms": 1773505900979,
+  "description_en": "Generation parameter control for Pi. Set temperature, top_p, max_tokens, and other model params per conversation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@blackbelt-technology/pi-dashboard-authoring-toolkit",
+  "path": "/packages/@blackbelt-technology/pi-dashboard-authoring-toolkit",
+  "url": "https://pi.dev/packages/@blackbelt-technology/pi-dashboard-authoring-toolkit",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 0,
+  "date_ms": 1782680639602,
+  "description_en": "General-purpose authoring skills for pi sessions — skill-creator (author/update skills) and session-to-guideline (turn a pi session JSONL transcript into a how-we-did-it Markdown playbook). Pure-skill package, no extension.ts. skill-creator adapted from A",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

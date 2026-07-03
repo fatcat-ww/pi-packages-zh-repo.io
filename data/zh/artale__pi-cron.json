@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-cron",
+  "description_en": "Task scheduling and reminders. Cron-like scheduling for AI agents with persistent jobs.",
+  "description_zh": "任务调度和提醒。为 AI 代理提供类似 Cron 的调度，具有持久作业",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

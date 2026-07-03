@@ -1,0 +1,11 @@
+{
+  "name": "describe-image-agent",
+  "path": "/packages/describe-image-agent",
+  "url": "https://pi.dev/packages/describe-image-agent",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782867277804,
+  "description_en": "Pi extension — describe images via vision model when your active model cannot see images directly",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

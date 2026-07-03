@@ -1,0 +1,6 @@
+{
+  "name": "pi-env",
+  "description_en": "Pi extension that sets process environment variables from settings.json",
+  "description_zh": "Pi 扩展，从 settings.json 设置进程环境变量",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

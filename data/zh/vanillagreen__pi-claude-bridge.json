@@ -1,0 +1,6 @@
+{
+  "name": "@vanillagreen/pi-claude-bridge",
+  "description_en": "Pi provider bridge that runs Claude Code through the Claude Agent SDK, with opt-in forwarding for Pi prompt context.",
+  "description_zh": "Pi 提供程序桥接，通过 Claude Agent SDK 运行 Claude Code，可选择转发 Pi 提示上下文",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

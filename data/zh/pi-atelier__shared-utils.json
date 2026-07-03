@@ -1,0 +1,6 @@
+{
+  "name": "@pi-atelier/shared-utils",
+  "description_en": "Shared utilities for pi-atelier extensions — settings, project config, memory parsing, tool output truncation, and more",
+  "description_zh": "pi-atelier 扩展的共享工具 — 设置、项目配置、内存解析、工具输出截断等",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

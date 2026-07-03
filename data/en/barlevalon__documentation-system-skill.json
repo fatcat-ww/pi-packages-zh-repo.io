@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/documentation-system-skill",
+  "path": "/packages/@barlevalon/documentation-system-skill",
+  "url": "https://pi.dev/packages/@barlevalon/documentation-system-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 33,
+  "date_ms": 1780948722984,
+  "description_en": "Apply Divio's four-quadrant documentation system to write, audit, classify, restructure, and review technical documentation. Use when creating or improving tutorials, how-to guides, reference docs, explanations, docs...",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

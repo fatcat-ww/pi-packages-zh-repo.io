@@ -1,0 +1,6 @@
+{
+  "name": "pi-memctx",
+  "description_en": "Automatic memory context injection for pi coding agent. Load, search, and persist knowledge across sessions using Markdown packs.",
+  "description_zh": "Pi 编码代理的自动内存上下文注入。使用 Markdown 包加载、搜索和跨会话持久化知识",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

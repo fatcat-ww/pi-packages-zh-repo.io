@@ -1,0 +1,13 @@
+{
+  "name": "pi-pdf-watermark",
+  "path": "/packages/pi-pdf-watermark",
+  "url": "https://pi.dev/packages/pi-pdf-watermark",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 239,
+  "date_ms": 1781113058577,
+  "description_en": "Pi skill: Add customizable text watermarks to PDF files — center or tiled, with adjustable angle, font size, opacity, and color.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

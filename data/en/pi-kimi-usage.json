@@ -1,0 +1,13 @@
+{
+  "name": "pi-kimi-usage",
+  "path": "/packages/pi-kimi-usage",
+  "url": "https://pi.dev/packages/pi-kimi-usage",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 54,
+  "date_ms": 1777287971237,
+  "description_en": "Shows Kimi usage in the pi status bar when a Kimi model is selected",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

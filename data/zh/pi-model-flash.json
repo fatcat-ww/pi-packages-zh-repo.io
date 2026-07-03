@@ -1,0 +1,6 @@
+{
+  "name": "pi-model-flash",
+  "description_en": "Pi extension that flashes the current model name in BIG block letters when you cycle models with Ctrl+P.",
+  "description_zh": "Pi 扩展，当您使用 Ctrl+P 循环切换模型时，以大块字母闪烁显示当前模型名称",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

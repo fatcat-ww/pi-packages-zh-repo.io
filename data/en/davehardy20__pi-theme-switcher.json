@@ -1,0 +1,14 @@
+{
+  "name": "@davehardy20/pi-theme-switcher",
+  "path": "/packages/@davehardy20/pi-theme-switcher",
+  "url": "https://pi.dev/packages/@davehardy20/pi-theme-switcher",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 44,
+  "date_ms": 1779016807271,
+  "description_en": "Pi package for switching TUI themes on the fly.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

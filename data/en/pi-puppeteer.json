@@ -1,0 +1,13 @@
+{
+  "name": "pi-puppeteer",
+  "path": "/packages/pi-puppeteer",
+  "url": "https://pi.dev/packages/pi-puppeteer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 712,
+  "date_ms": 1783059162740,
+  "description_en": "Pi extension package for browser-agnostic automation with Puppeteer-core, Chromium-first and Firefox-ready architecture.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

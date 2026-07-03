@@ -1,0 +1,13 @@
+{
+  "name": "@victor-software-house/pi-agent-browser",
+  "path": "/packages/@victor-software-house/pi-agent-browser",
+  "url": "https://pi.dev/packages/@victor-software-house/pi-agent-browser",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 54,
+  "date_ms": 1774645874250,
+  "description_en": "Browser automation tool for Pi via agent-browser CLI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

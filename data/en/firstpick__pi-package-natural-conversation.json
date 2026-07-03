@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-package-natural-conversation",
+  "path": "/packages/@firstpick/pi-package-natural-conversation",
+  "url": "https://pi.dev/packages/@firstpick/pi-package-natural-conversation",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783023590133,
+  "description_en": "Safe per-process Natural Conversation Mode for Pi, with /talk commands and read-only tool constraints.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

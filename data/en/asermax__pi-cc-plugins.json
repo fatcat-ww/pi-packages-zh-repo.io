@@ -1,0 +1,13 @@
+{
+  "name": "@asermax/pi-cc-plugins",
+  "path": "/packages/@asermax/pi-cc-plugins",
+  "url": "https://pi.dev/packages/@asermax/pi-cc-plugins",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 153,
+  "date_ms": 1779820767511,
+  "description_en": "Use Claude Code plugins (skills & agents) directly in Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

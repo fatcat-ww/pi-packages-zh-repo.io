@@ -1,0 +1,6 @@
+{
+  "name": "@robhowley/pi-yolo-seatbelt",
+  "description_en": "Keep the YOLO workflow but avoid bash catastrophe with configurable guardrails for destructive commands.",
+  "description_zh": "保持 YOLO 工作流程，但通过可配置的护栏避免 bash 灾难，防止破坏性命令。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

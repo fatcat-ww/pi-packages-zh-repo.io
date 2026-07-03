@@ -1,0 +1,13 @@
+{
+  "name": "titan-pi-memory",
+  "path": "/packages/titan-pi-memory",
+  "url": "https://pi.dev/packages/titan-pi-memory",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 580,
+  "date_ms": 1780662086199,
+  "description_en": "Persistent evolutionary memory for the Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

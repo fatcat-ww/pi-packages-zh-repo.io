@@ -1,0 +1,13 @@
+{
+  "name": "@rsrini/pi-rtk",
+  "path": "/packages/@rsrini/pi-rtk",
+  "url": "https://pi.dev/packages/@rsrini/pi-rtk",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782627662561,
+  "description_en": "RTK token reduction extension for pi-coding-agent - reduces LLM token consumption 60-90% by wrapping commands with external rtk binary and intelligently filtering tool output",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

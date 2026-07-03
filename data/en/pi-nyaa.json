@@ -1,0 +1,13 @@
+{
+  "name": "pi-nyaa",
+  "path": "/packages/pi-nyaa",
+  "url": "https://pi.dev/packages/pi-nyaa",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 47,
+  "date_ms": 1778001542269,
+  "description_en": "Pi extension for querying public metadata from nyaa.si and sukebei.nyaa.si.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

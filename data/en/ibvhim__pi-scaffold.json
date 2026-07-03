@@ -1,0 +1,11 @@
+{
+  "name": "@ibvhim/pi-scaffold",
+  "path": "/packages/@ibvhim/pi-scaffold",
+  "url": "https://pi.dev/packages/@ibvhim/pi-scaffold",
+  "types": "",
+  "type_list": [],
+  "downloads": 45,
+  "date_ms": 1776434936724,
+  "description_en": "Pi extension to scaffold a project-local .pi workspace",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

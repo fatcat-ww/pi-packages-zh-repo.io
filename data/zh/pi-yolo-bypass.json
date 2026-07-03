@@ -1,0 +1,6 @@
+{
+  "name": "pi-yolo-bypass",
+  "description_en": "Dynamic full-permission bypass toggle for pi-permission-system with backup/restore of policy files.",
+  "description_zh": "带有策略文件备份/恢复功能的 pi-permission-system 动态完全权限绕过切换",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

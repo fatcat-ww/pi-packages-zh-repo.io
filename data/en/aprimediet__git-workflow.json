@@ -1,0 +1,11 @@
+{
+  "name": "@aprimediet/git-workflow",
+  "path": "/packages/@aprimediet/git-workflow",
+  "url": "https://pi.dev/packages/@aprimediet/git-workflow",
+  "types": "",
+  "type_list": [],
+  "downloads": 38,
+  "date_ms": 1782412999505,
+  "description_en": "Branching strategy enforcer + safe git commands (/git:init, /git:commit, /git:worktree, /git:push, +11 extras) for the pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

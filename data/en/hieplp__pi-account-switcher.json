@@ -1,0 +1,13 @@
+{
+  "name": "@hieplp/pi-account-switcher",
+  "path": "/packages/@hieplp/pi-account-switcher",
+  "url": "https://pi.dev/packages/@hieplp/pi-account-switcher",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 721,
+  "date_ms": 1781834967357,
+  "description_en": "Pi extension for quickly switching between multiple accounts/API keys per provider.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@narumitw/pi-python-lsp",
+  "description_en": "Pi extension that exposes ty and Ruff language-server tools for Python.",
+  "description_zh": "将 ty 和 Ruff 语言服务器工具暴露给 Python 的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

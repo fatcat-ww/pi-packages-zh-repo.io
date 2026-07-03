@@ -1,0 +1,13 @@
+{
+  "name": "@calesennett/pi-hn",
+  "path": "/packages/@calesennett/pi-hn",
+  "url": "https://pi.dev/packages/@calesennett/pi-hn",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 87,
+  "date_ms": 1779596811931,
+  "description_en": "Hacker News front-page reader extension for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@r3b1s/pi-vim-stash",
+  "description_en": "Vim-style modal editing with prompt stash for pi's TUI editor",
+  "description_zh": "Pi 的 TUI 编辑器使用 Vim 风格的模态编辑和提示暂存",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

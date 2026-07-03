@@ -1,0 +1,6 @@
+{
+  "name": "pi-model-aware-compaction",
+  "description_en": "Per-model context-usage thresholds for Pi's built-in auto-compaction, so models with different context windows and performance profiles compact at the right time",
+  "description_zh": "Pi 内置自动压缩的每个模型上下文使用阈值，因此具有不同上下文窗口和性能配置文件的模型在适当时间压缩",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

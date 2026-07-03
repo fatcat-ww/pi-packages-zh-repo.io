@@ -1,0 +1,13 @@
+{
+  "name": "pi-evaluate",
+  "path": "/packages/pi-evaluate",
+  "url": "https://pi.dev/packages/pi-evaluate",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 227,
+  "date_ms": 1781715775671,
+  "description_en": "Adversarial post-execute evaluation skill for pi — verifies implementation against contract, GAN-inspired",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

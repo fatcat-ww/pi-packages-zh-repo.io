@@ -1,0 +1,6 @@
+{
+  "name": "@0xkobold/pi-web",
+  "description_en": "Web search and content extraction for pi agents — DuckDuckGo/SearX search, cascade fetching (fast → readability → Playwright), deep research",
+  "description_zh": "pi 代理的网络搜索和内容提取 — DuckDuckGo/SearX 搜索、级联获取（快速 → 可读性 → Playwright）、深度研究",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

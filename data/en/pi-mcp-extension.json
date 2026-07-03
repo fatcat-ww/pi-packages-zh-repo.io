@@ -1,0 +1,13 @@
+{
+  "name": "pi-mcp-extension",
+  "path": "/packages/pi-mcp-extension",
+  "url": "https://pi.dev/packages/pi-mcp-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 7414,
+  "date_ms": 1777773999351,
+  "description_en": "MCP (Model Context Protocol) client extension for the Pi coding agent — connect Pi to any MCP server",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

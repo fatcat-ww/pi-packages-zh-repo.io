@@ -1,0 +1,11 @@
+{
+  "name": "@eforge-build/pi-eforge",
+  "path": "/packages/@eforge-build/pi-eforge",
+  "url": "https://pi.dev/packages/@eforge-build/pi-eforge",
+  "types": "",
+  "type_list": [],
+  "downloads": 204,
+  "date_ms": 1779309956760,
+  "description_en": "eforge integration for Pi - enqueue, run, and monitor builds from within Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

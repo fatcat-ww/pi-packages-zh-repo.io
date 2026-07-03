@@ -1,0 +1,14 @@
+{
+  "name": "@shog-lab/pi-memory",
+  "path": "/packages/@shog-lab/pi-memory",
+  "url": "https://pi.dev/packages/@shog-lab/pi-memory",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 320,
+  "date_ms": 1783059886641,
+  "description_en": "Persistent, inspectable memory for pi-coding-agent: explicit writes, hybrid retrieval (vector + FTS5 + KG), markdown storage, and ask-first skill authoring.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

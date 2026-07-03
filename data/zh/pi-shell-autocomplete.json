@@ -1,0 +1,6 @@
+{
+  "name": "pi-shell-autocomplete",
+  "description_en": "Shell command autocomplete extension for pi with zsh native completions and local AI ghost text.",
+  "description_zh": "pi 的 shell 命令自动补全扩展，具有 zsh 原生补全和本地 AI 幽灵文本",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

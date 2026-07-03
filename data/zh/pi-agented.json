@@ -1,0 +1,6 @@
+{
+  "name": "pi-agented",
+  "description_en": "Generic subagent switcher for pi. Header bar above chat, Ctrl+Shift+S to cycle, /agent slash command. Works with any agent in ~/.pi/agent/agents/.",
+  "description_zh": "pi 的通用子代理切换器。聊天上方的标题栏，Ctrl+Shift+S 循环切换，/agent 斜杠命令。适用于 ~/.pi/agent/agents/ 中的任何代理。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

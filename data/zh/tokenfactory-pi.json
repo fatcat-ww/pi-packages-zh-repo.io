@@ -1,0 +1,6 @@
+{
+  "name": "tokenfactory-pi",
+  "description_en": "Nebius Token Factory provider extension for pi coding agent. Requires `npm install -g --ignore-scripts @earendil-works/pi-coding-agent`. Install with `pi install npm:tokenfactory-pi`",
+  "description_zh": "pi coding agent 的 Nebius Token Factory 提供程序扩展。需要 `npm install -g --ignore-scripts @earendil-works/pi-coding-agent`。使用 `pi install npm:tokenfactory-pi` 安装",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

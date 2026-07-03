@@ -1,0 +1,13 @@
+{
+  "name": "decorated-pi",
+  "path": "/packages/decorated-pi",
+  "url": "https://pi.dev/packages/decorated-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1940,
+  "date_ms": 1782201225705,
+  "description_en": "decorated-pi is a practical enhancement pack for pi coding agent — token-efficient workflow, cache-friendly design, and smarter tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

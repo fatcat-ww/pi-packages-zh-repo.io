@@ -1,0 +1,13 @@
+{
+  "name": "@matheusbbarni/pi-message-queue",
+  "path": "/packages/@matheusbbarni/pi-message-queue",
+  "url": "https://pi.dev/packages/@matheusbbarni/pi-message-queue",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 96,
+  "date_ms": 1778621673632,
+  "description_en": "A Pi extension for queueing user messages and sending them one after another.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-mcp-audience",
+  "description_en": "Filter MCP content based on audience annotations for the Pi coding agent — hide content not intended for the user",
+  "description_zh": "基于受众注释过滤 Pi 编码代理的 MCP 内容 — 隐藏不面向用户的内容",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

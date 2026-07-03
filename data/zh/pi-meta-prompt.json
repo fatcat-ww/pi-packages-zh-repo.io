@@ -1,0 +1,6 @@
+{
+  "name": "pi-meta-prompt",
+  "description_en": "Pi extension that rewrites task descriptions into optimized prompts using customizable meta-prompts",
+  "description_zh": "Pi 扩展，使用可定制的元提示将任务描述重写为优化后的提示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

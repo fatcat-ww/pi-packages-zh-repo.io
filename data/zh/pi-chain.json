@@ -1,0 +1,6 @@
+{
+  "name": "pi-chain",
+  "description_en": "Pi extension that starts a new session seeded with recent conversation messages",
+  "description_zh": "Pi 扩展，启动一个使用最近对话消息作为种子的新会话",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-md-export",
+  "description_en": "Export Pi sessions (last N turns, full branch, or full session) to readable Markdown on clipboard or local file, with opt-in tool call and thinking block inclusion",
+  "description_zh": "将 Pi 会话（最后 N 回合、完整分支或完整会话）导出到剪贴板或本地文件的可读 Markdown，可选择包含工具调用和思考块",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

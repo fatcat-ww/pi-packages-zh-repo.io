@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-diff-files",
+  "path": "/packages/@agnishc/edb-diff-files",
+  "url": "https://pi.dev/packages/@agnishc/edb-diff-files",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 628,
+  "date_ms": 1782119175064,
+  "description_en": "Pi extension: live widget tracking files changed this session with an inline diff viewer",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

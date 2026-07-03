@@ -1,0 +1,13 @@
+{
+  "name": "pi-review-gate",
+  "path": "/packages/pi-review-gate",
+  "url": "https://pi.dev/packages/pi-review-gate",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 54,
+  "date_ms": 1778777589800,
+  "description_en": "CI-level merge guardian for AI agents — required reviewers, breaking change detection, stale PR cleanup, and review automation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

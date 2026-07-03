@@ -1,0 +1,13 @@
+{
+  "name": "@thunstack/pi-task-list",
+  "path": "/packages/@thunstack/pi-task-list",
+  "url": "https://pi.dev/packages/@thunstack/pi-task-list",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783073398414,
+  "description_en": "Claude Code style task list for Pi, implicitly managed by the agent without a dedicated plan mode.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

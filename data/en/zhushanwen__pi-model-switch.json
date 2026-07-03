@@ -1,0 +1,13 @@
+{
+  "name": "@zhushanwen/pi-model-switch",
+  "path": "/packages/@zhushanwen/pi-model-switch",
+  "url": "https://pi.dev/packages/@zhushanwen/pi-model-switch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1792,
+  "date_ms": 1782006962795,
+  "description_en": "Intelligent model recommendation and switching for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

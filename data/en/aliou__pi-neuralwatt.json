@@ -1,0 +1,13 @@
+{
+  "name": "@aliou/pi-neuralwatt",
+  "path": "/packages/@aliou/pi-neuralwatt",
+  "url": "https://pi.dev/packages/@aliou/pi-neuralwatt",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2436,
+  "date_ms": 1782503387714,
+  "description_en": "![banner](https://assets.aliou.me/github/aliou/pi-neuralwatt/banner.png)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

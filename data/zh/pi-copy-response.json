@@ -1,0 +1,6 @@
+{
+  "name": "pi-copy-response",
+  "description_en": "Pi package for copying the latest assistant response with a code-block picker, live preview, and optional /copy override",
+  "description_zh": "Pi 包，用于复制最新的助手回复，带有代码块选择器、实时预览和可选的 /copy 覆盖",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

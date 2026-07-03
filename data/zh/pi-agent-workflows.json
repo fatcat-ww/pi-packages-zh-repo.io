@@ -1,0 +1,6 @@
+{
+  "name": "pi-agent-workflows",
+  "description_en": "Pi workflow extension for orchestrating recursive subagents with inter-agent communication, write locking, cost accounting, and a workflow TUI.",
+  "description_zh": "Pi 工作流扩展，用于编排具有代理间通信、写入锁定、成本核算和工作流 TUI 的递归子代理。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-chatgpt-limit",
+  "path": "/packages/pi-chatgpt-limit",
+  "url": "https://pi.dev/packages/pi-chatgpt-limit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 379,
+  "date_ms": 1779831734660,
+  "description_en": "Show ChatGPT Codex subscription usage in pi's footer",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

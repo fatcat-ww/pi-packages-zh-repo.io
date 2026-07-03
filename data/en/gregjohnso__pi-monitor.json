@@ -1,0 +1,13 @@
+{
+  "name": "@gregjohnso/pi-monitor",
+  "path": "/packages/@gregjohnso/pi-monitor",
+  "url": "https://pi.dev/packages/@gregjohnso/pi-monitor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 32,
+  "date_ms": 1777057664358,
+  "description_en": "Background shell command runner for the pi coding agent. Each stdout line becomes a live TUI event and enters the LLM's next turn as context.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

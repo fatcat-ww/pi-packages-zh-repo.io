@@ -1,0 +1,13 @@
+{
+  "name": "@czottmann/pi-cortecs",
+  "path": "/packages/@czottmann/pi-cortecs",
+  "url": "https://pi.dev/packages/@czottmann/pi-cortecs",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 280,
+  "date_ms": 1782150297053,
+  "description_en": "Cortecs provider extension for pi coding agent. Install with `pi install npm:@czottmann/pi-cortecs`.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

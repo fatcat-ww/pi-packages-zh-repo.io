@@ -1,0 +1,6 @@
+{
+  "name": "pi-image-subagent",
+  "description_en": "Pi extension that gives non-vision models the ability to analyze images via a vision-capable subagent",
+  "description_zh": "使非视觉模型能够通过具有视觉能力的子代理分析图像的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

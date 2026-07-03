@@ -1,0 +1,13 @@
+{
+  "name": "@felipefontoura/pi-sdd-kit",
+  "path": "/packages/@felipefontoura/pi-sdd-kit",
+  "url": "https://pi.dev/packages/@felipefontoura/pi-sdd-kit",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 98,
+  "date_ms": 1778851632182,
+  "description_en": "Pi skill pack for practical Specification-Driven Development workflows",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

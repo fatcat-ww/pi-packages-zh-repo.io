@@ -1,0 +1,13 @@
+{
+  "name": "@zhafron/pi-memory",
+  "path": "/packages/@zhafron/pi-memory",
+  "url": "https://pi.dev/packages/@zhafron/pi-memory",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 578,
+  "date_ms": 1771426937878,
+  "description_en": "Memory management extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

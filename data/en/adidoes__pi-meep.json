@@ -1,0 +1,13 @@
+{
+  "name": "@adidoes/pi-meep",
+  "path": "/packages/@adidoes/pi-meep",
+  "url": "https://pi.dev/packages/@adidoes/pi-meep",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 45,
+  "date_ms": 1778013513602,
+  "description_en": "Play a short notification sound when pi finishes responding.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

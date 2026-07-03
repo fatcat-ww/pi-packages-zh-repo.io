@@ -1,0 +1,13 @@
+{
+  "name": "pi-set-editor",
+  "path": "/packages/pi-set-editor",
+  "url": "https://pi.dev/packages/pi-set-editor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 46,
+  "date_ms": 1778320284502,
+  "description_en": "Choose and save the external editor used by Ctrl+G in pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

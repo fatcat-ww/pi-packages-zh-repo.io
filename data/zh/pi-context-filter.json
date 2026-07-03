@@ -1,0 +1,6 @@
+{
+  "name": "pi-context-filter",
+  "description_en": "A pi extension that provides .gitignore-style control over which context files and skills appear in the system prompt",
+  "description_zh": "pi 扩展，提供 .gitignore 风格的控制，控制哪些上下文文件和技能出现在系统提示中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

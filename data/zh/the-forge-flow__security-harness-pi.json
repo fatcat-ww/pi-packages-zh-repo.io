@@ -1,0 +1,6 @@
+{
+  "name": "@the-forge-flow/security-harness-pi",
+  "description_en": "Security harness for the PI coding agent — forbids dangerous commands and gates sensitive ones behind user approval",
+  "description_zh": "Pi 编码代理的安全防护 — 禁止危险命令，并将敏感命令置于用户批准之后",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@wystack/agent-kit",
+  "path": "/packages/@wystack/agent-kit",
+  "url": "https://pi.dev/packages/@wystack/agent-kit",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 504,
+  "date_ms": 1781151856208,
+  "description_en": "One portable agent-workflow kit — plan, build, review, verify, design, and ship — running identically on Claude Code, Codex, Cursor, and Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

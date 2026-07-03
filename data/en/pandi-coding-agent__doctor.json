@@ -1,0 +1,13 @@
+{
+  "name": "@pandi-coding-agent/doctor",
+  "path": "/packages/@pandi-coding-agent/doctor",
+  "url": "https://pi.dev/packages/@pandi-coding-agent/doctor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783061683331,
+  "description_en": "Pi extension that adds /doctor: an in-session run of the pi-dynamic-workflows environment check (scripts/doctor.mjs).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

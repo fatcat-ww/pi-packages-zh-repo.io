@@ -1,0 +1,6 @@
+{
+  "name": "@barlevalon/caveman-help-skill",
+  "description_en": "Quick-reference card for all caveman modes, skills, and commands. One-shot display, not a persistent mode. Trigger: /caveman-help, \"caveman help\", \"what caveman commands\", \"how do I use caveman\".",
+  "description_zh": "所有穴居人模式、技能和命令的快速参考卡。一次性显示，不是持久模式。触发器：/caveman-help、\"caveman help\"、\"what caveman commands\"、\"how do I use caveman\"。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

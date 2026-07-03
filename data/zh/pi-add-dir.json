@@ -1,0 +1,6 @@
+{
+  "name": "pi-add-dir",
+  "description_en": "Add external directories to your pi session — loads their AGENTS.md, CLAUDE.md, and skills into context.",
+  "description_zh": "将外部目录添加到您的 Pi 会话 — 加载其 AGENTS.md、CLAUDE.md 和技能到上下文中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

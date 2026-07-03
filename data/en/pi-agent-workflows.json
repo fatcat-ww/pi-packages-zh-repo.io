@@ -1,0 +1,13 @@
+{
+  "name": "pi-agent-workflows",
+  "path": "/packages/pi-agent-workflows",
+  "url": "https://pi.dev/packages/pi-agent-workflows",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782572046725,
+  "description_en": "Pi workflow extension for orchestrating recursive subagents with inter-agent communication, write locking, cost accounting, and a workflow TUI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

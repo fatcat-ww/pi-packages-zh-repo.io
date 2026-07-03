@@ -1,0 +1,11 @@
+{
+  "name": "@andrewxhill/pi-be-kind",
+  "path": "/packages/@andrewxhill/pi-be-kind",
+  "url": "https://pi.dev/packages/@andrewxhill/pi-be-kind",
+  "types": "",
+  "type_list": [],
+  "downloads": 66,
+  "date_ms": 1774643788398,
+  "description_en": "Pi agent extension that rewrites unkind prompts to be nicer",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

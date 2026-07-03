@@ -1,0 +1,11 @@
+{
+  "name": "@baggiiiie/pi-no-ansi",
+  "path": "/packages/@baggiiiie/pi-no-ansi",
+  "url": "https://pi.dev/packages/@baggiiiie/pi-no-ansi",
+  "types": "",
+  "type_list": [],
+  "downloads": 31,
+  "date_ms": 1777869404160,
+  "description_en": "A minimal pi package that keeps `bash` tool output cleaner for the model by:",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

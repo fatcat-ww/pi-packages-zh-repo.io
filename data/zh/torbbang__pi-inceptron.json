@@ -1,0 +1,6 @@
+{
+  "name": "@torbbang/pi-inceptron",
+  "description_en": "Pi extension that registers Inceptron (https://www.inceptron.io) as an LLM provider.",
+  "description_zh": "Pi 扩展，将 Inceptron (https://www.inceptron.io) 注册为 LLM 提供商",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

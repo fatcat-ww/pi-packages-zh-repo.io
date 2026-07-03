@@ -1,0 +1,13 @@
+{
+  "name": "@r3b1s/pi-vim-stash",
+  "path": "/packages/@r3b1s/pi-vim-stash",
+  "url": "https://pi.dev/packages/@r3b1s/pi-vim-stash",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 360,
+  "date_ms": 1781106024250,
+  "description_en": "Vim-style modal editing with prompt stash for pi's TUI editor",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "tau-coding-agent",
+  "path": "/packages/tau-coding-agent",
+  "url": "https://pi.dev/packages/tau-coding-agent",
+  "types": "extension skill theme",
+  "type_list": [
+    "extension",
+    "skill",
+    "theme"
+  ],
+  "downloads": 123,
+  "date_ms": 1778335053517,
+  "description_en": "Opinionated Pi package with web search, review workflows, sandboxing, memory, usage reporting, skills, and a theme",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

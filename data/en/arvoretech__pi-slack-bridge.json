@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-slack-bridge",
+  "path": "/packages/@arvoretech/pi-slack-bridge",
+  "url": "https://pi.dev/packages/@arvoretech/pi-slack-bridge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 31,
+  "date_ms": 1782422742177,
+  "description_en": "PI extension that bridges the active Pi session to a Slack thread: mirrors messages both ways, one Slack thread per Pi session",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

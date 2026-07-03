@@ -1,0 +1,6 @@
+{
+  "name": "@open-cursor/pi-agent",
+  "description_en": "Cursor agent provider extension for pi — use Cursor's models and agent directly from pi",
+  "description_zh": "pi 的 Cursor 代理提供商扩展 — 直接从 pi 使用 Cursor 的模型和代理。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

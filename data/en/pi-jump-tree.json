@@ -1,0 +1,13 @@
+{
+  "name": "pi-jump-tree",
+  "path": "/packages/pi-jump-tree",
+  "url": "https://pi.dev/packages/pi-jump-tree",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783028098774,
+  "description_en": "Pi extension for showing the current session tree leaf ID and jumping to entries by ID or label.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

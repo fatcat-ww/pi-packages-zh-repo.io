@@ -1,0 +1,13 @@
+{
+  "name": "@tryinget/pi-vault-client",
+  "path": "/packages/@tryinget/pi-vault-client",
+  "url": "https://pi.dev/packages/@tryinget/pi-vault-client",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 41,
+  "date_ms": 1778591186230,
+  "description_en": "pi extension package for vault workflows in monorepo runtime",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-ask-user",
+  "path": "/packages/@agnishc/edb-ask-user",
+  "url": "https://pi.dev/packages/@agnishc/edb-ask-user",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 628,
+  "date_ms": 1782119159262,
+  "description_en": "Pi extension: ask_user tool for structured questions — text, choice, and multi-step wizard",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@ryan_nookpi/pi-extension-cross-agent",
+  "path": "/packages/@ryan_nookpi/pi-extension-cross-agent",
+  "url": "https://pi.dev/packages/@ryan_nookpi/pi-extension-cross-agent",
+  "types": "",
+  "type_list": [],
+  "downloads": 77,
+  "date_ms": 1779080959338,
+  "description_en": "Load commands from Claude, Gemini, and Codex agent directories into pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-cavallo",
+  "description_en": "Generate and edit video in pi using Alibaba HappyHorse models (I2V, T2V, R2V, Video-Edit).",
+  "description_zh": "在 pi 中使用 Alibaba HappyHorse 模型（I2V、T2V、R2V、Video-Edit）生成和编辑视频",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

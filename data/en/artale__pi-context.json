@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-context",
+  "path": "/packages/@artale/pi-context",
+  "url": "https://pi.dev/packages/@artale/pi-context",
+  "types": "",
+  "type_list": [],
+  "downloads": 49,
+  "date_ms": 1773504049905,
+  "description_en": "Context window intelligence for Pi. Usage prediction, message forecast, rate trending, auto-warnings.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

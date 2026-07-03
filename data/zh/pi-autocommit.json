@@ -1,0 +1,6 @@
+{
+  "name": "pi-autocommit",
+  "description_en": "Pi extension that auto-commits all working-tree changes after each response, with a model-generated commit message. Includes a per-project /autocommit on/off toggle.",
+  "description_zh": "Pi 扩展，在每个响应后自动提交工作树中的所有更改，并生成模型生成的提交消息。包含每个项目的 /autocommit 开关",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

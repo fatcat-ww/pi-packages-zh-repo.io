@@ -1,0 +1,13 @@
+{
+  "name": "pi-minimal-footer",
+  "path": "/packages/pi-minimal-footer",
+  "url": "https://pi.dev/packages/pi-minimal-footer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 311,
+  "date_ms": 1781546376306,
+  "description_en": "A minimal footer extension for pi — clean status line with path, skills, model, and context usage.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

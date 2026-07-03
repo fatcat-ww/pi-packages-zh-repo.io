@@ -1,0 +1,13 @@
+{
+  "name": "pi-contextimate",
+  "path": "/packages/pi-contextimate",
+  "url": "https://pi.dev/packages/pi-contextimate",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 523,
+  "date_ms": 1780617310983,
+  "description_en": "Observability extensions for the Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

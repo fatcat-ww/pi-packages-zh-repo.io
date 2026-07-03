@@ -1,0 +1,11 @@
+{
+  "name": "pi-voice-stt",
+  "path": "/packages/pi-voice-stt",
+  "url": "https://pi.dev/packages/pi-voice-stt",
+  "types": "",
+  "type_list": [],
+  "downloads": 350,
+  "date_ms": 1780303191278,
+  "description_en": "Provider-agnostic speech-to-text dictation extension for the Pi TUI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

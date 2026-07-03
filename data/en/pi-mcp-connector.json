@@ -1,0 +1,11 @@
+{
+  "name": "pi-mcp-connector",
+  "path": "/packages/pi-mcp-connector",
+  "url": "https://pi.dev/packages/pi-mcp-connector",
+  "types": "",
+  "type_list": [],
+  "downloads": 275,
+  "date_ms": 1781102085314,
+  "description_en": "MCP Gateway for Pi — stdio/SSE/Streamable HTTP transports, session recovery, connection pooling, structured error handling.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

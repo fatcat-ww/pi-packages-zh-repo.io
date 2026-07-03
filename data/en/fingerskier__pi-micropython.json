@@ -1,0 +1,11 @@
+{
+  "name": "@fingerskier/pi-micropython",
+  "path": "/packages/@fingerskier/pi-micropython",
+  "url": "https://pi.dev/packages/@fingerskier/pi-micropython",
+  "types": "",
+  "type_list": [],
+  "downloads": 59,
+  "date_ms": 1778187886766,
+  "description_en": "MicroPython device MCP plugin for Pi with a self-bootstrapping Python server",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "oh-my-open-pi",
+  "path": "/packages/oh-my-open-pi",
+  "url": "https://pi.dev/packages/oh-my-open-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 94,
+  "date_ms": 1778115976486,
+  "description_en": "Pi Coding Agent extension package for model routing, tools, background tasks, and safety hooks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

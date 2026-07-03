@@ -1,0 +1,15 @@
+{
+  "name": "@firstpick/pi-package-learnings",
+  "path": "/packages/@firstpick/pi-package-learnings",
+  "url": "https://pi.dev/packages/@firstpick/pi-package-learnings",
+  "types": "extension skill prompt",
+  "type_list": [
+    "extension",
+    "skill",
+    "prompt"
+  ],
+  "downloads": 423,
+  "date_ms": 1780954538844,
+  "description_en": "File-based troubleshooting LEARNINGS archive for Pi agents, with retrieval workflow, summary prompts, and sync scripts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

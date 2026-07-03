@@ -1,0 +1,13 @@
+{
+  "name": "pi-agile-coach",
+  "path": "/packages/pi-agile-coach",
+  "url": "https://pi.dev/packages/pi-agile-coach",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 95,
+  "date_ms": 1779972094647,
+  "description_en": "Universal agile coach for pi and Claude Code — structures any project (software, design, hardware, marketing, operations) into sprints with full SDD cycle: backlog, sprint planning, verification, retro, and decision memory. Integrates with any skill.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

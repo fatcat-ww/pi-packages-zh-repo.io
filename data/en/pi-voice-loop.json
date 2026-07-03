@@ -1,0 +1,13 @@
+{
+  "name": "pi-voice-loop",
+  "path": "/packages/pi-voice-loop",
+  "url": "https://pi.dev/packages/pi-voice-loop",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 27,
+  "date_ms": 1778188136626,
+  "description_en": "Pi extension package for voice-loop operation with provider-backed speech in Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@calesennett/pi-codex-usage",
+  "path": "/packages/@calesennett/pi-codex-usage",
+  "url": "https://pi.dev/packages/@calesennett/pi-codex-usage",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 159,
+  "date_ms": 1778640583116,
+  "description_en": "Codex usage footer extension for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

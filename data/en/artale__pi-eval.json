@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-eval",
+  "path": "/packages/@artale/pi-eval",
+  "url": "https://pi.dev/packages/@artale/pi-eval",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 98,
+  "date_ms": 1776776851139,
+  "description_en": "Agent evaluation harness. Judge sessions on success, tool usage, efficiency, methodology. Inspired by opencc.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

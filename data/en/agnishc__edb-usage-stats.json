@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-usage-stats",
+  "path": "/packages/@agnishc/edb-usage-stats",
+  "url": "https://pi.dev/packages/@agnishc/edb-usage-stats",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 783,
+  "date_ms": 1782119196324,
+  "description_en": "Pi extension: /usage command showing token rates, reset timers, and live provider status",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@tmustier/pi-usage-extension",
+  "path": "/packages/@tmustier/pi-usage-extension",
+  "url": "https://pi.dev/packages/@tmustier/pi-usage-extension",
+  "types": "",
+  "type_list": [],
+  "downloads": 1668,
+  "date_ms": 1778170641388,
+  "description_en": "Usage statistics dashboard for Pi sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

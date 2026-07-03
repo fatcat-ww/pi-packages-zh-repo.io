@@ -1,0 +1,13 @@
+{
+  "name": "pi-starship",
+  "path": "/packages/pi-starship",
+  "url": "https://pi.dev/packages/pi-starship",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 91,
+  "date_ms": 1778126720962,
+  "description_en": "Starship-powered footer for pi — with PR number, model info, token counts, and thinking level",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

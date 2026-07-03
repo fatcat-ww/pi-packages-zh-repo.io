@@ -1,0 +1,11 @@
+{
+  "name": "pi-stash",
+  "path": "/packages/pi-stash",
+  "url": "https://pi.dev/packages/pi-stash",
+  "types": "",
+  "type_list": [],
+  "downloads": 51,
+  "date_ms": 1774288834841,
+  "description_en": "Pi extension that stashes the current editor draft with Alt+S",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

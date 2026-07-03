@@ -1,0 +1,14 @@
+{
+  "name": "@giuseppecrj/pi-engineering-workflow",
+  "path": "/packages/@giuseppecrj/pi-engineering-workflow",
+  "url": "https://pi.dev/packages/@giuseppecrj/pi-engineering-workflow",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 40,
+  "date_ms": 1779152929498,
+  "description_en": "Personal Pi engineering workflow package with in-repo pi-goals, pi-review, Skill Foundry skills, workflow commands, prompts, and reusable goal templates.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

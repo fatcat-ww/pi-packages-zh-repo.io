@@ -1,0 +1,6 @@
+{
+  "name": "@artyomspace/pi-telegram-connect",
+  "description_en": "Telegram bridge for the Pi coding agent: pair once, then chat with your local pi-CLI agent from your phone.",
+  "description_zh": "Pi 编码代理的 Telegram 桥接：配对一次，然后从手机与本地 pi-CLI 代理聊天。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

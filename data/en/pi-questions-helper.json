@@ -1,0 +1,13 @@
+{
+  "name": "pi-questions-helper",
+  "path": "/packages/pi-questions-helper",
+  "url": "https://pi.dev/packages/pi-questions-helper",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 36,
+  "date_ms": 1778352444892,
+  "description_en": "Answer questions from lengthy pi agent responses in an interactive widget.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-stats-ext",
+  "path": "/packages/pi-stats-ext",
+  "url": "https://pi.dev/packages/pi-stats-ext",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782639710859,
+  "description_en": "Dense local-first Pi coding-agent usage dashboard for tokens, costs, models, projects, and sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

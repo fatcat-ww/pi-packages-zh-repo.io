@@ -1,0 +1,6 @@
+{
+  "name": "pi-conductor-analytics-plugin",
+  "description_en": "Pi extension that reports pi-conductor run telemetry to an external HTTP endpoint.",
+  "description_zh": "将 pi-conductor 运行遥测报告到外部 HTTP 端点的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

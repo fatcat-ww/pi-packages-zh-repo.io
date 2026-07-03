@@ -1,0 +1,13 @@
+{
+  "name": "@foister150/pi-tagging",
+  "path": "/packages/@foister150/pi-tagging",
+  "url": "https://pi.dev/packages/@foister150/pi-tagging",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 13,
+  "date_ms": 1782762833182,
+  "description_en": "Tag pi sessions with path-style hierarchical tags and browse them as a tree. Adds /tag and /tag-view.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

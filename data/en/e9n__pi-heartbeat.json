@@ -1,0 +1,11 @@
+{
+  "name": "@e9n/pi-heartbeat",
+  "path": "/packages/@e9n/pi-heartbeat",
+  "url": "https://pi.dev/packages/@e9n/pi-heartbeat",
+  "types": "",
+  "type_list": [],
+  "downloads": 50,
+  "date_ms": 1777233158253,
+  "description_en": "Periodic health check extension for pi — runs a heartbeat prompt as an isolated subprocess",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-bash-bg",
+  "description_en": "Makes command & work in pi's bash tool by detaching background processes from pipes · from yapp",
+  "description_zh": "通过将后台进程从管道分离，使命令在pi的bash工具中后台运行 · 来自yapp",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

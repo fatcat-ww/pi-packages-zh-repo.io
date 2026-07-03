@@ -1,0 +1,13 @@
+{
+  "name": "@gotgenes/pi-github-tools",
+  "path": "/packages/@gotgenes/pi-github-tools",
+  "url": "https://pi.dev/packages/@gotgenes/pi-github-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1078,
+  "date_ms": 1781659691106,
+  "description_en": "Pi extension providing deterministic GitHub CI, release, and issue tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@dustinbyrne/kb",
+  "description_en": "An automated Kanban board for [pi](https://github.com/badlogic/pi-mono). You (or an agent) add high level ideas to your task list, and a team of agents execute them using worktrees.",
+  "description_zh": "[pi](https://github.com/badlogic/pi-mono) 的自动化看板。您（或代理）将高级想法添加到任务列表，然后一组代理使用工作树执行它们",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

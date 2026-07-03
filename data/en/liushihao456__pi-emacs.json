@@ -1,0 +1,13 @@
+{
+  "name": "@liushihao456/pi-emacs",
+  "path": "/packages/@liushihao456/pi-emacs",
+  "url": "https://pi.dev/packages/@liushihao456/pi-emacs",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 748,
+  "date_ms": 1781370248861,
+  "description_en": "Pi extension that allows switching to emacs seamlessly in a popup terminal.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

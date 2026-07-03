@@ -1,0 +1,6 @@
+{
+  "name": "@diegopetrucci/pi-annotate-last-message",
+  "description_en": "A standalone pi extension that adds /annotate-last-message, a native Glimpse UI for annotating the latest assistant reply.",
+  "description_zh": "独立的 pi 扩展，添加 /annotate-last-message 命令，用于注释最新助手回复的原生 Glimpse UI。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

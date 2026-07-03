@@ -1,0 +1,13 @@
+{
+  "name": "@majorgilles/pi-permissions",
+  "path": "/packages/@majorgilles/pi-permissions",
+  "url": "https://pi.dev/packages/@majorgilles/pi-permissions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 314,
+  "date_ms": 1779280582622,
+  "description_en": "Simplified auto/ask guardrails for pi tool calls.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-cache-ttl-config",
+  "description_en": "Dynamically switch the Anthropic prompt-cache TTL between 5m and 1h mid-conversation in the pi coding agent",
+  "description_zh": "在 pi 编码代理的对话过程中动态切换 Anthropic 提示缓存 TTL，在 5 分钟和 1 小时之间",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

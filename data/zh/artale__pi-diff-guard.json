@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-diff-guard",
+  "description_en": "Edit awareness for Pi. Tracks file changes, warns on large deletions, shows edit heatmap. /diffguard report for hotspot analysis.",
+  "description_zh": "Pi 的编辑感知。跟踪文件更改，警告大量删除，显示编辑热图。/diffguard report 用于热点分析",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

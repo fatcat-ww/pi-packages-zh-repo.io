@@ -1,0 +1,14 @@
+{
+  "name": "@quandev104/pi-rules",
+  "path": "/packages/@quandev104/pi-rules",
+  "url": "https://pi.dev/packages/@quandev104/pi-rules",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 790,
+  "date_ms": 1783021723665,
+  "description_en": "Native Pi project rules package with rule injection, commands, and background maintenance.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

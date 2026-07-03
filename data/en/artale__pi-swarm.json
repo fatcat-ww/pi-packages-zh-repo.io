@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-swarm",
+  "path": "/packages/@artale/pi-swarm",
+  "url": "https://pi.dev/packages/@artale/pi-swarm",
+  "types": "",
+  "type_list": [],
+  "downloads": 44,
+  "date_ms": 1776802905942,
+  "description_en": "Simple parallel task execution",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

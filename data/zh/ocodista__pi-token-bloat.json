@@ -1,0 +1,6 @@
+{
+  "name": "@ocodista/pi-token-bloat",
+  "description_en": "Pi extension that estimates model-facing context footprint by resource.",
+  "description_zh": "Pi 扩展，按资源估算模型面向的上下文占用",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

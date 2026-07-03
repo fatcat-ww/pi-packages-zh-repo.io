@@ -1,0 +1,13 @@
+{
+  "name": "@majorgilles/pi-learning-tutor",
+  "path": "/packages/@majorgilles/pi-learning-tutor",
+  "url": "https://pi.dev/packages/@majorgilles/pi-learning-tutor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2860,
+  "date_ms": 1782581176990,
+  "description_en": "Learning-mode tutoring, review loops, and definition overlays for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@victor-software-house/pi-tmux",
+  "path": "/packages/@victor-software-house/pi-tmux",
+  "url": "https://pi.dev/packages/@victor-software-house/pi-tmux",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 123,
+  "date_ms": 1775679242744,
+  "description_en": "Pi coding agent extension: tmux session management per project",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

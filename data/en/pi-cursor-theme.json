@@ -1,0 +1,13 @@
+{
+  "name": "pi-cursor-theme",
+  "path": "/packages/pi-cursor-theme",
+  "url": "https://pi.dev/packages/pi-cursor-theme",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 53,
+  "date_ms": 1773409743032,
+  "description_en": "A Cursor-inspired dark theme for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

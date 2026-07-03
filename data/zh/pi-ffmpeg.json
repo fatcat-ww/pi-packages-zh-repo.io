@@ -1,0 +1,6 @@
+{
+  "name": "pi-ffmpeg",
+  "description_en": "ffmpeg Swiss Army knife for pi — probe, transcode, trim, concat, GIF, frames, audio extract/mux, thumbnail, compress, speedup/slowdown",
+  "description_zh": "用于 pi 的瑞士军刀式 ffmpeg — 探测、转码、修剪、连接、GIF、帧、音频提取/复用、缩略图、压缩、加速/减速。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

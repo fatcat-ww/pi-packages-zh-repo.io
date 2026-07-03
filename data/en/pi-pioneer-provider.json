@@ -1,0 +1,11 @@
+{
+  "name": "pi-pioneer-provider",
+  "path": "/packages/pi-pioneer-provider",
+  "url": "https://pi.dev/packages/pi-pioneer-provider",
+  "types": "",
+  "type_list": [],
+  "downloads": 300,
+  "date_ms": 1779871232549,
+  "description_en": "Pi coding agent provider for Pioneer AI API",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@marcfargas/pi-tramp",
+  "description_en": "TRAMP-like transparent remote execution for pi — tools execute remotely, pi stays local",
+  "description_zh": "pi 的类似 TRAMP 的透明远程执行 — 工具远程执行，pi 保持本地",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

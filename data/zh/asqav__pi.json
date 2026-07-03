@@ -1,0 +1,6 @@
+{
+  "name": "@asqav/pi",
+  "description_en": "Asqav extension for the pi coding agent - sign and gate tool calls before they execute",
+  "description_zh": "Asqav 扩展程序，用于 pi 编码代理 - 在执行前对工具调用进行签名和门控",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

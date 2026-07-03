@@ -1,0 +1,6 @@
+{
+  "name": "pi-recurse",
+  "description_en": "Recursive agent extension for Pi — spawn subagents programmatically with depth guardrails",
+  "description_zh": "Pi 的递归代理扩展 — 以编程方式生成具有深度护栏的子代理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

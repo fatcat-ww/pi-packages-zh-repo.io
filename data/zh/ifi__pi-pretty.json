@@ -1,0 +1,6 @@
+{
+  "name": "@ifi/pi-pretty",
+  "description_en": "Pretty terminal output for pi — syntax-highlighted file reads, colored bash output, tree-view directory listings, and more.",
+  "description_zh": "Pi 的漂亮终端输出 — 语法高亮的文件读取、彩色 bash 输出、树状视图目录列表等。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

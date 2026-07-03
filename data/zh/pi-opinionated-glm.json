@@ -1,0 +1,6 @@
+{
+  "name": "pi-opinionated-glm",
+  "description_en": "Provider-only Pi package that registers a dedicated glm provider backed by OpenCode Zen.",
+  "description_zh": "仅提供者的Pi包，注册由OpenCode Zen支持的专用glm提供者。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

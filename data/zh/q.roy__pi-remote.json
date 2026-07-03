@@ -1,0 +1,6 @@
+{
+  "name": "@q.roy/pi-remote",
+  "description_en": "Remote terminal access for pi via WebSocket and browser",
+  "description_zh": "通过 WebSocket 和浏览器远程访问 pi 的终端",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@spider-cloud/pi-spider-tools",
+  "path": "/packages/@spider-cloud/pi-spider-tools",
+  "url": "https://pi.dev/packages/@spider-cloud/pi-spider-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 90,
+  "date_ms": 1781891626039,
+  "description_en": "Pi extension that exposes Spider Cloud scraping, crawling, search, and browser automation tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-codemode-extension",
+  "description_en": "Pi extension that adds an exec tool for orchestrating Pi tools with JavaScript, plus a /codeMode command to toggle it.",
+  "description_zh": "pi 扩展，添加一个 exec 工具，用 JavaScript 编排 Pi 工具，以及一个 /codeMode 命令来切换它",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@patleeman/pi-boy",
+  "path": "/packages/@patleeman/pi-boy",
+  "url": "https://pi.dev/packages/@patleeman/pi-boy",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 44,
+  "date_ms": 1772856157547,
+  "description_en": "pi-boy: embedded Game Boy emulator inside pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@hypabolic/crossbar",
+  "path": "/packages/@hypabolic/crossbar",
+  "url": "https://pi.dev/packages/@hypabolic/crossbar",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1168,
+  "date_ms": 1782190749913,
+  "description_en": "Connect the Pi coding agent to local & self-hosted LLMs — Ollama, LM Studio, llama.cpp, llama-swap, vLLM, and any OpenAI-compatible server. Auto-discovery, model switching, and zero-JSON in-TUI onboarding.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "anchor-edit",
+  "description_en": "Stateful single-token anchored file editing (Dirac-style). MCP server via `anchor-edit mcp`.",
+  "description_zh": "有状态的单令牌锚定文件编辑（Dirac 风格）。通过 `anchor-edit mcp` 提供 MCP 服务器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

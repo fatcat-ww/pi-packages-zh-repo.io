@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-test-plan-generator",
+  "path": "/packages/@firstpick/pi-skill-test-plan-generator",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-test-plan-generator",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 385,
+  "date_ms": 1780954645045,
+  "description_en": "Agents should invoke this skill when planning tests from specs, architecture docs, PRs, risky changes, new features, bug fixes, or release work. Generates prioritized unit, integration, E2E, regression, and edge-case coverage.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

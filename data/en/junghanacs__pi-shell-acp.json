@@ -1,0 +1,13 @@
+{
+  "name": "@junghanacs/pi-shell-acp",
+  "path": "/packages/@junghanacs/pi-shell-acp",
+  "url": "https://pi.dev/packages/@junghanacs/pi-shell-acp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1376,
+  "date_ms": 1782712766035,
+  "description_en": "ACP bridge providing Claude Code, Codex, and Gemini CLI backends to pi-coding-agent, with the entwurf orchestration surface for cross-session delegation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

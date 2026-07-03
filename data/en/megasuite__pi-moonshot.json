@@ -1,0 +1,13 @@
+{
+  "name": "@megasuite/pi-moonshot",
+  "path": "/packages/@megasuite/pi-moonshot",
+  "url": "https://pi.dev/packages/@megasuite/pi-moonshot",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 122,
+  "date_ms": 1779616953729,
+  "description_en": "Pi extension adding Moonshot AI provider with Kimi K2.6, K2.5 and other models",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

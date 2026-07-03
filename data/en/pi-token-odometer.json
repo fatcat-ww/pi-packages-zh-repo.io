@@ -1,0 +1,13 @@
+{
+  "name": "pi-token-odometer",
+  "path": "/packages/pi-token-odometer",
+  "url": "https://pi.dev/packages/pi-token-odometer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 62,
+  "date_ms": 1779893699563,
+  "description_en": "Animated input/output token odometers for pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

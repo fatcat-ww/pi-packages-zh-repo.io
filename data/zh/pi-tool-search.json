@@ -1,0 +1,6 @@
+{
+  "name": "pi-tool-search",
+  "description_en": "Hide all tools behind a manifest-aware tool_search — LLM enables tools by name on demand",
+  "description_zh": "将所有工具隐藏在清单感知的 tool_search 后面 — LLM 按需启用名称指定的工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

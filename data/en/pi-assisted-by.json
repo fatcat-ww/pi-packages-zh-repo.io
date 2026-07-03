@@ -1,0 +1,13 @@
+{
+  "name": "pi-assisted-by",
+  "path": "/packages/pi-assisted-by",
+  "url": "https://pi.dev/packages/pi-assisted-by",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 208,
+  "date_ms": 1780104514689,
+  "description_en": "A Pi extension that automatically appends an Assisted-by (or other customizable) git trailer to commit messages with the model name",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

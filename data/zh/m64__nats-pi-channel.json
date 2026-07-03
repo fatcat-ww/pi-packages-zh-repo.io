@@ -1,0 +1,6 @@
+{
+  "name": "@m64/nats-pi-channel",
+  "description_en": "NATS Agent Protocol channel for PI Agent. Makes every PI session a discoverable, spec-compliant agent on NATS.",
+  "description_zh": "PI Agent 的 NATS Agent Protocol 通道。使每个 PI 会话都成为 NATS 上可发现的、符合规范的代理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

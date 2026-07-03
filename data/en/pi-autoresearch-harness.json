@@ -1,0 +1,11 @@
+{
+  "name": "pi-autoresearch-harness",
+  "path": "/packages/pi-autoresearch-harness",
+  "url": "https://pi.dev/packages/pi-autoresearch-harness",
+  "types": "",
+  "type_list": [],
+  "downloads": 248,
+  "date_ms": 1783014101241,
+  "description_en": "Autonomous experiment loop for pi — run, measure, keep or discard. Inspired by karpathy/autoresearch.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

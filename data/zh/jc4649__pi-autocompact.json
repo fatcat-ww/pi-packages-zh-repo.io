@@ -1,0 +1,6 @@
+{
+  "name": "@jc4649/pi-autocompact",
+  "description_en": "pi coding-agent extension: proactive auto-compaction with a configurable, cheap summarization model (formerly deepseek-compact)",
+  "description_zh": "pi coding-agent 扩展：使用可配置的廉价摘要模型进行主动自动压缩（前身为 deepseek-compact）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

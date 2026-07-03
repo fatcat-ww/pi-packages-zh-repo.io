@@ -1,0 +1,11 @@
+{
+  "name": "@siddr/pi-openai-params",
+  "path": "/packages/@siddr/pi-openai-params",
+  "url": "https://pi.dev/packages/@siddr/pi-openai-params",
+  "types": "",
+  "type_list": [],
+  "downloads": 79,
+  "date_ms": 1778823309568,
+  "description_en": "Combined OpenAI fast mode and verbosity settings for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ormah-pi",
+  "path": "/packages/ormah-pi",
+  "url": "https://pi.dev/packages/ormah-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 149,
+  "date_ms": 1782315806762,
+  "description_en": "Ormah local memory layer integration for the Pi coding agent — whisper recall, memory tools, transcript capture, self-maintenance.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

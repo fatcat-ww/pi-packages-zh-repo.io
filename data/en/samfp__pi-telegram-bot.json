@@ -1,0 +1,11 @@
+{
+  "name": "@samfp/pi-telegram-bot",
+  "path": "/packages/@samfp/pi-telegram-bot",
+  "url": "https://pi.dev/packages/@samfp/pi-telegram-bot",
+  "types": "",
+  "type_list": [],
+  "downloads": 53,
+  "date_ms": 1776589989475,
+  "description_en": "Telegram bot exposing pi as a conversational coding agent. Chat with pi in Telegram with streaming responses, tool execution, threaded sessions, and model switching.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

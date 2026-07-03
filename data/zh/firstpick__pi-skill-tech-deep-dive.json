@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-tech-deep-dive",
+  "description_en": "Agents should invoke this skill when choosing or evaluating libraries, frameworks, tools, platforms, models, databases, APIs, or architectures for a use case. Produces criteria scoring, ecosystem assessment, and recommendations.",
+  "description_zh": "代理应在为用例选择或评估库、框架、工具、平台、模型、数据库、API 或架构时调用此技能。生成标准评分、生态系统评估和建议",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-system-theme",
+  "path": "/packages/pi-system-theme",
+  "url": "https://pi.dev/packages/pi-system-theme",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 570,
+  "date_ms": 1780419473161,
+  "description_en": "Sync Pi theme with macOS light/dark appearance",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

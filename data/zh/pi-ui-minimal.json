@@ -1,0 +1,6 @@
+{
+  "name": "pi-ui-minimal",
+  "description_en": "Minimal UI extension for Pi that hides footer info and removes dashed borders around the user input for a cleaner TUI experience.",
+  "description_zh": "Pi的极简UI扩展，隐藏页脚信息并移除用户输入周围的虚线边框，以获得更简洁的TUI体验",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-spell-check",
+  "path": "/packages/pi-spell-check",
+  "url": "https://pi.dev/packages/pi-spell-check",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 36,
+  "date_ms": 1775975521762,
+  "description_en": "Spell-check extension for pi coding agent. Press Ctrl+Shift+S to fix spelling and grammar in the editor.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@kim05/pi-prompt-translate",
+  "description_en": "Pi package that translates user prompts to English and translates final assistant replies back to a configured language.",
+  "description_zh": "Pi包，将用户提示翻译成英语，并将最终助手回复翻译回配置的语言",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

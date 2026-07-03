@@ -1,0 +1,6 @@
+{
+  "name": "pi-fast-subagent",
+  "description_en": "In-process subagent delegation for pi with single, parallel, and background modes",
+  "description_zh": "具有单模式、并行模式和后台模式的进程内子代理委托，用于 pi",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

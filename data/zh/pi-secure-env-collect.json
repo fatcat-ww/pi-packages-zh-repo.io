@@ -1,0 +1,6 @@
+{
+  "name": "pi-secure-env-collect",
+  "description_en": "Secure env var collection tool for Pi with masked input and destination writers",
+  "description_zh": "用于 Pi 的安全环境变量收集工具，具有掩码输入和目标写入器。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

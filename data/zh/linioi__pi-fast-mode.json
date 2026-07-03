@@ -1,0 +1,6 @@
+{
+  "name": "@linioi/pi-fast-mode",
+  "description_en": "A pi extension that adds a protocol-aware /fast command with status indicator and priority service tier injection.",
+  "description_zh": "添加具有状态指示器和优先级服务层注入的协议感知 /fast 命令的 pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

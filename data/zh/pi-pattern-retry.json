@@ -1,0 +1,6 @@
+{
+  "name": "pi-pattern-retry",
+  "description_en": "Pi extension: keep agent sessions alive across provider rate-limits, quota exhaustion, and transient auth failures by re-injecting continuation messages on an escalating retry schedule.",
+  "description_zh": "Pi 扩展：通过在递增重试计划上重新注入继续消息，使代理会话在提供商速率限制、配额耗尽和临时身份验证失败时保持活跃",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

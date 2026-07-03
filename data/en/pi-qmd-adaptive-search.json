@@ -1,0 +1,13 @@
+{
+  "name": "pi-qmd-adaptive-search",
+  "path": "/packages/pi-qmd-adaptive-search",
+  "url": "https://pi.dev/packages/pi-qmd-adaptive-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1224,
+  "date_ms": 1782091137883,
+  "description_en": "Project-local semantic file discovery with qmd, fallback search, and local adaptive feedback.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

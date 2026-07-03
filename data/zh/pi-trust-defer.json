@@ -1,0 +1,6 @@
+{
+  "name": "pi-trust-defer",
+  "description_en": "Skip the startup trust prompt in pi — auto-decline project trust so you're immediately interactive, then /trust + /reload when ready",
+  "description_zh": "跳过 pi 中的启动信任提示 — 自动拒绝项目信任以便立即交互，然后在准备时使用 /trust + /reload",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-openrouter-session",
+  "description_en": "OpenRouter session tracking for pi - adds session_id to API requests for OpenRouter console visibility",
+  "description_zh": "pi 的 OpenRouter 会话跟踪 — 为 OpenRouter 控制台可见性向 API 请求添加 session_id",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

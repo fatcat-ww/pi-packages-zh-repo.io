@@ -1,0 +1,6 @@
+{
+  "name": "pi-doc-injector",
+  "description_en": "Auto-inject relevant project documentation into Pi's LLM context based on keyword matching",
+  "description_zh": "根据关键词匹配自动将相关项目文档注入 Pi 的 LLM 上下文",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

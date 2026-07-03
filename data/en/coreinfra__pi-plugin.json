@@ -1,0 +1,11 @@
+{
+  "name": "@coreinfra/pi-plugin",
+  "path": "/packages/@coreinfra/pi-plugin",
+  "url": "https://pi.dev/packages/@coreinfra/pi-plugin",
+  "types": "",
+  "type_list": [],
+  "downloads": 300,
+  "date_ms": 1781187171835,
+  "description_en": "Pi package that adds [CoreInfra AI Hub](https://hub.coreinfra.ai/) as a model provider.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

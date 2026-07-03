@@ -1,0 +1,13 @@
+{
+  "name": "@asm3r96/pi-loops",
+  "path": "/packages/@asm3r96/pi-loops",
+  "url": "https://pi.dev/packages/@asm3r96/pi-loops",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 285,
+  "date_ms": 1782904125615,
+  "description_en": "A reusable Pi extension that adds a supervised loop harness around the normal Pi coding agent. Supports bounded LLM nodes, deterministic gates, steering, evidence collection, and composable workflow definitions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

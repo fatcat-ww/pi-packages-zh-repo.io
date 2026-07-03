@@ -1,0 +1,6 @@
+{
+  "name": "@datspike/pi-fork-resume",
+  "description_en": "Pi extension that forks a session selected through the resume-style session picker without opening the source session.",
+  "description_zh": "Pi 扩展，通过恢复式会话选择器选择会话进行分叉，而不打开源会话。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

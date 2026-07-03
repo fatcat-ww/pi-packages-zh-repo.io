@@ -1,0 +1,11 @@
+{
+  "name": "@0xkobold/pi-ollama",
+  "path": "/packages/@0xkobold/pi-ollama",
+  "url": "https://pi.dev/packages/@0xkobold/pi-ollama",
+  "types": "",
+  "type_list": [],
+  "downloads": 1127,
+  "date_ms": 1778639608780,
+  "description_en": "Ollama extension for pi-coding-agent. Unified local + cloud Ollama support with model management",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

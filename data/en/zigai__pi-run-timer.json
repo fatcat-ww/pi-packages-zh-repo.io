@@ -1,0 +1,13 @@
+{
+  "name": "@zigai/pi-run-timer",
+  "path": "/packages/@zigai/pi-run-timer",
+  "url": "https://pi.dev/packages/@zigai/pi-run-timer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 105,
+  "date_ms": 1782833527389,
+  "description_en": "Pi package that shows live loader elapsed time, optional rotating working-bar messages, and post-run agent timing stats.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@blazed/plannotator-pi-extension",
+  "path": "/packages/@blazed/plannotator-pi-extension",
+  "url": "https://pi.dev/packages/@blazed/plannotator-pi-extension",
+  "types": "",
+  "type_list": [],
+  "downloads": 567,
+  "date_ms": 1781549644915,
+  "description_en": "Plannotator Pi extension - interactive plan review with annotations, annotate agent messages, and review code/PRs",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

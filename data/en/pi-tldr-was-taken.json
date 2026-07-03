@@ -1,0 +1,13 @@
+{
+  "name": "pi-tldr-was-taken",
+  "path": "/packages/pi-tldr-was-taken",
+  "url": "https://pi.dev/packages/pi-tldr-was-taken",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 320,
+  "date_ms": 1781370210942,
+  "description_en": "A pi extension that generates lean session notes and injects them into new sessions for context continuity",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

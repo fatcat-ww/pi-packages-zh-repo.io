@@ -1,0 +1,11 @@
+{
+  "name": "@baggiiiie/pi-context-status",
+  "path": "/packages/@baggiiiie/pi-context-status",
+  "url": "https://pi.dev/packages/@baggiiiie/pi-context-status",
+  "types": "",
+  "type_list": [],
+  "downloads": 30,
+  "date_ms": 1777869394072,
+  "description_en": "A pi package that shows current context-window usage in the status line or a custom footer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

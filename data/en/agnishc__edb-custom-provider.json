@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-custom-provider",
+  "path": "/packages/@agnishc/edb-custom-provider",
+  "url": "https://pi.dev/packages/@agnishc/edb-custom-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 368,
+  "date_ms": 1782119172736,
+  "description_en": "Custom model providers for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

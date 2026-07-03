@@ -1,0 +1,11 @@
+{
+  "name": "pi-file-protection",
+  "path": "/packages/pi-file-protection",
+  "url": "https://pi.dev/packages/pi-file-protection",
+  "types": "",
+  "type_list": [],
+  "downloads": 85,
+  "date_ms": 1778667246160,
+  "description_en": "Pi extension that confirms before delete/edit operations - protects files from accidental changes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

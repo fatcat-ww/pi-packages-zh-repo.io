@@ -1,0 +1,6 @@
+{
+  "name": "@martintrojer/mu",
+  "description_en": "A persistent, observable crew of pi agents running in one tmux session per workstream, coordinated through a built-in task DAG.",
+  "description_zh": "一个持久的、可观察的 pi 代理团队，在每个工作流的一个 tmux 会话中运行，通过内置的任务 DAG 协调",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

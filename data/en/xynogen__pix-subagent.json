@@ -1,0 +1,13 @@
+{
+  "name": "@xynogen/pix-subagent",
+  "path": "/packages/@xynogen/pix-subagent",
+  "url": "https://pi.dev/packages/@xynogen/pix-subagent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1199,
+  "date_ms": 1783045275997,
+  "description_en": "Pi tool — planner-driven sub-agents: spawn, fetch, steer scoped child agents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

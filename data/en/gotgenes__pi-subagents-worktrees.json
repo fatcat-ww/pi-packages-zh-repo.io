@@ -1,0 +1,13 @@
+{
+  "name": "@gotgenes/pi-subagents-worktrees",
+  "path": "/packages/@gotgenes/pi-subagents-worktrees",
+  "url": "https://pi.dev/packages/@gotgenes/pi-subagents-worktrees",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 952,
+  "date_ms": 1781301088174,
+  "description_en": "Git worktree isolation for @gotgenes/pi-subagents — a WorkspaceProvider that runs subagents in isolated worktrees.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@vanillagreen/pi-output-policy",
+  "description_en": "OMP-style large-output policy for Pi tool results: minimization, bounded truncation, and spill-file preservation.",
+  "description_zh": "OMP 风格的大型输出策略，用于 Pi 工具结果：最小化、有界截断和溢出文件保留。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

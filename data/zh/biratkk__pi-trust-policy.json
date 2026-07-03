@@ -1,0 +1,6 @@
+{
+  "name": "@biratkk/pi-trust-policy",
+  "description_en": "Bash command allowlist system for pi — grouped trust policies with glob matching, recursive parsing, and an interactive TUI manager",
+  "description_zh": "pi 的 bash 命令允许列表系统 — 具有全局匹配、递归解析和交互式 TUI 管理器的分组信任策略",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

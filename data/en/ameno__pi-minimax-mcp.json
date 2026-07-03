@@ -1,0 +1,13 @@
+{
+  "name": "@ameno/pi-minimax-mcp",
+  "path": "/packages/@ameno/pi-minimax-mcp",
+  "url": "https://pi.dev/packages/@ameno/pi-minimax-mcp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 69,
+  "date_ms": 1770159787240,
+  "description_en": "MiniMax MCP tools for pi - Web search and image understanding via MiniMax's Model Context Protocol",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

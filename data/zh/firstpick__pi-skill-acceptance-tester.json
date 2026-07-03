@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-acceptance-tester",
+  "description_en": "Agents should invoke this skill as the final gate before release, handoff, or claiming completion for substantial changes. Runs acceptance/readiness checks, determines pass/fail, and gives a go/no-go recommendation.",
+  "description_zh": "代理应在发布、交接或声明完成重大更改之前，作为最终关卡调用此技能。运行验收/就绪检查，确定通过/失败，并提供进行/不进行建议。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

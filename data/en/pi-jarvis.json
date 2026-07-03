@@ -1,0 +1,13 @@
+{
+  "name": "pi-jarvis",
+  "path": "/packages/pi-jarvis",
+  "url": "https://pi.dev/packages/pi-jarvis",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 78,
+  "date_ms": 1777411547796,
+  "description_en": "A /jarvis side-conversation overlay extension for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-poster",
+  "path": "/packages/pi-poster",
+  "url": "https://pi.dev/packages/pi-poster",
+  "types": "",
+  "type_list": [],
+  "downloads": 159,
+  "date_ms": 1776982812106,
+  "description_en": "🎨 Poster integration for pi — render React posters to PNG/SVG/PDF/JPG/WebP from an agent session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

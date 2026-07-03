@@ -1,0 +1,13 @@
+{
+  "name": "pi-plan-html",
+  "path": "/packages/pi-plan-html",
+  "url": "https://pi.dev/packages/pi-plan-html",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 102,
+  "date_ms": 1779817083948,
+  "description_en": "Pi extension that turns AI agent plans into commentable, beautifully designed HTML pages.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

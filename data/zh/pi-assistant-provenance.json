@@ -1,0 +1,6 @@
+{
+  "name": "pi-assistant-provenance",
+  "description_en": "Gives models awareness of mid-session model switches in Pi",
+  "description_zh": "让模型在 Pi 中感知会话中的模型切换",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

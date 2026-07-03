@@ -1,0 +1,6 @@
+{
+  "name": "pi-bash-trim",
+  "description_en": "Smart bash output trimming for pi to fit LLM context budgets",
+  "description_zh": "pi 的智能 bash 输出修剪，以适应 LLM 上下文预算",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

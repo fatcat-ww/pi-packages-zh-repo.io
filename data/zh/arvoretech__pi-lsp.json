@@ -1,0 +1,6 @@
+{
+  "name": "@arvoretech/pi-lsp",
+  "description_en": "PI extension that bridges Language Server Protocol servers to give the agent real compiler diagnostics, go-to-definition, references, hover and rename",
+  "description_zh": "PI 扩展，桥接语言服务器协议服务器，为代理提供实时编译器诊断、跳转到定义、引用、悬停和重命名功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

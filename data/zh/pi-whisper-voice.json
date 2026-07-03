@@ -1,0 +1,6 @@
+{
+  "name": "pi-whisper-voice",
+  "description_en": "Minimal hold-SPACE voice input for Pi using an OpenAI-compatible Whisper/STT endpoint.",
+  "description_zh": "使用与 OpenAI 兼容的 Whisper/STT 端点的最小按住空格键语音输入",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

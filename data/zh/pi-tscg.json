@@ -1,0 +1,6 @@
+{
+  "name": "pi-tscg",
+  "description_en": "Drop-in tool-schema and tool-result compression for the Pi coding-agent. Built on TSCG by Furkan Sakizli (SKZL-AI) — wraps @tscg/core and adds tool-result compression plus provider-aware prompt-cache awareness (Anthropic/OpenAI/Ollama). Provider-agnostic,",
+  "description_zh": "Pi 编码代理的即用型工具模式和工具结果压缩。基于 Furkan Sakizli (SKZL-AI) 的 TSCG 构建 — 包装 @tscg/core 并添加工具结果压缩以及提供者感知的提示缓存感知（Anthropic/OpenAI/Ollama）。提供者无关",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

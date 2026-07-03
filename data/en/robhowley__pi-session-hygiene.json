@@ -1,0 +1,11 @@
+{
+  "name": "@robhowley/pi-session-hygiene",
+  "path": "/packages/@robhowley/pi-session-hygiene",
+  "url": "https://pi.dev/packages/@robhowley/pi-session-hygiene",
+  "types": "",
+  "type_list": [],
+  "downloads": 217,
+  "date_ms": 1781051641176,
+  "description_en": "A tiny Pi extension that adds a session-health light to the status bar.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@spences10/pi-telemetry",
+  "path": "/packages/@spences10/pi-telemetry",
+  "url": "https://pi.dev/packages/@spences10/pi-telemetry",
+  "types": "",
+  "type_list": [],
+  "downloads": 730,
+  "date_ms": 1781704241969,
+  "description_en": "Local SQLite telemetry for Pi runs, turns, tool calls, provider requests, usage, and latency",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

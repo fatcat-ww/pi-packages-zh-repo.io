@@ -1,0 +1,6 @@
+{
+  "name": "pi-ollama-keyring",
+  "description_en": "Ollama cloud provider for pi-coding-agent with multi-key rotation, live model discovery, and persistent key-pool management",
+  "description_zh": "pi-coding-agent 的 Ollama 云提供商，支持多密钥轮换、实时模型发现和持久密钥池管理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

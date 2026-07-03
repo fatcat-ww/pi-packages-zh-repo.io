@@ -1,0 +1,11 @@
+{
+  "name": "@odradekk/vera-session-tools",
+  "path": "/packages/@odradekk/vera-session-tools",
+  "url": "https://pi.dev/packages/@odradekk/vera-session-tools",
+  "types": "",
+  "type_list": [],
+  "downloads": 265,
+  "date_ms": 1781265918748,
+  "description_en": "Session lifecycle tools for Vera agent (ask-user, todo, check-vera, output-guard, compaction, prompt-rules, read-cap, conditional-rules, system-env, skill-catalog, time, notify-sound)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

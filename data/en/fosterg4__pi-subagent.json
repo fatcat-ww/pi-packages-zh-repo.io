@@ -1,0 +1,11 @@
+{
+  "name": "@fosterg4/pi-subagent",
+  "path": "/packages/@fosterg4/pi-subagent",
+  "url": "https://pi.dev/packages/@fosterg4/pi-subagent",
+  "types": "",
+  "type_list": [],
+  "downloads": 1042,
+  "date_ms": 1781494248489,
+  "description_en": "Delegate tasks to specialized subagents with isolated context windows, structured JSON handoff, contract schemas, and live TUI streaming",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@dreki-gg/pi-datadog",
+  "path": "/packages/@dreki-gg/pi-datadog",
+  "url": "https://pi.dev/packages/@dreki-gg/pi-datadog",
+  "types": "",
+  "type_list": [],
+  "downloads": 293,
+  "date_ms": 1780631411944,
+  "description_en": "Datadog log search tools for pi — query production logs with project-aware context",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

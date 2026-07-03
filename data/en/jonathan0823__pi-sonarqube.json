@@ -1,0 +1,13 @@
+{
+  "name": "@jonathan0823/pi-sonarqube",
+  "path": "/packages/@jonathan0823/pi-sonarqube",
+  "url": "https://pi.dev/packages/@jonathan0823/pi-sonarqube",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1246,
+  "date_ms": 1782207201352,
+  "description_en": "SonarQube extension for Pi — run local analysis and browse issues.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

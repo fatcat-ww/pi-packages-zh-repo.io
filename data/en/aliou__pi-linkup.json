@@ -1,0 +1,13 @@
+{
+  "name": "@aliou/pi-linkup",
+  "path": "/packages/@aliou/pi-linkup",
+  "url": "https://pi.dev/packages/@aliou/pi-linkup",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 265,
+  "date_ms": 1778228194843,
+  "description_en": "![banner](https://assets.aliou.me/pi-extensions/banners/pi-linkup.png)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

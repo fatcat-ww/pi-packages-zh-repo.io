@@ -1,0 +1,11 @@
+{
+  "name": "pi-freecad",
+  "path": "/packages/pi-freecad",
+  "url": "https://pi.dev/packages/pi-freecad",
+  "types": "",
+  "type_list": [],
+  "downloads": 68,
+  "date_ms": 1773417479655,
+  "description_en": "Drive FreeCAD from pi with natural language. Create 3D shapes, open and modify .FCStd files, export to STEP/IGES/STL/DXF, and batch-convert entire folders.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

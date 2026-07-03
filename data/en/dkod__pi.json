@@ -1,0 +1,11 @@
+{
+  "name": "@dkod/pi",
+  "path": "/packages/@dkod/pi",
+  "url": "https://pi.dev/packages/@dkod/pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 76,
+  "date_ms": 1776530440489,
+  "description_en": "dkod extension for Pi — parallel agent execution with AST-level semantic merging",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

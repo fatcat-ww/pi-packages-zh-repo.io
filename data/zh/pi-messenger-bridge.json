@@ -1,0 +1,6 @@
+{
+  "name": "pi-messenger-bridge",
+  "description_en": "Bridge common messengers (Telegram, WhatsApp, Slack, Discord, Matrix) into pi",
+  "description_zh": "将常用消息应用（Telegram、WhatsApp、Slack、Discord、Matrix）桥接到 pi",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

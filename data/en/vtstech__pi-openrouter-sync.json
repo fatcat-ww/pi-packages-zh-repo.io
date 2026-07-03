@@ -1,0 +1,13 @@
+{
+  "name": "@vtstech/pi-openrouter-sync",
+  "path": "/packages/@vtstech/pi-openrouter-sync",
+  "url": "https://pi.dev/packages/@vtstech/pi-openrouter-sync",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 275,
+  "date_ms": 1778719061986,
+  "description_en": "OpenRouter model sync extension for Pi Coding Agent — add models from OpenRouter URLs or IDs",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

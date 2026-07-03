@@ -1,0 +1,13 @@
+{
+  "name": "pi-grok-build",
+  "path": "/packages/pi-grok-build",
+  "url": "https://pi.dev/packages/pi-grok-build",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 167,
+  "date_ms": 1779894552211,
+  "description_en": "Use Grok Build from Pi as a managed collaborator for review, research, edits, and media.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

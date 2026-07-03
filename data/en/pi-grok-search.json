@@ -1,0 +1,13 @@
+{
+  "name": "pi-grok-search",
+  "path": "/packages/pi-grok-search",
+  "url": "https://pi.dev/packages/pi-grok-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 25,
+  "date_ms": 1778307251097,
+  "description_en": "Grok Search Extension for pi - 双引擎架构：Grok AI 搜索 + Tavily 抓取 + Firecrawl 托底",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

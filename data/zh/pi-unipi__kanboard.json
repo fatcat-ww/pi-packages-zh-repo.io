@@ -1,0 +1,6 @@
+{
+  "name": "@pi-unipi/kanboard",
+  "description_en": "Visualization layer for unipi workflow — HTTP server with htmx/Alpine.js UI, modular parsers, TUI overlay, and kanban board",
+  "description_zh": "unipi 工作流的可视化层 — 使用 htmx/Alpine.js UI、模块化解析器、TUI 覆盖层和看板板的 HTTP 服务器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

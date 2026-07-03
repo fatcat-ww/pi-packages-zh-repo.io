@@ -1,0 +1,6 @@
+{
+  "name": "@termdraw/pi",
+  "description_en": "Pi extension package that embeds termDRAW inside Pi via opentui-island.",
+  "description_zh": "Pi 扩展包，通过 opentui-island 在 Pi 内嵌入 termDRAW",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@catdaemon/pi-subagents",
+  "path": "/packages/@catdaemon/pi-subagents",
+  "url": "https://pi.dev/packages/@catdaemon/pi-subagents",
+  "types": "",
+  "type_list": [],
+  "downloads": 92,
+  "date_ms": 1778631727754,
+  "description_en": "Persistent subagent tools and UI for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

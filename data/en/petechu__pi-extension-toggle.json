@@ -1,0 +1,11 @@
+{
+  "name": "@petechu/pi-extension-toggle",
+  "path": "/packages/@petechu/pi-extension-toggle",
+  "url": "https://pi.dev/packages/@petechu/pi-extension-toggle",
+  "types": "",
+  "type_list": [],
+  "downloads": 77,
+  "date_ms": 1779981780377,
+  "description_en": "Enable or disable installed Pi extensions from inside Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

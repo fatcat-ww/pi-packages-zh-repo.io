@@ -1,0 +1,13 @@
+{
+  "name": "pi-powerpoint",
+  "path": "/packages/pi-powerpoint",
+  "url": "https://pi.dev/packages/pi-powerpoint",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 245,
+  "date_ms": 1770160348714,
+  "description_en": "Pi skill for creating and editing PowerPoint files via CLI, wrapping office-powerpoint-mcp-server",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

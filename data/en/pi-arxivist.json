@@ -1,0 +1,13 @@
+{
+  "name": "pi-arxivist",
+  "path": "/packages/pi-arxivist",
+  "url": "https://pi.dev/packages/pi-arxivist",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 907,
+  "date_ms": 1781812202821,
+  "description_en": "Fetch arxiv papers as Markdown (pi extension)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

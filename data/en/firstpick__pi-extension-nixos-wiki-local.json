@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-nixos-wiki-local",
+  "path": "/packages/@firstpick/pi-extension-nixos-wiki-local",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-nixos-wiki-local",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 549,
+  "date_ms": 1780954485923,
+  "description_en": "Local NixOS/Nix documentation search and retrieval tools for Pi backed by minimal sparse clones of official repositories.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

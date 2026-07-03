@@ -1,0 +1,13 @@
+{
+  "name": "@mocito/pi-goal",
+  "path": "/packages/@mocito/pi-goal",
+  "url": "https://pi.dev/packages/@mocito/pi-goal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 746,
+  "date_ms": 1782868259339,
+  "description_en": "Persistent long-running goals for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

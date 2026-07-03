@@ -1,0 +1,11 @@
+{
+  "name": "pi-search-on-your-browser",
+  "path": "/packages/pi-search-on-your-browser",
+  "url": "https://pi.dev/packages/pi-search-on-your-browser",
+  "types": "",
+  "type_list": [],
+  "downloads": 354,
+  "date_ms": 1781473324844,
+  "description_en": "Search Google in your own visible Chrome — same approach as @antirez's ds4-agent. Zero dependencies, no API keys.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-tokyo-night-storm",
+  "path": "/packages/pi-tokyo-night-storm",
+  "url": "https://pi.dev/packages/pi-tokyo-night-storm",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 45,
+  "date_ms": 1774738719580,
+  "description_en": "Tokyo Night Storm theme for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

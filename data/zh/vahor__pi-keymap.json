@@ -1,0 +1,6 @@
+{
+  "name": "@vahor/pi-keymap",
+  "description_en": "Vim-like custom keymaps for binding keyboard shortcuts to shell commands in pi.",
+  "description_zh": "类似 Vim 的自定义键映射，用于在 pi 中将键盘快捷键绑定到 shell 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

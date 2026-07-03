@@ -1,0 +1,6 @@
+{
+  "name": "@dbaida/pi-sync",
+  "description_en": "Git-backed Pi extension for syncing agent settings, skills, prompts, themes, and extensions across machines.",
+  "description_zh": "基于 Git 的 Pi 扩展，用于跨机器同步代理设置、技能、提示、主题和扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

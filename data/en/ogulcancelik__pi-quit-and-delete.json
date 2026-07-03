@@ -1,0 +1,13 @@
+{
+  "name": "@ogulcancelik/pi-quit-and-delete",
+  "path": "/packages/@ogulcancelik/pi-quit-and-delete",
+  "url": "https://pi.dev/packages/@ogulcancelik/pi-quit-and-delete",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 27,
+  "date_ms": 1778868177856,
+  "description_en": "Keyboard shortcut to quit pi and permanently delete the active session file.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

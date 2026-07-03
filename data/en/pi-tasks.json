@@ -1,0 +1,13 @@
+{
+  "name": "pi-tasks",
+  "path": "/packages/pi-tasks",
+  "url": "https://pi.dev/packages/pi-tasks",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 717,
+  "date_ms": 1782222105090,
+  "description_en": "Pi-native execution contracts for AI agents — evidence-gated completion, ordered plans, and compaction-safe resume",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

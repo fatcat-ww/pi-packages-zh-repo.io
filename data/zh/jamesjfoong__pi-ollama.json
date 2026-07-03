@@ -1,0 +1,6 @@
+{
+  "name": "@jamesjfoong/pi-ollama",
+  "description_en": "Auto-discover and register Ollama models in pi. No more manual models.json editing.",
+  "description_zh": "自动发现并在 pi 中注册 Ollama 模型。无需手动编辑 models.json。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@oleg_tarasov/pi-zmx-status",
+  "path": "/packages/@oleg_tarasov/pi-zmx-status",
+  "url": "https://pi.dev/packages/@oleg_tarasov/pi-zmx-status",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 65,
+  "date_ms": 1780559866488,
+  "description_en": "Show the current zmx session name in Pi's status bar.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

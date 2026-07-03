@@ -1,0 +1,13 @@
+{
+  "name": "composio-x-pi",
+  "path": "/packages/composio-x-pi",
+  "url": "https://pi.dev/packages/composio-x-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1137,
+  "date_ms": 1780455257697,
+  "description_en": "Pi extension that exposes Composio-backed runtime and authoring tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

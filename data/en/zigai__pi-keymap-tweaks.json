@@ -1,0 +1,13 @@
+{
+  "name": "@zigai/pi-keymap-tweaks",
+  "path": "/packages/@zigai/pi-keymap-tweaks",
+  "url": "https://pi.dev/packages/@zigai/pi-keymap-tweaks",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 463,
+  "date_ms": 1781476560858,
+  "description_en": "Pi package for opinionated editor and message-submit key tweaks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

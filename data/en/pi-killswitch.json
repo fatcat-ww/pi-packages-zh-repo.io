@@ -1,0 +1,13 @@
+{
+  "name": "pi-killswitch",
+  "path": "/packages/pi-killswitch",
+  "url": "https://pi.dev/packages/pi-killswitch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 586,
+  "date_ms": 1780932447537,
+  "description_en": "Keep Pi runs controlled with automatic context-budget wrap-up and kill thresholds.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

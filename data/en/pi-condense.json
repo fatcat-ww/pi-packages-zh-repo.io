@@ -1,0 +1,11 @@
+{
+  "name": "pi-condense",
+  "path": "/packages/pi-condense",
+  "url": "https://pi.dev/packages/pi-condense",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1783067733364,
+  "description_en": "Pi extension that summarizes completed tool-call batches, replaces raw outputs with short stubs in future context, and recovers any original on demand via context_tree_query.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

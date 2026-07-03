@@ -1,0 +1,13 @@
+{
+  "name": "@jonghyun/pi-web-tools",
+  "path": "/packages/@jonghyun/pi-web-tools",
+  "url": "https://pi.dev/packages/@jonghyun/pi-web-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 50,
+  "date_ms": 1779160869310,
+  "description_en": "Pi extension providing web search, page scraping, screenshot, and content extraction tools with auto-managed Docker services.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

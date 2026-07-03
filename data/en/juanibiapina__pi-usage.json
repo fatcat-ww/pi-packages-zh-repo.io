@@ -1,0 +1,11 @@
+{
+  "name": "@juanibiapina/pi-usage",
+  "path": "/packages/@juanibiapina/pi-usage",
+  "url": "https://pi.dev/packages/@juanibiapina/pi-usage",
+  "types": "",
+  "type_list": [],
+  "downloads": 59,
+  "date_ms": 1779295811606,
+  "description_en": "Pi extension that fetches Anthropic subscription usage. Simplified fork of @marckrenn/pi-sub-core.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

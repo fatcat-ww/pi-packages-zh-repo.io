@@ -1,0 +1,11 @@
+{
+  "name": "pi-pipelines",
+  "path": "/packages/pi-pipelines",
+  "url": "https://pi.dev/packages/pi-pipelines",
+  "types": "",
+  "type_list": [],
+  "downloads": 360,
+  "date_ms": 1782065086959,
+  "description_en": "Predefined, reusable agent loops for Pi: declarative YAML pipelines with review gates, scoring, and goal-loop convergence. Built on pi-subagents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

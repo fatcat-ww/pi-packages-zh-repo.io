@@ -1,0 +1,13 @@
+{
+  "name": "zlab-weixin-bridge",
+  "path": "/packages/zlab-weixin-bridge",
+  "url": "https://pi.dev/packages/zlab-weixin-bridge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 635,
+  "date_ms": 1780291740697,
+  "description_en": "WeChat bot bridge for pi — QR login, message polling, auto-reply via WeChat ilink API",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

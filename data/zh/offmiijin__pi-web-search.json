@@ -1,0 +1,6 @@
+{
+  "name": "@offmiijin/pi-web-search",
+  "description_en": "Pi extension — search the web via DuckDuckGo, Bing, and Brave. Returns structured results for LLM consumption.",
+  "description_zh": "Pi 扩展 — 通过 DuckDuckGo、Bing 和 Brave 搜索网络。返回供 LLM 消费的结构化结果。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

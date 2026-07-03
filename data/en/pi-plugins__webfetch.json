@@ -1,0 +1,13 @@
+{
+  "name": "@pi-plugins/webfetch",
+  "path": "/packages/@pi-plugins/webfetch",
+  "url": "https://pi.dev/packages/@pi-plugins/webfetch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 72,
+  "date_ms": 1779742034378,
+  "description_en": "WebFetch tool extension for pi-agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

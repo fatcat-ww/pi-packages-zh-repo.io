@@ -1,0 +1,13 @@
+{
+  "name": "pi-smart-compact",
+  "path": "/packages/pi-smart-compact",
+  "url": "https://pi.dev/packages/pi-smart-compact",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1674,
+  "date_ms": 1782473424100,
+  "description_en": "Verification-oriented smart compaction extension for Pi Coding Agent — deterministic extraction, exploration, synthesis, verification, metrics, and safety checks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

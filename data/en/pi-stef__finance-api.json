@@ -1,0 +1,11 @@
+{
+  "name": "@pi-stef/finance-api",
+  "path": "/packages/@pi-stef/finance-api",
+  "url": "https://pi.dev/packages/@pi-stef/finance-api",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782796441661,
+  "description_en": "Always-on local service for @pi-stef/finance: ingests financial-account data, stores locally, runs a deterministic quant engine and market-aware scheduler.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

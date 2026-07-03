@@ -1,0 +1,11 @@
+{
+  "name": "@vanillagreen/pi-claude-bridge",
+  "path": "/packages/@vanillagreen/pi-claude-bridge",
+  "url": "https://pi.dev/packages/@vanillagreen/pi-claude-bridge",
+  "types": "",
+  "type_list": [],
+  "downloads": 1049,
+  "date_ms": 1782963925599,
+  "description_en": "Pi provider bridge that runs Claude Code through the Claude Agent SDK, with opt-in forwarding for Pi prompt context.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

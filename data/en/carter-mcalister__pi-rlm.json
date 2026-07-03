@@ -1,0 +1,13 @@
+{
+  "name": "@carter-mcalister/pi-rlm",
+  "path": "/packages/@carter-mcalister/pi-rlm",
+  "url": "https://pi.dev/packages/@carter-mcalister/pi-rlm",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 34,
+  "date_ms": 1776610079854,
+  "description_en": "RLM-first named workflow extension for Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

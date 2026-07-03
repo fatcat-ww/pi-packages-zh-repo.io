@@ -1,0 +1,14 @@
+{
+  "name": "@thiago__ss/pi-agent-config",
+  "path": "/packages/@thiago__ss/pi-agent-config",
+  "url": "https://pi.dev/packages/@thiago__ss/pi-agent-config",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 27,
+  "date_ms": 1775754894595,
+  "description_en": "Thiago's shareable Pi agent configuration",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

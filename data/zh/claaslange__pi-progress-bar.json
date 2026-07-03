@@ -1,0 +1,6 @@
+{
+  "name": "@claaslange/pi-progress-bar",
+  "description_en": "Native terminal progress indicator support for pi via OSC 9;4",
+  "description_zh": "通过 OSC 9;4 为 pi 提供原生终端进度指示器支持",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

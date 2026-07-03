@@ -1,0 +1,6 @@
+{
+  "name": "@r3b1s/pi-subagents-deterministic",
+  "description_en": "Deterministic subagent routing via Pi's tool_call hook — resolves model and thinking from model-routing.yml and injects them into pi-subagents' subagent tool calls.",
+  "description_zh": "通过 Pi 的 tool_call 钩子进行确定性子代理路由 — 从 model-routing.yml 解析模型和思考，并将它们注入到 pi-subagents 的子代理工具调用中。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

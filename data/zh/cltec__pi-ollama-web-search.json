@@ -1,0 +1,6 @@
+{
+  "name": "@cltec/pi-ollama-web-search",
+  "description_en": "A local-first, context-safe pi extension package for Ollama web search and fetch.",
+  "description_zh": "Ollama 网络搜索和获取的本地优先、上下文安全的 Pi 扩展包。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

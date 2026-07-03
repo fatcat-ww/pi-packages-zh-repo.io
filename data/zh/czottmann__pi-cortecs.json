@@ -1,0 +1,6 @@
+{
+  "name": "@czottmann/pi-cortecs",
+  "description_en": "Cortecs provider extension for pi coding agent. Install with `pi install npm:@czottmann/pi-cortecs`.",
+  "description_zh": "pi 编码代理的 Cortecs 提供商扩展。使用 `pi install npm:@czottmann/pi-cortecs` 安装。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

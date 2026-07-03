@@ -1,0 +1,6 @@
+{
+  "name": "@ineersa/my-pi-mcp-adapter",
+  "description_en": "MCP (Model Context Protocol) adapter extension for Pi coding agent — bridges any MCP server into Pi as first-class tools",
+  "description_zh": "Pi 编码代理的 MCP（模型上下文协议）适配器扩展 — 将任何 MCP 服务器桥接为 Pi 的一级工具。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

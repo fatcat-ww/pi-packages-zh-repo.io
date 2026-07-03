@@ -1,0 +1,11 @@
+{
+  "name": "pi-windows-nul-fix",
+  "path": "/packages/pi-windows-nul-fix",
+  "url": "https://pi.dev/packages/pi-windows-nul-fix",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782758995094,
+  "description_en": "Pi extension that rewrites Windows-style `> nul` redirects to `> /dev/null` before Git Bash runs them, preventing spurious `nul` files on Windows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-halter",
+  "path": "/packages/agent-halter",
+  "url": "https://pi.dev/packages/agent-halter",
+  "types": "",
+  "type_list": [],
+  "downloads": 27,
+  "date_ms": 1777986218113,
+  "description_en": "Session-budget extension for AI coding agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

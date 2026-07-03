@@ -1,0 +1,6 @@
+{
+  "name": "pi-browser-harness",
+  "description_en": "Browser control extension for pi — navigate, click, type, screenshot, and extract data from real Chrome via CDP",
+  "description_zh": "pi 的浏览器控制扩展 — 通过 CDP 导航、点击、键入、截图并从真实 Chrome 中提取数据",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

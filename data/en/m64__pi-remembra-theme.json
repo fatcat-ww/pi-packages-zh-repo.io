@@ -1,0 +1,13 @@
+{
+  "name": "@m64/pi-remembra-theme",
+  "path": "/packages/@m64/pi-remembra-theme",
+  "url": "https://pi.dev/packages/@m64/pi-remembra-theme",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 130,
+  "date_ms": 1775902495360,
+  "description_en": "A beautiful dark theme for pi coding agent inspired by the Remembra web interface, featuring sophisticated purple-blue gradients and carefully balanced text colors.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

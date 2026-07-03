@@ -1,0 +1,13 @@
+{
+  "name": "pi-navigator",
+  "path": "/packages/pi-navigator",
+  "url": "https://pi.dev/packages/pi-navigator",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 60,
+  "date_ms": 1779663292246,
+  "description_en": "Navigation extension for Pi: session checkpointing, branch management and push-task tool",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

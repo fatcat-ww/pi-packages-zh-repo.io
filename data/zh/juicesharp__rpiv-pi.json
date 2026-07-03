@@ -1,0 +1,6 @@
+{
+  "name": "@juicesharp/rpiv-pi",
+  "description_en": "A skill-based development workflow for Pi Agent. Twenty contract-carrying skills (discover → research → design → plan → implement → validate → code-review → commit, and more), the named subagents they dispatch, and six built-in /wf workflows that chain th",
+  "description_zh": "Pi Agent 的基于技能的开发工作流。二十个携带合同的技能（发现 → 研究 → 设计 → 规划 → 实现 → 验证 → 代码审查 → 提交，等等），它们调用的命名子代理，以及六个内置的 /wf 工作流，这些工作流将它们链接在一起",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

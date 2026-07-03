@@ -1,0 +1,11 @@
+{
+  "name": "context-mode",
+  "path": "/packages/context-mode",
+  "url": "https://pi.dev/packages/context-mode",
+  "types": "",
+  "type_list": [],
+  "downloads": 111848,
+  "date_ms": 1782757107670,
+  "description_en": "MCP plugin that saves 98% of your context window. Works with Claude Code, Gemini CLI, VS Code Copilot, OpenCode, and Codex CLI. Sandboxed code execution, FTS5 knowledge base, and intent-driven search.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

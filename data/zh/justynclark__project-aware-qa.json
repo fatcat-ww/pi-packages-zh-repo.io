@@ -1,0 +1,6 @@
+{
+  "name": "@justynclark/project-aware-qa",
+  "description_en": "Pi-first QA pack: scans real codebases, infers test surfaces, ranks risk, runs evidence-based checks, captures screenshots, and writes .qa/* reports.",
+  "description_zh": "Pi 优先的 QA 包：扫描真实代码库，推断测试覆盖面，评估风险，运行基于证据的检查，捕获屏幕截图，并编写 .qa/* 报告。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

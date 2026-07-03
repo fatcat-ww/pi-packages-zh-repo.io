@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/grill-with-docs-skill",
+  "path": "/packages/@barlevalon/grill-with-docs-skill",
+  "url": "https://pi.dev/packages/@barlevalon/grill-with-docs-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 141,
+  "date_ms": 1782995914493,
+  "description_en": "Composable grilling session that pressure-tests plans while maintaining CONTEXT.md and ADRs as decisions crystallise.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

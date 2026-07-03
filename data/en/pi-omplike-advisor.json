@@ -1,0 +1,13 @@
+{
+  "name": "pi-omplike-advisor",
+  "path": "/packages/pi-omplike-advisor",
+  "url": "https://pi.dev/packages/pi-omplike-advisor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782584361801,
+  "description_en": "Pi extension: a persistent second model that reviews the main agent's work each turn and injects concise advice inline.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

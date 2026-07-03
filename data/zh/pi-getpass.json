@@ -1,0 +1,6 @@
+{
+  "name": "pi-getpass",
+  "description_en": "Pi package providing a secure getpass tool for temporary secret environment variables",
+  "description_zh": "Pi 包，提供用于临时密钥环境变量的安全 getpass 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

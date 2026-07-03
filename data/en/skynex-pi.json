@@ -1,0 +1,11 @@
+{
+  "name": "skynex-pi",
+  "path": "/packages/skynex-pi",
+  "url": "https://pi.dev/packages/skynex-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 817,
+  "date_ms": 1780921393091,
+  "description_en": "Multi-agent coding harness for Pi — triage + 17 skills + 11 sub-agents + 11 extensions. Full medium/substantial-path workflow with HITL gates, TDD enforcement, adversarial review, research mode, task-creation mode, and execution mode.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

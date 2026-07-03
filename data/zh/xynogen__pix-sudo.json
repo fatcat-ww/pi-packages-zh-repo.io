@@ -1,0 +1,6 @@
+{
+  "name": "@xynogen/pix-sudo",
+  "description_en": "Pi tool — sudo_run with interactive PAM password prompt (PAM via sudo -S)",
+  "description_zh": "Pi 工具 — sudo_run 与交互式 PAM 密码提示（通过 sudo -S 的 PAM）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

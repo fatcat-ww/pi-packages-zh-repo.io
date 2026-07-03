@@ -1,0 +1,11 @@
+{
+  "name": "@dreki-gg/pi-past-chats",
+  "path": "/packages/@dreki-gg/pi-past-chats",
+  "url": "https://pi.dev/packages/@dreki-gg/pi-past-chats",
+  "types": "",
+  "type_list": [],
+  "downloads": 267,
+  "date_ms": 1781575288041,
+  "description_en": "Reference previous pi sessions inline with @chat: and @session: autocomplete",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

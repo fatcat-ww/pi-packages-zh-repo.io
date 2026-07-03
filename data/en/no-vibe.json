@@ -1,0 +1,11 @@
+{
+  "name": "no-vibe",
+  "path": "/packages/no-vibe",
+  "url": "https://pi.dev/packages/no-vibe",
+  "types": "",
+  "type_list": [],
+  "downloads": 37,
+  "date_ms": 1779506534901,
+  "description_en": "Tutor mode for AI coding assistants. AI shows code in chat and reviews your work, but never writes to your project files. Ships across Claude Code, OpenCode, Codex, Gemini CLI, and Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-context-map",
+  "path": "/packages/pi-context-map",
+  "url": "https://pi.dev/packages/pi-context-map",
+  "types": "",
+  "type_list": [],
+  "downloads": 3722,
+  "date_ms": 1781591290847,
+  "description_en": "Professional context profiler for Pi that visualizes the session context window, token distribution, and integrates with Nexus packages for actionable insights.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

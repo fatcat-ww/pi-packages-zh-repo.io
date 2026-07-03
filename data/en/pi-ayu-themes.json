@@ -1,0 +1,13 @@
+{
+  "name": "pi-ayu-themes",
+  "path": "/packages/pi-ayu-themes",
+  "url": "https://pi.dev/packages/pi-ayu-themes",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 170,
+  "date_ms": 1782139739992,
+  "description_en": "Ayu color themes for pi — dark, mirage, and light",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

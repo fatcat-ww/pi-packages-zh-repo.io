@@ -1,0 +1,6 @@
+{
+  "name": "@vanillagreen/pi-flightdeck",
+  "description_en": "Optional Pi status shell for the flightdeck skill: owner-scoped mini-dashboard, pause banner, notifications, and /flightdeck focus/open integration for the Rust app.",
+  "description_zh": "面向飞行甲板技能的可选 Pi 状态外壳：所有者范围的迷你仪表板、暂停横幅、通知以及面向 Rust 应用的 /flightdeck focus/open 集成",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

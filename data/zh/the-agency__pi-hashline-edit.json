@@ -1,0 +1,6 @@
+{
+  "name": "@the-agency/pi-hashline-edit",
+  "description_en": "Pi extension providing hashline-based file reading and editing with staleness-checked line addressing.",
+  "description_zh": "Pi 扩展，提供基于哈希行的文件读取和编辑，具有过期检查的行寻址。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

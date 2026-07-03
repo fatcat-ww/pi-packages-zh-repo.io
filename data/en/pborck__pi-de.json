@@ -1,0 +1,11 @@
+{
+  "name": "@pborck/pi-de",
+  "path": "/packages/@pborck/pi-de",
+  "url": "https://pi.dev/packages/@pborck/pi-de",
+  "types": "",
+  "type_list": [],
+  "downloads": 106,
+  "date_ms": 1771545203940,
+  "description_en": "IDE integration for pi coding agent - shows current file/selection from VS Code, JetBrains, etc.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@anton-kochev/squiggle",
+  "path": "/packages/@anton-kochev/squiggle",
+  "url": "https://pi.dev/packages/@anton-kochev/squiggle",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 34,
+  "date_ms": 1779496919471,
+  "description_en": "Quietly polish grammar and spelling in your pi prompts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

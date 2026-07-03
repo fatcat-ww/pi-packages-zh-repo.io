@@ -1,0 +1,11 @@
+{
+  "name": "@kkskcs/pi-open",
+  "path": "/packages/@kkskcs/pi-open",
+  "url": "https://pi.dev/packages/@kkskcs/pi-open",
+  "types": "",
+  "type_list": [],
+  "downloads": 154,
+  "date_ms": 1781727767810,
+  "description_en": "Open files with default app or current directory in finder, terminal, or split pane",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

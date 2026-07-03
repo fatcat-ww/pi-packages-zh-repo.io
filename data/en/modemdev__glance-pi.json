@@ -1,0 +1,13 @@
+{
+  "name": "@modemdev/glance-pi",
+  "path": "/packages/@modemdev/glance-pi",
+  "url": "https://pi.dev/packages/@modemdev/glance-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 30,
+  "date_ms": 1782656193749,
+  "description_en": "glance.sh extension package for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

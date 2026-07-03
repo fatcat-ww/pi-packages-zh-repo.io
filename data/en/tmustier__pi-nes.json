@@ -1,0 +1,11 @@
+{
+  "name": "@tmustier/pi-nes",
+  "path": "/packages/@tmustier/pi-nes",
+  "url": "https://pi.dev/packages/@tmustier/pi-nes",
+  "types": "",
+  "type_list": [],
+  "downloads": 239,
+  "date_ms": 1778170645732,
+  "description_en": "NES emulator extension for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

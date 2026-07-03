@@ -1,0 +1,11 @@
+{
+  "name": "@jstxn/agentdir-pi",
+  "path": "/packages/@jstxn/agentdir-pi",
+  "url": "https://pi.dev/packages/@jstxn/agentdir-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 433,
+  "date_ms": 1781034225269,
+  "description_en": "Pi package for AgentDir local-first coding-agent memory and evidence capture.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

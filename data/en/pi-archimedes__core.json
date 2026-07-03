@@ -1,0 +1,11 @@
+{
+  "name": "@pi-archimedes/core",
+  "path": "/packages/@pi-archimedes/core",
+  "url": "https://pi.dev/packages/@pi-archimedes/core",
+  "types": "",
+  "type_list": [],
+  "downloads": 4693,
+  "date_ms": 1783072551826,
+  "description_en": "Core UI modules for pi-archimedes: editor, message, startup, thinking",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

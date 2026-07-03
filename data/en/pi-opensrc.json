@@ -1,0 +1,11 @@
+{
+  "name": "pi-opensrc",
+  "path": "/packages/pi-opensrc",
+  "url": "https://pi.dev/packages/pi-opensrc",
+  "types": "",
+  "type_list": [],
+  "downloads": 143,
+  "date_ms": 1780569086605,
+  "description_en": "Unofficial Pi package for vercel-labs/opensrc: installs the opensrc CLI and Pi skill.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

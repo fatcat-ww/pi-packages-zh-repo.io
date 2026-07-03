@@ -1,0 +1,6 @@
+{
+  "name": "pi-goal",
+  "description_en": "Persistent autonomous goals for pi — /goal loops until complete, paused, or budget-limited",
+  "description_zh": "Pi 的持久自主目标 — /goal 循环直到完成、暂停或预算限制",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

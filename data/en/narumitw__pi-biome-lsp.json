@@ -1,0 +1,13 @@
+{
+  "name": "@narumitw/pi-biome-lsp",
+  "path": "/packages/@narumitw/pi-biome-lsp",
+  "url": "https://pi.dev/packages/@narumitw/pi-biome-lsp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 143,
+  "date_ms": 1779007684855,
+  "description_en": "Pi extension that exposes Biome language-server tools for diagnostics, formatting, and fixes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

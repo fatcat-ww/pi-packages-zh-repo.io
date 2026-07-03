@@ -1,0 +1,13 @@
+{
+  "name": "pigibrack",
+  "path": "/packages/pigibrack",
+  "url": "https://pi.dev/packages/pigibrack",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 47,
+  "date_ms": 1775309896185,
+  "description_en": "Pi extension package for structural Scheme/Guile editing with a persistent REPL sidecar",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

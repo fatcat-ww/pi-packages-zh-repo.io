@@ -1,0 +1,13 @@
+{
+  "name": "pi-persistent-intelligence",
+  "path": "/packages/pi-persistent-intelligence",
+  "url": "https://pi.dev/packages/pi-persistent-intelligence",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1083,
+  "date_ms": 1782877595540,
+  "description_en": "Governed long-term memory, built-in session search, and Obsidian vault integration for the pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

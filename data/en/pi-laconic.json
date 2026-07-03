@@ -1,0 +1,13 @@
+{
+  "name": "pi-laconic",
+  "path": "/packages/pi-laconic",
+  "url": "https://pi.dev/packages/pi-laconic",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782844708729,
+  "description_en": "Laconic for Pi: ultra-compressed agent output that preserves technical substance. Three intensity modes, slash commands, natural-language activation, and a session statusline. Inspired by caveman.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

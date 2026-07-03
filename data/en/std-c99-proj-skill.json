@@ -1,0 +1,13 @@
+{
+  "name": "std-c99-proj-skill",
+  "path": "/packages/std-c99-proj-skill",
+  "url": "https://pi.dev/packages/std-c99-proj-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 101,
+  "date_ms": 1775078144297,
+  "description_en": "Pi skill for pure ANSI C99 projects with memory arena, containerized builds, Valgrind, and static analysis.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

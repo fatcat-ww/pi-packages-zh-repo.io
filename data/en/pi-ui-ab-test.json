@@ -1,0 +1,13 @@
+{
+  "name": "pi-ui-ab-test",
+  "path": "/packages/pi-ui-ab-test",
+  "url": "https://pi.dev/packages/pi-ui-ab-test",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 30,
+  "date_ms": 1777575926077,
+  "description_en": "Pi extension that lets the model present two visual variants and collect a user preference through an interactive A/B picker",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

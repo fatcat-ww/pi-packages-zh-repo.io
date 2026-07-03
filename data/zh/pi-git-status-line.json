@@ -1,0 +1,6 @@
+{
+  "name": "pi-git-status-line",
+  "description_en": "Shareable Pi package that extends the status line with git branch, uncommitted files, and ahead/behind counts.",
+  "description_zh": "可共享的 Pi 包，通过 git 分支、未提交文件和超前/落后计数扩展状态行",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

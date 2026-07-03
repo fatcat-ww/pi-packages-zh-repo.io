@@ -1,0 +1,13 @@
+{
+  "name": "@zhushanwen/pi-turn-timing",
+  "path": "/packages/@zhushanwen/pi-turn-timing",
+  "url": "https://pi.dev/packages/@zhushanwen/pi-turn-timing",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 136,
+  "date_ms": 1780749748995,
+  "description_en": "Record per-phase execution timing (thinking, text, toolcall generation, tool execution) for each turn",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

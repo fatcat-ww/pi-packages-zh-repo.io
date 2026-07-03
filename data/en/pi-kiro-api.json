@@ -1,0 +1,11 @@
+{
+  "name": "pi-kiro-api",
+  "path": "/packages/pi-kiro-api",
+  "url": "https://pi.dev/packages/pi-kiro-api",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782849240589,
+  "description_en": "Kiro API-key provider for pi using KIRO_API_KEY. Vendors pi-kiro's streaming core (MIT) with no runtime dependencies.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

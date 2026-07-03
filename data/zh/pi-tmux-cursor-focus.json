@@ -1,0 +1,6 @@
+{
+  "name": "pi-tmux-cursor-focus",
+  "description_en": "Pi extension that hides the editor cursor in unfocused tmux panes without replacing other editor/status extensions",
+  "description_zh": "Pi 扩展，在不使用其他编辑器/状态扩展的情况下，在未聚焦的 tmux 面板中隐藏编辑器光标",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

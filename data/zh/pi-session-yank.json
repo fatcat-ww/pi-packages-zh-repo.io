@@ -1,0 +1,6 @@
+{
+  "name": "pi-session-yank",
+  "description_en": "Pi extension that copies assistant/user message text or fenced code blocks from the current session branch to the clipboard",
+  "description_zh": "Pi 扩展，将助手/用户消息文本或围栏代码块从当前会话分支复制到剪贴板",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-cocoindex",
+  "path": "/packages/pi-cocoindex",
+  "url": "https://pi.dev/packages/pi-cocoindex",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 131,
+  "date_ms": 1777240454486,
+  "description_en": "Pi extension that exposes CocoIndex Code as a simple semantic search tool.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

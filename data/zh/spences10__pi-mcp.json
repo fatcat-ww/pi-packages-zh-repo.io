@@ -1,0 +1,6 @@
+{
+  "name": "@spences10/pi-mcp",
+  "description_en": "MCP server integration for Pi that exposes configured MCP tools safely and manages large responses",
+  "description_zh": "Pi 的 MCP 服务器集成，安全地暴露配置的 MCP 工具并管理大响应",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

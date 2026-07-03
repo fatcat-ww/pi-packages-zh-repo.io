@@ -1,0 +1,6 @@
+{
+  "name": "zob-harness",
+  "description_en": "A governed Agent Factory for Pi: launch communicating agent teams, run tmux-backed factories, validate artifacts, and package repeatable workflows.",
+  "description_zh": "Pi 的受管代理工厂：启动通信代理团队、运行 tmux 支持的工厂、验证工件和打包可重复工作流",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

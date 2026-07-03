@@ -1,0 +1,13 @@
+{
+  "name": "pi-dingtalkbot",
+  "path": "/packages/pi-dingtalkbot",
+  "url": "https://pi.dev/packages/pi-dingtalkbot",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 240,
+  "date_ms": 1783048839622,
+  "description_en": "钉钉智能机器人 Stream 长连接扩展 for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

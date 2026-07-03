@@ -1,0 +1,13 @@
+{
+  "name": "@zackify/pi-wafer",
+  "path": "/packages/@zackify/pi-wafer",
+  "url": "https://pi.dev/packages/@zackify/pi-wafer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 46,
+  "date_ms": 1778612817210,
+  "description_en": "A pi extension that adds the Wafer Pass (wafer.ai) provider with paste-token OAuth and a footer that shows your live request quota and time until the next quota window.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

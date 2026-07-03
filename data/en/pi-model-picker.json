@@ -1,0 +1,13 @@
+{
+  "name": "pi-model-picker",
+  "path": "/packages/pi-model-picker",
+  "url": "https://pi.dev/packages/pi-model-picker",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 52,
+  "date_ms": 1772008228751,
+  "description_en": "Categorized, keyboard-driven model selector for the pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

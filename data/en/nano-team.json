@@ -1,0 +1,11 @@
+{
+  "name": "nano-team",
+  "path": "/packages/nano-team",
+  "url": "https://pi.dev/packages/nano-team",
+  "types": "",
+  "type_list": [],
+  "downloads": 46,
+  "date_ms": 1777578991530,
+  "description_en": "A tiny pi.dev extension. It doesn't really do much — just runs your subagents and shows them as a compact little chip row above the editor so you can see who's working.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

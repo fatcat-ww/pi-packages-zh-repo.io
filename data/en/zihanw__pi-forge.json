@@ -1,0 +1,13 @@
+{
+  "name": "@zihanw/pi-forge",
+  "path": "/packages/@zihanw/pi-forge",
+  "url": "https://pi.dev/packages/@zihanw/pi-forge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 259,
+  "date_ms": 1782919088912,
+  "description_en": "Pi extension for prompt stack and agent profile management.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

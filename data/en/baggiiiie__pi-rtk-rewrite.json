@@ -1,0 +1,11 @@
+{
+  "name": "@baggiiiie/pi-rtk-rewrite",
+  "path": "/packages/@baggiiiie/pi-rtk-rewrite",
+  "url": "https://pi.dev/packages/@baggiiiie/pi-rtk-rewrite",
+  "types": "",
+  "type_list": [],
+  "downloads": 38,
+  "date_ms": 1777869409864,
+  "description_en": "A pi package that rewrites `bash` tool calls through [RTK](https://github.com/rtk-ai/rtk) before execution.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

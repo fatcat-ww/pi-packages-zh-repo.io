@@ -1,0 +1,6 @@
+{
+  "name": "qnaigc-llm-provider",
+  "description_en": "QNAIGC provider extension for pi-mono - Anthropic-compatible API for Chinese LLMs",
+  "description_zh": "pi-mono 的 QNAIGC 提供商扩展 — 中文 LLM 的 Anthropic 兼容 API",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@brushes/schema-to-view",
+  "path": "/packages/@brushes/schema-to-view",
+  "url": "https://pi.dev/packages/@brushes/schema-to-view",
+  "types": "",
+  "type_list": [],
+  "downloads": 7154,
+  "date_ms": 1782992407656,
+  "description_en": "根据 UI 截图/设计稿动态生成低代码平台 JSON schema。当用户提供 UI 图片要求生成页面、将设计稿转为低代码页面、根据截图创建页面 JSON、图片转 Schema 时使用此 skill。触发条件：UI 截图 + 低代码、设计稿转代码、图片生成页面、schema 生成",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

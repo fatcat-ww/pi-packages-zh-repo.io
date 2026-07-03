@@ -1,0 +1,6 @@
+{
+  "name": "pi-live-terminal",
+  "description_en": "Pi extension that runs commands in tmux and displays a live terminal widget.",
+  "description_zh": "Pi 扩展，在 tmux 中运行命令并显示实时终端小部件。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

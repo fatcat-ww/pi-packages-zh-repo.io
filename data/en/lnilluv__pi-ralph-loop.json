@@ -1,0 +1,13 @@
+{
+  "name": "@lnilluv/pi-ralph-loop",
+  "path": "/packages/@lnilluv/pi-ralph-loop",
+  "url": "https://pi.dev/packages/@lnilluv/pi-ralph-loop",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 490,
+  "date_ms": 1778172723174,
+  "description_en": "Pi-native ralph loop — autonomous coding iterations with mid-turn supervision",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

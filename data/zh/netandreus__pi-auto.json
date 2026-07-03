@@ -1,0 +1,6 @@
+{
+  "name": "@netandreus/pi-auto",
+  "description_en": "Pi package: usage-aware model switching and load-balancing for pi-coding-agent.",
+  "description_zh": "pi 包：用于 pi-coding-agent 的基于使用情况的模型切换和负载均衡。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

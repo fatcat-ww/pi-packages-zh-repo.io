@@ -1,0 +1,11 @@
+{
+  "name": "@d3ara1n/pi-provider-zhipu-coding-plan",
+  "path": "/packages/@d3ara1n/pi-provider-zhipu-coding-plan",
+  "url": "https://pi.dev/packages/@d3ara1n/pi-provider-zhipu-coding-plan",
+  "types": "",
+  "type_list": [],
+  "downloads": 1039,
+  "date_ms": 1782270089087,
+  "description_en": "Zhipu AI Coding Plan provider for pi — auto-discovers models, reports usage quota",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

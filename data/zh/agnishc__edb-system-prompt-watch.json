@@ -1,0 +1,6 @@
+{
+  "name": "@agnishc/edb-system-prompt-watch",
+  "description_en": "Pi extension: alert when Pi's bundled default system prompt changes",
+  "description_zh": "Pi 扩展：当 Pi 捆绑的默认系统提示更改时发出警报",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

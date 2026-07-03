@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-code-quality",
+  "description_en": "Agents should invoke this skill for code reviews, linting/formatting setup, maintainability checks, complexity concerns, warning cleanup, coding standards, or quality gates in Rust, TypeScript, Python, shell, and mixed repos.",
+  "description_zh": "代理应在代码审查、linting/formatting 设置、可维护性检查、复杂性关注、警告清理、编码标准或 Rust、TypeScript、Python、shell 和混合仓库中的质量关卡时调用此技能。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

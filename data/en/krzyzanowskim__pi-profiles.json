@@ -1,0 +1,13 @@
+{
+  "name": "@krzyzanowskim/pi-profiles",
+  "path": "/packages/@krzyzanowskim/pi-profiles",
+  "url": "https://pi.dev/packages/@krzyzanowskim/pi-profiles",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 71,
+  "date_ms": 1778141500441,
+  "description_en": "Run Pi with isolated auth profiles while sharing the standard session store.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

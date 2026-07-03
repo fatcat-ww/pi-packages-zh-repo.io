@@ -1,0 +1,6 @@
+{
+  "name": "zlab-weixin-bridge",
+  "description_en": "WeChat bot bridge for pi — QR login, message polling, auto-reply via WeChat ilink API",
+  "description_zh": "pi 的微信机器人桥接器 — QR 登录、消息轮询、通过微信 ilink API 自动回复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

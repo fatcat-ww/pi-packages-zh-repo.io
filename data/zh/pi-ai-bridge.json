@@ -1,0 +1,6 @@
+{
+  "name": "pi-ai-bridge",
+  "description_en": "Pi extension to delegate tasks to external AI CLIs (claude, codex, gemini) as background agents",
+  "description_zh": "将任务委托给外部 AI CLI（claude、codex、gemini）作为后台代理的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

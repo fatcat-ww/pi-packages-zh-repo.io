@@ -1,0 +1,13 @@
+{
+  "name": "pi-models-dev-providers",
+  "path": "/packages/pi-models-dev-providers",
+  "url": "https://pi.dev/packages/pi-models-dev-providers",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 206,
+  "date_ms": 1781542774513,
+  "description_en": "A pi-coding-agent extension to use model.dev providers",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

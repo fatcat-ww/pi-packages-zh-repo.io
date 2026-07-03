@@ -1,0 +1,6 @@
+{
+  "name": "pi-lean-edit",
+  "description_en": "Safer, cheaper edits by verifying prior reads in the harness instead of the prompt. Lets the harness verify the model already read the latest text it wants to edit, avoiding old-text replay and hash-decorated reads.",
+  "description_zh": "更安全、更便宜的编辑方式，通过在harness中验证先前的读取而不是提示。让harness验证模型已经读取了它想要编辑的最新文本，避免旧文本重播和哈希装饰读取",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

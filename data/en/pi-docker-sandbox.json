@@ -1,0 +1,13 @@
+{
+  "name": "pi-docker-sandbox",
+  "path": "/packages/pi-docker-sandbox",
+  "url": "https://pi.dev/packages/pi-docker-sandbox",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 172,
+  "date_ms": 1780127342347,
+  "description_en": "Lightweight Docker sandbox for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

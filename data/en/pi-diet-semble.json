@@ -1,0 +1,13 @@
+{
+  "name": "pi-diet-semble",
+  "path": "/packages/pi-diet-semble",
+  "url": "https://pi.dev/packages/pi-diet-semble",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 473,
+  "date_ms": 1781982248608,
+  "description_en": "On-demand Semble semantic code search tools for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

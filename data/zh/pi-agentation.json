@@ -1,0 +1,6 @@
+{
+  "name": "pi-agentation",
+  "description_en": "Pi extension that receives Agentation webhooks and turns them into queued user messages",
+  "description_zh": "Pi扩展，接收Agentation webhooks并将其转换为排队用户消息",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

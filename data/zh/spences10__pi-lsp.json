@@ -1,0 +1,6 @@
+{
+  "name": "@spences10/pi-lsp",
+  "description_en": "Language Server Protocol tools for Pi agents to inspect diagnostics, hovers, definitions, references, and symbols",
+  "description_zh": "Pi 代理的语言服务器协议工具，用于检查诊断、悬停、定义、引用和符号",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

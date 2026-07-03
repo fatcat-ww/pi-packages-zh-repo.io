@@ -1,0 +1,6 @@
+{
+  "name": "@cnife/pi-inference-speed",
+  "description_en": "Show LLM inference speed (TPS) and TTFT in pi footer",
+  "description_zh": "在 pi 页脚显示 LLM 推理速度 (TPS) 和 TTFT",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

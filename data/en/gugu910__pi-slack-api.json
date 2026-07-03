@@ -1,0 +1,11 @@
+{
+  "name": "@gugu910/pi-slack-api",
+  "path": "/packages/@gugu910/pi-slack-api",
+  "url": "https://pi.dev/packages/@gugu910/pi-slack-api",
+  "types": "",
+  "type_list": [],
+  "downloads": 32,
+  "date_ms": 1775555463856,
+  "description_en": "Typed Slack Web API client and CLI generated from Slack's OpenAPI spec",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

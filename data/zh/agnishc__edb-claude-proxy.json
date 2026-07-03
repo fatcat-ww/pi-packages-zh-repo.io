@@ -1,0 +1,6 @@
+{
+  "name": "@agnishc/edb-claude-proxy",
+  "description_en": "Pi extension: claude_proxy tool — delegate tasks to Claude Code CLI from within pi",
+  "description_zh": "Pi 扩展：claude_proxy 工具 — 从 pi 内部将任务委托给 Claude Code CLI",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

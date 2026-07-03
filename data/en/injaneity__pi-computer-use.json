@@ -1,0 +1,13 @@
+{
+  "name": "@injaneity/pi-computer-use",
+  "path": "/packages/@injaneity/pi-computer-use",
+  "url": "https://pi.dev/packages/@injaneity/pi-computer-use",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1611,
+  "date_ms": 1783070676195,
+  "description_en": "Pi extension that lets AI agents observe and control macOS apps.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

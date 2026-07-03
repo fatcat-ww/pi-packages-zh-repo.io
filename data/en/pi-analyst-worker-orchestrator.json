@@ -1,0 +1,13 @@
+{
+  "name": "pi-analyst-worker-orchestrator",
+  "path": "/packages/pi-analyst-worker-orchestrator",
+  "url": "https://pi.dev/packages/pi-analyst-worker-orchestrator",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1066,
+  "date_ms": 1781800299259,
+  "description_en": "Token-aware analyst/worker workflow and token ledger extension for Pi Dev coding agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

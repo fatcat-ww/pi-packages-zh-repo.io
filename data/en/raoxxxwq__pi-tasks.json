@@ -1,0 +1,13 @@
+{
+  "name": "@raoxxxwq/pi-tasks",
+  "path": "/packages/@raoxxxwq/pi-tasks",
+  "url": "https://pi.dev/packages/@raoxxxwq/pi-tasks",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 445,
+  "date_ms": 1782468109737,
+  "description_en": "A pi extension that brings Claude Code-style task tracking and coordination to pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

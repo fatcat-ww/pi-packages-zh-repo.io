@@ -1,0 +1,13 @@
+{
+  "name": "@realvendex/pi-doc",
+  "path": "/packages/@realvendex/pi-doc",
+  "url": "https://pi.dev/packages/@realvendex/pi-doc",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782542396116,
+  "description_en": "API documentation generator for pi.dev extensions — parse TypeBox schemas and generate Markdown/HTML docs",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@spences10/pi-nopeek",
+  "path": "/packages/@spences10/pi-nopeek",
+  "url": "https://pi.dev/packages/@spences10/pi-nopeek",
+  "types": "",
+  "type_list": [],
+  "downloads": 309,
+  "date_ms": 1779389247417,
+  "description_en": "Secret-safe workflow reminder that steers Pi agents to use nopeek instead of exposing .env values",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

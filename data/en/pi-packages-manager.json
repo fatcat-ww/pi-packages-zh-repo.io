@@ -1,0 +1,13 @@
+{
+  "name": "pi-packages-manager",
+  "path": "/packages/pi-packages-manager",
+  "url": "https://pi.dev/packages/pi-packages-manager",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1818,
+  "date_ms": 1781518558347,
+  "description_en": "Claude-style Pi packages manager: browse, search, install, update, and remove Pi packages from inside Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

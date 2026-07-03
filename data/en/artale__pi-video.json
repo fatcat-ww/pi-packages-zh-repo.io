@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-video",
+  "path": "/packages/@artale/pi-video",
+  "url": "https://pi.dev/packages/@artale/pi-video",
+  "types": "",
+  "type_list": [],
+  "downloads": 131,
+  "date_ms": 1777989844346,
+  "description_en": "Generate videos programmatically with Pi. React-based video generation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

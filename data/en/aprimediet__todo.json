@@ -1,0 +1,11 @@
+{
+  "name": "@aprimediet/todo",
+  "path": "/packages/@aprimediet/todo",
+  "url": "https://pi.dev/packages/@aprimediet/todo",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782705650581,
+  "description_en": "todo_write tool + /todos command — extracted from @aprimediet/minion. Multi-step auto-create + crash-resilient resumption for the pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

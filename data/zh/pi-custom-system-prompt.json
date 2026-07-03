@@ -1,0 +1,6 @@
+{
+  "name": "pi-custom-system-prompt",
+  "description_en": "Pi extension that loads a custom system prompt from `~/.pi/agent/system-prompts/*.md` and injects it on every agent turn, with commands to select, toggle, reload, and switch between replace and append modes.",
+  "description_zh": "Pi 扩展，从 `~/.pi/agent/system-prompts/*.md` 加载自定义系统提示，并在每个代理轮次中注入，带有选择、切换、重载以及在替换和追加模式之间切换的命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-macos-cua",
+  "path": "/packages/pi-macos-cua",
+  "url": "https://pi.dev/packages/pi-macos-cua",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 57,
+  "date_ms": 1778181724803,
+  "description_en": "Pi extension that lets Pi drive local macOS apps through cua-driver.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

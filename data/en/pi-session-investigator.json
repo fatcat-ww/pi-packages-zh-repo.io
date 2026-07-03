@@ -1,0 +1,13 @@
+{
+  "name": "pi-session-investigator",
+  "path": "/packages/pi-session-investigator",
+  "url": "https://pi.dev/packages/pi-session-investigator",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 42,
+  "date_ms": 1771421876712,
+  "description_en": "Forensic tools for Pi sessions - file recovery, subagent tracing, timeline reconstruction",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

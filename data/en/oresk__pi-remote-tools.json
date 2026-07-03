@@ -1,0 +1,13 @@
+{
+  "name": "@oresk/pi-remote-tools",
+  "path": "/packages/@oresk/pi-remote-tools",
+  "url": "https://pi.dev/packages/@oresk/pi-remote-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 38,
+  "date_ms": 1782386865201,
+  "description_en": "Remote SSH tools for pi coding agent. Provides ssh-read, ssh-write, ssh-edit, and ssh-bash with per-call host targeting.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

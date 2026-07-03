@@ -1,0 +1,6 @@
+{
+  "name": "pi-local-rag",
+  "description_en": "Local hybrid RAG pipeline for the Pi coding agent. SQLite FTS5 + sqlite-vec, ONNX embeddings via Transformers.js, PDF/DOCX/HTML extraction (with OCR fallback), per-project storage, auto-injection. Zero cloud dependency.",
+  "description_zh": "Pi 编码代理的本地混合 RAG 管道。SQLite FTS5 + sqlite-vec，通过 Transformers.js 的 ONNX 嵌入，PDF/DOCX/HTML 提取（带 OCR 回退），按项目存储，自动注入。零云依赖",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

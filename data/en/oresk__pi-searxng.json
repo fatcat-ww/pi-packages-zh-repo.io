@@ -1,0 +1,11 @@
+{
+  "name": "@oresk/pi-searxng",
+  "path": "/packages/@oresk/pi-searxng",
+  "url": "https://pi.dev/packages/@oresk/pi-searxng",
+  "types": "",
+  "type_list": [],
+  "downloads": 516,
+  "date_ms": 1782330089229,
+  "description_en": "Pi extension for web search via a self-hosted SearXNG instance",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

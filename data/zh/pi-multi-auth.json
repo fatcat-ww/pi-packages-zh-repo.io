@@ -1,0 +1,6 @@
+{
+  "name": "pi-multi-auth",
+  "description_en": "Pi extension for multi-provider credential management, OAuth login, and account rotation.",
+  "description_zh": "用于多提供商凭据管理、OAuth 登录和账户轮换的 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

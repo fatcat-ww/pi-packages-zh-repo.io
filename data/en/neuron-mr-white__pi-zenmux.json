@@ -1,0 +1,13 @@
+{
+  "name": "@neuron-mr-white/pi-zenmux",
+  "path": "/packages/@neuron-mr-white/pi-zenmux",
+  "url": "https://pi.dev/packages/@neuron-mr-white/pi-zenmux",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 33,
+  "date_ms": 1777101909075,
+  "description_en": "ZenMux provider extension for Pi — dynamic model discovery with caching",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

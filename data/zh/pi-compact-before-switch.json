@@ -1,0 +1,6 @@
+{
+  "name": "pi-compact-before-switch",
+  "description_en": "Compact context with the outgoing model before switching to a smaller-window model.",
+  "description_zh": "切换到较小窗口模型之前，使用传出模型压缩上下文",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@codexstar/pi-listen",
+  "description_en": "Voice in + voice out for Pi CLI — hold-to-talk STT (Deepgram or 19 offline models) plus TTS (Kitten Nano, Piper, Kokoro, or Deepgram Aura)",
+  "description_zh": "Pi CLI 的语音输入 + 语音输出 — 按住说话的 STT（Deepgram 或 19 个离线模型）加上 TTS（Kitten Nano、Piper、Kokoro 或 Deepgram Aura）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

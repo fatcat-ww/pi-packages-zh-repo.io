@@ -1,0 +1,6 @@
+{
+  "name": "pi-openai-usage",
+  "description_en": "Focused Pi extension package for showing OpenAI Codex subscription usage in the status line.",
+  "description_zh": "专注于在状态行显示 OpenAI Codex 订阅使用的 Pi 扩展包。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

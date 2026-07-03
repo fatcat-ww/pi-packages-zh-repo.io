@@ -1,0 +1,13 @@
+{
+  "name": "pi-kanagawa",
+  "path": "/packages/pi-kanagawa",
+  "url": "https://pi.dev/packages/pi-kanagawa",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 106,
+  "date_ms": 1777486026610,
+  "description_en": "Kanagawa theme and UI extension for pi — wave animation, Kanagawa-colored footer, git branch widget, and thinking-level controls",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

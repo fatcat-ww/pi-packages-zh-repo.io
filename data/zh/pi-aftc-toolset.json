@@ -1,0 +1,6 @@
+{
+  "name": "pi-aftc-toolset",
+  "description_en": "AFTC productivity toolset for pi — footer diagnostics, SQLite model usage reports, cache analysis, input shortcuts, cache-audit skill, theme, and SSH tools backed by a PyQt6 GUI.",
+  "description_zh": "AFTC 生产力工具包，用于 pi — 页脚诊断、SQLite 模型使用报告、缓存分析、输入快捷方式、缓存审计技能、主题和由 PyQt6 GUI 支持的 SSH 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

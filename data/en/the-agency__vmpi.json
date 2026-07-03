@@ -1,0 +1,11 @@
+{
+  "name": "@the-agency/vmpi",
+  "path": "/packages/@the-agency/vmpi",
+  "url": "https://pi.dev/packages/@the-agency/vmpi",
+  "types": "",
+  "type_list": [],
+  "downloads": 169,
+  "date_ms": 1779244238832,
+  "description_en": "Run pi sandboxed in a QEMU microVM via Gondolin",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

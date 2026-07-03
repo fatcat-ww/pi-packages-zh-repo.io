@@ -1,0 +1,11 @@
+{
+  "name": "@runfusion/fusion",
+  "path": "/packages/@runfusion/fusion",
+  "url": "https://pi.dev/packages/@runfusion/fusion",
+  "types": "",
+  "type_list": [],
+  "downloads": 4469,
+  "date_ms": 1782977019223,
+  "description_en": "Fusion CLI: HTTP API server, daemon, dashboard launcher, and task tooling for the Fusion AI coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

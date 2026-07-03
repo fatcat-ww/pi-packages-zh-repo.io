@@ -1,0 +1,11 @@
+{
+  "name": "pi-files-touched",
+  "path": "/packages/pi-files-touched",
+  "url": "https://pi.dev/packages/pi-files-touched",
+  "types": "",
+  "type_list": [],
+  "downloads": 56,
+  "date_ms": 1778173568215,
+  "description_en": "Deterministic file-activity tracking for Pi sessions, covering native tools, RepoPrompt, and bash commands.  Includes /files-touched picker and a shared core for compaction/handover extensions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

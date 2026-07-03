@@ -1,0 +1,6 @@
+{
+  "name": "pi-vision-handoff",
+  "description_en": "Give text-only pi models vision — describe images with a vision model you pick via an interactive picker, then hand off the text description to non-vision models",
+  "description_zh": "为纯文本 pi 模型提供视觉功能 — 通过交互式选择器选择视觉模型描述图像，然后将文本描述传递给非视觉模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@matthewlam/pi-goal",
+  "path": "/packages/@matthewlam/pi-goal",
+  "url": "https://pi.dev/packages/@matthewlam/pi-goal",
+  "types": "",
+  "type_list": [],
+  "downloads": 391,
+  "date_ms": 1780101627173,
+  "description_en": "Persistent goal mode for pi with automatic idle continuation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

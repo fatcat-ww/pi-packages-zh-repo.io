@@ -1,0 +1,11 @@
+{
+  "name": "@cheriki/pi-cymbal",
+  "path": "/packages/@cheriki/pi-cymbal",
+  "url": "https://pi.dev/packages/@cheriki/pi-cymbal",
+  "types": "",
+  "type_list": [],
+  "downloads": 125,
+  "date_ms": 1780236426624,
+  "description_en": "Standalone Pi extension exposing bundled Cymbal code navigation tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

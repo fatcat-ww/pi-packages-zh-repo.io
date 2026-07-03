@@ -1,0 +1,6 @@
+{
+  "name": "@amitkot/pi-open-zed",
+  "description_en": "Host-side Zed IDE bridge for Pi — opens files at a line number from the coding agent.",
+  "description_zh": "Pi 的主机端 Zed IDE 桥接器 — 从编码代理中打开指定行号的文件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

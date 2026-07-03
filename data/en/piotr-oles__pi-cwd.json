@@ -1,0 +1,11 @@
+{
+  "name": "@piotr-oles/pi-cwd",
+  "path": "/packages/@piotr-oles/pi-cwd",
+  "url": "https://pi.dev/packages/@piotr-oles/pi-cwd",
+  "types": "",
+  "type_list": [],
+  "downloads": 429,
+  "date_ms": 1782664362225,
+  "description_en": "Pi Agent extension: remind agent to use relative paths based on current working directory",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

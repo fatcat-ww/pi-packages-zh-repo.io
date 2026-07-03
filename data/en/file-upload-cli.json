@@ -1,0 +1,13 @@
+{
+  "name": "file-upload-cli",
+  "path": "/packages/file-upload-cli",
+  "url": "https://pi.dev/packages/file-upload-cli",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 132,
+  "date_ms": 1778333080814,
+  "description_en": "Skill for uploading files with curl to litterbox.catbox.moe",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

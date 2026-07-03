@@ -1,0 +1,13 @@
+{
+  "name": "@gonrocca/zero-pi",
+  "path": "/packages/@gonrocca/zero-pi",
+  "url": "https://pi.dev/packages/@gonrocca/zero-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1824,
+  "date_ms": 1782833106767,
+  "description_en": "zero-pi — an installable layer for pi (pi.dev): the zero spec-driven development workflow (explore → plan → build → veredicto) with per-phase model autotune and token-efficient batched builds. Adds capability to pi without modifying pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

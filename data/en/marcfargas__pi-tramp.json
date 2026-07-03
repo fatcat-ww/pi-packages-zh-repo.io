@@ -1,0 +1,11 @@
+{
+  "name": "@marcfargas/pi-tramp",
+  "path": "/packages/@marcfargas/pi-tramp",
+  "url": "https://pi.dev/packages/@marcfargas/pi-tramp",
+  "types": "",
+  "type_list": [],
+  "downloads": 50,
+  "date_ms": 1771789947732,
+  "description_en": "TRAMP-like transparent remote execution for pi — tools execute remotely, pi stays local",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

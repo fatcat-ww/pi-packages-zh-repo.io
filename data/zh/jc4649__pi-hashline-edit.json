@@ -1,0 +1,6 @@
+{
+  "name": "@jc4649/pi-hashline-edit",
+  "description_en": "Hashline read/edit tool override for the pi coding agent — edits anchored by stable per-line hashes. Thin fork inspired by RimuruW's pi-hashline-edit.",
+  "description_zh": "pi coding agent 的哈希行读取/编辑工具覆盖 — 由稳定的每行哈希锚定的编辑。受 RimuruW 的 pi-hashline-edit 启发的轻量级分支。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

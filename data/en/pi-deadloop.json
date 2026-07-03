@@ -1,0 +1,11 @@
+{
+  "name": "pi-deadloop",
+  "path": "/packages/pi-deadloop",
+  "url": "https://pi.dev/packages/pi-deadloop",
+  "types": "",
+  "type_list": [],
+  "downloads": 90,
+  "date_ms": 1779334428210,
+  "description_en": "Detect and alert on agentic reasoning loops and tool call repetition in pi-coding-agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

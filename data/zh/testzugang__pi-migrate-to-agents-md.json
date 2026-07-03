@@ -1,0 +1,6 @@
+{
+  "name": "@testzugang/pi-migrate-to-agents-md",
+  "description_en": "Pi skill to migrate agent instructions from CLAUDE.md to AGENTS.md",
+  "description_zh": "Pi 技能，用于将代理指令从 CLAUDE.md 迁移到 AGENTS.md",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

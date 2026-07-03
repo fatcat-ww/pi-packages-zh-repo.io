@@ -1,0 +1,14 @@
+{
+  "name": "@season179/pi-skills-status",
+  "path": "/packages/@season179/pi-skills-status",
+  "url": "https://pi.dev/packages/@season179/pi-skills-status",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 481,
+  "date_ms": 1778547521554,
+  "description_en": "Shows the skills used in the current Pi session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

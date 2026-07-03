@@ -1,0 +1,6 @@
+{
+  "name": "@aslamplr/pi-safe-shell",
+  "description_en": "Protect your production assets from dangerous bash commands. Default no-bash mode with user approval gates and whitelist support.",
+  "description_zh": "保护您的生产资产免受危险的 bash 命令侵害。默认无 bash 模式，具有用户审批门禁和白名单支持",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

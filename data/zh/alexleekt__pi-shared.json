@@ -1,0 +1,6 @@
+{
+  "name": "@alexleekt/pi-shared",
+  "description_en": "The glue that holds the monorepo together. Shared types and utilities for Pi extensions.",
+  "description_zh": "将 monorepo 粘合在一起的组件。Pi 扩展的共享类型和工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

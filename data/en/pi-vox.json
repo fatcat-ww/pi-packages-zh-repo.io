@@ -1,0 +1,13 @@
+{
+  "name": "pi-vox",
+  "path": "/packages/pi-vox",
+  "url": "https://pi.dev/packages/pi-vox",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 176,
+  "date_ms": 1781212435712,
+  "description_en": "Lightweight voice dictation for Pi: /voice-toggle records locally and transcribes with ElevenLabs.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

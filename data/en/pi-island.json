@@ -1,0 +1,13 @@
+{
+  "name": "pi-island",
+  "path": "/packages/pi-island",
+  "url": "https://pi.dev/packages/pi-island",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 146,
+  "date_ms": 1777015820083,
+  "description_en": "Dynamic-Island-style status capsule for the pi coding agent on macOS and Windows. Shows what pi is doing in real time, at the very top of your screen — with native notch-wrap support for MacBooks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

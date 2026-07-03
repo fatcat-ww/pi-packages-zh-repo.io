@@ -1,0 +1,11 @@
+{
+  "name": "pi-rustdex",
+  "path": "/packages/pi-rustdex",
+  "url": "https://pi.dev/packages/pi-rustdex",
+  "types": "",
+  "type_list": [],
+  "downloads": 72,
+  "date_ms": 1775723086964,
+  "description_en": "Pi extension for RustDex - universal code indexer and semantic search",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

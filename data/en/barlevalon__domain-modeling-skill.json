@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/domain-modeling-skill",
+  "path": "/packages/@barlevalon/domain-modeling-skill",
+  "url": "https://pi.dev/packages/@barlevalon/domain-modeling-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 0,
+  "date_ms": 1782995512378,
+  "description_en": "Actively build and sharpen a project's domain model, updating CONTEXT.md and ADRs inline as terminology and decisions crystallise.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

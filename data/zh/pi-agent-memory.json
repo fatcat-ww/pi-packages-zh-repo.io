@@ -1,0 +1,6 @@
+{
+  "name": "pi-agent-memory",
+  "description_en": "Persistent memory for pi-agents, powered by claude-mem (55k+ stars). Cross-session, cross-engine memory with hybrid search.",
+  "description_zh": "pi-agents 的持久记忆，由 claude-mem（55k+ 星标）提供支持。具有混合搜索的跨会话、跨引擎记忆",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

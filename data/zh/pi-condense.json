@@ -1,0 +1,6 @@
+{
+  "name": "pi-condense",
+  "description_en": "Pi extension that summarizes completed tool-call batches, replaces raw outputs with short stubs in future context, and recovers any original on demand via context_tree_query.",
+  "description_zh": "Pi 扩展，总结完成的工具调用批次，将原始输出替换为未来上下文中的简短存根，并通过 context_tree_query 按需恢复任何原始内容。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

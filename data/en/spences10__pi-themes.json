@@ -1,0 +1,13 @@
+{
+  "name": "@spences10/pi-themes",
+  "path": "/packages/@spences10/pi-themes",
+  "url": "https://pi.dev/packages/@spences10/pi-themes",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 996,
+  "date_ms": 1779389260050,
+  "description_en": "Polished theme pack for Pi that improves contrast, mood, and visual hierarchy in the terminal UI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

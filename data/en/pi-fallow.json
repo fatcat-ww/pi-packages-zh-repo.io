@@ -1,0 +1,13 @@
+{
+  "name": "pi-fallow",
+  "path": "/packages/pi-fallow",
+  "url": "https://pi.dev/packages/pi-fallow",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 632,
+  "date_ms": 1782930329441,
+  "description_en": "Pi extension that brings Fallow codebase intelligence into Pi as an agent tool and slash command.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

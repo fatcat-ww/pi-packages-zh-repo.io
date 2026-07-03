@@ -1,0 +1,6 @@
+{
+  "name": "@nitra/cursor",
+  "description_en": "CLI для завантаження cursor-правил (префікс n-) у локальний репозиторій",
+  "description_zh": "用于将 cursor 规则（前缀 n-）加载到本地仓库的 CLI",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

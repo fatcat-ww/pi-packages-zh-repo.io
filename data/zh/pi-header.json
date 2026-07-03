@@ -1,0 +1,6 @@
+{
+  "name": "pi-header",
+  "description_en": "A pi coding agent extension that displays a styled ASCII art header with model info at the top of every new session.",
+  "description_zh": "一个 Pi 编码智能体扩展，在每个新会话顶部显示带有模型信息的样式化 ASCII 艺术标题",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

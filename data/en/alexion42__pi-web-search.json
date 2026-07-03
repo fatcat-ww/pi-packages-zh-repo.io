@@ -1,0 +1,13 @@
+{
+  "name": "@alexion42/pi-web-search",
+  "path": "/packages/@alexion42/pi-web-search",
+  "url": "https://pi.dev/packages/@alexion42/pi-web-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 426,
+  "date_ms": 1781858197345,
+  "description_en": "Single-tool Exa-powered web search and URL reading for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

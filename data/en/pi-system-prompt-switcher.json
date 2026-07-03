@@ -1,0 +1,14 @@
+{
+  "name": "pi-system-prompt-switcher",
+  "path": "/packages/pi-system-prompt-switcher",
+  "url": "https://pi.dev/packages/pi-system-prompt-switcher",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 325,
+  "date_ms": 1780489861759,
+  "description_en": "Switch active Pi system prompt from ~/.pi/agent/systems and reload on swap",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

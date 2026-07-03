@@ -1,0 +1,11 @@
+{
+  "name": "@the-agency/pi-observability",
+  "path": "/packages/@the-agency/pi-observability",
+  "url": "https://pi.dev/packages/@the-agency/pi-observability",
+  "types": "",
+  "type_list": [],
+  "downloads": 86,
+  "date_ms": 1779825362353,
+  "description_en": "Record tool usage, tokens, models, skills, and sessions as OpenTelemetry GenAI spans.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

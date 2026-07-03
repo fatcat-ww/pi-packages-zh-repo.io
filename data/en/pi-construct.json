@@ -1,0 +1,13 @@
+{
+  "name": "pi-construct",
+  "path": "/packages/pi-construct",
+  "url": "https://pi.dev/packages/pi-construct",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2543,
+  "date_ms": 1782948451590,
+  "description_en": "A minimal Pi loadout menu for project-local packages.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

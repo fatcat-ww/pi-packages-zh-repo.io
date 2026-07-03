@@ -1,0 +1,6 @@
+{
+  "name": "statusline-pi",
+  "description_en": "Compact project statusline footer for Pi with directory, branch changes, context remaining, response speed, model, and PR number",
+  "description_zh": "Pi 的紧凑型项目状态栏页脚，包含目录、分支更改、剩余上下文、响应速度、模型和 PR 编号",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

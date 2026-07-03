@@ -1,0 +1,13 @@
+{
+  "name": "pi-llama-switch",
+  "path": "/packages/pi-llama-switch",
+  "url": "https://pi.dev/packages/pi-llama-switch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783032920992,
+  "description_en": "Restart llama-server with different model configurations. For single-model setups where models need different flags (context size, vision projector, sampling params).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

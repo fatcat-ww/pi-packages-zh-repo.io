@@ -1,0 +1,13 @@
+{
+  "name": "@xynogen/pix-skills",
+  "path": "/packages/@xynogen/pix-skills",
+  "url": "https://pi.dev/packages/@xynogen/pix-skills",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 4132,
+  "date_ms": 1783045282850,
+  "description_en": "Pi extension — agent skill loader (skill tool + skills bundle)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

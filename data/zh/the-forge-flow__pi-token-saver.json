@@ -1,0 +1,6 @@
+{
+  "name": "@the-forge-flow/pi-token-saver",
+  "description_en": "Token-saving proxy for the PI coding agent — intercepts and compresses API calls to reduce token consumption",
+  "description_zh": "PI 编码代理的令牌保存代理 — 拦截和压缩 API 调用以减少令牌消耗",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

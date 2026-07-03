@@ -1,0 +1,13 @@
+{
+  "name": "@harms-haus/pi-lens",
+  "path": "/packages/@harms-haus/pi-lens",
+  "url": "https://pi.dev/packages/@harms-haus/pi-lens",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 110,
+  "date_ms": 1779722908481,
+  "description_en": "Unified code quality extension for pi — auto-runs prettier, linters, LSP diagnostics, and tsc on changed files",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

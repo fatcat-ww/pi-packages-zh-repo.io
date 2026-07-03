@@ -1,0 +1,11 @@
+{
+  "name": "@spences10/pi-context",
+  "path": "/packages/@spences10/pi-context",
+  "url": "https://pi.dev/packages/@spences10/pi-context",
+  "types": "",
+  "type_list": [],
+  "downloads": 1363,
+  "date_ms": 1782164363783,
+  "description_en": "Searchable local SQLite sidecar that keeps oversized Pi tool output useful without flooding model context",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

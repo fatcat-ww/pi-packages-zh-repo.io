@@ -1,0 +1,13 @@
+{
+  "name": "pi-git-assistant",
+  "path": "/packages/pi-git-assistant",
+  "url": "https://pi.dev/packages/pi-git-assistant",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 334,
+  "date_ms": 1780230070429,
+  "description_en": "AI-powered git commit assistant for the Pi coding agent. Automatically analyzes diffs, manages branches, writes conventional commit messages, and generates pull request descriptions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

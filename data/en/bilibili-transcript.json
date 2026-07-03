@@ -1,0 +1,11 @@
+{
+  "name": "bilibili-transcript",
+  "path": "/packages/bilibili-transcript",
+  "url": "https://pi.dev/packages/bilibili-transcript",
+  "types": "",
+  "type_list": [],
+  "downloads": 574,
+  "date_ms": 1781000136791,
+  "description_en": "通过 yt-dlp + Chrome CDP 双重策略获取 B 站视频字幕的工具",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

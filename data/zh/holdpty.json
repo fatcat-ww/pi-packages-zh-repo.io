@@ -1,0 +1,6 @@
+{
+  "name": "holdpty",
+  "description_en": "Minimal cross-platform detached PTY. Launch commands in a pseudo-terminal, attach/view/record later.",
+  "description_zh": "最小化的跨平台分离式 PTY。在伪终端中启动命令，稍后附加/查看/记录",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

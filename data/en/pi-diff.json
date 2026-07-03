@@ -1,0 +1,13 @@
+{
+  "name": "pi-diff",
+  "path": "/packages/pi-diff",
+  "url": "https://pi.dev/packages/pi-diff",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 222,
+  "date_ms": 1781777717779,
+  "description_en": "Tree-inspired pi extension for reviewing session and git diffs.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

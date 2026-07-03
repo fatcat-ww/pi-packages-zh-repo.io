@@ -1,0 +1,13 @@
+{
+  "name": "askweb",
+  "path": "/packages/askweb",
+  "url": "https://pi.dev/packages/askweb",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 59,
+  "date_ms": 1779472617652,
+  "description_en": "Unified web search and read provider for agents and CLI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

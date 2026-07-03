@@ -1,0 +1,6 @@
+{
+  "name": "pi-blindtest",
+  "description_en": "Pi extension for blind model testing: hide model in UI and aggregate ratings across sessions.",
+  "description_zh": "用于盲测模型的 pi 扩展：在 UI 中隐藏模型并跨会话聚合评分。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

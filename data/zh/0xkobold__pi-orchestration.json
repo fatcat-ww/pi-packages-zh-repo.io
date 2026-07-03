@@ -1,0 +1,6 @@
+{
+  "name": "@0xkobold/pi-orchestration",
+  "description_en": "Agnostic subagent orchestration for pi-coding-agent. Supports single, chain, parallel, and fork execution modes with depth limiting and worktree isolation.",
+  "description_zh": "pi-coding-agent 的通用子代理编排。支持单链、并行和分叉执行模式，具有深度限制和工作树隔离",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

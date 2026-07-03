@@ -1,0 +1,6 @@
+{
+  "name": "pi-show-diffs",
+  "description_en": "Pi package that adds a diff approval viewer before edit and write tools change files.",
+  "description_zh": "在编辑和写入工具更改文件之前添加差异批准查看器的 Pi 包。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@pi-orca/cleanup",
+  "path": "/packages/@pi-orca/cleanup",
+  "url": "https://pi.dev/packages/@pi-orca/cleanup",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 217,
+  "date_ms": 1779854977197,
+  "description_en": "Retention sweeps and orphan detection",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

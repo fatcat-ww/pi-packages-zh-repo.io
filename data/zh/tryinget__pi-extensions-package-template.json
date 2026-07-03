@@ -1,0 +1,6 @@
+{
+  "name": "@tryinget/pi-extensions-package-template",
+  "description_en": "Copier template + CLI for bootstrapping production-ready pi extension packages inside a monorepo",
+  "description_zh": "Copier 模板 + CLI，用于在 monorepo 中引导生产就绪的 pi 扩展包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

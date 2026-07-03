@@ -1,0 +1,11 @@
+{
+  "name": "pi-smart-reader",
+  "path": "/packages/pi-smart-reader",
+  "url": "https://pi.dev/packages/pi-smart-reader",
+  "types": "",
+  "type_list": [],
+  "downloads": 2108,
+  "date_ms": 1781690682610,
+  "description_en": "Passive token optimization for Pi sessions. Auto-optimizes large files (300+ lines) with no configuration required.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

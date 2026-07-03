@@ -1,0 +1,14 @@
+{
+  "name": "pi-prompt-reviewer",
+  "path": "/packages/pi-prompt-reviewer",
+  "url": "https://pi.dev/packages/pi-prompt-reviewer",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 594,
+  "date_ms": 1780933196503,
+  "description_en": "Review prompts before sending them to the main pi session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-open-here",
+  "path": "/packages/pi-open-here",
+  "url": "https://pi.dev/packages/pi-open-here",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 40,
+  "date_ms": 1778320286922,
+  "description_en": "Open current directory (or a path) in external editor from pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

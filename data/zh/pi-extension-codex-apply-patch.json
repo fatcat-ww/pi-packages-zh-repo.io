@@ -1,0 +1,6 @@
+{
+  "name": "pi-extension-codex-apply-patch",
+  "description_en": "Pi extension that adds Codex-style CFG constrained apply_patch with local verification",
+  "description_zh": "Pi扩展，添加Codex风格的CFG约束apply_patch，带有本地验证",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

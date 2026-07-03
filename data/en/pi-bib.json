@@ -1,0 +1,13 @@
+{
+  "name": "pi-bib",
+  "path": "/packages/pi-bib",
+  "url": "https://pi.dev/packages/pi-bib",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 36,
+  "date_ms": 1777402343664,
+  "description_en": "A pi extension for bibliography and BibTeX review workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

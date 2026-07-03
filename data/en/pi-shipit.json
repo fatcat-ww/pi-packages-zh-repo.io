@@ -1,0 +1,11 @@
+{
+  "name": "pi-shipit",
+  "path": "/packages/pi-shipit",
+  "url": "https://pi.dev/packages/pi-shipit",
+  "types": "",
+  "type_list": [],
+  "downloads": 45,
+  "date_ms": 1777520486223,
+  "description_en": "Quality gates for shipping code with the Pi coding agent. Iterative review loops and fork-to-upstream PR workflows with AI review + CI gating.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

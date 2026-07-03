@@ -1,0 +1,6 @@
+{
+  "name": "pi-model-effort-coloring",
+  "description_en": "Pi extension that colors the current model name and thinking/effort level in the footer without changing layout.",
+  "description_zh": "在页脚中为当前模型名称和思考/努力级别着色而不改变布局的 pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

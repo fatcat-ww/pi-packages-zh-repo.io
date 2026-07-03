@@ -1,0 +1,11 @@
+{
+  "name": "pi-ollama-keyring",
+  "path": "/packages/pi-ollama-keyring",
+  "url": "https://pi.dev/packages/pi-ollama-keyring",
+  "types": "",
+  "type_list": [],
+  "downloads": 30,
+  "date_ms": 1775752931351,
+  "description_en": "Ollama cloud provider for pi-coding-agent with multi-key rotation, live model discovery, and persistent key-pool management",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

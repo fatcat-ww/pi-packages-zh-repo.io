@@ -1,0 +1,13 @@
+{
+  "name": "pi-perplexity",
+  "path": "/packages/pi-perplexity",
+  "url": "https://pi.dev/packages/pi-perplexity",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 656,
+  "date_ms": 1782318902785,
+  "description_en": "Perplexity web search for pi — uses your Pro/Max subscription, no API credits needed",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

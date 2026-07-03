@@ -1,0 +1,6 @@
+{
+  "name": "@pi-stef/team",
+  "description_en": "Pi extension that runs a steerable team of role-agents for plan/review/implement workflows, including strategy-aware lanes, resume, and optional tmux panes.",
+  "description_zh": "Pi 扩展，运行可引导的角色代理团队，用于计划/审查/实现工作流，包括策略感知通道、恢复和可选的 tmux 窗格。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

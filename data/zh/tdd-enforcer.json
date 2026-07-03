@@ -1,0 +1,6 @@
+{
+  "name": "tdd-enforcer",
+  "description_en": "TDD enforcer extension for the pi coding agent — enforces Red-Green-Refactor phases with file access restrictions and transition gates",
+  "description_zh": "pi编码代理的TDD强制执行扩展 — 通过文件访问限制和转换门强制执行红-绿-重构阶段",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

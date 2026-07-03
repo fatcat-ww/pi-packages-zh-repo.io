@@ -1,0 +1,6 @@
+{
+  "name": "@ssweens/pi-dynamic-models",
+  "description_en": "Dynamic model discovery for Pi coding agent — fetches models from any configured API server at startup",
+  "description_zh": "面向 Pi 编码代理的动态模型发现 - 在启动时从任何配置的 API 服务器获取模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

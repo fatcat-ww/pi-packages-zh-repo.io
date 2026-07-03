@@ -1,0 +1,16 @@
+{
+  "name": "@dbaida/pi-sync",
+  "path": "/packages/@dbaida/pi-sync",
+  "url": "https://pi.dev/packages/@dbaida/pi-sync",
+  "types": "extension skill theme prompt",
+  "type_list": [
+    "extension",
+    "skill",
+    "theme",
+    "prompt"
+  ],
+  "downloads": 285,
+  "date_ms": 1781898702371,
+  "description_en": "Git-backed Pi extension for syncing agent settings, skills, prompts, themes, and extensions across machines.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

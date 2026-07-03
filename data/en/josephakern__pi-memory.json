@@ -1,0 +1,11 @@
+{
+  "name": "@josephakern/pi-memory",
+  "path": "/packages/@josephakern/pi-memory",
+  "url": "https://pi.dev/packages/@josephakern/pi-memory",
+  "types": "",
+  "type_list": [],
+  "downloads": 516,
+  "date_ms": 1781431213979,
+  "description_en": "Persistent file-based memory for the pi coding agent: a capped always-injected MEMORY.md index per scope (global and in-repo project) plus on-demand topic files.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

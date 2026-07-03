@@ -1,0 +1,6 @@
+{
+  "name": "pi-observational-memory-pct",
+  "description_en": "Fork de pi-observational-memory com suporte a percentuais nos thresholds e auto-detecção da janela de contexto — forked from elpapi42/pi-observational-memory",
+  "description_zh": "pi-observational-memory 的分支，支持阈值百分比和上下文窗口自动检测 — forked from elpapi42/pi-observational-memory",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@savagelands-net/pi-cwd",
+  "description_en": "Pi extension that changes the real session working directory with /cwd and /cd",
+  "description_zh": "Pi 扩展，使用 /cwd 和 /cd 更改实际会话工作目录",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

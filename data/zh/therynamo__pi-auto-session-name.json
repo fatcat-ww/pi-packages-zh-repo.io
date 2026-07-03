@@ -1,0 +1,6 @@
+{
+  "name": "@therynamo/pi-auto-session-name",
+  "description_en": "Pi extension that auto-generates a short working title for each session based on the conversation",
+  "description_zh": "Pi 扩展，根据对话为每个会话自动生成简短的工作标题",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

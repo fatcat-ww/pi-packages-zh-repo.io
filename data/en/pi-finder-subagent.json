@@ -1,0 +1,13 @@
+{
+  "name": "pi-finder-subagent",
+  "path": "/packages/pi-finder-subagent",
+  "url": "https://pi.dev/packages/pi-finder-subagent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 238,
+  "date_ms": 1778172604083,
+  "description_en": "Read-only local workspace scout subagent package for pi agents (code + personal files)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

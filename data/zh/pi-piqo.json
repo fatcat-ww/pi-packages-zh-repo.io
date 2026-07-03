@@ -1,0 +1,6 @@
+{
+  "name": "pi-piqo",
+  "description_en": "Piqo - a pi extension which allows user to interact with llm agents directly from files, without the need to use any chat UI.",
+  "description_zh": "Piqo - 一个 pi 扩展，允许用户直接从文件与 LLM 代理交互，无需使用任何聊天 UI。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

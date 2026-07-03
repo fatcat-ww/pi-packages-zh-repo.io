@@ -1,0 +1,13 @@
+{
+  "name": "@blackbelt-technology/pi-dashboard-document-converter",
+  "path": "/packages/@blackbelt-technology/pi-dashboard-document-converter",
+  "url": "https://pi.dev/packages/@blackbelt-technology/pi-dashboard-document-converter",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 146,
+  "date_ms": 1782437281494,
+  "description_en": "TypeScript facade over a Dockerized Python document engine (pi-doc-engine). Bidirectional: ingest any format to provenance-stamped Markdown for kb, produce templated DOCX/PDF with diagrams. Engine quarantined in Docker; TS is the only call surface.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

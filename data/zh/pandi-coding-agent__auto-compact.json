@@ -1,0 +1,6 @@
+{
+  "name": "@pandi-coding-agent/auto-compact",
+  "description_en": "Pi extension that auto-compacts context when usage crosses a configurable threshold.",
+  "description_zh": "当使用量超过可配置阈值时自动压缩上下文的 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

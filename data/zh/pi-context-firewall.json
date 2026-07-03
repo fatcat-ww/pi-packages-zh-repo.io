@@ -1,0 +1,6 @@
+{
+  "name": "pi-context-firewall",
+  "description_en": "Natively route noisy Pi shell commands through Context Firewall to save context.",
+  "description_zh": "原生将嘈杂的 Pi shell 命令通过上下文防火墙路由以保存上下文",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

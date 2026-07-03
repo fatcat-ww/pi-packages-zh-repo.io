@@ -1,0 +1,13 @@
+{
+  "name": "@amaster.ai/pi-attachments",
+  "path": "/packages/@amaster.ai/pi-attachments",
+  "url": "https://pi.dev/packages/@amaster.ai/pi-attachments",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 4121,
+  "date_ms": 1782723687966,
+  "description_en": "Pi extension for attachment processing — classifies, parses, and renders file attachments into LLM-visible prompt context",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

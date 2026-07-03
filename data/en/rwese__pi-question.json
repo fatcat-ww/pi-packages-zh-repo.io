@@ -1,0 +1,13 @@
+{
+  "name": "@rwese/pi-question",
+  "path": "/packages/@rwese/pi-question",
+  "url": "https://pi.dev/packages/@rwese/pi-question",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 440,
+  "date_ms": 1782562482741,
+  "description_en": "Unified question tool for pi coding agent - single or multi-question interactions with optional notes and custom input support",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

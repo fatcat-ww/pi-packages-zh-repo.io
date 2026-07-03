@@ -1,0 +1,13 @@
+{
+  "name": "@walterra/pi-charts",
+  "path": "/packages/@walterra/pi-charts",
+  "url": "https://pi.dev/packages/@walterra/pi-charts",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 206,
+  "date_ms": 1774304894738,
+  "description_en": "Vega-Lite chart extension for pi coding agent - render data visualizations as inline images",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

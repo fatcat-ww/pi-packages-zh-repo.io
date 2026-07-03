@@ -1,0 +1,13 @@
+{
+  "name": "pi-conductor-analytics-plugin",
+  "path": "/packages/pi-conductor-analytics-plugin",
+  "url": "https://pi.dev/packages/pi-conductor-analytics-plugin",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 12,
+  "date_ms": 1782347066919,
+  "description_en": "Pi extension that reports pi-conductor run telemetry to an external HTTP endpoint.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

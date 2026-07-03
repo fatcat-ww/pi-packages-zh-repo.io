@@ -1,0 +1,6 @@
+{
+  "name": "pi-red-green",
+  "description_en": "A Pi extension that enforces Test-Driven Development (RED-GREEN-REFACTOR) discipline during agent coding sessions.",
+  "description_zh": "一个 Pi 扩展，在代理编码会话期间强制执行测试驱动开发（RED-GREEN-REFACTOR）纪律",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

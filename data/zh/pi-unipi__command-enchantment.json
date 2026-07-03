@@ -1,0 +1,6 @@
+{
+  "name": "@pi-unipi/command-enchantment",
+  "description_en": "Enhanced TUI autocomplete for /unipi:* commands — colored, sorted, and grouped by package",
+  "description_zh": "增强的 TUI 自动完成功能，用于 /unipi:* 命令 — 按包着色、排序和分组",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

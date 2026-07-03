@@ -1,0 +1,6 @@
+{
+  "name": "pi-done",
+  "description_en": "Pi package that adds a /done command to reset to the default git branch, pull, and start a new session.",
+  "description_zh": "Pi 包，添加一个 /done 命令以重置到默认 git 分支、拉取并启动新会话",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

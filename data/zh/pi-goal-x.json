@@ -1,0 +1,6 @@
+{
+  "name": "pi-goal-x",
+  "description_en": "Goal mode extension for pi: persistent long-running objectives, /goal-set drafting, Sisyphus prompt style, autoContinue, and an above-editor status overlay. Fork of @capyup/pi-goal.",
+  "description_zh": "pi的目标模式扩展：持久性长期运行目标，/goal-set草稿，Sisyphus提示风格，autoContinue，以及编辑器上方状态覆盖。@capyup/pi-goal的分支。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

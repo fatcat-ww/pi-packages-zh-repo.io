@@ -1,0 +1,11 @@
+{
+  "name": "@clankie/web-search",
+  "path": "/packages/@clankie/web-search",
+  "url": "https://pi.dev/packages/@clankie/web-search",
+  "types": "",
+  "type_list": [],
+  "downloads": 63,
+  "date_ms": 1773494683945,
+  "description_en": "Headless web search and page extraction for clankie using CloakBrowser + Playwright",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

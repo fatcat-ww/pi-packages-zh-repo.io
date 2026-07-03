@@ -1,0 +1,14 @@
+{
+  "name": "pi-extension-installer",
+  "path": "/packages/pi-extension-installer",
+  "url": "https://pi.dev/packages/pi-extension-installer",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 85,
+  "date_ms": 1777194116027,
+  "description_en": "Browse and install Pi community packages — interactive TUI browser with arrow-key navigation, search, previews, install, and uninstall support.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

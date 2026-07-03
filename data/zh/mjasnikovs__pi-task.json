@@ -1,0 +1,6 @@
+{
+  "name": "@mjasnikovs/pi-task",
+  "description_en": "Deterministic spec-orchestration for local models, with a bundled real-time remote web view and web/docs/fetch/worker subagent tools.",
+  "description_zh": "本地模型的确定性规范编排，包含捆绑的实时远程网页视图和 web/docs/fetch/worker 子代理工具。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

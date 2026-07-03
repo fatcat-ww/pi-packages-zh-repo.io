@@ -1,0 +1,11 @@
+{
+  "name": "pi-memory-honcho",
+  "path": "/packages/pi-memory-honcho",
+  "url": "https://pi.dev/packages/pi-memory-honcho",
+  "types": "",
+  "type_list": [],
+  "downloads": 208,
+  "date_ms": 1775939245217,
+  "description_en": "Honcho-backed persistent memory extension for PI coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

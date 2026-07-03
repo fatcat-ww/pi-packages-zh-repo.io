@@ -1,0 +1,6 @@
+{
+  "name": "pi-tps-meter",
+  "description_en": "Tokens per second meter for pi CLI — live TPS, rolling avg, mean, p95",
+  "description_zh": "Pi CLI 的每秒令牌数计量器 — 实时 TPS、滚动平均值、平均值、p95",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@nukman-salim/pi-obs-controls",
+  "description_en": "Control OBS Studio via WebSocket from Pi coding agent",
+  "description_zh": "通过 WebSocket 从 Pi 编码代理控制 OBS Studio",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

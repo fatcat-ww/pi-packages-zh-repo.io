@@ -1,0 +1,6 @@
+{
+  "name": "@pandi-coding-agent/container",
+  "description_en": "Pi extension to manage Apple `container` sandboxes (Linux micro-VMs): a /container command and a model-callable container_sandbox tool (status/list/create/run/stop/remove).",
+  "description_zh": "Pi 扩展，用于管理 Apple `container` 沙盒（Linux 微型虚拟机）：提供 /container 命令和模型可调用的 container_sandbox 工具（状态/列表/创建/运行/停止/删除）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

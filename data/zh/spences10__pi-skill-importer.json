@@ -1,0 +1,6 @@
+{
+  "name": "@spences10/pi-skill-importer",
+  "description_en": "Helpers for importing external Agent Skills-compatible sources into Pi-native skill storage",
+  "description_zh": "将外部 Agent Skills 兼容源导入 Pi 原生技能存储的辅助工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-kapso-whatsapp",
+  "path": "/packages/pi-kapso-whatsapp",
+  "url": "https://pi.dev/packages/pi-kapso-whatsapp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 69,
+  "date_ms": 1778140528601,
+  "description_en": "Pi extension for WhatsApp via Kapso AI — contacts access control with SQLite",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

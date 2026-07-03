@@ -1,0 +1,6 @@
+{
+  "name": "@yieldcraft/screenshot-paste",
+  "description_en": "pi-web plugin that browses and previews screenshots saved by pi-web into .pi-web/paste/ — gallery panel, lightbox, and chat-inline previews for folder-mode attachments.",
+  "description_zh": "pi-web 插件，用于浏览和预览保存在 .pi-web/paste/ 中的截图 — 文件夹模式附件的画廊面板、灯箱和聊天内联预览",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

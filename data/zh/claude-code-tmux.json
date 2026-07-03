@@ -1,0 +1,6 @@
+{
+  "name": "claude-code-tmux",
+  "description_en": "Durable tmux controller for interactive Claude Code sessions, with a Pi extension and skill.",
+  "description_zh": "交互式Claude Code会话的持久tmux控制器，带有Pi扩展和技能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

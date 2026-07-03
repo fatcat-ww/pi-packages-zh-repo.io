@@ -1,0 +1,6 @@
+{
+  "name": "pi-cursor-provider",
+  "description_en": "Pi extension providing access to Cursor models via OAuth and a local OpenAI-compatible gRPC proxy",
+  "description_zh": "pi 扩展，通过 OAuth 和本地 OpenAI 兼容的 gRPC 代理提供对 Cursor 模型的访问",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

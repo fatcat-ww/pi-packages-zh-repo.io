@@ -1,0 +1,13 @@
+{
+  "name": "pi-blueprint",
+  "path": "/packages/pi-blueprint",
+  "url": "https://pi.dev/packages/pi-blueprint",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 103,
+  "date_ms": 1778755223843,
+  "description_en": "A Pi extension that turns high-level objectives into phased, multi-session construction plans with dependency tracking and verification gates.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@ogulcancelik/pi-minimal-footer",
+  "path": "/packages/@ogulcancelik/pi-minimal-footer",
+  "url": "https://pi.dev/packages/@ogulcancelik/pi-minimal-footer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 430,
+  "date_ms": 1780360746499,
+  "description_en": "Minimal footer for pi with context gauge and subscription usage bars",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@bytesbrains/pi-tool-awareness-gate",
+  "description_en": "Tool limitation awareness layer for AI agents — intercepts tool results, infers quality signals, injects limitation reminders, and logs structured envelopes for evaluation.",
+  "description_zh": "AI 代理的工具限制感知层 — 拦截工具结果，推断质量信号，注入限制提醒，并记录结构化信封以供评估。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

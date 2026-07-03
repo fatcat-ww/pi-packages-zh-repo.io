@@ -1,0 +1,13 @@
+{
+  "name": "@agentapprove/pi",
+  "path": "/packages/@agentapprove/pi",
+  "url": "https://pi.dev/packages/@agentapprove/pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 105,
+  "date_ms": 1779521622040,
+  "description_en": "Agent Approve extension for Pi - approve or deny AI agent tool calls from your iPhone and Apple Watch",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

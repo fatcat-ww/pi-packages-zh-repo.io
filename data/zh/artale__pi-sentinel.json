@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-sentinel",
+  "description_en": "Agent security framework. Immutable audit trail, permission policies, self-modification detection, destructive command guard.",
+  "description_zh": "代理安全框架。不可变的审计跟踪、权限策略、自我修改检测、破坏性命令保护",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

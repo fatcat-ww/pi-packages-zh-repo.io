@@ -1,0 +1,6 @@
+{
+  "name": "pi-openai-responses-instructions",
+  "description_en": "Pi extension package that rewrites openai-responses payloads to use top-level instructions instead of system/developer input messages.",
+  "description_zh": "Pi 扩展包，将 openai-responses 负载重写为使用顶层指令而非系统/开发人员输入消息。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-shannon-statusline",
+  "path": "/packages/pi-shannon-statusline",
+  "url": "https://pi.dev/packages/pi-shannon-statusline",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1501,
+  "date_ms": 1782734711681,
+  "description_en": "Cyberpunk terminal HUD for Pi — ported from shannon-statusline for Claude Code",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

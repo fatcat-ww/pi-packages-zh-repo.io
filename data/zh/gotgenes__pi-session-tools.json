@@ -1,0 +1,6 @@
+{
+  "name": "@gotgenes/pi-session-tools",
+  "description_en": "Pi extension providing session metadata tools (naming, context) for multi-session workflows",
+  "description_zh": "为多会话工作流提供会话元数据工具（命名、上下文）的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

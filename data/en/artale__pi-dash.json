@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-dash",
+  "path": "/packages/@artale/pi-dash",
+  "url": "https://pi.dev/packages/@artale/pi-dash",
+  "types": "",
+  "type_list": [],
+  "downloads": 23,
+  "date_ms": 1773503510091,
+  "description_en": "Live TUI dashboard widget for Pi. Shows tokens, cost, context %, uptime, and tool stats above the editor in real-time.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

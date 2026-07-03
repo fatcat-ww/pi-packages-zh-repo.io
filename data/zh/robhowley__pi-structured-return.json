@@ -1,0 +1,6 @@
+{
+  "name": "@robhowley/pi-structured-return",
+  "description_en": "Turn noisy CLI output into compact structured results (fewer tokens), full logs preserved.",
+  "description_zh": "将嘈杂的 CLI 输出转换为紧凑的结构化结果（更少的令牌），完整日志保留",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

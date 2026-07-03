@@ -1,0 +1,13 @@
+{
+  "name": "talk-pi",
+  "path": "/packages/talk-pi",
+  "url": "https://pi.dev/packages/talk-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1292,
+  "date_ms": 1780465581622,
+  "description_en": "Pi extension for local tools voice capture, Whisper transcription, and Piper TTS playback",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

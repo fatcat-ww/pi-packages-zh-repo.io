@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-grill-me",
+  "path": "/packages/@firstpick/pi-extension-grill-me",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-grill-me",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 415,
+  "date_ms": 1780954479644,
+  "description_en": "Deterministic design interview command and tools for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

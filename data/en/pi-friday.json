@@ -1,0 +1,11 @@
+{
+  "name": "pi-friday",
+  "path": "/packages/pi-friday",
+  "url": "https://pi.dev/packages/pi-friday",
+  "types": "",
+  "type_list": [],
+  "downloads": 60,
+  "date_ms": 1775421282298,
+  "description_en": "Dedicated communications side panel for pi — routes all conversation to a separate tmux pane with typewriter effect. Optional TTS and wake word detection. User data stored in ~/.pi/agent/friday/.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

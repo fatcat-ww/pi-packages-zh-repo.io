@@ -1,0 +1,6 @@
+{
+  "name": "@ollama/pi-web-search",
+  "description_en": "Web search and fetch tools for Pi agent - uses Ollama's web search and fetch APIs",
+  "description_zh": "Pi 代理的网页搜索和获取工具 — 使用 Ollama 的网页搜索和获取 API",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

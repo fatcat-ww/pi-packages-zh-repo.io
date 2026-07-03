@@ -1,0 +1,11 @@
+{
+  "name": "pi-cache-optimizer",
+  "path": "/packages/pi-cache-optimizer",
+  "url": "https://pi.dev/packages/pi-cache-optimizer",
+  "types": "",
+  "type_list": [],
+  "downloads": 5219,
+  "date_ms": 1782574520320,
+  "description_en": "Improve Pi prompt/KV cache hit rates with stable prompts, OpenAI-compatible cache keys, proxy compat warnings, and footer cache stats.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

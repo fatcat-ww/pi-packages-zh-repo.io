@@ -1,0 +1,11 @@
+{
+  "name": "pi-zsh-bang-complete",
+  "path": "/packages/pi-zsh-bang-complete",
+  "url": "https://pi.dev/packages/pi-zsh-bang-complete",
+  "types": "",
+  "type_list": [],
+  "downloads": 393,
+  "date_ms": 1782433779054,
+  "description_en": "Autocompletion and zsh-autosuggestions-style history for pi's `!` / `!!` bash command input, powered by your zsh + oh-my-zsh config.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

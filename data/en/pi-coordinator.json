@@ -1,0 +1,11 @@
+{
+  "name": "pi-coordinator",
+  "path": "/packages/pi-coordinator",
+  "url": "https://pi.dev/packages/pi-coordinator",
+  "types": "",
+  "type_list": [],
+  "downloads": 53,
+  "date_ms": 1775107741355,
+  "description_en": "Four-phase workflow: Research → Synthesis → Implementation → Verification, based on Claude Code coordinator feature preview.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

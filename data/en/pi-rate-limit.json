@@ -1,0 +1,11 @@
+{
+  "name": "pi-rate-limit",
+  "path": "/packages/pi-rate-limit",
+  "url": "https://pi.dev/packages/pi-rate-limit",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782570636125,
+  "description_en": "Pi-native runtime resilience toolkit — rate limiting, retry/backoff planning, and circuit-breaker state tracking for pi.dev extensions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-guard-sandbox",
+  "description_en": "A lightweight OS-level guard for Pi: agents stay useful, sensitive paths stay blocked, and writes stay inside the workspace you allow. No container overhead. No workflow drama.",
+  "description_zh": "Pi 的轻量级操作系统级保护：代理保持有用，敏感路径保持被阻止，写入保持在您允许的工作区内。无容器开销。无工作流 drama",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

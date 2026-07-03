@@ -1,0 +1,6 @@
+{
+  "name": "@agnishc/edb-quit-summary",
+  "description_en": "Pi extension: prints a session summary to the terminal when you hit /quit",
+  "description_zh": "Pi 扩展：当您输入 /quit 时在终端打印会话摘要",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

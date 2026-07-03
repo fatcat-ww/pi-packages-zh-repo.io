@@ -1,0 +1,13 @@
+{
+  "name": "pi-compaction-i18n",
+  "path": "/packages/pi-compaction-i18n",
+  "url": "https://pi.dev/packages/pi-compaction-i18n",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 515,
+  "date_ms": 1781171167755,
+  "description_en": "Locale-aware compaction and branch summarization for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

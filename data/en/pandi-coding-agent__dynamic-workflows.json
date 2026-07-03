@@ -1,0 +1,13 @@
+{
+  "name": "@pandi-coding-agent/dynamic-workflows",
+  "path": "/packages/@pandi-coding-agent/dynamic-workflows",
+  "url": "https://pi.dev/packages/@pandi-coding-agent/dynamic-workflows",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783061686257,
+  "description_en": "Pi extension for dynamic JavaScript workflows, parallel subagents, artifacts, and Ultracode routing.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

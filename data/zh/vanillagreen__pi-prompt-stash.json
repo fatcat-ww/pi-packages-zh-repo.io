@@ -1,0 +1,6 @@
+{
+  "name": "@vanillagreen/pi-prompt-stash",
+  "description_en": "Pi package for per-session prompt stash history with alt+s stash/restore workflow.",
+  "description_zh": "Pi 包，用于每个会话的提示暂存历史记录，具有 alt+s 暂存/恢复工作流",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-artifacts",
+  "path": "/packages/pi-artifacts",
+  "url": "https://pi.dev/packages/pi-artifacts",
+  "types": "",
+  "type_list": [],
+  "downloads": 157,
+  "date_ms": 1782214495646,
+  "description_en": "Pi extension for generating, previewing, validating, and publishing self-contained artifacts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

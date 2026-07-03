@@ -1,0 +1,6 @@
+{
+  "name": "pi-changelog",
+  "description_en": "Zero-config changelog generator for pi.dev projects from conventional commits",
+  "description_zh": "从常规提交自动生成 pi.dev 项目的零配置变更日志",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

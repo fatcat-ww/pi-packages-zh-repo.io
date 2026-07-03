@@ -1,0 +1,13 @@
+{
+  "name": "@vaayne/pi-mcp",
+  "path": "/packages/@vaayne/pi-mcp",
+  "url": "https://pi.dev/packages/@vaayne/pi-mcp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 54,
+  "date_ms": 1776173224338,
+  "description_en": "Pi extension for MCP (Model Context Protocol) server integration",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

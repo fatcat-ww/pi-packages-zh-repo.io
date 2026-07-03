@@ -1,0 +1,13 @@
+{
+  "name": "pi-share-redacted-gist",
+  "path": "/packages/pi-share-redacted-gist",
+  "url": "https://pi.dev/packages/pi-share-redacted-gist",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 74,
+  "date_ms": 1774717286732,
+  "description_en": "Pi package: publish a redacted pi session to GitHub gists and first-class Hugging Face datasets",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

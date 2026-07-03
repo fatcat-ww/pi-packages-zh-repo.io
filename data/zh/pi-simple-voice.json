@@ -1,0 +1,6 @@
+{
+  "name": "pi-simple-voice",
+  "description_en": "Streaming, verbatim Kokoro TTS for the Pi agent — speaks the assistant's output as it streams, no summarization.",
+  "description_zh": "流式、逐字记录的 Kokoro TTS，用于 Pi 代理 — 在流式输出时直接朗读助手输出，不进行摘要。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

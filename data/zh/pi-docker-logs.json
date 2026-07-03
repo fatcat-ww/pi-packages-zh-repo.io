@@ -1,0 +1,6 @@
+{
+  "name": "pi-docker-logs",
+  "description_en": "Docker log gateway for pi agents — tail logs from Docker containers in the wrok.in AI Factory via the docker CLI.",
+  "description_zh": "pi 代理的 Docker 日网关 — 通过 docker CLI 从 wrok.in AI Factory 中的 Docker 容器中跟踪日志",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

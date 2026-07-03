@@ -1,0 +1,13 @@
+{
+  "name": "@ctogg/pi-cost-counter",
+  "path": "/packages/@ctogg/pi-cost-counter",
+  "url": "https://pi.dev/packages/@ctogg/pi-cost-counter",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 163,
+  "date_ms": 1778231839116,
+  "description_en": "Pi extension that tracks LLM API costs across all sessions with daily JSONL logging and a /cost command",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

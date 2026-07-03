@@ -1,0 +1,6 @@
+{
+  "name": "pi-system-prompt-switcher",
+  "description_en": "Switch active Pi system prompt from ~/.pi/agent/systems and reload on swap",
+  "description_zh": "从 ~/.pi/agent/systems 切换活动的 Pi 系统提示并在交换时重新加载",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

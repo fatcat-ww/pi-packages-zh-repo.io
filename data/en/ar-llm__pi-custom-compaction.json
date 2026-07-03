@@ -1,0 +1,13 @@
+{
+  "name": "@ar-llm/pi-custom-compaction",
+  "path": "/packages/@ar-llm/pi-custom-compaction",
+  "url": "https://pi.dev/packages/@ar-llm/pi-custom-compaction",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782768388156,
+  "description_en": "Pi extension that replaces default compaction with a full LLM-generated summary, with configurable model and per-provider request params.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-pizza",
+  "path": "/packages/pi-pizza",
+  "url": "https://pi.dev/packages/pi-pizza",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 920,
+  "date_ms": 1781954928396,
+  "description_en": "Pizza mascot and multi-provider auto-router for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

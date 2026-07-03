@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-todo-progress",
+  "path": "/packages/@firstpick/pi-extension-todo-progress",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-todo-progress",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2935,
+  "date_ms": 1782924794251,
+  "description_en": "Aggressive automatic todo progress widget for multi-goal prompts in Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

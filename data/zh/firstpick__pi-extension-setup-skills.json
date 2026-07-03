@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-extension-setup-skills",
+  "description_en": "Interactive Pi command to enable or disable local skills from a multi-selection list.",
+  "description_zh": "交互式 Pi 命令，用于从多选列表中启用或禁用本地技能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@fnnm/pi-session-breakdown",
+  "path": "/packages/@fnnm/pi-session-breakdown",
+  "url": "https://pi.dev/packages/@fnnm/pi-session-breakdown",
+  "types": "",
+  "type_list": [],
+  "downloads": 42,
+  "date_ms": 1773059959200,
+  "description_en": "Interactive TUI for Pi session analysis (usage, cost, models).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

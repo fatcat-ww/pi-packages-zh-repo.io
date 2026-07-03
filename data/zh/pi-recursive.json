@@ -1,0 +1,6 @@
+{
+  "name": "pi-recursive",
+  "description_en": "Pure Pi extension that lets Pi recursively call itself via a native rlm_query tool.",
+  "description_zh": "纯 Pi 扩展，允许 Pi 通过原生 rlm_query 工具递归调用自身。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

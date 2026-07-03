@@ -1,0 +1,13 @@
+{
+  "name": "@xynogen/pix-write",
+  "path": "/packages/@xynogen/pix-write",
+  "url": "https://pi.dev/packages/@xynogen/pix-write",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1312,
+  "date_ms": 1783045276355,
+  "description_en": "Pi tool — file write with diff rendering",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

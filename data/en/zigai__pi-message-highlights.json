@@ -1,0 +1,13 @@
+{
+  "name": "@zigai/pi-message-highlights",
+  "path": "/packages/@zigai/pi-message-highlights",
+  "url": "https://pi.dev/packages/@zigai/pi-message-highlights",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782833509757,
+  "description_en": "Pi package that highlights URLs and file paths in messages and the prompt editor.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@watercol/pi-lens-simple",
+  "description_en": "Unofficial simplified fork of pi-lens for AST tools, LSP tools, and post-write LSP diagnostics",
+  "description_zh": "pi-lens 的非官方简化分支，用于 AST 工具、LSP 工具和写入后的 LSP 诊断",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

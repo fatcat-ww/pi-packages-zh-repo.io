@@ -1,0 +1,13 @@
+{
+  "name": "@amaster.ai/pi-memory-mem0",
+  "path": "/packages/@amaster.ai/pi-memory-mem0",
+  "url": "https://pi.dev/packages/@amaster.ai/pi-memory-mem0",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2146,
+  "date_ms": 1782723735500,
+  "description_en": "Mem0 passive memory extension for pi — dual-mode: Platform (cloud) or Open-Source (local SQLite).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

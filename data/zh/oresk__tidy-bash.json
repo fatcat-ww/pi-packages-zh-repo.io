@@ -1,0 +1,6 @@
+{
+  "name": "@oresk/tidy-bash",
+  "description_en": "Tidy bash output for pi — splits multi-command chains (&&, ;, ||, |) into readable lines with clean status summaries",
+  "description_zh": "为 pi 整理 bash 输出 — 将多命令链（&&、;、||、|）分割为可读行，并附带清晰的状态摘要",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

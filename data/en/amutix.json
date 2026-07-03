@@ -1,0 +1,11 @@
+{
+  "name": "amutix",
+  "path": "/packages/amutix",
+  "url": "https://pi.dev/packages/amutix",
+  "types": "",
+  "type_list": [],
+  "downloads": 340,
+  "date_ms": 1782652062940,
+  "description_en": "Local coordination layer for AI agent teams: shared backlog, roles, reservations, review state, journal, and prompt context",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

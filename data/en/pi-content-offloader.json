@@ -1,0 +1,13 @@
+{
+  "name": "pi-content-offloader",
+  "path": "/packages/pi-content-offloader",
+  "url": "https://pi.dev/packages/pi-content-offloader",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1447,
+  "date_ms": 1781808240080,
+  "description_en": "Auto-offloads large user inputs in pi to a temporary directory — explicit $offload markers and auto-detect for paste content >2KB",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

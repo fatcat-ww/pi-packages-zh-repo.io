@@ -1,0 +1,13 @@
+{
+  "name": "@victor-software-house/pi-curated-themes",
+  "path": "/packages/@victor-software-house/pi-curated-themes",
+  "url": "https://pi.dev/packages/@victor-software-house/pi-curated-themes",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 1530,
+  "date_ms": 1774197369647,
+  "description_en": "Curated dark terminal themes for pi, adapted from iTerm2-Color-Schemes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

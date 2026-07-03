@@ -1,0 +1,6 @@
+{
+  "name": "@e9n/pi-logger",
+  "description_en": "Event bus logger for pi — writes structured JSONL logs from bus events",
+  "description_zh": "pi 的事件总线日志程序 — 从总线事件写入结构化的 JSONL 日志",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

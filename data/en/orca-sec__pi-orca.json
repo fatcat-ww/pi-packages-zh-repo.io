@@ -1,0 +1,11 @@
+{
+  "name": "@orca-sec/pi-orca",
+  "path": "/packages/@orca-sec/pi-orca",
+  "url": "https://pi.dev/packages/@orca-sec/pi-orca",
+  "types": "",
+  "type_list": [],
+  "downloads": 401,
+  "date_ms": 1782928981259,
+  "description_en": "Official Orca integration package for Pi bash tool-call protection.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/tdd-skill",
+  "path": "/packages/@barlevalon/tdd-skill",
+  "url": "https://pi.dev/packages/@barlevalon/tdd-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 93,
+  "date_ms": 1780699744814,
+  "description_en": "Test-driven development with red-green-refactor loop. Use when user wants to build features or fix bugs using TDD, mentions \"red-green-refactor\", wants integration tests, or asks for test-first development.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

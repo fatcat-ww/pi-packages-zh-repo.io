@@ -1,0 +1,11 @@
+{
+  "name": "@aalalice233/pi-brainstorm",
+  "path": "/packages/@aalalice233/pi-brainstorm",
+  "url": "https://pi.dev/packages/@aalalice233/pi-brainstorm",
+  "types": "",
+  "type_list": [],
+  "downloads": 591,
+  "date_ms": 1780989666478,
+  "description_en": "A conversation-only brainstorm mode extension for pi, with dynamic tool detection (grep, ask_user_question, subagent)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

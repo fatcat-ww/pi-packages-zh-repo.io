@@ -1,0 +1,6 @@
+{
+  "name": "@agnishc/edb-usage-stats",
+  "description_en": "Pi extension: /usage command showing token rates, reset timers, and live provider status",
+  "description_zh": "Pi 扩展：/usage 命令，显示令牌速率、重置计时器和实时提供者状态",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

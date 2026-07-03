@@ -1,0 +1,6 @@
+{
+  "name": "pi-cryptex",
+  "description_en": "Pi extension inspired by fastlane-plugin-cryptex for encrypted project credentials.",
+  "description_zh": "受 fastlane-plugin-cryptex 启发的 pi 扩展，用于加密项目凭据",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

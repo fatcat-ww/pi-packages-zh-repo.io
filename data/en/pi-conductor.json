@@ -1,0 +1,13 @@
+{
+  "name": "pi-conductor",
+  "path": "/packages/pi-conductor",
+  "url": "https://pi.dev/packages/pi-conductor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1267,
+  "date_ms": 1782348249516,
+  "description_en": "Multi-role LLM orchestration via a guarded, observable handoff state machine — installs as a pi extension exposing `/conduct`.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

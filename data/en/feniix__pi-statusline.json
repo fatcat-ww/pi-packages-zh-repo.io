@@ -1,0 +1,13 @@
+{
+  "name": "@feniix/pi-statusline",
+  "path": "/packages/@feniix/pi-statusline",
+  "url": "https://pi.dev/packages/@feniix/pi-statusline",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 295,
+  "date_ms": 1778865802608,
+  "description_en": "Fixed two-line status footer for pi with model, thinking, context, git, token, worktree, and skill indicators",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

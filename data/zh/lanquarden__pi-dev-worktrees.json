@@ -1,0 +1,6 @@
+{
+  "name": "@lanquarden/pi-dev-worktrees",
+  "description_en": "Pi extension for isolated branch workspaces — git worktrees via wtp and optional devcontainer targeting",
+  "description_zh": "Pi 的隔离分支工作区扩展 — 通过 wtp 的 git 工作树和可选的 devcontainer 目标",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

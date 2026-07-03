@@ -1,0 +1,6 @@
+{
+  "name": "@cmcconomy/pi-qwen-tool-parser",
+  "description_en": "A pi-mono extension that parses Qwen XML formatted tool calls and provides a wrapper tool for execution",
+  "description_zh": "一个 pi-mono 扩展，用于解析 Qwen XML 格式的工具调用并提供执行包装器工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@liunuozhi/pi-vi",
+  "path": "/packages/@liunuozhi/pi-vi",
+  "url": "https://pi.dev/packages/@liunuozhi/pi-vi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 32,
+  "date_ms": 1777736121381,
+  "description_en": "Minimal vi-style modal editing for Pi's TUI prompt",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

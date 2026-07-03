@@ -1,0 +1,11 @@
+{
+  "name": "pi-xiaomi-mimo-provider",
+  "path": "/packages/pi-xiaomi-mimo-provider",
+  "url": "https://pi.dev/packages/pi-xiaomi-mimo-provider",
+  "types": "",
+  "type_list": [],
+  "downloads": 124,
+  "date_ms": 1776192501544,
+  "description_en": "Xiaomi Mimo provider extension for pi coding agent — registers mimo-v2-pro, mimo-v2-omni, and mimo-v2-tts models",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

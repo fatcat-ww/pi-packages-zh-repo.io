@@ -1,0 +1,13 @@
+{
+  "name": "@jayteelabs/pi-nous-portal-provider",
+  "path": "/packages/@jayteelabs/pi-nous-portal-provider",
+  "url": "https://pi.dev/packages/@jayteelabs/pi-nous-portal-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 342,
+  "date_ms": 1780627044097,
+  "description_en": "Pi provider package for Nous Research Portal inference.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

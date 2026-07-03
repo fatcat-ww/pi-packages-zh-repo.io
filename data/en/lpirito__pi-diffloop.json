@@ -1,0 +1,13 @@
+{
+  "name": "@lpirito/pi-diffloop",
+  "path": "/packages/@lpirito/pi-diffloop",
+  "url": "https://pi.dev/packages/@lpirito/pi-diffloop",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 316,
+  "date_ms": 1782496910964,
+  "description_en": "Pair programming with Pi, be aware of every change made to the codebase.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

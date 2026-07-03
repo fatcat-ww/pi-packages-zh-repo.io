@@ -1,0 +1,11 @@
+{
+  "name": "@noahsaso/pi-remote",
+  "path": "/packages/@noahsaso/pi-remote",
+  "url": "https://pi.dev/packages/@noahsaso/pi-remote",
+  "types": "",
+  "type_list": [],
+  "downloads": 85,
+  "date_ms": 1773200123801,
+  "description_en": "Remote terminal access for pi via WebSocket and browser, with Tailscale integration",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

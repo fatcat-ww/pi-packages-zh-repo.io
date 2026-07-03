@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-loop",
+  "description_en": "Agent loop for Pi. Goal-driven, fixed-pass, and pipeline loops with [D]/[N] gates. Inspired by pi-stories Blueprint Engine.",
+  "description_zh": "Pi 的代理循环。目标驱动、固定通道和带有 [D]/[N] 门的管道循环。灵感来自 pi-stories Blueprint Engine",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

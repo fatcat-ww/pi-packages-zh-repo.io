@@ -1,0 +1,13 @@
+{
+  "name": "@agustif/pi-talk",
+  "path": "/packages/@agustif/pi-talk",
+  "url": "https://pi.dev/packages/@agustif/pi-talk",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 53,
+  "date_ms": 1773298824416,
+  "description_en": "Streaming TTS extension for Pi with visible-thinking narration, hidden-thinking TLDRs, and tool announcements",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

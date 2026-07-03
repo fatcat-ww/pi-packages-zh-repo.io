@@ -1,0 +1,14 @@
+{
+  "name": "pi-conventions",
+  "path": "/packages/pi-conventions",
+  "url": "https://pi.dev/packages/pi-conventions",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 108,
+  "date_ms": 1778209349979,
+  "description_en": "Pi package for enforcing codebase conventions through structure and naming policies.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

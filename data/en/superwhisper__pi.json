@@ -1,0 +1,13 @@
+{
+  "name": "@superwhisper/pi",
+  "path": "/packages/@superwhisper/pi",
+  "url": "https://pi.dev/packages/@superwhisper/pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 379,
+  "date_ms": 1781882079136,
+  "description_en": "Superwhisper voice integration extension for Pi - get voice notifications when tasks complete",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

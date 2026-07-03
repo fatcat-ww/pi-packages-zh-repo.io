@@ -1,0 +1,6 @@
+{
+  "name": "@bytesbrains/pi-telegram-bridge",
+  "description_en": "Telegram bot bridge for pi agents — send messages, ask questions, and listen for human replies via Telegram.",
+  "description_zh": "面向 pi 代理的 Telegram 机器人桥接 — 通过 Telegram 发送消息、提问和等待人工回复。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

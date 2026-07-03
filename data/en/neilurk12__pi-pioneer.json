@@ -1,0 +1,13 @@
+{
+  "name": "@neilurk12/pi-pioneer",
+  "path": "/packages/@neilurk12/pi-pioneer",
+  "url": "https://pi.dev/packages/@neilurk12/pi-pioneer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 260,
+  "date_ms": 1780413451076,
+  "description_en": "Pioneer AI model provider extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

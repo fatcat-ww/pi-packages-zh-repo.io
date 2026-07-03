@@ -1,0 +1,13 @@
+{
+  "name": "pi-thinking-hotkeys",
+  "path": "/packages/pi-thinking-hotkeys",
+  "url": "https://pi.dev/packages/pi-thinking-hotkeys",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 30,
+  "date_ms": 1777906911128,
+  "description_en": "Pi extension for Codex-style directional thinking effort hotkeys",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@husniadil/pi-mem",
+  "description_en": "Pi extension that bridges to claude-mem for persistent cross-session memory",
+  "description_zh": "Pi 扩展，桥接到 claude-mem 以实现跨会话持久记忆",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

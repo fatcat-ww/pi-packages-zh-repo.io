@@ -1,0 +1,13 @@
+{
+  "name": "pi-copy-message",
+  "path": "/packages/pi-copy-message",
+  "url": "https://pi.dev/packages/pi-copy-message",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1351,
+  "date_ms": 1782318126298,
+  "description_en": "Pi extension with a searchable TUI picker for copying raw session messages",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

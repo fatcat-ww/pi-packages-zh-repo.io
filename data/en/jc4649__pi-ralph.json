@@ -1,0 +1,13 @@
+{
+  "name": "@jc4649/pi-ralph",
+  "path": "/packages/@jc4649/pi-ralph",
+  "url": "https://pi.dev/packages/@jc4649/pi-ralph",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782491759010,
+  "description_en": "pi coding-agent extension: pi-ralph",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-image-preview",
+  "path": "/packages/pi-image-preview",
+  "url": "https://pi.dev/packages/pi-image-preview",
+  "types": "",
+  "type_list": [],
+  "downloads": 260,
+  "date_ms": 1782246309748,
+  "description_en": "Image preview extension for pi coding agent — renders inline image thumbnails above the editor using kitty graphics protocol with tmux support",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

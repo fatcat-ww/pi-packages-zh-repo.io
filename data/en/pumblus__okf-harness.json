@@ -1,0 +1,11 @@
+{
+  "name": "@pumblus/okf-harness",
+  "path": "/packages/@pumblus/okf-harness",
+  "url": "https://pi.dev/packages/@pumblus/okf-harness",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1783000094722,
+  "description_en": "Pi, OpenCode, and OpenClaw native bootstrap integration for OKF Harness.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

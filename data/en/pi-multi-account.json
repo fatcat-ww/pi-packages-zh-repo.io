@@ -1,0 +1,13 @@
+{
+  "name": "pi-multi-account",
+  "path": "/packages/pi-multi-account",
+  "url": "https://pi.dev/packages/pi-multi-account",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1838,
+  "date_ms": 1782887413966,
+  "description_en": "Automatic multi-account failover & rotation for Pi Agent across Anthropic (Claude), OpenAI/ChatGPT Codex, Qwen/Alibaba, and Ollama. Auto-discovers authenticated accounts, grows the rotation on login, and drops accounts on logout, expiry, or quota/rate-lim",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

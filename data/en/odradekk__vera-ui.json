@@ -1,0 +1,11 @@
+{
+  "name": "@odradekk/vera-ui",
+  "path": "/packages/@odradekk/vera-ui",
+  "url": "https://pi.dev/packages/@odradekk/vera-ui",
+  "types": "",
+  "type_list": [],
+  "downloads": 46,
+  "date_ms": 1776943544569,
+  "description_en": "Session UI extensions for Vera agent (banner, status line, thinking cycle)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

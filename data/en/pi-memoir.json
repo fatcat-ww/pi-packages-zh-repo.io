@@ -1,0 +1,13 @@
+{
+  "name": "pi-memoir",
+  "path": "/packages/pi-memoir",
+  "url": "https://pi.dev/packages/pi-memoir",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 52,
+  "date_ms": 1778260114369,
+  "description_en": "Persistent project memory for pi — the LLM queries the memoire instead of reading all files, saving ~95%+ tokens.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

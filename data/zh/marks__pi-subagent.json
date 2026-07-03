@@ -1,0 +1,6 @@
+{
+  "name": "@marks/pi-subagent",
+  "description_en": "Minimal Pi extension: one subagent tool that spawns role-shaped child pi processes. Roles defined as markdown in ~/.pi/agent/agents/.",
+  "description_zh": "最小 Pi 扩展：一个子代理工具，生成角色形状的子 pi 进程。角色定义为 ~/.pi/agent/agents/ 中的 markdown",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

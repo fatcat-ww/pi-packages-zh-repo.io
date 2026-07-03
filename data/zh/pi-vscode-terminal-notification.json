@@ -1,0 +1,6 @@
+{
+  "name": "pi-vscode-terminal-notification",
+  "description_en": "Pi extension for VS Code terminal notifications when Pi finishes a turn.",
+  "description_zh": "Pi 扩展，在 Pi 完成一轮时提供 VS Code 终端通知",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

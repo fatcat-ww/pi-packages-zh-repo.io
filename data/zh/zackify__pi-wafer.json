@@ -1,0 +1,6 @@
+{
+  "name": "@zackify/pi-wafer",
+  "description_en": "A pi extension that adds the Wafer Pass (wafer.ai) provider with paste-token OAuth and a footer that shows your live request quota and time until the next quota window.",
+  "description_zh": "Pi扩展，添加带有粘贴令牌OAuth的Wafer Pass (wafer.ai)提供者，并在页脚显示您的实时请求配额和下一个配额窗口前的时间",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

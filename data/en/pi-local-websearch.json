@@ -1,0 +1,13 @@
+{
+  "name": "pi-local-websearch",
+  "path": "/packages/pi-local-websearch",
+  "url": "https://pi.dev/packages/pi-local-websearch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 46,
+  "date_ms": 1778680075269,
+  "description_en": "Pi web search and extraction tools backed by ddgr and trafilatura.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

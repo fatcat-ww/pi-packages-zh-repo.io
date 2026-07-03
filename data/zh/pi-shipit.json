@@ -1,0 +1,6 @@
+{
+  "name": "pi-shipit",
+  "description_en": "Quality gates for shipping code with the Pi coding agent. Iterative review loops and fork-to-upstream PR workflows with AI review + CI gating.",
+  "description_zh": "使用Pi编码代理发布代码的质量门。具有AI评审+CI门控的迭代评审循环和fork到上游PR工作流",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

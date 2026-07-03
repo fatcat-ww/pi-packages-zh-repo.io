@@ -1,0 +1,13 @@
+{
+  "name": "pi-codex-image-tool",
+  "path": "/packages/pi-codex-image-tool",
+  "url": "https://pi.dev/packages/pi-codex-image-tool",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 109,
+  "date_ms": 1778118220188,
+  "description_en": "Pi extension exposing a gpt-5.5+ image generation tool backed by gpt-image-2.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

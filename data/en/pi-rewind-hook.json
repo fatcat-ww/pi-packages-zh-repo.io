@@ -1,0 +1,13 @@
+{
+  "name": "pi-rewind-hook",
+  "path": "/packages/pi-rewind-hook",
+  "url": "https://pi.dev/packages/pi-rewind-hook",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 830,
+  "date_ms": 1777087421195,
+  "description_en": "Rewind extension for Pi agent - automatic git checkpoints with file/conversation restore",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@sztlink/pi-ensemble",
+  "path": "/packages/@sztlink/pi-ensemble",
+  "url": "https://pi.dev/packages/@sztlink/pi-ensemble",
+  "types": "",
+  "type_list": [],
+  "downloads": 50,
+  "date_ms": 1778108888430,
+  "description_en": "Shared workspace coordination for parallel coding agents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

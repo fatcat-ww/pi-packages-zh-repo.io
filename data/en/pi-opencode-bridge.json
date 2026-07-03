@@ -1,0 +1,13 @@
+{
+  "name": "pi-opencode-bridge",
+  "path": "/packages/pi-opencode-bridge",
+  "url": "https://pi.dev/packages/pi-opencode-bridge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 889,
+  "date_ms": 1780291288642,
+  "description_en": "OpenCode provider for Pi Agent. Auto-discovers models from OpenCode registry and uses Pi's native OpenAI-compatible handler.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

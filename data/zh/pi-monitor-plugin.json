@@ -1,0 +1,6 @@
+{
+  "name": "pi-monitor-plugin",
+  "description_en": "Background, monitor, loop, and schedule jobs for the pi coding agent, with idle-aware session notifications. Ships a skill that watches GitHub for PRs awaiting your review and notifies your session.",
+  "description_zh": "Pi 编码代理的后台监控、循环和定时任务，具有空闲感知的会话通知。附带一个技能，用于监视 GitHub 上等待您审查的 PR 并通知您的会话",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

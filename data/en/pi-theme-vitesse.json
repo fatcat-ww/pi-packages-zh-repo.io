@@ -1,0 +1,13 @@
+{
+  "name": "pi-theme-vitesse",
+  "path": "/packages/pi-theme-vitesse",
+  "url": "https://pi.dev/packages/pi-theme-vitesse",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 168,
+  "date_ms": 1780409674273,
+  "description_en": "Vitesse-inspired themes and automatic system appearance switching for Pi Coding Agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

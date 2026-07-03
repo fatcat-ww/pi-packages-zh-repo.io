@@ -1,0 +1,6 @@
+{
+  "name": "@kmiyh/pi-full-text-paste",
+  "description_en": "Pi extension that keeps large pasted text expanded instead of collapsing it into [paste #...] markers.",
+  "description_zh": "Pi 扩展，保持大段粘贴文本展开状态，而不是将其折叠为 [paste #...] 标记。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

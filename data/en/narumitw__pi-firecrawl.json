@@ -1,0 +1,13 @@
+{
+  "name": "@narumitw/pi-firecrawl",
+  "path": "/packages/@narumitw/pi-firecrawl",
+  "url": "https://pi.dev/packages/@narumitw/pi-firecrawl",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3193,
+  "date_ms": 1782712243109,
+  "description_en": "Pi extension that exposes Firecrawl web scraping and crawling tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

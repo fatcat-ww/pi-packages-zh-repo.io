@@ -1,0 +1,13 @@
+{
+  "name": "pi-tldraw",
+  "path": "/packages/pi-tldraw",
+  "url": "https://pi.dev/packages/pi-tldraw",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782680460236,
+  "description_en": "Pi extension that opens and persists a local tldraw MCP canvas.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

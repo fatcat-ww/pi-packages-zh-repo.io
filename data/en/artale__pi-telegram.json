@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-telegram",
+  "path": "/packages/@artale/pi-telegram",
+  "url": "https://pi.dev/packages/@artale/pi-telegram",
+  "types": "",
+  "type_list": [],
+  "downloads": 49,
+  "date_ms": 1777725880840,
+  "description_en": "Control Pi from Telegram. Run commands, check status, get notifications remotely.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-openrouter-realtime",
+  "description_en": "OpenRouter extension for pi — real-time model sync, provider/quantization enrichment, endpoint health, credit balance, and interactive model picker",
+  "description_zh": "OpenRouter 扩展，用于 pi — 实时模型同步、提供者/量化增强、端点健康检查、信用余额和交互式模型选择器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

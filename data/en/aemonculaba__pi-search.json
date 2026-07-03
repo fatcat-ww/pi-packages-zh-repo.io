@@ -1,0 +1,13 @@
+{
+  "name": "@aemonculaba/pi-search",
+  "path": "/packages/@aemonculaba/pi-search",
+  "url": "https://pi.dev/packages/@aemonculaba/pi-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 101,
+  "date_ms": 1772106407185,
+  "description_en": "Web search + fetch extension for pi (OpenAI search + Readability extraction)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

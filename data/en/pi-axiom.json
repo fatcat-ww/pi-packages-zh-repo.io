@@ -1,0 +1,11 @@
+{
+  "name": "pi-axiom",
+  "path": "/packages/pi-axiom",
+  "url": "https://pi.dev/packages/pi-axiom",
+  "types": "",
+  "type_list": [],
+  "downloads": 25,
+  "date_ms": 1778644044510,
+  "description_en": "pi extension for querying Axiom logs, monitors, and debugging alerts",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

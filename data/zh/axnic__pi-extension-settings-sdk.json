@@ -1,0 +1,6 @@
+{
+  "name": "@axnic/pi-extension-settings-sdk",
+  "description_en": "Type-safe SDK for interacting with the pi-extension-settings panel (for extension authors).",
+  "description_zh": "与 pi-extension-settings 面板交互的类型安全 SDK（供扩展作者使用）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

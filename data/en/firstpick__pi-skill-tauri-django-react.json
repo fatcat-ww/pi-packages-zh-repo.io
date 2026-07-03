@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-tauri-django-react",
+  "path": "/packages/@firstpick/pi-skill-tauri-django-react",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-tauri-django-react",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 835,
+  "date_ms": 1782924811185,
+  "description_en": "Agents should invoke this skill for Tauri + Django + React desktop apps, especially backend lifecycle, CORS/auth, frontend integration, build packaging, dual desktop/web deployment, Rust commands, and platform-specific gotchas.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

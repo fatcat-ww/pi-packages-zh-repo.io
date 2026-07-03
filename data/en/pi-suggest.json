@@ -1,0 +1,13 @@
+{
+  "name": "pi-suggest",
+  "path": "/packages/pi-suggest",
+  "url": "https://pi.dev/packages/pi-suggest",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 39,
+  "date_ms": 1778196144246,
+  "description_en": "LLM-generated next-step suggestions for Pi autocomplete, chips, and picker UI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-copilot-queue",
+  "path": "/packages/pi-copilot-queue",
+  "url": "https://pi.dev/packages/pi-copilot-queue",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 144,
+  "date_ms": 1776933431632,
+  "description_en": "Pi extension that queues ask_user responses for Copilot-style workflows",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

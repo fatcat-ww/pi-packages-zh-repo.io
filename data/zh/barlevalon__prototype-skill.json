@@ -1,0 +1,6 @@
+{
+  "name": "@barlevalon/prototype-skill",
+  "description_en": "Build a throwaway prototype to flesh out a design before committing to it. Routes between two branches — a runnable terminal app for state/business-logic questions, or several radically different UI variations togglea...",
+  "description_zh": "构建一次性原型来完善设计，然后再提交。在两个分支之间路由 — 一个用于状态/业务逻辑问题的可运行终端应用程序，或几个可切换的 radically 不同的 UI 变体...",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@d3ara1n/pi-scout",
+  "description_en": "Per-turn side agent decision framework for pi — uses a cheap model to select skills and route models before each conversation turn",
+  "description_zh": "pi 的每轮边代理决策框架 — 使用廉价模型在每个对话轮次前选择技能和路由模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

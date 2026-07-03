@@ -1,0 +1,6 @@
+{
+  "name": "@phongndo/pi-threads",
+  "description_en": "A minimal Pi extension that lets Pi sessions start, poll, message, list, and stop other Pi sessions.",
+  "description_zh": "一个最小的 Pi 扩展，允许 Pi 会话启动、轮询、消息传递、列出和停止其他 Pi 会话。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

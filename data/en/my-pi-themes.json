@@ -1,0 +1,13 @@
+{
+  "name": "my-pi-themes",
+  "path": "/packages/my-pi-themes",
+  "url": "https://pi.dev/packages/my-pi-themes",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 357,
+  "date_ms": 1778928861284,
+  "description_en": "14 custom themes for Pi Coding Agent: neapple, monokai-pro, onedark, e-ink, tokyo-dark, and more",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

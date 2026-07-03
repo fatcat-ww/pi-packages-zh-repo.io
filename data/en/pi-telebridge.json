@@ -1,0 +1,13 @@
+{
+  "name": "pi-telebridge",
+  "path": "/packages/pi-telebridge",
+  "url": "https://pi.dev/packages/pi-telebridge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 192,
+  "date_ms": 1773466825680,
+  "description_en": "A pi extension that creates a two-way relay between your active pi coding agent session and a Telegram bot.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

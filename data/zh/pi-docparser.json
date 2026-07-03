@@ -1,0 +1,6 @@
+{
+  "name": "pi-docparser",
+  "description_en": "Pi package that adds document_parse, document_search, document_screenshot, and a companion skill for local document understanding with LiteParse v2.",
+  "description_zh": "Pi 包，添加 document_parse、document_search、document_screenshot 和一个配套技能，用于使用 LiteParse v2 进行本地文档理解。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

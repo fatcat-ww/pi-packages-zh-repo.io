@@ -1,0 +1,6 @@
+{
+  "name": "role-persona",
+  "description_en": "Role-based persona system for AI agents — memory, knowledge, embedding. CLI, MCP, daemon, Pi extension.",
+  "description_zh": "面向 AI 代理的基于角色的角色系统 — 记忆、知识、嵌入。CLI、MCP、守护进程、Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

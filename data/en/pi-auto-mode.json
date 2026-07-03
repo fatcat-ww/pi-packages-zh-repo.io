@@ -1,0 +1,11 @@
+{
+  "name": "pi-auto-mode",
+  "path": "/packages/pi-auto-mode",
+  "url": "https://pi.dev/packages/pi-auto-mode",
+  "types": "",
+  "type_list": [],
+  "downloads": 42,
+  "date_ms": 1778946114374,
+  "description_en": "A pi extension that re-implements Claude Code style auto mode with a two-stage tool-call classifier.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

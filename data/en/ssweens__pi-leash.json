@@ -1,0 +1,13 @@
+{
+  "name": "@ssweens/pi-leash",
+  "path": "/packages/@ssweens/pi-leash",
+  "url": "https://pi.dev/packages/@ssweens/pi-leash",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 240,
+  "date_ms": 1780166922444,
+  "description_en": "Security hooks for Pi to reduce accidental destructive actions and secret-file access.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

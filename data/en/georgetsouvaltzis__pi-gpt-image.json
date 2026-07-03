@@ -1,0 +1,13 @@
+{
+  "name": "@georgetsouvaltzis/pi-gpt-image",
+  "path": "/packages/@georgetsouvaltzis/pi-gpt-image",
+  "url": "https://pi.dev/packages/@georgetsouvaltzis/pi-gpt-image",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 37,
+  "date_ms": 1777758516168,
+  "description_en": "Pi extension for GPT image generation using Pi's existing ChatGPT/Codex login.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

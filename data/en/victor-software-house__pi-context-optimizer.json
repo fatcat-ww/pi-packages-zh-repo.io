@@ -1,0 +1,13 @@
+{
+  "name": "@victor-software-house/pi-context-optimizer",
+  "path": "/packages/@victor-software-house/pi-context-optimizer",
+  "url": "https://pi.dev/packages/@victor-software-house/pi-context-optimizer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 151,
+  "date_ms": 1773553018037,
+  "description_en": "Pi extension for command rewriting and tool-output compaction optimization.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

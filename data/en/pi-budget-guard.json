@@ -1,0 +1,13 @@
+{
+  "name": "pi-budget-guard",
+  "path": "/packages/pi-budget-guard",
+  "url": "https://pi.dev/packages/pi-budget-guard",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 42,
+  "date_ms": 1777019056152,
+  "description_en": "An extension for Pi coding agent that tracks session spend and enforces budget limits.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

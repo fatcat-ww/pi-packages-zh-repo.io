@@ -1,0 +1,13 @@
+{
+  "name": "pi-scheduler",
+  "path": "/packages/pi-scheduler",
+  "url": "https://pi.dev/packages/pi-scheduler",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 82,
+  "date_ms": 1773048430730,
+  "description_en": "Simple scheduled loop/reminder extension for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

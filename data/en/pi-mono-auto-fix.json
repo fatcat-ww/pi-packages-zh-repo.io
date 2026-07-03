@@ -1,0 +1,13 @@
+{
+  "name": "pi-mono-auto-fix",
+  "path": "/packages/pi-mono-auto-fix",
+  "url": "https://pi.dev/packages/pi-mono-auto-fix",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 105,
+  "date_ms": 1780054325512,
+  "description_en": "Pi extension that runs language-appropriate fixers (eslint, black, prettier, ...) on files touched during a turn",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

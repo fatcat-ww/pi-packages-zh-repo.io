@@ -1,0 +1,11 @@
+{
+  "name": "pi-zai-glm",
+  "path": "/packages/pi-zai-glm",
+  "url": "https://pi.dev/packages/pi-zai-glm",
+  "types": "",
+  "type_list": [],
+  "downloads": 173,
+  "date_ms": 1775565076167,
+  "description_en": "Extra LLM providers for pi (Z.ai GLM).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

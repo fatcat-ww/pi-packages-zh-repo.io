@@ -1,0 +1,6 @@
+{
+  "name": "@venthezone/picord",
+  "description_en": "Discord integration extension for pi that maps project channels to workspaces and threads to native pi sessions.",
+  "description_zh": "面向 pi 的 Discord 集成扩展，将项目频道映射到工作区，将线程映射到原生 pi 会话。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

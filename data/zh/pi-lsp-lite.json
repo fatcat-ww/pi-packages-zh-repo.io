@@ -1,0 +1,6 @@
+{
+  "name": "pi-lsp-lite",
+  "description_en": "LSP diagnostics for pi — errors and warnings on every edit, same turn. Go, Rust, TypeScript, Python, C/C++.",
+  "description_zh": "pi 的 LSP 诊断功能 — 每次编辑时显示错误和警告，同一回合内完成。支持 Go、Rust、TypeScript、Python、C/C++",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

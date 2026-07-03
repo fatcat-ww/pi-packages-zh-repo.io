@@ -1,0 +1,13 @@
+{
+  "name": "pi-live-terminal",
+  "path": "/packages/pi-live-terminal",
+  "url": "https://pi.dev/packages/pi-live-terminal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 80,
+  "date_ms": 1778631890860,
+  "description_en": "Pi extension that runs commands in tmux and displays a live terminal widget.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

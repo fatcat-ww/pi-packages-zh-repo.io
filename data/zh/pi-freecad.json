@@ -1,0 +1,6 @@
+{
+  "name": "pi-freecad",
+  "description_en": "Drive FreeCAD from pi with natural language. Create 3D shapes, open and modify .FCStd files, export to STEP/IGES/STL/DXF, and batch-convert entire folders.",
+  "description_zh": "用自然语言驱动 FreeCAD。创建 3D 形状，打开和修改 .FCStd 文件，导出到 STEP/IGES/STL/DXF，并批量转换整个文件夹。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

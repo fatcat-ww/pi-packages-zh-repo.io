@@ -1,0 +1,13 @@
+{
+  "name": "tokenfactory-pi",
+  "path": "/packages/tokenfactory-pi",
+  "url": "https://pi.dev/packages/tokenfactory-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 449,
+  "date_ms": 1781589462464,
+  "description_en": "Nebius Token Factory provider extension for pi coding agent. Requires `npm install -g --ignore-scripts @earendil-works/pi-coding-agent`. Install with `pi install npm:tokenfactory-pi`",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

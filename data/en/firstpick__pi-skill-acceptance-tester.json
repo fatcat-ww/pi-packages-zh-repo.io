@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-acceptance-tester",
+  "path": "/packages/@firstpick/pi-skill-acceptance-tester",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-acceptance-tester",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 479,
+  "date_ms": 1780954568319,
+  "description_en": "Agents should invoke this skill as the final gate before release, handoff, or claiming completion for substantial changes. Runs acceptance/readiness checks, determines pass/fail, and gives a go/no-go recommendation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

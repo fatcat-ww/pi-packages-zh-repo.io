@@ -1,0 +1,11 @@
+{
+  "name": "@alexion42/claude-agent-sdk-pi",
+  "path": "/packages/@alexion42/claude-agent-sdk-pi",
+  "url": "https://pi.dev/packages/@alexion42/claude-agent-sdk-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 298,
+  "date_ms": 1781858235923,
+  "description_en": "This extension registers a custom provider that routes LLM calls through the **Claude Agent SDK** while **pi executes tools** and renders tool results in the TUI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

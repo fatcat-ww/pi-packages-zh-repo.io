@@ -1,0 +1,14 @@
+{
+  "name": "pi-resource-center",
+  "path": "/packages/pi-resource-center",
+  "url": "https://pi.dev/packages/pi-resource-center",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 532,
+  "date_ms": 1779507986234,
+  "description_en": "Pi package for browsing packages, skills, extensions, prompts, and themes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

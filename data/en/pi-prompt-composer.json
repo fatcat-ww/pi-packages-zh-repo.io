@@ -1,0 +1,14 @@
+{
+  "name": "pi-prompt-composer",
+  "path": "/packages/pi-prompt-composer",
+  "url": "https://pi.dev/packages/pi-prompt-composer",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 315,
+  "date_ms": 1778557316424,
+  "description_en": "Build multi-option slash commands from plain prompts — variable expansion, arg collection & interactive selectors for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

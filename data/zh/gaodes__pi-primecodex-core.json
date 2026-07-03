@@ -1,0 +1,6 @@
+{
+  "name": "@gaodes/pi-primecodex-core",
+  "description_en": "NoxPrime infrastructure utilities for PrimeCodex — settings engine, types, validators, scaffold templates, and shared constants. Zero Pi runtime dependencies.",
+  "description_zh": "PrimeCodex 的 NoxPrime 基础设施工具 — 设置引擎、类型、验证器、脚手架模板和共享常量。零 Pi 运行时依赖。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

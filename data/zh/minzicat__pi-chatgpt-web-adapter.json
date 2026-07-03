@@ -1,0 +1,6 @@
+{
+  "name": "@minzicat/pi-chatgpt-web-adapter",
+  "description_en": "Use ChatGPT web's gpt-5.5-pro inside Pi via a managed-browser OpenAI-compatible adapter.",
+  "description_zh": "通过托管浏览器 OpenAI 兼容适配器，在 Pi 中使用 ChatGPT 网站的 gpt-5.5-pro",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

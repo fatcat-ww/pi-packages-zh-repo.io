@@ -1,0 +1,13 @@
+{
+  "name": "@daytona/pi",
+  "path": "/packages/@daytona/pi",
+  "url": "https://pi.dev/packages/@daytona/pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 409,
+  "date_ms": 1782227500216,
+  "description_en": "Pi coding agent extension that runs all tool calls inside a remote, ephemeral Daytona sandbox while the agent runs locally",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-fast-subagent",
+  "path": "/packages/pi-fast-subagent",
+  "url": "https://pi.dev/packages/pi-fast-subagent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 472,
+  "date_ms": 1781192917545,
+  "description_en": "In-process subagent delegation for pi with single, parallel, and background modes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@victormilk/pi-droid",
+  "description_en": "Pi Coding Agent extension that registers Factory.AI Droid models as a custom-streamSimple provider backed by a long-lived `droid exec` subprocess.",
+  "description_zh": "Pi Coding Agent 扩展，将 Factory.AI Droid 模型注册为自定义 streamSimple 提供程序，由持久的 `droid exec` 子进程支持",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

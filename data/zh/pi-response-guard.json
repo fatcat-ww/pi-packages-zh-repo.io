@@ -1,0 +1,6 @@
+{
+  "name": "pi-response-guard",
+  "description_en": "Pi extension that auto-recovers from empty, errored, or interrupted model responses",
+  "description_zh": "Pi 扩展，自动从空、错误或中断的模型响应中恢复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

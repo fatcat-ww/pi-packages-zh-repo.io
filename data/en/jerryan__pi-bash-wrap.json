@@ -1,0 +1,11 @@
+{
+  "name": "@jerryan/pi-bash-wrap",
+  "path": "/packages/@jerryan/pi-bash-wrap",
+  "url": "https://pi.dev/packages/@jerryan/pi-bash-wrap",
+  "types": "",
+  "type_list": [],
+  "downloads": 814,
+  "date_ms": 1780833758832,
+  "description_en": "Sandbox pi bash commands with bubblewrap",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

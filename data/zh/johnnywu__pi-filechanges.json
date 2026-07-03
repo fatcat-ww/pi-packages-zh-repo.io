@@ -1,0 +1,6 @@
+{
+  "name": "@johnnywu/pi-filechanges",
+  "description_en": "Tracks files changed by pi via edit and write tools, with a toggleable file changes widget",
+  "description_zh": "通过 edit 和 write 工具跟踪 pi 更改的文件，带有可切换的文件更改小部件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

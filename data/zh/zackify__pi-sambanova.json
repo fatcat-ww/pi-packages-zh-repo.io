@@ -1,0 +1,6 @@
+{
+  "name": "@zackify/pi-sambanova",
+  "description_en": "A pi extension that adds SambaNova as an OpenAI-compatible model provider.",
+  "description_zh": "添加 SambaNova 作为 OpenAI 兼容模型提供程序的 pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-token-speed",
+  "description_en": "Pi extension to measure tokens per second via sliding window.",
+  "description_zh": "Pi 扩展，通过滑动窗口测量每秒 token 数。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

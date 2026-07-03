@@ -1,0 +1,13 @@
+{
+  "name": "pi-hash-anchored-edit",
+  "path": "/packages/pi-hash-anchored-edit",
+  "url": "https://pi.dev/packages/pi-hash-anchored-edit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 82,
+  "date_ms": 1778150260342,
+  "description_en": "Hash-anchored read/edit replacement tools for Pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

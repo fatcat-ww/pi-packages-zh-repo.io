@@ -1,0 +1,13 @@
+{
+  "name": "@slix/obsidian-notes",
+  "path": "/packages/@slix/obsidian-notes",
+  "url": "https://pi.dev/packages/@slix/obsidian-notes",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 136,
+  "date_ms": 1780125075742,
+  "description_en": "Complete Obsidian-Flavored Markdown reference skill for the pi coding agent — wikilinks, callouts, embeds, properties, block refs, task lists, Mermaid, math, and OFM syntax.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@pi-stef/team",
+  "path": "/packages/@pi-stef/team",
+  "url": "https://pi.dev/packages/@pi-stef/team",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2340,
+  "date_ms": 1781989953472,
+  "description_en": "Pi extension that runs a steerable team of role-agents for plan/review/implement workflows, including strategy-aware lanes, resume, and optional tmux panes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

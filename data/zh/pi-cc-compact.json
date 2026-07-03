@@ -1,0 +1,6 @@
+{
+  "name": "pi-cc-compact",
+  "description_en": "Ports Claude Code's compaction prompt (9-section <analysis>+<summary>) to pi's session_before_compact hook. Faithful reconstruction of the leaked full-compact prompt.",
+  "description_zh": "将 Claude Code 的压缩提示（9 部分 <analysis>+<summary>）移植到 pi 的 session_before_compact 钩子中。忠实重建泄露的完整压缩提示。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

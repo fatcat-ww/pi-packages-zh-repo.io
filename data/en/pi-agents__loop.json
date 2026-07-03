@@ -1,0 +1,13 @@
+{
+  "name": "@pi-agents/loop",
+  "path": "/packages/@pi-agents/loop",
+  "url": "https://pi.dev/packages/@pi-agents/loop",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 247,
+  "date_ms": 1776439929950,
+  "description_en": "Recurring prompt execution and cron scheduling for pi-agent — /loop, cron_create, cron_delete, cron_list",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

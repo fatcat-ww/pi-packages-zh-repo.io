@@ -1,0 +1,6 @@
+{
+  "name": "pi-skill-shiori",
+  "description_en": "Pi extension that reduces Agent Skill catalog tokens with policy-based skill retrieval and on-demand skill loading.",
+  "description_zh": "Pi 扩展，通过基于策略的技能检索和按需技能加载减少代理技能目录令牌",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@juanibiapina/pi-gob",
+  "path": "/packages/@juanibiapina/pi-gob",
+  "url": "https://pi.dev/packages/@juanibiapina/pi-gob",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 101,
+  "date_ms": 1779269062460,
+  "description_en": "Pi extension for managing gob background jobs",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

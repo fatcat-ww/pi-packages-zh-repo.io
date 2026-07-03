@@ -1,0 +1,11 @@
+{
+  "name": "@diegopetrucci/pi-quiet-tools",
+  "path": "/packages/@diegopetrucci/pi-quiet-tools",
+  "url": "https://pi.dev/packages/@diegopetrucci/pi-quiet-tools",
+  "types": "",
+  "type_list": [],
+  "downloads": 596,
+  "date_ms": 1782197151047,
+  "description_en": "A pi extension that visually compacts collapsed built-in tool rows in the TUI without changing tool results sent to the model.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

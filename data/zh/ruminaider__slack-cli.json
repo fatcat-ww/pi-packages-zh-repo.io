@@ -1,0 +1,6 @@
+{
+  "name": "@ruminaider/slack-cli",
+  "description_en": "Slack CLI that authenticates as you using your existing Slack desktop session. Read channels, send messages, search, and manage reactions, files, pins, and canvases from the terminal. No app, no OAuth, no admin approval.",
+  "description_zh": "Slack CLI，使用您现有的 Slack 桌面会话进行身份验证。从终端读取频道、发送消息、搜索，并管理反应、文件、固定帖子和画布。无需应用、无需 OAuth、无需管理员批准",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

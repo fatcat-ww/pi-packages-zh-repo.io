@@ -1,0 +1,15 @@
+{
+  "name": "@juicesharp/rpiv-args",
+  "path": "/packages/@juicesharp/rpiv-args",
+  "url": "https://pi.dev/packages/@juicesharp/rpiv-args",
+  "types": "extension skill prompt",
+  "type_list": [
+    "extension",
+    "skill",
+    "prompt"
+  ],
+  "downloads": 7195,
+  "date_ms": 1781526929139,
+  "description_en": "Pi extension. Shell-style $1 / $ARGUMENTS placeholders and !`cmd` / ```! shell substitution, expanded into your Pi skills at invocation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

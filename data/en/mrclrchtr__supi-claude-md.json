@@ -1,0 +1,14 @@
+{
+  "name": "@mrclrchtr/supi-claude-md",
+  "path": "/packages/@mrclrchtr/supi-claude-md",
+  "url": "https://pi.dev/packages/@mrclrchtr/supi-claude-md",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 2444,
+  "date_ms": 1783012902737,
+  "description_en": "SuPi claude-md extension — automatic subdirectory context injection for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

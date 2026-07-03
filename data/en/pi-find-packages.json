@@ -1,0 +1,13 @@
+{
+  "name": "pi-find-packages",
+  "path": "/packages/pi-find-packages",
+  "url": "https://pi.dev/packages/pi-find-packages",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 48,
+  "date_ms": 1779700855375,
+  "description_en": "Pi skill and CLI helper for finding installable Pi packages from npm.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-powerline-melbourne",
+  "path": "/packages/pi-powerline-melbourne",
+  "url": "https://pi.dev/packages/pi-powerline-melbourne",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 104,
+  "date_ms": 1778717060654,
+  "description_en": "Custom pi extensions, including a nerd-style powerline footer with context token count",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

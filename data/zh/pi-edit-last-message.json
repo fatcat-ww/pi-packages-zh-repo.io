@@ -1,0 +1,6 @@
+{
+  "name": "pi-edit-last-message",
+  "description_en": "Pi extension that adds /last to restore the most recent user message into the editor",
+  "description_zh": "Pi扩展，添加/last以将最近的用户消息恢复到编辑器中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

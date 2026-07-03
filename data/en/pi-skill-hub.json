@@ -1,0 +1,14 @@
+{
+  "name": "pi-skill-hub",
+  "path": "/packages/pi-skill-hub",
+  "url": "https://pi.dev/packages/pi-skill-hub",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 463,
+  "date_ms": 1783049888487,
+  "description_en": "Safe provenance-aware Pi skill discovery, inventory, preview, and management hub.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

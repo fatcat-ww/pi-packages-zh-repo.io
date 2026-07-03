@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-research-orchestration",
+  "path": "/packages/@firstpick/pi-skill-research-orchestration",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-research-orchestration",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 421,
+  "date_ms": 1780954624027,
+  "description_en": "Agents should invoke this skill for broad multi-claim research projects needing planning, parallel investigation, source merging, gap closure, citation audit, and final synthesis when narrower research skills are insufficient.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

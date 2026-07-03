@@ -1,0 +1,11 @@
+{
+  "name": "pi-epicflow",
+  "path": "/packages/pi-epicflow",
+  "url": "https://pi.dev/packages/pi-epicflow",
+  "types": "",
+  "type_list": [],
+  "downloads": 319,
+  "date_ms": 1780988457436,
+  "description_en": "Pi skill + prompt + agents for shipping multi-feature work autonomously: decompose a design.md into a DAG of small features, each on its own git worktree+branch off a long-lived epic branch, squash-merged back, then opened as a single PR. Halt only when t",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

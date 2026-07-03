@@ -1,0 +1,13 @@
+{
+  "name": "pi-searxng-search",
+  "path": "/packages/pi-searxng-search",
+  "url": "https://pi.dev/packages/pi-searxng-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 124,
+  "date_ms": 1779613941156,
+  "description_en": "Local SearXNG web_search tool for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

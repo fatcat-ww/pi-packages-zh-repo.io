@@ -1,0 +1,13 @@
+{
+  "name": "@tanyouqing/pi-openviking",
+  "path": "/packages/@tanyouqing/pi-openviking",
+  "url": "https://pi.dev/packages/@tanyouqing/pi-openviking",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 74,
+  "date_ms": 1777905280419,
+  "description_en": "OpenViking memory and indexed repository extension for pi-coding-agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

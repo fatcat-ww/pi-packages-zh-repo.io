@@ -1,0 +1,11 @@
+{
+  "name": "pi-snake-timepass",
+  "path": "/packages/pi-snake-timepass",
+  "url": "https://pi.dev/packages/pi-snake-timepass",
+  "types": "",
+  "type_list": [],
+  "downloads": 43,
+  "date_ms": 1777348087372,
+  "description_en": "A centered Snake game that pops up automatically while Pi is working. Features 'Hard' and 'Easy' modes, adjustable speed, and wall wrap-around.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

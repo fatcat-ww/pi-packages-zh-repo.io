@@ -1,0 +1,6 @@
+{
+  "name": "@smoose/pi-vision",
+  "description_en": "Pi image recognition tool: lets text-only models see images via local CLI providers (Codex or Agy).",
+  "description_zh": "Pi 图像识别工具：通过本地 CLI 提供商（Codex 或 Agy）让纯文本模型能够查看图像。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

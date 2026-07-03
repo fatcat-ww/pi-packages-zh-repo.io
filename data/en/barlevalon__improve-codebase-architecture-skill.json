@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/improve-codebase-architecture-skill",
+  "path": "/packages/@barlevalon/improve-codebase-architecture-skill",
+  "url": "https://pi.dev/packages/@barlevalon/improve-codebase-architecture-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 42,
+  "date_ms": 1782996017601,
+  "description_en": "Scan a codebase for deepening opportunities, present a visual HTML report, then grill through the selected candidate.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

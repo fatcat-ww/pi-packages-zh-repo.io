@@ -1,0 +1,6 @@
+{
+  "name": "@d3ara1n/pi-usage-block",
+  "description_en": "Usage quota status bar block for pi — polls registered UsageProviders and displays in powerline",
+  "description_zh": "pi 的使用配额状态栏块 — 轮询已注册的 UsageProvider 并在 powerline 中显示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

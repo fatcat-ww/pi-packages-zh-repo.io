@@ -1,0 +1,6 @@
+{
+  "name": "@guwidoe/pi-wsl-clipboard-image",
+  "description_en": "pi extension: paste WSLg clipboard images into the prompt",
+  "description_zh": "pi 扩展：将 WSLg 剪贴板图像粘贴到提示中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-sync-extension",
+  "path": "/packages/pi-sync-extension",
+  "url": "https://pi.dev/packages/pi-sync-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 66,
+  "date_ms": 1778575174332,
+  "description_en": "Secure sync for Pi configuration (settings, extensions, skills)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

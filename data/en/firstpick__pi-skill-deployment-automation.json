@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-deployment-automation",
+  "path": "/packages/@firstpick/pi-skill-deployment-automation",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-deployment-automation",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 407,
+  "date_ms": 1780954593467,
+  "description_en": "Agents should invoke this skill for Docker Compose deployments, container updates, stack health checks, rollbacks, compose-file changes, image upgrades, failed deploys, or service restart planning. Provides safe deployment and rollback workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@arvoretech/hub-pi",
+  "path": "/packages/@arvoretech/hub-pi",
+  "url": "https://pi.dev/packages/@arvoretech/hub-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 1272,
+  "date_ms": 1781711875308,
+  "description_en": "Pi runtime package for hub.yaml workspaces — interprets config at runtime with no static generation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

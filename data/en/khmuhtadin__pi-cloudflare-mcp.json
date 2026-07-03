@@ -1,0 +1,13 @@
+{
+  "name": "@khmuhtadin/pi-cloudflare-mcp",
+  "path": "/packages/@khmuhtadin/pi-cloudflare-mcp",
+  "url": "https://pi.dev/packages/@khmuhtadin/pi-cloudflare-mcp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 73,
+  "date_ms": 1782110368802,
+  "description_en": "Pi extension that bridges pi to the official Cloudflare remote MCP server (Code Mode). Extended API access: DNS, zones, email routing, account, and more.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

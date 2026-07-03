@@ -1,0 +1,11 @@
+{
+  "name": "pi-monitor-plugin",
+  "path": "/packages/pi-monitor-plugin",
+  "url": "https://pi.dev/packages/pi-monitor-plugin",
+  "types": "",
+  "type_list": [],
+  "downloads": 355,
+  "date_ms": 1781818815736,
+  "description_en": "Background, monitor, loop, and schedule jobs for the pi coding agent, with idle-aware session notifications. Ships a skill that watches GitHub for PRs awaiting your review and notifies your session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

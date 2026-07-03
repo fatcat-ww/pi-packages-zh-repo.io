@@ -1,0 +1,6 @@
+{
+  "name": "@davehardy20/pi-ast-grep-tools",
+  "description_en": "Pi package for structural code search and replace using AST matching via ast-grep.",
+  "description_zh": "Pi 包，使用 ast-grep 通过 AST 匹配进行结构化代码搜索和替换。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

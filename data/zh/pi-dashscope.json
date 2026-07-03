@@ -1,0 +1,6 @@
+{
+  "name": "pi-dashscope",
+  "description_en": "Alibaba DashScope (ModelStudio) provider for oh my pi — Qwen3, GLM-5, MiniMax M2.5, Kimi K2.5 via OpenAI-compatible coding API",
+  "description_zh": "oh my pi 的阿里巴巴 DashScope (ModelStudio) 提供商 — 通过 OpenAI 兼容的编码 API 提供 Qwen3、GLM-5、MiniMax M2.5、Kimi K2.5",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

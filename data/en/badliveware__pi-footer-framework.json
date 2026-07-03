@@ -1,0 +1,13 @@
+{
+  "name": "@badliveware/pi-footer-framework",
+  "path": "/packages/@badliveware/pi-footer-framework",
+  "url": "https://pi.dev/packages/@badliveware/pi-footer-framework",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 94,
+  "date_ms": 1778966551875,
+  "description_en": "Configurable footer framework extension for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

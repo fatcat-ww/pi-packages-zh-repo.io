@@ -1,0 +1,13 @@
+{
+  "name": "pinotator",
+  "path": "/packages/pinotator",
+  "url": "https://pi.dev/packages/pinotator",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 27,
+  "date_ms": 1779186474093,
+  "description_en": "Clipboard-first transcript citations for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

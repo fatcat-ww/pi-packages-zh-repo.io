@@ -1,0 +1,13 @@
+{
+  "name": "@neilurk12/pi-free-models",
+  "path": "/packages/@neilurk12/pi-free-models",
+  "url": "https://pi.dev/packages/@neilurk12/pi-free-models",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 683,
+  "date_ms": 1782239570394,
+  "description_en": "Free model providers for Pi — Kilo and OpenCode with free/paid filtering",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

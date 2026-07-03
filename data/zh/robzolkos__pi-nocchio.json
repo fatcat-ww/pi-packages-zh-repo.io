@@ -1,0 +1,6 @@
+{
+  "name": "@robzolkos/pi-nocchio",
+  "description_en": "A tiny Pi extension that adds --dump-system-prompt.",
+  "description_zh": "一个添加了 --dump-system-prompt 的小型 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

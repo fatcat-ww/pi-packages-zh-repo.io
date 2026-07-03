@@ -1,0 +1,6 @@
+{
+  "name": "pi-linter",
+  "description_en": "Inline session linter for Pi — flags vague openers, pronoun soup, scope creep, and other input anti-patterns above the editor.",
+  "description_zh": "Pi 的内联会话代码检查器 — 标记模糊的开场白、代词混乱、范围蔓延和其他在编辑器上方的输入反模式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

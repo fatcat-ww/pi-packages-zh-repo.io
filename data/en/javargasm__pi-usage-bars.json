@@ -1,0 +1,13 @@
+{
+  "name": "@javargasm/pi-usage-bars",
+  "path": "/packages/@javargasm/pi-usage-bars",
+  "url": "https://pi.dev/packages/@javargasm/pi-usage-bars",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 140,
+  "date_ms": 1782071024611,
+  "description_en": "Usage indicator for pi — footer status bars and /usage command for Codex, Claude, Z.AI, Gemini, Antigravity, OpenCode Go, and Kiro",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

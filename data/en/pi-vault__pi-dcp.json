@@ -1,0 +1,13 @@
+{
+  "name": "@pi-vault/pi-dcp",
+  "path": "/packages/@pi-vault/pi-dcp",
+  "url": "https://pi.dev/packages/@pi-vault/pi-dcp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 484,
+  "date_ms": 1782256027122,
+  "description_en": "Pi extension for dynamic context pruning — incremental tool output pruning and conversation compression",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

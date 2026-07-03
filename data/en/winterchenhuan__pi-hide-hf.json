@@ -1,0 +1,11 @@
+{
+  "name": "@winterchenhuan/pi-hide-hf",
+  "path": "/packages/@winterchenhuan/pi-hide-hf",
+  "url": "https://pi.dev/packages/@winterchenhuan/pi-hide-hf",
+  "types": "",
+  "type_list": [],
+  "downloads": 117,
+  "date_ms": 1781006704491,
+  "description_en": "Hide HuggingFace models extension for Pi. Filter HF models from the model selector when HF_TOKEN is present.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

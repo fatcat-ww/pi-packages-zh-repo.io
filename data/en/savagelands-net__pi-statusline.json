@@ -1,0 +1,13 @@
+{
+  "name": "@savagelands-net/pi-statusline",
+  "path": "/packages/@savagelands-net/pi-statusline",
+  "url": "https://pi.dev/packages/@savagelands-net/pi-statusline",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 912,
+  "date_ms": 1781166434908,
+  "description_en": "Minimal modular statusline extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

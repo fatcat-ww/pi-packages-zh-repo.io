@@ -1,0 +1,13 @@
+{
+  "name": "moonpi",
+  "path": "/packages/moonpi",
+  "url": "https://pi.dev/packages/moonpi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 527,
+  "date_ms": 1782462966989,
+  "description_en": "Opinionated set of extensions for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

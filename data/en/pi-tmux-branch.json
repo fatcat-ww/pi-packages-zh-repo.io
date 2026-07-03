@@ -1,0 +1,13 @@
+{
+  "name": "pi-tmux-branch",
+  "path": "/packages/pi-tmux-branch",
+  "url": "https://pi.dev/packages/pi-tmux-branch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 31,
+  "date_ms": 1778514338941,
+  "description_en": "Pi extension for branching the current session into a new tmux pane.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

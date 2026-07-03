@@ -1,0 +1,13 @@
+{
+  "name": "pi-telegram-plus",
+  "path": "/packages/pi-telegram-plus",
+  "url": "https://pi.dev/packages/pi-telegram-plus",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 451,
+  "date_ms": 1781064841976,
+  "description_en": "Full Telegram control of pi coding agent — commands, menus, interactive UI, model management, and more",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

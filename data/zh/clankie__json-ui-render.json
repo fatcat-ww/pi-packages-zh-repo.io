@@ -1,0 +1,6 @@
+{
+  "name": "@clankie/json-ui-render",
+  "description_en": "Render structured chat UI in clankie via details.renderHint and details.uiSpec",
+  "description_zh": "通过 details.renderHint 和 details.uiSpec 在 clankie 中渲染结构化聊天 UI",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

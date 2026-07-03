@@ -1,0 +1,14 @@
+{
+  "name": "pi-skill-deck",
+  "path": "/packages/pi-skill-deck",
+  "url": "https://pi.dev/packages/pi-skill-deck",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 78,
+  "date_ms": 1779994462985,
+  "description_en": "Two-pane categorized skill browser for Pi with bookmarks, tags, frecency tracking, source attribution, and 8 group-by modes (category, source, framework, creator, location, tag, usage, flat)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

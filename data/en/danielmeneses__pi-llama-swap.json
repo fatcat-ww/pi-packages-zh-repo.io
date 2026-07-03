@@ -1,0 +1,13 @@
+{
+  "name": "@danielmeneses/pi-llama-swap",
+  "path": "/packages/@danielmeneses/pi-llama-swap",
+  "url": "https://pi.dev/packages/@danielmeneses/pi-llama-swap",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 467,
+  "date_ms": 1782129861494,
+  "description_en": "Pi extension: llama-swap provider with dynamic model discovery",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

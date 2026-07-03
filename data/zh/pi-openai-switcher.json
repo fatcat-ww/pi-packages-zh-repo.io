@@ -1,0 +1,6 @@
+{
+  "name": "pi-openai-switcher",
+  "description_en": "pi extension that switches ChatGPT Codex accounts when 5h or 1w usage limits are exhausted",
+  "description_zh": "pi 扩展，当 5 小时或 1 周使用限制耗尽时切换 ChatGPT Codex 账户",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

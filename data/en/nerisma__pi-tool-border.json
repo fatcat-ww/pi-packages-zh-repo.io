@@ -1,0 +1,13 @@
+{
+  "name": "@nerisma/pi-tool-border",
+  "path": "/packages/@nerisma/pi-tool-border",
+  "url": "https://pi.dev/packages/@nerisma/pi-tool-border",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782558848316,
+  "description_en": "Left-edge side border ▏ (theme accent color) on all tool output in pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

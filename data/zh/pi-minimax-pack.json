@@ -1,0 +1,6 @@
+{
+  "name": "pi-minimax-pack",
+  "description_en": "Pi agent harness with policy gates, project detection, verification loop, drift protection, artifact validation, and runtime enforcement for weak models",
+  "description_zh": "Pi 代理工具包，具有策略门、项目检测、验证循环、漂移保护、工件验证和弱模型运行时强制执行",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

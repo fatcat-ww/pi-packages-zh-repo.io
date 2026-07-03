@@ -1,0 +1,13 @@
+{
+  "name": "pi-skill-martin-fowler",
+  "path": "/packages/pi-skill-martin-fowler",
+  "url": "https://pi.dev/packages/pi-skill-martin-fowler",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 36,
+  "date_ms": 1774895628211,
+  "description_en": "Pi skill that thinks and advises like Martin Fowler — software design, architecture, refactoring, agile, testing, and delivery.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

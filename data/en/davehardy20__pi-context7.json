@@ -1,0 +1,13 @@
+{
+  "name": "@davehardy20/pi-context7",
+  "path": "/packages/@davehardy20/pi-context7",
+  "url": "https://pi.dev/packages/@davehardy20/pi-context7",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 55,
+  "date_ms": 1779016892767,
+  "description_en": "Pi package for fetching current library/framework/API docs via Context7.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

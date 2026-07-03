@@ -1,0 +1,13 @@
+{
+  "name": "@sting8k/pi-srcwalk",
+  "path": "/packages/@sting8k/pi-srcwalk",
+  "url": "https://pi.dev/packages/@sting8k/pi-srcwalk",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1527,
+  "date_ms": 1782458367877,
+  "description_en": "Makes structural code-intelligence easy for AI coding agents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

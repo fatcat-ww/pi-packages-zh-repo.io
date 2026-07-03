@@ -1,0 +1,6 @@
+{
+  "name": "@dreki-gg/pi-plan-mode",
+  "description_en": "Two-phase planning workflow for pi — plan with claude-opus-4-6:medium, execute with gpt-5.5:low, with .plans/ file-based handoff",
+  "description_zh": "Pi 的两阶段规划工作流 — 使用 claude-opus-4-6:medium 规划，使用 gpt-5.5:low 执行，具有基于 .plans/ 文件的手动交接",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

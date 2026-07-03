@@ -1,0 +1,14 @@
+{
+  "name": "@javimolina/pi-palette",
+  "path": "/packages/@javimolina/pi-palette",
+  "url": "https://pi.dev/packages/@javimolina/pi-palette",
+  "types": "skill prompt",
+  "type_list": [
+    "skill",
+    "prompt"
+  ],
+  "downloads": 44,
+  "date_ms": 1772902618557,
+  "description_en": "Pi package that adds a searchable slash-command palette for commands, prompts, and skills",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

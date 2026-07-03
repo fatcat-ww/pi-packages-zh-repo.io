@@ -1,0 +1,6 @@
+{
+  "name": "pi-session-ask",
+  "description_en": "Allows the agent or user to ask questions about the current session's pre-compaction history, parent (if forked) sessions' histories, or any other sessions' histories, via a subagent (keeping current context clean).",
+  "description_zh": "允许代理或用户通过子代理询问当前会话的预压缩历史记录、父级（如果已分叉）会话历史记录或任何其他会话历史记录，同时保持当前上下文清洁",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

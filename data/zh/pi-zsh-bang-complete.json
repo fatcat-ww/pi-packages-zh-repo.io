@@ -1,0 +1,6 @@
+{
+  "name": "pi-zsh-bang-complete",
+  "description_en": "Autocompletion and zsh-autosuggestions-style history for pi's `!` / `!!` bash command input, powered by your zsh + oh-my-zsh config.",
+  "description_zh": "为 Pi 的 `!` / `!!` bash 命令输入提供自动补全和 zsh-autosuggestions 风格的历史记录，由您的 zsh + oh-my-zsh 配置驱动",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

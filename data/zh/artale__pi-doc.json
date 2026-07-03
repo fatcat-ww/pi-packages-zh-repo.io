@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-doc",
+  "description_en": "Documentation generator. Scan exports, check doc coverage, scaffold READMEs, generate API reference.",
+  "description_zh": "文档生成器。扫描导出，检查文档覆盖率，搭建 README，生成 API 参考",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

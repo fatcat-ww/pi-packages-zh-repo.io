@@ -1,0 +1,13 @@
+{
+  "name": "@aliou/pi-processes",
+  "path": "/packages/@aliou/pi-processes",
+  "url": "https://pi.dev/packages/@aliou/pi-processes",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2890,
+  "date_ms": 1780404591826,
+  "description_en": "![banner](https://assets.aliou.me/github/aliou/pi-processes/banner.png)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

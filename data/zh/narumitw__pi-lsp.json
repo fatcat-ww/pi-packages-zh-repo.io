@@ -1,0 +1,6 @@
+{
+  "name": "@narumitw/pi-lsp",
+  "description_en": "Pi extension that exposes configurable, language-agnostic LSP tools through a shared runner.",
+  "description_zh": "Pi 扩展，通过共享运行器提供可配置的、语言无关的 LSP 工具。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

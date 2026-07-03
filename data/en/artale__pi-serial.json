@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-serial",
+  "path": "/packages/@artale/pi-serial",
+  "url": "https://pi.dev/packages/@artale/pi-serial",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 40,
+  "date_ms": 1772992305030,
+  "description_en": "Hardware/IoT interface. List serial ports, identify devices (Arduino, ESP32, 3D printers), send/receive data, monitor sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

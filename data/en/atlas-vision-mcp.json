@@ -1,0 +1,13 @@
+{
+  "name": "atlas-vision-mcp",
+  "path": "/packages/atlas-vision-mcp",
+  "url": "https://pi.dev/packages/atlas-vision-mcp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3721,
+  "date_ms": 1782792876630,
+  "description_en": "MCP vision bridge for text-only coding agents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

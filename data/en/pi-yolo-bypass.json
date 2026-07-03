@@ -1,0 +1,13 @@
+{
+  "name": "pi-yolo-bypass",
+  "path": "/packages/pi-yolo-bypass",
+  "url": "https://pi.dev/packages/pi-yolo-bypass",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 106,
+  "date_ms": 1779919871400,
+  "description_en": "Dynamic full-permission bypass toggle for pi-permission-system with backup/restore of policy files.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

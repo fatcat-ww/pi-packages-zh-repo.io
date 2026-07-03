@@ -1,0 +1,13 @@
+{
+  "name": "pi-minimal-permission-system",
+  "path": "/packages/pi-minimal-permission-system",
+  "url": "https://pi.dev/packages/pi-minimal-permission-system",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 90,
+  "date_ms": 1778825967538,
+  "description_en": "Minimal permission enforcement extension for the Pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

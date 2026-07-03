@@ -1,0 +1,6 @@
+{
+  "name": "@leo-yjl/pi-coding-workflow",
+  "description_en": "Generic coding workflow package for Pi with workflow_next/workflow_run tools and plan-based init-spec.",
+  "description_zh": "Pi 的通用编码工作流包，带有 workflow_next/workflow_run 工具和基于计划的 init-spec。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

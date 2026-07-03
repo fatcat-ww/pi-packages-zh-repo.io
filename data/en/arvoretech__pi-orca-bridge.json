@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-orca-bridge",
+  "path": "/packages/@arvoretech/pi-orca-bridge",
+  "url": "https://pi.dev/packages/@arvoretech/pi-orca-bridge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783027733512,
+  "description_en": "PI extension bridging pi to orca-cli: worktree status sync, long-running terminals, orchestration, and computer use",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

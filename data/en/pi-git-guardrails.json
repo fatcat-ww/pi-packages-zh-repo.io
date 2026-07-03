@@ -1,0 +1,13 @@
+{
+  "name": "pi-git-guardrails",
+  "path": "/packages/pi-git-guardrails",
+  "url": "https://pi.dev/packages/pi-git-guardrails",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 40,
+  "date_ms": 1777436763283,
+  "description_en": "Native Pi extension that blocks dangerous git operations, including git calls hidden inside scripts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

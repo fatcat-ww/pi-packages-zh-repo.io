@@ -1,0 +1,13 @@
+{
+  "name": "@omardev_11/pi-pulse-border",
+  "path": "/packages/@omardev_11/pi-pulse-border",
+  "url": "https://pi.dev/packages/@omardev_11/pi-pulse-border",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 27,
+  "date_ms": 1779392916440,
+  "description_en": "Animates a symmetric-gradient comet along the pi editor border with breathing speed/size and per-cycle color swap.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

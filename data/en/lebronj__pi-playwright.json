@@ -1,0 +1,11 @@
+{
+  "name": "@lebronj/pi-playwright",
+  "path": "/packages/@lebronj/pi-playwright",
+  "url": "https://pi.dev/packages/@lebronj/pi-playwright",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782702224320,
+  "description_en": "Optional Playwright browser automation package for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

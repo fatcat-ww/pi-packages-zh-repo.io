@@ -1,0 +1,11 @@
+{
+  "name": "@diegopetrucci/pi-oracle",
+  "path": "/packages/@diegopetrucci/pi-oracle",
+  "url": "https://pi.dev/packages/@diegopetrucci/pi-oracle",
+  "types": "",
+  "type_list": [],
+  "downloads": 1131,
+  "date_ms": 1782593858098,
+  "description_en": "An Amp-style oracle extension for pi that consults the strongest reasoning model on your current provider.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

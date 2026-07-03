@@ -1,0 +1,6 @@
+{
+  "name": "eslint-plugin-lookup-table",
+  "description_en": "Detect redundant conditional chains and suggest lookup tables",
+  "description_zh": "检测冗余的条件链并建议使用查找表",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

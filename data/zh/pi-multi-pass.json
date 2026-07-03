@@ -1,0 +1,6 @@
+{
+  "name": "pi-multi-pass",
+  "description_en": "Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)",
+  "description_zh": "pi 的多订阅扩展 — 每个提供商使用多个 OAuth 账户（Anthropic、Codex、Copilot、Gemini、Antigravity）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

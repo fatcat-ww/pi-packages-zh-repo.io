@@ -1,0 +1,6 @@
+{
+  "name": "pi-context-whisperer",
+  "description_en": "Smart gradual auto-compaction for Pi — summarizes conversation mid-session before context limits hit, preserving key decisions",
+  "description_zh": "Pi 的智能渐进式自动压缩 — 在达到上下文限制前会话中总结对话，保留关键决策",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

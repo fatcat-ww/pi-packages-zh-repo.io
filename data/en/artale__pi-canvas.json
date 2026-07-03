@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-canvas",
+  "path": "/packages/@artale/pi-canvas",
+  "url": "https://pi.dev/packages/@artale/pi-canvas",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 46,
+  "date_ms": 1778063328578,
+  "description_en": "Visual art for your terminal. Hotline-inspired themes, neon effects, and ASCII aesthetics.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

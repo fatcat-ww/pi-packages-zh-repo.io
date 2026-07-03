@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-deployment-automation",
+  "description_en": "Agents should invoke this skill for Docker Compose deployments, container updates, stack health checks, rollbacks, compose-file changes, image upgrades, failed deploys, or service restart planning. Provides safe deployment and rollback workflows.",
+  "description_zh": "代理应在 Docker Compose 部署、容器更新、堆栈健康检查、回滚、compose-file 更改、镜像升级、部署失败或服务重启规划时调用此技能。提供安全的部署和回滚工作流。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

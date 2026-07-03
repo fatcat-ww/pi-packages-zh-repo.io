@@ -1,0 +1,13 @@
+{
+  "name": "pi-exit-resume",
+  "path": "/packages/pi-exit-resume",
+  "url": "https://pi.dev/packages/pi-exit-resume",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 27,
+  "date_ms": 1778941954038,
+  "description_en": "Pi extension that copies the resume command when Pi exits.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

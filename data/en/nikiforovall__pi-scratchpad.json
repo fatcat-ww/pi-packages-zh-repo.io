@@ -1,0 +1,13 @@
+{
+  "name": "@nikiforovall/pi-scratchpad",
+  "path": "/packages/@nikiforovall/pi-scratchpad",
+  "url": "https://pi.dev/packages/@nikiforovall/pi-scratchpad",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1035,
+  "date_ms": 1781626245708,
+  "description_en": "pi package for scratchpad — skills to drive the `scratch` CLI plus /scratch ui|export|stop commands for the read-only viewer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-icarus-hook",
+  "path": "/packages/pi-icarus-hook",
+  "url": "https://pi.dev/packages/pi-icarus-hook",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1146,
+  "date_ms": 1781783836478,
+  "description_en": "Thin Pi lifecycle bridge to local Hermes/Icarus Memory OS hooks and tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

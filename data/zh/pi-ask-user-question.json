@@ -1,0 +1,6 @@
+{
+  "name": "pi-ask-user-question",
+  "description_en": "Adds an askUserQuestion tool that lets the model pause and ask the user a clarifying question before proceeding.",
+  "description_zh": "添加一个 askUserQuestion 工具，让模型在继续之前暂停并向用户提出澄清问题",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-precognition",
+  "path": "/packages/pi-precognition",
+  "url": "https://pi.dev/packages/pi-precognition",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 98,
+  "date_ms": 1779123244692,
+  "description_en": "Validated tool futures for low-latency Pi coding agents. Predict the wait, not the answer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

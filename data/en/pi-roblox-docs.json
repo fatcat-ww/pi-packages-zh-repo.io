@@ -1,0 +1,13 @@
+{
+  "name": "pi-roblox-docs",
+  "path": "/packages/pi-roblox-docs",
+  "url": "https://pi.dev/packages/pi-roblox-docs",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1173,
+  "date_ms": 1783054881914,
+  "description_en": "Pi native Roblox documentation tools without a background MCP server.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

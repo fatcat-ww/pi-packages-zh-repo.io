@@ -1,0 +1,13 @@
+{
+  "name": "pi-adaptive-finder",
+  "path": "/packages/pi-adaptive-finder",
+  "url": "https://pi.dev/packages/pi-adaptive-finder",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 44,
+  "date_ms": 1778613900049,
+  "description_en": "Fast local workspace Finder for Pi using rg retrieval plus configurable OpenAI-compatible rerankers",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

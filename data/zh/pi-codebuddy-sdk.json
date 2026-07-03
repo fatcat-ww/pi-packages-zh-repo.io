@@ -1,0 +1,6 @@
+{
+  "name": "pi-codebuddy-sdk",
+  "description_en": "Pi extension that uses CodeBuddy (via Agent SDK) as a model provider and adds an AskCodebuddy tool.",
+  "description_zh": "Pi 扩展，使用 CodeBuddy（通过 Agent SDK）作为模型提供程序，并添加 AskCodebuddy 工具。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

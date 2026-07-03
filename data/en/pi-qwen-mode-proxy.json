@@ -1,0 +1,13 @@
+{
+  "name": "pi-qwen-mode-proxy",
+  "path": "/packages/pi-qwen-mode-proxy",
+  "url": "https://pi.dev/packages/pi-qwen-mode-proxy",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 46,
+  "date_ms": 1777147790811,
+  "description_en": "Sampling mode proxy for Qwen models served via llama.cpp — switch between thinking, coding, and instruct modes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-volcengine-coding-plan",
+  "path": "/packages/pi-volcengine-coding-plan",
+  "url": "https://pi.dev/packages/pi-volcengine-coding-plan",
+  "types": "",
+  "type_list": [],
+  "downloads": 206,
+  "date_ms": 1780929001191,
+  "description_en": "Pi extension for Volcengine Coding Plan, registering Volcengine as a custom OpenAI-compatible provider for domestic coding models.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

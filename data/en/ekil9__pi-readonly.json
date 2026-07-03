@@ -1,0 +1,11 @@
+{
+  "name": "@ekil9/pi-readonly",
+  "path": "/packages/@ekil9/pi-readonly",
+  "url": "https://pi.dev/packages/@ekil9/pi-readonly",
+  "types": "",
+  "type_list": [],
+  "downloads": 104,
+  "date_ms": 1780281638416,
+  "description_en": "Readonly mode for pi — disables edit/write tools and blocks high-risk bash commands",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

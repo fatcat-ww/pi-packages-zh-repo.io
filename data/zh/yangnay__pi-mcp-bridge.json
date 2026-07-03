@@ -1,0 +1,6 @@
+{
+  "name": "@yangnay/pi-mcp-bridge",
+  "description_en": "Standalone pi extension that bridges multiple MCP servers with on-demand connections.",
+  "description_zh": "独立的 pi 扩展，通过按需连接桥接多个 MCP 服务器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

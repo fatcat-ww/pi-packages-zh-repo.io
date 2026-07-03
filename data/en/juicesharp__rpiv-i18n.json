@@ -1,0 +1,13 @@
+{
+  "name": "@juicesharp/rpiv-i18n",
+  "path": "/packages/@juicesharp/rpiv-i18n",
+  "url": "https://pi.dev/packages/@juicesharp/rpiv-i18n",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 7046,
+  "date_ms": 1781526935477,
+  "description_en": "Pi extension. The localization foundation for rpiv-* skills: locale detection, the /languages command, the --locale flag, and a cross-package locale registry.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

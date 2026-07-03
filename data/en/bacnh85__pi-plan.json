@@ -1,0 +1,13 @@
+{
+  "name": "@bacnh85/pi-plan",
+  "path": "/packages/@bacnh85/pi-plan",
+  "url": "https://pi.dev/packages/@bacnh85/pi-plan",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 799,
+  "date_ms": 1782831889420,
+  "description_en": "Pi extension that adds a plan mode with workspace markdown plans and thinking-level presets.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

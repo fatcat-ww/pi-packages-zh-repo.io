@@ -1,0 +1,6 @@
+{
+  "name": "@cgaravitoq/pi-claude-code-auth",
+  "description_en": "pi extension: authenticate the Anthropic provider via your existing Claude Code OAuth session",
+  "description_zh": "pi 扩展：通过您现有的 Claude Code OAuth 会话验证 Anthropic 提供商。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@miclivs/pi-psst",
+  "path": "/packages/@miclivs/pi-psst",
+  "url": "https://pi.dev/packages/@miclivs/pi-psst",
+  "types": "",
+  "type_list": [],
+  "downloads": 42,
+  "date_ms": 1775548310566,
+  "description_en": "Pi extension that injects psst vault secrets into bash and scrubs them from output",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

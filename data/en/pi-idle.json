@@ -1,0 +1,13 @@
+{
+  "name": "pi-idle",
+  "path": "/packages/pi-idle",
+  "url": "https://pi.dev/packages/pi-idle",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 111,
+  "date_ms": 1779293091436,
+  "description_en": "Pi extension: shows ✓ in terminal title when idle, spinner (◰◳◲◱) while working, with context-usage percentage beside the checkmark",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

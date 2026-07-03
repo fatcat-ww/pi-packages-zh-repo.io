@@ -1,0 +1,6 @@
+{
+  "name": "pi-figma",
+  "description_en": "Pi package for Figma integration — inspect files, components, styles, nodes, export assets, and read comments directly from Figma's REST API.",
+  "description_zh": "Pi 的 Figma 集成包 — 检查文件、组件、样式、节点、导出资产，并直接从 Figma 的 REST API 读取评论",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

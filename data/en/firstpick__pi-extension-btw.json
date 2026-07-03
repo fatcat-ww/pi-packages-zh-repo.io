@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-btw",
+  "path": "/packages/@firstpick/pi-extension-btw",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-btw",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 677,
+  "date_ms": 1782924791016,
+  "description_en": "Ephemeral /btw side-question overlay command for Pi TUI and WebUI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

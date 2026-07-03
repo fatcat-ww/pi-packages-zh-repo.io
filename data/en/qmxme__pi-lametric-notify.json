@@ -1,0 +1,13 @@
+{
+  "name": "@qmxme/pi-lametric-notify",
+  "path": "/packages/@qmxme/pi-lametric-notify",
+  "url": "https://pi.dev/packages/@qmxme/pi-lametric-notify",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 87,
+  "date_ms": 1779125163717,
+  "description_en": "LaMetric Time notifications for pi when the agent finishes and waits for input",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

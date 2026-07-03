@@ -1,0 +1,11 @@
+{
+  "name": "@pi-agents/orchid",
+  "path": "/packages/@pi-agents/orchid",
+  "url": "https://pi.dev/packages/@pi-agents/orchid",
+  "types": "",
+  "type_list": [],
+  "downloads": 413,
+  "date_ms": 1780246117522,
+  "description_en": "Unified pi orchestration package combining batch orchestrator, Ralph loop, and subagent dispatch for multi-agent pipelines",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

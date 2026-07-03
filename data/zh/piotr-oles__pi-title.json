@@ -1,0 +1,6 @@
+{
+  "name": "@piotr-oles/pi-title",
+  "description_en": "Pi Agent extension: generate a short session title from the first user message",
+  "description_zh": "Pi Agent 扩展：从第一条用户消息生成简短会话标题",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

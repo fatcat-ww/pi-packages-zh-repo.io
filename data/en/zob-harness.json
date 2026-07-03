@@ -1,0 +1,13 @@
+{
+  "name": "zob-harness",
+  "path": "/packages/zob-harness",
+  "url": "https://pi.dev/packages/zob-harness",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 5328,
+  "date_ms": 1782814471948,
+  "description_en": "A governed Agent Factory for Pi: launch communicating agent teams, run tmux-backed factories, validate artifacts, and package repeatable workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

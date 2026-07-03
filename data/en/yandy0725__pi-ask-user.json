@@ -1,0 +1,11 @@
+{
+  "name": "@yandy0725/pi-ask-user",
+  "path": "/packages/@yandy0725/pi-ask-user",
+  "url": "https://pi.dev/packages/@yandy0725/pi-ask-user",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782663645552,
+  "description_en": "Interactive ask_user tool for pi-coding-agent with searchable split-pane selection UI, multi-select, and freeform input",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

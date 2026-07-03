@@ -1,0 +1,6 @@
+{
+  "name": "pi-codex-image-tool",
+  "description_en": "Pi extension exposing a gpt-5.5+ image generation tool backed by gpt-image-2.",
+  "description_zh": "Pi 扩展，暴露由 gpt-image-2 支持的 gpt-5.5+ 图像生成工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

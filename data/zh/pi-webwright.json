@@ -1,0 +1,6 @@
+{
+  "name": "pi-webwright",
+  "description_en": "Pi package that ports Microsoft's Webwright code-as-action browser automation skill and slash commands.",
+  "description_zh": "将微软的 Webwright 代码即行动浏览器自动化技能和斜杠命令移植到 Pi 包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

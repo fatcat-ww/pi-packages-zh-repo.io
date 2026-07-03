@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-hex",
+  "path": "/packages/@artale/pi-hex",
+  "url": "https://pi.dev/packages/@artale/pi-hex",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 79,
+  "date_ms": 1776776854518,
+  "description_en": "Hex viewer, binary inspector, magic byte detection, string extraction.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

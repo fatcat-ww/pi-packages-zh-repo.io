@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-typing",
+  "path": "/packages/@artale/pi-typing",
+  "url": "https://pi.dev/packages/@artale/pi-typing",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 68,
+  "date_ms": 1776776881777,
+  "description_en": "Typing speed test with WPM tracking. Code snippets and quotes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

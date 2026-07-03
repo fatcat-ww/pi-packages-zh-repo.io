@@ -1,0 +1,13 @@
+{
+  "name": "@graedenn/pi-loader",
+  "path": "/packages/@graedenn/pi-loader",
+  "url": "https://pi.dev/packages/@graedenn/pi-loader",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 462,
+  "date_ms": 1780194227848,
+  "description_en": "Braille-dot working indicator for pi coding agent — replaces the default spinner with 54+ configurable animations",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

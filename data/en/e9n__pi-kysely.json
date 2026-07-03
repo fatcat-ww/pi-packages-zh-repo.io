@@ -1,0 +1,13 @@
+{
+  "name": "@e9n/pi-kysely",
+  "path": "/packages/@e9n/pi-kysely",
+  "url": "https://pi.dev/packages/@e9n/pi-kysely",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 76,
+  "date_ms": 1777233162483,
+  "description_en": "Shared Kysely database registry for pi — multi-dialect SQL with table-level RBAC",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

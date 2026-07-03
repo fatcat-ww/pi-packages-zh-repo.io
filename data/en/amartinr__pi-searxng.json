@@ -1,0 +1,13 @@
+{
+  "name": "@amartinr/pi-searxng",
+  "path": "/packages/@amartinr/pi-searxng",
+  "url": "https://pi.dev/packages/@amartinr/pi-searxng",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 296,
+  "date_ms": 1780300993382,
+  "description_en": "A minimalist SearXNG web search extension for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

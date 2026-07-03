@@ -1,0 +1,13 @@
+{
+  "name": "@hyperprior/pi-safety",
+  "path": "/packages/@hyperprior/pi-safety",
+  "url": "https://pi.dev/packages/@hyperprior/pi-safety",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 30,
+  "date_ms": 1771219074862,
+  "description_en": "Confirmation and protection layer for dangerous git/bash/edit/write actions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

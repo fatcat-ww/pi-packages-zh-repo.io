@@ -1,0 +1,13 @@
+{
+  "name": "@monotykamary/pi-retry",
+  "path": "/packages/@monotykamary/pi-retry",
+  "url": "https://pi.dev/packages/@monotykamary/pi-retry",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2555,
+  "date_ms": 1781881310081,
+  "description_en": "Extension suite for pi coding agent that handles 400/413 errors and connection errors with automatic retry",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

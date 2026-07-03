@@ -1,0 +1,14 @@
+{
+  "name": "@sentiolabs/pi-scriptable-statusline",
+  "path": "/packages/@sentiolabs/pi-scriptable-statusline",
+  "url": "https://pi.dev/packages/@sentiolabs/pi-scriptable-statusline",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 51,
+  "date_ms": 1778722115504,
+  "description_en": "Scriptable footer and statusline UI package for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

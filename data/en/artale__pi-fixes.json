@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-fixes",
+  "path": "/packages/@artale/pi-fixes",
+  "url": "https://pi.dev/packages/@artale/pi-fixes",
+  "types": "",
+  "type_list": [],
+  "downloads": 42,
+  "date_ms": 1776790914549,
+  "description_en": "Auto-fix common errors: lint, format, type errors",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

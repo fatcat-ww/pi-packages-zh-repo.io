@@ -1,0 +1,11 @@
+{
+  "name": "pi-libp2p-mesh",
+  "path": "/packages/pi-libp2p-mesh",
+  "url": "https://pi.dev/packages/pi-libp2p-mesh",
+  "types": "",
+  "type_list": [],
+  "downloads": 270,
+  "date_ms": 1781473009945,
+  "description_en": "P2P mesh network extension for pi agents built on libp2p — peer discovery, direct messaging, and gossip broadcast.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

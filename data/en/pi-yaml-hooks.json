@@ -1,0 +1,13 @@
+{
+  "name": "pi-yaml-hooks",
+  "path": "/packages/pi-yaml-hooks",
+  "url": "https://pi.dev/packages/pi-yaml-hooks",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1728,
+  "date_ms": 1781395467826,
+  "description_en": "YAML hook automation for the PI coding agent: tool guards, session hooks, prompts, notifications, and bash actions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

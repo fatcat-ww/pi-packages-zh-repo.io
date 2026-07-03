@@ -1,0 +1,13 @@
+{
+  "name": "onetool-pi",
+  "path": "/packages/onetool-pi",
+  "url": "https://pi.dev/packages/onetool-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 57,
+  "date_ms": 1772948173313,
+  "description_en": "🧿 Pi coding agent extension — the ultimate MCP bridge with 100+ tools including Brave, Google, Context7, Excalidraw, AWS, Excel, File Ops, Database, Playwright, Chrome DevTools and many more",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

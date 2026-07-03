@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-voice",
+  "path": "/packages/@artale/pi-voice",
+  "url": "https://pi.dev/packages/@artale/pi-voice",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 125,
+  "date_ms": 1773495983426,
+  "description_en": "Voice input for Pi. Multi-provider STT with Deepgram streaming, Groq Whisper, OpenAI Whisper. 56+ languages.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

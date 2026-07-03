@@ -1,0 +1,13 @@
+{
+  "name": "@mcowger/pi-suppress-providers",
+  "path": "/packages/@mcowger/pi-suppress-providers",
+  "url": "https://pi.dev/packages/@mcowger/pi-suppress-providers",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 93,
+  "date_ms": 1779382286298,
+  "description_en": "Pi extension that limits which providers appear in model selection by suppressing env vars for non-enabled providers",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

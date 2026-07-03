@@ -1,0 +1,13 @@
+{
+  "name": "@pi-plugins/exit",
+  "path": "/packages/@pi-plugins/exit",
+  "url": "https://pi.dev/packages/@pi-plugins/exit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 176,
+  "date_ms": 1779746353299,
+  "description_en": "Exit command extension for pi-agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

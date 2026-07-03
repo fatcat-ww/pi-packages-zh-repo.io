@@ -1,0 +1,6 @@
+{
+  "name": "@coreinfra/pi-plugin",
+  "description_en": "Pi package that adds [CoreInfra AI Hub](https://hub.coreinfra.ai/) as a model provider.",
+  "description_zh": "Pi包，将[CoreInfra AI Hub](https://hub.coreinfra.ai/)添加为模型提供商",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@barlevalon/diagnose-skill",
+  "description_en": "Disciplined diagnosis loop for hard bugs and performance regressions. Reproduce → minimise → hypothesise → instrument → fix → regression-test. Use when user says \"diagnose this\" / \"debug this\", reports a bug, says som...",
+  "description_zh": "用于硬错误和性能回归的 disciplined 诊断循环。重现 → 最小化 → 假设 → 仪器 → 修复 → 回归测试。当用户说\"诊断这个\"/\"调试这个\"，报告错误，说 som...",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@romansix/pi-tmux",
+  "path": "/packages/@romansix/pi-tmux",
+  "url": "https://pi.dev/packages/@romansix/pi-tmux",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 84,
+  "date_ms": 1773376594835,
+  "description_en": "Pi coding agent extension: tmux session management per project",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

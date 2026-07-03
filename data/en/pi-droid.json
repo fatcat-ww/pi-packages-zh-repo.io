@@ -1,0 +1,13 @@
+{
+  "name": "pi-droid",
+  "path": "/packages/pi-droid",
+  "url": "https://pi.dev/packages/pi-droid",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 113,
+  "date_ms": 1776184408817,
+  "description_en": "Android phone control for pi-agent — 36 tools to see, touch, and automate any device via ADB",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

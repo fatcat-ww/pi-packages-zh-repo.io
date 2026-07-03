@@ -1,0 +1,6 @@
+{
+  "name": "nano-team",
+  "description_en": "A tiny pi.dev extension. It doesn't really do much — just runs your subagents and shows them as a compact little chip row above the editor so you can see who's working.",
+  "description_zh": "一个微小的 pi.dev 扩展。它实际上没什么作用 — 只是运行您的子代理，并将它们显示为编辑器上方的一排紧凑小芯片，让您可以看到谁在工作",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

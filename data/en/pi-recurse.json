@@ -1,0 +1,13 @@
+{
+  "name": "pi-recurse",
+  "path": "/packages/pi-recurse",
+  "url": "https://pi.dev/packages/pi-recurse",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 374,
+  "date_ms": 1781553404432,
+  "description_en": "Recursive agent extension for Pi — spawn subagents programmatically with depth guardrails",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

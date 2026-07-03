@@ -1,0 +1,6 @@
+{
+  "name": "@jc4649/notify",
+  "description_en": "pi coding-agent extension: native terminal notifications (OSC 777/99 + Windows Toast) when the agent asks a question or finishes a turn",
+  "description_zh": "pi coding-agent 扩展：当代理提问或完成一轮时，使用原生终端通知 (OSC 777/99 + Windows Toast)。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-session-name-editor",
+  "description_en": "Pi extension that shows a context-aware label in the editor border and a custom footer with token stats",
+  "description_zh": "Pi 扩展，在编辑器边框显示上下文感知标签，并在页脚显示带有 token 统计的自定义页脚",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

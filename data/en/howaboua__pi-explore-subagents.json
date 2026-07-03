@@ -1,0 +1,13 @@
+{
+  "name": "@howaboua/pi-explore-subagents",
+  "path": "/packages/@howaboua/pi-explore-subagents",
+  "url": "https://pi.dev/packages/@howaboua/pi-explore-subagents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 973,
+  "date_ms": 1782244316800,
+  "description_en": "Isolated discovery-only explore subagents for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

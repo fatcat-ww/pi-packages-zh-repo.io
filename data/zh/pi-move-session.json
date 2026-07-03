@@ -1,0 +1,6 @@
+{
+  "name": "pi-move-session",
+  "description_en": "Move a live Pi session to another working directory, including back to a repository's main worktree",
+  "description_zh": "将活动的 Pi 会话移动到另一个工作目录，包括返回到仓库的主工作区。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

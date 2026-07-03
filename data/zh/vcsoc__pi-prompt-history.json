@@ -1,0 +1,6 @@
+{
+  "name": "@vcsoc/pi-prompt-history",
+  "description_en": "Project-scoped /history extension for pi with persistent prompt history stored in .pi/history/data.json",
+  "description_zh": "面向 pi 的项目范围 /history 扩展，持久化提示历史存储在 .pi/history/data.json 中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

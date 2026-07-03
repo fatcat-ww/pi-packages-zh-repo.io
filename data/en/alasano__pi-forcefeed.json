@@ -1,0 +1,11 @@
+{
+  "name": "@alasano/pi-forcefeed",
+  "path": "/packages/@alasano/pi-forcefeed",
+  "url": "https://pi.dev/packages/@alasano/pi-forcefeed",
+  "types": "",
+  "type_list": [],
+  "downloads": 249,
+  "date_ms": 1782011241176,
+  "description_en": "Force-feed complete files into pi conversation context without read-tool truncation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@arcadia64/pi-ddgs",
+  "description_en": "Pi extension for web search and page fetch with curl_cffi + Chrome + Camoufox fallback chain. Backed by a local Docker service.",
+  "description_zh": "Pi 扩展，使用 curl_cffi + Chrome + Camoufox 回退链进行网络搜索和页面获取。由本地 Docker 服务支持。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

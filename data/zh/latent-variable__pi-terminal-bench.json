@@ -1,0 +1,6 @@
+{
+  "name": "@latent-variable/pi-terminal-bench",
+  "description_en": "Self-contained benchmark suite for Pi. Runs QuixBugs and other coding tasks locally — no Docker, no Python frameworks, no external dependencies.",
+  "description_zh": "Pi 的自包含基准测试套件。在本地运行 QuixBugs 和其他编码任务 — 无需 Docker、无 Python 框架、无外部依赖。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

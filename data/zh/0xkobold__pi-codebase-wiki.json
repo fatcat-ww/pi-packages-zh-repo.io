@@ -1,0 +1,6 @@
+{
+  "name": "@0xkobold/pi-codebase-wiki",
+  "description_en": "Keeps a wiki for your code that updates itself — reads your git history and docs so you can ask questions about your codebase",
+  "description_zh": "为您的代码维护一个会自行更新的 wiki — 读取您的 git 历史记录和文档，以便您可以询问有关代码库的问题",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

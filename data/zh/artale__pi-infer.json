@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-infer",
+  "description_en": "Minimum viable free-LLM gateway — stdlib-only Python, no Docker, ~700 LOC",
+  "description_zh": "最小可行免费 LLM 网关 — 仅使用标准库的 Python，无 Docker，约 700 行代码",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

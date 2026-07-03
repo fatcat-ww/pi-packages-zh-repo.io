@@ -1,0 +1,11 @@
+{
+  "name": "@raindrop-ai/pi-agent",
+  "path": "/packages/@raindrop-ai/pi-agent",
+  "url": "https://pi.dev/packages/@raindrop-ai/pi-agent",
+  "types": "",
+  "type_list": [],
+  "downloads": 15214,
+  "date_ms": 1782770720875,
+  "description_en": "Raindrop observability for Pi Agent — automatic tracing via subscriber or pi-coding-agent extension",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

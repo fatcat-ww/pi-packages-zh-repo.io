@@ -1,0 +1,11 @@
+{
+  "name": "@catdaemon/pi-cmux",
+  "path": "/packages/@catdaemon/pi-cmux",
+  "url": "https://pi.dev/packages/@catdaemon/pi-cmux",
+  "types": "",
+  "type_list": [],
+  "downloads": 88,
+  "date_ms": 1778431758528,
+  "description_en": "cmux status and notification integration for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

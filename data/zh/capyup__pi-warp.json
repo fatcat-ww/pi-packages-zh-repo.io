@@ -1,0 +1,6 @@
+{
+  "name": "@capyup/pi-warp",
+  "description_en": "Warp terminal integration for Pi — tab status, spinner, and rich session notifications via the warp://cli-agent protocol.",
+  "description_zh": "Pi 的 Warp 终端集成 — 通过 warp://cli-agent 协议提供标签状态、加载器和丰富的会话通知。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

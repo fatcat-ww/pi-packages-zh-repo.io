@@ -1,0 +1,6 @@
+{
+  "name": "pi-flex-processing",
+  "description_en": "Pi extension to switch OpenAI API requests between normal and Flex processing from chat UI.",
+  "description_zh": "Pi 扩展，用于在聊天 UI 中将 OpenAI API 请求在普通和 Flex 处理之间切换。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

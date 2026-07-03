@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-procs",
+  "description_en": "Background process manager for Pi. Start dev servers, watch builds, tail logs — without blocking the agent.",
+  "description_zh": "Pi 的后台进程管理器。启动开发服务器、监控构建、跟踪日志 — 不会阻塞代理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

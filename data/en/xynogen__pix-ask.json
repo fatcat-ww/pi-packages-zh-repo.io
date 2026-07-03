@@ -1,0 +1,13 @@
+{
+  "name": "@xynogen/pix-ask",
+  "path": "/packages/@xynogen/pix-ask",
+  "url": "https://pi.dev/packages/@xynogen/pix-ask",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1654,
+  "date_ms": 1782814337451,
+  "description_en": "Pi tool — structured questionnaire UI (ask_user)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

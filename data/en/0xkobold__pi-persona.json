@@ -1,0 +1,13 @@
+{
+  "name": "@0xkobold/pi-persona",
+  "path": "/packages/@0xkobold/pi-persona",
+  "url": "https://pi.dev/packages/@0xkobold/pi-persona",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 60,
+  "date_ms": 1775700910367,
+  "description_en": "Persona extension for pi agents — SOUL.md, IDENTITY.md, USER.md loading, scaffolding, and system prompt injection. Inspired by OpenClaw.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

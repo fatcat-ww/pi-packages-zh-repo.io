@@ -1,0 +1,11 @@
+{
+  "name": "brief-ctx",
+  "path": "/packages/brief-ctx",
+  "url": "https://pi.dev/packages/brief-ctx",
+  "types": "",
+  "type_list": [],
+  "downloads": 267,
+  "date_ms": 1782134072596,
+  "description_en": "Adds /brief for generating and updating AI coding agent project context. Works with Pi, Claude Code, and Codex.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-piqo",
+  "path": "/packages/pi-piqo",
+  "url": "https://pi.dev/packages/pi-piqo",
+  "types": "",
+  "type_list": [],
+  "downloads": 84,
+  "date_ms": 1779560538547,
+  "description_en": "Piqo - a pi extension which allows user to interact with llm agents directly from files, without the need to use any chat UI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

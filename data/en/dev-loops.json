@@ -1,0 +1,11 @@
+{
+  "name": "dev-loops",
+  "path": "/packages/dev-loops",
+  "url": "https://pi.dev/packages/dev-loops",
+  "types": "",
+  "type_list": [],
+  "downloads": 2101,
+  "date_ms": 1782707262924,
+  "description_en": "Agent-harness-agnostic dev-loop infrastructure (Pi and Claude Code) for reusable local and remote development loops",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

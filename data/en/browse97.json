@@ -1,0 +1,11 @@
+{
+  "name": "browse97",
+  "path": "/packages/browse97",
+  "url": "https://pi.dev/packages/browse97",
+  "types": "",
+  "type_list": [],
+  "downloads": 207,
+  "date_ms": 1779293928060,
+  "description_en": "Chrome browser automation for pi coding agent via CDP. Open tabs, snapshot, click, fill forms, upload files, evaluate JS.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

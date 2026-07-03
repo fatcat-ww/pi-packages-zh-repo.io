@@ -1,0 +1,13 @@
+{
+  "name": "pi-open-agents",
+  "path": "/packages/pi-open-agents",
+  "url": "https://pi.dev/packages/pi-open-agents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 589,
+  "date_ms": 1782541452612,
+  "description_en": "Unified agent and subagent management for pi coding agent, with OpenCode-compatible agent definitions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

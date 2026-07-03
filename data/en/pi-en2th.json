@@ -1,0 +1,11 @@
+{
+  "name": "pi-en2th",
+  "path": "/packages/pi-en2th",
+  "url": "https://pi.dev/packages/pi-en2th",
+  "types": "",
+  "type_list": [],
+  "downloads": 992,
+  "date_ms": 1782721941226,
+  "description_en": "Pi extension that translates assistant responses from English to Thai using a local Ollama model.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

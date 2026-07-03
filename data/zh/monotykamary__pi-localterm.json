@@ -1,0 +1,6 @@
+{
+  "name": "@monotykamary/pi-localterm",
+  "description_en": "localterm <-> pi integration: Kitty graphics for the browser renderer, and scrubbing localterm-managed secret env vars from the agent's bash-tool children.",
+  "description_zh": "localterm <-> pi 集成：浏览器渲染器的 Kitty 图形，以及从代理的 bash-tool 子项中清除 localterm 管理的机密环境变量。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

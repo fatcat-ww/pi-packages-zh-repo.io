@@ -1,0 +1,6 @@
+{
+  "name": "@adamjen/pi-interactive-subagents",
+  "description_en": "Interactive subagents for pi - spawn, orchestrate, and manage sub-agent sessions in cmux/tmux/zellij terminals",
+  "description_zh": "Pi 的交互式子代理 — 在 cmux/tmux/zellij 终端中生成、编排和管理子代理会话",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

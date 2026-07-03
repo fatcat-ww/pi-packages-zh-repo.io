@@ -1,0 +1,11 @@
+{
+  "name": "@pinet/slack-bridge",
+  "path": "/packages/@pinet/slack-bridge",
+  "url": "https://pi.dev/packages/@pinet/slack-bridge",
+  "types": "",
+  "type_list": [],
+  "downloads": 401,
+  "date_ms": 1782724465775,
+  "description_en": "Pi package for Pinet Slack assistant integration — multi-agent broker, thread routing, and inbox tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

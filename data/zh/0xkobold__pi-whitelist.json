@@ -1,0 +1,6 @@
+{
+  "name": "@0xkobold/pi-whitelist",
+  "description_en": "Tri-state tool permission system (allow/deny/ask) for AI agent tool invocations",
+  "description_zh": "AI 代理工具调用的三态权限系统（允许/拒绝/询问）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

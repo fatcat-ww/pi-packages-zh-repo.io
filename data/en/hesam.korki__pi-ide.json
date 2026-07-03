@@ -1,0 +1,11 @@
+{
+  "name": "@hesam.korki/pi-ide",
+  "path": "/packages/@hesam.korki/pi-ide",
+  "url": "https://pi.dev/packages/@hesam.korki/pi-ide",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782505140136,
+  "description_en": "A minimal Neovim workspace for supervising multiple pi agent shells without losing traditional dev tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

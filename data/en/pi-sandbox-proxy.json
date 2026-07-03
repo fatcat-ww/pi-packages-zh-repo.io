@@ -1,0 +1,13 @@
+{
+  "name": "pi-sandbox-proxy",
+  "path": "/packages/pi-sandbox-proxy",
+  "url": "https://pi.dev/packages/pi-sandbox-proxy",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 83,
+  "date_ms": 1778292832329,
+  "description_en": "pi coding-agent extension that intercepts network operations with approval flows, vulnerability scanning, and supply chain security enforcement.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-star-router",
+  "description_en": "StarRouter is a focused model-routing extension for Pi. It chooses the best available model and thinking level for each prompt using a deterministic heuristic prompt profiler, Artificial Analysis benchmark data, provider-scoped model pools, strict model i",
+  "description_zh": "StarRouter 是 Pi 的专注模型路由扩展。它使用确定性启发式提示分析器、人工分析基准数据、提供商作用域模型池和严格模型 i 为每个提示选择最佳可用模型和思考级别",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

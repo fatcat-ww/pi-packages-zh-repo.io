@@ -1,0 +1,13 @@
+{
+  "name": "pi-manage-todo-list",
+  "path": "/packages/pi-manage-todo-list",
+  "url": "https://pi.dev/packages/pi-manage-todo-list",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 512,
+  "date_ms": 1780227432989,
+  "description_en": "A pi extension that replicates GitHub Copilot's manage_todo_list tool",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

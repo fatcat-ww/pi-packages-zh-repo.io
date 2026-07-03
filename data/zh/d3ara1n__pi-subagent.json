@@ -1,0 +1,6 @@
+{
+  "name": "@d3ara1n/pi-subagent",
+  "description_en": "Role-based subagent orchestration for pi — delegates tasks to specialized pi child processes with configurable model roles",
+  "description_zh": "基于角色的子代理编排，用于 pi — 将任务委托给具有可配置模型角色的专业化 pi 子进程",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

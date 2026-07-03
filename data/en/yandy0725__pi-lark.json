@@ -1,0 +1,13 @@
+{
+  "name": "@yandy0725/pi-lark",
+  "path": "/packages/@yandy0725/pi-lark",
+  "url": "https://pi.dev/packages/@yandy0725/pi-lark",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 149,
+  "date_ms": 1782663865158,
+  "description_en": "Pi package with Lark (Feishu) API skills for AI-powered Lark app development",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

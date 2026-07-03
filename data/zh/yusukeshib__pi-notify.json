@@ -1,0 +1,6 @@
+{
+  "name": "@yusukeshib/pi-notify",
+  "description_en": "Native macOS notifications (via terminal-notifier) when the pi agent finishes a turn — status-aware, focus-aware, click-to-focus.",
+  "description_zh": "当 pi 代理完成一轮时的原生 macOS 通知（通过 terminal-notifier）— 状态感知、焦点感知、点击聚焦",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

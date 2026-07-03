@@ -1,0 +1,11 @@
+{
+  "name": "@oaalto-kodanbce/pi-ignore",
+  "path": "/packages/@oaalto-kodanbce/pi-ignore",
+  "url": "https://pi.dev/packages/@oaalto-kodanbce/pi-ignore",
+  "types": "",
+  "type_list": [],
+  "downloads": 207,
+  "date_ms": 1782729082217,
+  "description_en": "Pi extension: .piignore negation rules make selected gitignored files discoverable to the agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

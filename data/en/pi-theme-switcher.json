@@ -1,0 +1,14 @@
+{
+  "name": "pi-theme-switcher",
+  "path": "/packages/pi-theme-switcher",
+  "url": "https://pi.dev/packages/pi-theme-switcher",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 256,
+  "date_ms": 1780722809803,
+  "description_en": "Pi extension that automatically sets the theme to dark or light based on env vars, THEME_MODE, or time of day.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

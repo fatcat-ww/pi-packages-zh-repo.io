@@ -1,0 +1,11 @@
+{
+  "name": "@entelligentsia/pi-ralph",
+  "path": "/packages/@entelligentsia/pi-ralph",
+  "url": "https://pi.dev/packages/@entelligentsia/pi-ralph",
+  "types": "",
+  "type_list": [],
+  "downloads": 63,
+  "date_ms": 1779338100639,
+  "description_en": "Iterative goal-achievement loop for pi — Generator→Critique→Judge, streaming output as it happens",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

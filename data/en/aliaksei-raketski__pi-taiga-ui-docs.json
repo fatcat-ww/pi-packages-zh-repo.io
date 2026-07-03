@@ -1,0 +1,13 @@
+{
+  "name": "@aliaksei-raketski/pi-taiga-ui-docs",
+  "path": "/packages/@aliaksei-raketski/pi-taiga-ui-docs",
+  "url": "https://pi.dev/packages/@aliaksei-raketski/pi-taiga-ui-docs",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 215,
+  "date_ms": 1782984644822,
+  "description_en": "Pi package with a Taiga UI docs skill backed by a self-contained llms-full.txt helper script.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

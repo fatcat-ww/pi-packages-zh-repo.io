@@ -1,0 +1,13 @@
+{
+  "name": "@yevhen.b/pi-preflight",
+  "path": "/packages/@yevhen.b/pi-preflight",
+  "url": "https://pi.dev/packages/@yevhen.b/pi-preflight",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 29,
+  "date_ms": 1773399858456,
+  "description_en": "Tool-call approvals and policy rules for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

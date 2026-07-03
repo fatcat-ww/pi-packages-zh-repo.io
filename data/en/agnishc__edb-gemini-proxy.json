@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-gemini-proxy",
+  "path": "/packages/@agnishc/edb-gemini-proxy",
+  "url": "https://pi.dev/packages/@agnishc/edb-gemini-proxy",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 845,
+  "date_ms": 1782119177474,
+  "description_en": "Pi extension: gemini_proxy tool — delegate tasks to Google Gemini CLI from within pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

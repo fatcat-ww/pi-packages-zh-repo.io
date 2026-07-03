@@ -1,0 +1,13 @@
+{
+  "name": "@pi-stef/finance",
+  "path": "/packages/@pi-stef/finance",
+  "url": "https://pi.dev/packages/@pi-stef/finance",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782796509226,
+  "description_en": "Pi extension client for @pi-stef/finance-api: exposes portfolio state, drift, and deterministic suggestions to the pi agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

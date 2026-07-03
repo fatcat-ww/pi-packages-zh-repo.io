@@ -1,0 +1,6 @@
+{
+  "name": "pi-agentteam",
+  "description_en": "Multi-agent team orchestration for pi — leader-coordinator pattern with researcher, planner, and implementer teammates in tmux panes",
+  "description_zh": "pi 的多智能体团队编排 — 使用 tmux 窗格中的研究员、规划者和实施者队友的领导者-协调者模式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

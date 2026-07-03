@@ -1,0 +1,11 @@
+{
+  "name": "pi-safety-destructive-commands",
+  "path": "/packages/pi-safety-destructive-commands",
+  "url": "https://pi.dev/packages/pi-safety-destructive-commands",
+  "types": "",
+  "type_list": [],
+  "downloads": 26,
+  "date_ms": 1773417483217,
+  "description_en": "Intercepts dangerous bash commands (dd, mkfs, rm -rf /, fork bombs, iptables flush, shutdown…) and hard-blocks or prompts for confirmation before execution.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

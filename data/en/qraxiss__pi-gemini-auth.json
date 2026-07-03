@@ -1,0 +1,11 @@
+{
+  "name": "@qraxiss/pi-gemini-auth",
+  "path": "/packages/@qraxiss/pi-gemini-auth",
+  "url": "https://pi.dev/packages/@qraxiss/pi-gemini-auth",
+  "types": "",
+  "type_list": [],
+  "downloads": 432,
+  "date_ms": 1780068158898,
+  "description_en": "Pi extension package for Gemini OAuth compatibility",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

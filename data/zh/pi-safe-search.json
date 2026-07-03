@@ -1,0 +1,6 @@
+{
+  "name": "pi-safe-search",
+  "description_en": "Pi extension: web_search and web_fetch with 8-stage prompt-injection sanitization and SSRF protection. Zero dependencies.",
+  "description_zh": "Pi 扩展：带有 8 阶段提示注入消毒和 SSRF 保护的 web_search 和 web_fetch。零依赖",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

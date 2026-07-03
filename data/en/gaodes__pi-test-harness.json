@@ -1,0 +1,11 @@
+{
+  "name": "@gaodes/pi-test-harness",
+  "path": "/packages/@gaodes/pi-test-harness",
+  "url": "https://pi.dev/packages/@gaodes/pi-test-harness",
+  "types": "",
+  "type_list": [],
+  "downloads": 77,
+  "date_ms": 1779489156264,
+  "description_en": "Test harness for pi extensions — in-process session testing, package install verification, and subprocess mocking",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

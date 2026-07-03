@@ -1,0 +1,6 @@
+{
+  "name": "@georgebashi/pi-codemode",
+  "description_en": "Code Mode extension for Pi — execute tools via TypeScript code, with type-checking, shell via zx, and MCP integration",
+  "description_zh": "Pi的代码模式扩展 — 通过TypeScript代码执行工具，具有类型检查、通过zx的shell和MCP集成",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

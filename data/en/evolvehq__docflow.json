@@ -1,0 +1,11 @@
+{
+  "name": "@evolvehq/docflow",
+  "path": "/packages/@evolvehq/docflow",
+  "url": "https://pi.dev/packages/@evolvehq/docflow",
+  "types": "",
+  "type_list": [],
+  "downloads": 772,
+  "date_ms": 1782738386036,
+  "description_en": "ADR-driven documentation workflow: scaffold an Architecture Decision Record (ADR) catalogue, a plan/ queue, and AGENTS.md conventions into any repo, then author, queue, ship, audit, and roll up ADRs with lifecycle skills — across one repo or a multi-repo",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-packages-manager",
+  "description_en": "Claude-style Pi packages manager: browse, search, install, update, and remove Pi packages from inside Pi.",
+  "description_zh": "Claude 风格的 Pi 包管理器：在 Pi 内部浏览、搜索、安装、更新和移除 Pi 包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

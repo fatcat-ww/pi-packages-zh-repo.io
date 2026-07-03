@@ -1,0 +1,6 @@
+{
+  "name": "pi-grounded-compaction",
+  "description_en": "Compaction and branch summarizer for Pi with model presets, custom prompts, and deterministic files-touched tracking for native tools, RepoPrompt, and bash",
+  "description_zh": "Pi 的压缩和分支摘要器，带有模型预设、自定义提示和针对原生工具、RepoPrompt 和 bash 的确定性文件跟踪",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

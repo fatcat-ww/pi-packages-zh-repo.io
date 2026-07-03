@@ -1,0 +1,13 @@
+{
+  "name": "pi-ouroboros",
+  "path": "/packages/pi-ouroboros",
+  "url": "https://pi.dev/packages/pi-ouroboros",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 272,
+  "date_ms": 1781155258923,
+  "description_en": "Skill-led autonomous coding workflow for pi: project understanding, self-looping execution, verification, and thin runtime primitives.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

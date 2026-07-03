@@ -1,0 +1,6 @@
+{
+  "name": "@taimoorchatha/pi-context-footer",
+  "description_en": "pi coding-agent extension: turn-by-turn context-usage readout in the footer (bar, %, tokens, delta, last event).",
+  "description_zh": "pi coding-agent 扩展：页脚中的逐轮上下文使用读出（栏、%、token、增量、最后事件）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

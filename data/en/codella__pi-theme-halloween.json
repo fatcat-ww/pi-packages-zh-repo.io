@@ -1,0 +1,13 @@
+{
+  "name": "@codella/pi-theme-halloween",
+  "path": "/packages/@codella/pi-theme-halloween",
+  "url": "https://pi.dev/packages/@codella/pi-theme-halloween",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 33,
+  "date_ms": 1779829881260,
+  "description_en": "🎃 Spooky Halloween theme for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

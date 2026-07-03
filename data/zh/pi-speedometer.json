@@ -1,0 +1,6 @@
+{
+  "name": "pi-speedometer",
+  "description_en": "Per-turn speedometer for pi: TTFT, prefill tok/s, decode tok/s, and total wall time.",
+  "description_zh": "pi的每轮速度计：TTFT、prefill tok/s、decode tok/s和总墙钟时间。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@fyeeme/pi-statusline",
+  "description_en": "Rich custom status bar for pi with token usage, cost, DeepSeek balance, context window, timing, and MCP connection status.",
+  "description_zh": "pi的丰富自定义状态栏，带有令牌使用情况、成本、DeepSeek余额、上下文窗口、计时和MCP连接状态",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

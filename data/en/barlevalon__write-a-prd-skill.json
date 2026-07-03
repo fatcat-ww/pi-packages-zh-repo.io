@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/write-a-prd-skill",
+  "path": "/packages/@barlevalon/write-a-prd-skill",
+  "url": "https://pi.dev/packages/@barlevalon/write-a-prd-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 39,
+  "date_ms": 1780948738107,
+  "description_en": "Create a PRD through user interview, codebase exploration, and module design. Use when user wants to write a PRD, create a product requirements document, or plan a new feature.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

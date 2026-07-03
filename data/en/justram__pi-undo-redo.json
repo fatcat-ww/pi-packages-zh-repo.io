@@ -1,0 +1,13 @@
+{
+  "name": "@justram/pi-undo-redo",
+  "path": "/packages/@justram/pi-undo-redo",
+  "url": "https://pi.dev/packages/@justram/pi-undo-redo",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 44,
+  "date_ms": 1770174933306,
+  "description_en": "Buffered undo/redo extension for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

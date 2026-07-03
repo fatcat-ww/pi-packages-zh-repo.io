@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-json",
+  "path": "/packages/@artale/pi-json",
+  "url": "https://pi.dev/packages/@artale/pi-json",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 48,
+  "date_ms": 1772982568752,
+  "description_en": "Interactive JSON viewer, query, and formatter for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

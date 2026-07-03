@@ -1,0 +1,6 @@
+{
+  "name": "@harms-haus/pi-worktrees",
+  "description_en": "pi-coding-agent extension: manage git worktrees with /wt-create, /wt-switch, /wt-merge, /wt-cleanup",
+  "description_zh": "pi-coding-agent 扩展：使用 /wt-create、/wt-switch、/wt-merge、/wt-cleanup 管理 git 工作树",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-agent-hub",
+  "path": "/packages/pi-agent-hub",
+  "url": "https://pi.dev/packages/pi-agent-hub",
+  "types": "",
+  "type_list": [],
+  "downloads": 171,
+  "date_ms": 1779815410999,
+  "description_en": "Pi-native tmux hub for long-running coding-agent sessions, skills, and MCP",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

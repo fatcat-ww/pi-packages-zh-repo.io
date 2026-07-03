@@ -1,0 +1,6 @@
+{
+  "name": "@e9n/pi-channels",
+  "description_en": "Two-way channel extension for pi — route messages between agents and Telegram, webhooks, and custom adapters",
+  "description_zh": "pi 的双向通道扩展 — 在代理和 Telegram、webhooks 及自定义适配器之间路由消息",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

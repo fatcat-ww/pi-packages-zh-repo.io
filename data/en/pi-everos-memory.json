@@ -1,0 +1,13 @@
+{
+  "name": "pi-everos-memory",
+  "path": "/packages/pi-everos-memory",
+  "url": "https://pi.dev/packages/pi-everos-memory",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 254,
+  "date_ms": 1780571398995,
+  "description_en": "EverOS-backed long-term memory for pi. Model-callable user-memory tools (search/add/profile/episodes/foresight/delete) and agent-memory tools (skills/cases/record).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

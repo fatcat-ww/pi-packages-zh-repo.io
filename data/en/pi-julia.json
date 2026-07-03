@@ -1,0 +1,13 @@
+{
+  "name": "pi-julia",
+  "path": "/packages/pi-julia",
+  "url": "https://pi.dev/packages/pi-julia",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 24,
+  "date_ms": 1778461678081,
+  "description_en": "Julia TTFX eliminator for pi — persistent DaemonMode server + exec tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@easii/pi",
+  "path": "/packages/@easii/pi",
+  "url": "https://pi.dev/packages/@easii/pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 442,
+  "date_ms": 1780319176702,
+  "description_en": "Stack detector for Pi: suggests skills, MCPs and SDD schemas for your project",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

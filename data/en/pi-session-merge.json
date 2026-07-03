@@ -1,0 +1,13 @@
+{
+  "name": "pi-session-merge",
+  "path": "/packages/pi-session-merge",
+  "url": "https://pi.dev/packages/pi-session-merge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 370,
+  "date_ms": 1781609571935,
+  "description_en": "Pi Coding Agent Extension to import summarized context from another session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

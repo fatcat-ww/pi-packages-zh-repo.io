@@ -1,0 +1,13 @@
+{
+  "name": "@rjshrjndrn/pi-fetch",
+  "path": "/packages/@rjshrjndrn/pi-fetch",
+  "url": "https://pi.dev/packages/@rjshrjndrn/pi-fetch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 84,
+  "date_ms": 1779096108988,
+  "description_en": "Web content extraction for pi — fetch any URL as clean Markdown using Defuddle",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

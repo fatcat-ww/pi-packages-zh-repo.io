@@ -1,0 +1,13 @@
+{
+  "name": "pi-review-loop",
+  "path": "/packages/pi-review-loop",
+  "url": "https://pi.dev/packages/pi-review-loop",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 370,
+  "date_ms": 1776277226399,
+  "description_en": "Automated code review loop extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-claude-sandbox",
+  "description_en": "Claude-style OS-level sandboxing for pi with interactive permission prompts. Coexists with pi-tool-display and other bash-overriding extensions. Forked from carderne/pi-sandbox.",
+  "description_zh": "pi 的 Claude 风格操作系统级沙盒，具有交互式权限提示。与 pi-tool-display 和其他覆盖 bash 的扩展共存。从 carderne/pi-sandbox 分支。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

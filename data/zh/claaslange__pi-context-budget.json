@@ -1,0 +1,6 @@
+{
+  "name": "@claaslange/pi-context-budget",
+  "description_en": "Pi extension that warns when conversation context usage crosses configured thresholds.",
+  "description_zh": "Pi 扩展，当对话上下文使用量超过配置阈值时发出警告",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

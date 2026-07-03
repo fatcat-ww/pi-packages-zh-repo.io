@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-bux",
+  "path": "/packages/@artale/pi-bux",
+  "url": "https://pi.dev/packages/@artale/pi-bux",
+  "types": "",
+  "type_list": [],
+  "downloads": 172,
+  "date_ms": 1777734983932,
+  "description_en": "24/7 Pi or Hermes agent on a VPS. Run your agent continuously, control via Telegram, browse the web.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

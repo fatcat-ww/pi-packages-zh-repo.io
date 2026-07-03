@@ -1,0 +1,6 @@
+{
+  "name": "@miclivs/pi-psst",
+  "description_en": "Pi extension that injects psst vault secrets into bash and scrubs them from output",
+  "description_zh": "Pi 扩展，将 psst 保管库密钥注入 bash 并从输出中清除它们",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

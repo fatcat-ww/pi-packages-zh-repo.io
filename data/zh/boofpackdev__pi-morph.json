@@ -1,0 +1,6 @@
+{
+  "name": "@boofpackdev/pi-morph",
+  "description_en": "Agent orchestration layer for pi — guided 5-stage pipeline: spark → plan → work → review → ship. Mission-control TUI, browser approval gates, autonomous autorecovery, and final handoff reports.",
+  "description_zh": "pi 的代理编排层 — 引导的 5 阶段流水线：启发 → 计划 → 工作 → 审查 → 发布。任务控制 TUI、浏览器审批门、自主自动恢复和最终交接报告。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

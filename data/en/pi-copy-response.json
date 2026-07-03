@@ -1,0 +1,13 @@
+{
+  "name": "pi-copy-response",
+  "path": "/packages/pi-copy-response",
+  "url": "https://pi.dev/packages/pi-copy-response",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 66,
+  "date_ms": 1775847169308,
+  "description_en": "Pi package for copying the latest assistant response with a code-block picker, live preview, and optional /copy override",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

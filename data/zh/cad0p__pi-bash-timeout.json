@@ -1,0 +1,6 @@
+{
+  "name": "@cad0p/pi-bash-timeout",
+  "description_en": "Wraps pi's built-in bash tool with a 120s default timeout — preserves the stock renderer and delegates execution to the built-in implementation.",
+  "description_zh": "用 120s 默认超时包装 pi 的内置 bash 工具 — 保留原始渲染器并将执行委托给内置实现。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

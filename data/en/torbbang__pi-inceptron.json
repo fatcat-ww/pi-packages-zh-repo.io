@@ -1,0 +1,13 @@
+{
+  "name": "@torbbang/pi-inceptron",
+  "path": "/packages/@torbbang/pi-inceptron",
+  "url": "https://pi.dev/packages/@torbbang/pi-inceptron",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 147,
+  "date_ms": 1781824481166,
+  "description_en": "Pi extension that registers Inceptron (https://www.inceptron.io) as an LLM provider.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

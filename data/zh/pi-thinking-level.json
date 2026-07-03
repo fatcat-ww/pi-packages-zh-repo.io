@@ -1,0 +1,6 @@
+{
+  "name": "pi-thinking-level",
+  "description_en": "A tiny pi package that adds a /thinking command to set and persist pi's default thinking level.",
+  "description_zh": "一个小型 pi 包，添加了 /thinking 命令来设置和保持 pi 的默认思考级别。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

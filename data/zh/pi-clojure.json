@@ -1,0 +1,6 @@
+{
+  "name": "pi-clojure",
+  "description_en": "A set of Clojure development tools implemented in pure JavaScript for the [pi-coding-agent](https://github.com/badlogic/pi-mono).",
+  "description_zh": "为 [pi-coding-agent](https://github.com/badlogic/pi-mono) 实现的纯 JavaScript Clojure 开发工具集。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

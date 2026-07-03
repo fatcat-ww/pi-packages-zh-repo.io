@@ -1,0 +1,11 @@
+{
+  "name": "pi-side-agents",
+  "path": "/packages/pi-side-agents",
+  "url": "https://pi.dev/packages/pi-side-agents",
+  "types": "",
+  "type_list": [],
+  "downloads": 211,
+  "date_ms": 1782653686131,
+  "description_en": "Side-agent orchestration for Pi — spin off parallel child agents in tmux windows and git worktrees.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

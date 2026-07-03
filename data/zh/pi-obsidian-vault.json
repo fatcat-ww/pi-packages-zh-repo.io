@@ -1,0 +1,6 @@
+{
+  "name": "pi-obsidian-vault",
+  "description_en": "Agent-safe Obsidian vault access for Pi: auto-detect, retrieve, validate, plan, write, edit, manage, and explicitly destroy Markdown with human approval.",
+  "description_zh": "Pi 的代理安全 Obsidian 保险库访问：自动检测、检索、验证、计划、写入、编辑、管理，并在明确获得人类批准后销毁 Markdown",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

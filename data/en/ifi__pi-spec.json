@@ -1,0 +1,11 @@
+{
+  "name": "@ifi/pi-spec",
+  "path": "/packages/@ifi/pi-spec",
+  "url": "https://pi.dev/packages/@ifi/pi-spec",
+  "types": "",
+  "type_list": [],
+  "downloads": 407,
+  "date_ms": 1777355425298,
+  "description_en": "Native spec-kit workflow for pi with a /spec command, TypeScript scaffolding, and spec-driven prompts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-auto-agents",
+  "path": "/packages/pi-auto-agents",
+  "url": "https://pi.dev/packages/pi-auto-agents",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 59,
+  "date_ms": 1773780476820,
+  "description_en": "Pi skill that automatically routes complex coding/development tasks to the sub-agents for multi-agent execution with testing and verification",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

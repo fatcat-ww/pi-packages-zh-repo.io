@@ -1,0 +1,11 @@
+{
+  "name": "@richardgill/pi-file-collector",
+  "path": "/packages/@richardgill/pi-file-collector",
+  "url": "https://pi.dev/packages/@richardgill/pi-file-collector",
+  "types": "",
+  "type_list": [],
+  "downloads": 99,
+  "date_ms": 1779620466497,
+  "description_en": "Pi extension for collecting file/line evidence seen or cited during a session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

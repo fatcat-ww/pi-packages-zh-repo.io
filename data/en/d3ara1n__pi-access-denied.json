@@ -1,0 +1,11 @@
+{
+  "name": "@d3ara1n/pi-access-denied",
+  "path": "/packages/@d3ara1n/pi-access-denied",
+  "url": "https://pi.dev/packages/@d3ara1n/pi-access-denied",
+  "types": "",
+  "type_list": [],
+  "downloads": 921,
+  "date_ms": 1782657353562,
+  "description_en": "Sandbox write/edit/bash to the project dir — prompt / deny / allow modes, configurable deny-with-redirect rules, per-session allow-deny memory",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@catdaemon/pi-code-intelligence",
+  "path": "/packages/@catdaemon/pi-code-intelligence",
+  "url": "https://pi.dev/packages/@catdaemon/pi-code-intelligence",
+  "types": "",
+  "type_list": [],
+  "downloads": 171,
+  "date_ms": 1778631753503,
+  "description_en": "Local codebase graph, semantic search, repo learnings, and review tools for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

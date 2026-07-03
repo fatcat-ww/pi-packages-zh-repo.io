@@ -1,0 +1,6 @@
+{
+  "name": "@baggiiiie/pi-context-status",
+  "description_en": "A pi package that shows current context-window usage in the status line or a custom footer.",
+  "description_zh": "一个 pi 包，在状态行或自定义页脚中显示当前上下文窗口使用情况。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

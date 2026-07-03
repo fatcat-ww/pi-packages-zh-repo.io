@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-deps",
+  "path": "/packages/@artale/pi-deps",
+  "url": "https://pi.dev/packages/@artale/pi-deps",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 51,
+  "date_ms": 1776776843174,
+  "description_en": "Dependency health scanner. Outdated, heavy, licenses, dupes, tree.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

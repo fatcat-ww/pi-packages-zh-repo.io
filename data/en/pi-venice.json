@@ -1,0 +1,13 @@
+{
+  "name": "pi-venice",
+  "path": "/packages/pi-venice",
+  "url": "https://pi.dev/packages/pi-venice",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 94,
+  "date_ms": 1776228379395,
+  "description_en": "Pi Coding Agent extension for using Venice.ai as provider, access to ANY and ALL models under the Sun",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

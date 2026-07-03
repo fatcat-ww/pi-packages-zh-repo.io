@@ -1,0 +1,6 @@
+{
+  "name": "@koltmcbride/pi-loop",
+  "description_en": "A pi coding-agent extension that runs a prompt repeatedly on a timer, pi event, or self-paced (Claude Code-style /loop)",
+  "description_zh": "Pi 编码代理扩展，在计时器、pi 事件或自定步调（Claude Code 风格的 /loop）上重复运行提示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

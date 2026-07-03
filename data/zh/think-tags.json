@@ -1,0 +1,6 @@
+{
+  "name": "think-tags",
+  "description_en": "Pi extension that splits <think> tags into collapsible thinking blocks in assistant messages",
+  "description_zh": "Pi 扩展，将 <think> 标签拆分为助手消息中的可折叠思考块",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

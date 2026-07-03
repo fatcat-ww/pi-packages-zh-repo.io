@@ -1,0 +1,6 @@
+{
+  "name": "@zaganjade/pi-multi-skill",
+  "description_en": "Chain multiple skills via /skills — bundles (JSON/YAML), load modes, BMAD --auto, /skills-last, /skills-setup, conflict resolution, parallel dispatch, activation stats, bundle attribution for pi-usage.",
+  "description_zh": "通过 /skills 链接多个技能 — 包（JSON/YAML）、加载模式、BMAD --auto、/skills-last、/skills-setup、冲突解决、并行调度、激活统计、pi-usage 的包归因",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

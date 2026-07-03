@@ -1,0 +1,6 @@
+{
+  "name": "@bytesbrains/pi-docker-logs",
+  "description_en": "Docker log gateway for pi agents — tail logs from Docker containers in the wrok.in AI Factory via the docker CLI.",
+  "description_zh": "pi 代理的 Docker 日志网关 — 通过 docker CLI 在 wrok.in AI Factory 中从 Docker 容器跟踪日志",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

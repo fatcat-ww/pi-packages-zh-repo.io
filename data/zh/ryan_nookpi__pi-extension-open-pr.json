@@ -1,0 +1,6 @@
+{
+  "name": "@ryan_nookpi/pi-extension-open-pr",
+  "description_en": "Open the current branch pull request in your browser via GitHub CLI.",
+  "description_zh": "通过 GitHub CLI 在浏览器中打开当前分支的拉取请求",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

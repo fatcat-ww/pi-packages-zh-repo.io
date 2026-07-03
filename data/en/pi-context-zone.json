@@ -1,0 +1,13 @@
+{
+  "name": "pi-context-zone",
+  "path": "/packages/pi-context-zone",
+  "url": "https://pi.dev/packages/pi-context-zone",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 75,
+  "date_ms": 1774586777170,
+  "description_en": "Visual context health bar for the Pi coding agent — see your smart/warm/dumb zone at a glance",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

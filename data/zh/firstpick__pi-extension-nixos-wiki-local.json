@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-extension-nixos-wiki-local",
+  "description_en": "Local NixOS/Nix documentation search and retrieval tools for Pi backed by minimal sparse clones of official repositories.",
+  "description_zh": "用于 Pi 的本地 NixOS/Nix 文档搜索和检索工具，由官方仓库的最小稀疏克隆支持",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

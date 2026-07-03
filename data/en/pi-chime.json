@@ -1,0 +1,13 @@
+{
+  "name": "pi-chime",
+  "path": "/packages/pi-chime",
+  "url": "https://pi.dev/packages/pi-chime",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 60,
+  "date_ms": 1778562242755,
+  "description_en": "Terminal bell notification for Pi — chimes when the agent finishes responding",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

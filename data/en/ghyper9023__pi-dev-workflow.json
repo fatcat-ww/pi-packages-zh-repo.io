@@ -1,0 +1,11 @@
+{
+  "name": "@ghyper9023/pi-dev-workflow",
+  "path": "/packages/@ghyper9023/pi-dev-workflow",
+  "url": "https://pi.dev/packages/@ghyper9023/pi-dev-workflow",
+  "types": "",
+  "type_list": [],
+  "downloads": 251,
+  "date_ms": 1779717015851,
+  "description_en": "Developer workflow toolkit for pi: git agents, code review, Karpathy guidelines, themes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

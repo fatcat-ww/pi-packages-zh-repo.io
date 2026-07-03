@@ -1,0 +1,11 @@
+{
+  "name": "pi-bg-run",
+  "path": "/packages/pi-bg-run",
+  "url": "https://pi.dev/packages/pi-bg-run",
+  "types": "",
+  "type_list": [],
+  "downloads": 814,
+  "date_ms": 1780805754987,
+  "description_en": "Background process management for Pi coding agent — spawn, monitor, and get notified when long-running commands complete.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

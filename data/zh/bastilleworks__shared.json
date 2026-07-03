@@ -1,0 +1,6 @@
+{
+  "name": "@bastilleworks/shared",
+  "description_en": "BASTILLE shared event bus, pattern matching, messages, and path utilities — cross-cutting infrastructure for all pi-* extensions",
+  "description_zh": "BASTILLE 共享事件总线、模式匹配、消息和路径工具 — 所有 pi-* 扩展的交叉基础设施",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

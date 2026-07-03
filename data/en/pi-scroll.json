@@ -1,0 +1,13 @@
+{
+  "name": "pi-scroll",
+  "path": "/packages/pi-scroll",
+  "url": "https://pi.dev/packages/pi-scroll",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 458,
+  "date_ms": 1781986504097,
+  "description_en": "Fast keyboard-driven Pi session history search with rich previews.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

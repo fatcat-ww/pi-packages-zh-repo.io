@@ -1,0 +1,6 @@
+{
+  "name": "pi-mdc-rules",
+  "description_en": "MDC rules extension for pi-coding-agent - loads and enforces rules from Markdown files",
+  "description_zh": "pi-coding-agent 的 MDC 规则扩展 - 从 Markdown 文件加载并强制执行规则",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

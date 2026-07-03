@@ -1,0 +1,6 @@
+{
+  "name": "@spences10/pi-nopeek",
+  "description_en": "Secret-safe workflow reminder that steers Pi agents to use nopeek instead of exposing .env values",
+  "description_zh": "秘密安全工作流提醒，引导 Pi 代理使用 nopeek 而不是暴露 .env 值",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

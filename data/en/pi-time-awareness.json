@@ -1,0 +1,13 @@
+{
+  "name": "pi-time-awareness",
+  "path": "/packages/pi-time-awareness",
+  "url": "https://pi.dev/packages/pi-time-awareness",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 411,
+  "date_ms": 1781519734372,
+  "description_en": "Give Pi a lightweight sense of time with low-noise anchors and exact time on demand.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

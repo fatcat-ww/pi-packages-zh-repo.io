@@ -1,0 +1,6 @@
+{
+  "name": "@4meta5/pi-shell-cli",
+  "description_en": "CLI for generating reproducible pi project instances from pinned manifests.",
+  "description_zh": "CLI，用于从固定清单生成可复制的 pi 项目实例",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

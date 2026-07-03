@@ -1,0 +1,11 @@
+{
+  "name": "more-pi",
+  "path": "/packages/more-pi",
+  "url": "https://pi.dev/packages/more-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 357,
+  "date_ms": 1783037774863,
+  "description_en": "OpenClaw-flavored pi wrapper that registers OpenClaw Codex models without patching pi packages",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@tmustier/pi-code-actions",
+  "path": "/packages/@tmustier/pi-code-actions",
+  "url": "https://pi.dev/packages/@tmustier/pi-code-actions",
+  "types": "",
+  "type_list": [],
+  "downloads": 103,
+  "date_ms": 1778170625791,
+  "description_en": "Pick code blocks or inline snippets from recent assistant messages to copy or insert.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

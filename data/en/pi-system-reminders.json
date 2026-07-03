@@ -1,0 +1,11 @@
+{
+  "name": "pi-system-reminders",
+  "path": "/packages/pi-system-reminders",
+  "url": "https://pi.dev/packages/pi-system-reminders",
+  "types": "",
+  "type_list": [],
+  "downloads": 104,
+  "date_ms": 1779614575360,
+  "description_en": "Reactive system reminders for pi - steer agents with contextual nudges during long agentic flows",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

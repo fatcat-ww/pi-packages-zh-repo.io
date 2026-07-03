@@ -1,0 +1,13 @@
+{
+  "name": "@czottmann/pi-zai-api",
+  "path": "/packages/@czottmann/pi-zai-api",
+  "url": "https://pi.dev/packages/@czottmann/pi-zai-api",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 272,
+  "date_ms": 1782128993003,
+  "description_en": "Z.AI API provider extension for pi coding agent. Install with `pi install npm:@czottmann/pi-zai-api`.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

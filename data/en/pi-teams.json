@@ -1,0 +1,11 @@
+{
+  "name": "pi-teams",
+  "path": "/packages/pi-teams",
+  "url": "https://pi.dev/packages/pi-teams",
+  "types": "",
+  "type_list": [],
+  "downloads": 735,
+  "date_ms": 1775229709182,
+  "description_en": "Agent teams for pi, ported from claude-code-teams-mcp",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

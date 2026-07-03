@@ -1,0 +1,6 @@
+{
+  "name": "git-metadata",
+  "description_en": "Pi extension that provides git repository metadata — branch, remotes, commits, tags, status, and contributors",
+  "description_zh": "pi 扩展，提供 git 仓库元数据 — 分支、远程仓库、提交、标签、状态和贡献者",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

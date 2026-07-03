@@ -1,0 +1,6 @@
+{
+  "name": "pi-rollback",
+  "description_en": "Branch-aware rollback for pi — return to the last relevant point, summarize the detour, and continue from cleaner context.",
+  "description_zh": "pi的分支感知回滚 — 返回到最后相关点，总结绕行，并从更清晰的上下文继续。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

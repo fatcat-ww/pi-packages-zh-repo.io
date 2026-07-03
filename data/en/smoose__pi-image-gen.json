@@ -1,0 +1,13 @@
+{
+  "name": "@smoose/pi-image-gen",
+  "path": "/packages/@smoose/pi-image-gen",
+  "url": "https://pi.dev/packages/@smoose/pi-image-gen",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 488,
+  "date_ms": 1782205981832,
+  "description_en": "Pi image generation tool backed by local CLI providers: Codex or Agy.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

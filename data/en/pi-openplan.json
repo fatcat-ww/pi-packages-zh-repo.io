@@ -1,0 +1,11 @@
+{
+  "name": "pi-openplan",
+  "path": "/packages/pi-openplan",
+  "url": "https://pi.dev/packages/pi-openplan",
+  "types": "",
+  "type_list": [],
+  "downloads": 1016,
+  "date_ms": 1781736453579,
+  "description_en": "Plan mode extension for pi — read-only exploration with structured planning, plan files, and phased execution tracking",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

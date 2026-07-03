@@ -1,0 +1,13 @@
+{
+  "name": "pi-todo-md",
+  "path": "/packages/pi-todo-md",
+  "url": "https://pi.dev/packages/pi-todo-md",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 100,
+  "date_ms": 1776467734624,
+  "description_en": "A shareable pi extension for managing a repo-local TODO.md file.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

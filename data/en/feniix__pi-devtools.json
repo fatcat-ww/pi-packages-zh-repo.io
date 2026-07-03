@@ -1,0 +1,13 @@
+{
+  "name": "@feniix/pi-devtools",
+  "path": "/packages/@feniix/pi-devtools",
+  "url": "https://pi.dev/packages/@feniix/pi-devtools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 196,
+  "date_ms": 1778865778962,
+  "description_en": "Devtools extension for pi — branch and PR workflow, release automation, PR feedback resolution, merge commands, with GitHub and Linear tracker support",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "pi-claude-plugins",
+  "path": "/packages/pi-claude-plugins",
+  "url": "https://pi.dev/packages/pi-claude-plugins",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 156,
+  "date_ms": 1778190653790,
+  "description_en": "Pi extension that exposes Claude marketplace plugin skills from ~/.claude/plugins/marketplaces into the current pi session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

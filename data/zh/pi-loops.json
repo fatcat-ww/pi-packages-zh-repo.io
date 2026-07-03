@@ -1,0 +1,6 @@
+{
+  "name": "pi-loops",
+  "description_en": "Repeat-send a prompt to the pi agent on a fixed interval. Each repeat arrives as a user message with a Loop header (created time / repeat count / user task). Adds /loop commands and a loop tool.",
+  "description_zh": "以固定间隔重复向 pi 代理发送提示。每次重复都作为带有 Loop 标头的用户消息到达（创建时间/重复次数/用户任务）。添加 /loop 命令和循环工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

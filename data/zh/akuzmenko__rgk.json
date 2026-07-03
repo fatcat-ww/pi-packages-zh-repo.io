@@ -1,0 +1,6 @@
+{
+  "name": "@akuzmenko/rgk",
+  "description_en": "ripgrep with an LLM-powered --keep post-filter",
+  "description_zh": "具有 LLM 驱动的 --keep 后过滤功能的 ripgrep",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

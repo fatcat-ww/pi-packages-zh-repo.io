@@ -1,0 +1,6 @@
+{
+  "name": "pi-context-hub",
+  "description_en": "Pi extension wrapping Context Hub (@aisuite/chub) for current API and SDK docs.",
+  "description_zh": "包装当前 API 和 SDK 文档的上下文 Hub (@aisuite/chub) 的 pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

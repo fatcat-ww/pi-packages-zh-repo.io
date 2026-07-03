@@ -1,0 +1,13 @@
+{
+  "name": "@the-forge-flow/visual-explainer-pi",
+  "path": "/packages/@the-forge-flow/visual-explainer-pi",
+  "url": "https://pi.dev/packages/@the-forge-flow/visual-explainer-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 84,
+  "date_ms": 1776256903068,
+  "description_en": "PI extension for generating beautiful HTML visualizations of diagrams, architecture, and data",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

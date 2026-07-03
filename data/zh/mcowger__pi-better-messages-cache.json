@@ -1,0 +1,6 @@
+{
+  "name": "@mcowger/pi-better-messages-cache",
+  "description_en": "Pi extension: dual cache-breakpoint strategy for Anthropic models — marks both the last assistant tool_use block and the last user message block with cache_control, dramatically improving cache hit rates on MiniMax, Kimi, and other Anthropic-compatible pr",
+  "description_zh": "Pi 扩展：Anthropic 模型的双缓存断点策略 — 在最后一个助手 tool_use 块和最后一个用户消息块上标记 cache_control，显著提高 MiniMax、Kimi 和其他 Anthropic 兼容提供者的缓存命中率。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

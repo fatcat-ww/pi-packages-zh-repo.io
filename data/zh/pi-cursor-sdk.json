@@ -1,0 +1,6 @@
+{
+  "name": "pi-cursor-sdk",
+  "description_en": "pi provider extension backed by @cursor/sdk local agents",
+  "description_zh": "由 @cursor/sdk 本地代理支持的 pi 提供者扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

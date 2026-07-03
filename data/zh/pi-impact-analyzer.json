@@ -1,0 +1,6 @@
+{
+  "name": "pi-impact-analyzer",
+  "description_en": "AST-based dependency tracing that answers: If I change this symbol, what else could break? Passive mode with auto-indexing and caching.",
+  "description_zh": "基于 AST 的依赖跟踪，回答：如果我更改此符号，其他什么可能会被破坏？具有自动索引和缓存的被动模式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

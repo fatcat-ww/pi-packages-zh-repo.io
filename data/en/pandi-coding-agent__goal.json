@@ -1,0 +1,13 @@
+{
+  "name": "@pandi-coding-agent/goal",
+  "path": "/packages/@pandi-coding-agent/goal",
+  "url": "https://pi.dev/packages/@pandi-coding-agent/goal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783061691182,
+  "description_en": "Pi extension for goal-directed persistent agent loops with verification.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

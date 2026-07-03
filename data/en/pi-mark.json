@@ -1,0 +1,13 @@
+{
+  "name": "pi-mark",
+  "path": "/packages/pi-mark",
+  "url": "https://pi.dev/packages/pi-mark",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 133,
+  "date_ms": 1782638021730,
+  "description_en": "Pi extension that opens the mark diff reviewer from /mark.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-loop-police",
+  "path": "/packages/pi-loop-police",
+  "url": "https://pi.dev/packages/pi-loop-police",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1214,
+  "date_ms": 1782965763554,
+  "description_en": "Pi extension: detects and interrupts infinite thinking-block and tool-call loops in real time before they exhaust your context window.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

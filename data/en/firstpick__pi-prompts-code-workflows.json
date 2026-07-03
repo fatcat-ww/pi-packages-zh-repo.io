@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-prompts-code-workflows",
+  "path": "/packages/@firstpick/pi-prompts-code-workflows",
+  "url": "https://pi.dev/packages/@firstpick/pi-prompts-code-workflows",
+  "types": "prompt",
+  "type_list": [
+    "prompt"
+  ],
+  "downloads": 383,
+  "date_ms": 1783023593121,
+  "description_en": "Reusable Pi prompt templates for code review, bug fixing, issue analysis, and incident triage.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

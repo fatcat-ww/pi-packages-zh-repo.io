@@ -1,0 +1,13 @@
+{
+  "name": "agent-booster-pack-whiteboard",
+  "path": "/packages/agent-booster-pack-whiteboard",
+  "url": "https://pi.dev/packages/agent-booster-pack-whiteboard",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 66,
+  "date_ms": 1778284888463,
+  "description_en": "ABP Pi whiteboarding guard plus whiteboarding skill: one user-facing question at a time.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

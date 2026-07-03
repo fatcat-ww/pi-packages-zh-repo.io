@@ -1,0 +1,13 @@
+{
+  "name": "@llblab/pi-codex-usage",
+  "path": "/packages/@llblab/pi-codex-usage",
+  "url": "https://pi.dev/packages/@llblab/pi-codex-usage",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1128,
+  "date_ms": 1782184016569,
+  "description_en": "Minimal Pi extension that shows primary Codex ChatGPT subscription usage limits.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

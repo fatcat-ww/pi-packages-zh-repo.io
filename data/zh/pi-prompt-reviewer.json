@@ -1,0 +1,6 @@
+{
+  "name": "pi-prompt-reviewer",
+  "description_en": "Review prompts before sending them to the main pi session.",
+  "description_zh": "在将提示发送到主 pi 会话之前进行审查",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

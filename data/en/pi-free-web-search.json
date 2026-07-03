@@ -1,0 +1,13 @@
+{
+  "name": "pi-free-web-search",
+  "path": "/packages/pi-free-web-search",
+  "url": "https://pi.dev/packages/pi-free-web-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 119,
+  "date_ms": 1774409294469,
+  "description_en": "Free, hybrid, browser-aware web search and content extraction package for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-claude-permissions",
+  "description_en": "Claude-style allow/deny/ask permission lists for Pi tool calls",
+  "description_zh": "Claude 风格的允许/拒绝/询问权限列表，用于 Pi 工具调用",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

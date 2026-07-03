@@ -1,0 +1,6 @@
+{
+  "name": "pi-remote-agent",
+  "description_en": "Secure remote agent bridge for pi — delegate tasks to another pi instance over Tailscale. Includes /ask-agent command and ask_remote_agent tool for LLM-driven delegation.",
+  "description_zh": "Pi 的安全远程代理桥 — 通过 Tailscale 将任务委派到另一个 Pi 实例。包含 /ask-agent 命令和 ask_remote_agent 工具，用于 LLM 驱动的委派",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

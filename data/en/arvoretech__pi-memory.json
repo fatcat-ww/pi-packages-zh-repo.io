@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-memory",
+  "path": "/packages/@arvoretech/pi-memory",
+  "url": "https://pi.dev/packages/@arvoretech/pi-memory",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1647,
+  "date_ms": 1782526410170,
+  "description_en": "PI extension for cloud-based memory with RAG (Qdrant + GitHub OAuth)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

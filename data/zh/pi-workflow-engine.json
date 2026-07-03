@@ -1,0 +1,6 @@
+{
+  "name": "pi-workflow-engine",
+  "description_en": "Zero-dependency Dynamax workflows for pi: live parallel subagents, typed handoffs, synthesized results.",
+  "description_zh": "pi 的零依赖 Dynamax 工作流：实时并行子代理、类型化交接、合成结果",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

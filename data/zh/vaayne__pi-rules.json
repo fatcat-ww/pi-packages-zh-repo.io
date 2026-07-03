@@ -1,0 +1,6 @@
+{
+  "name": "@vaayne/pi-rules",
+  "description_en": "Pi extension that scans .claude/rules/ and .agents/rules/ folders for project rules",
+  "description_zh": "Pi 扩展，扫描 .claude/rules/ 和 .agents/rules/ 文件夹查找项目规则",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

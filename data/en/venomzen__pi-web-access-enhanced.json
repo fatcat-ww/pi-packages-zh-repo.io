@@ -1,0 +1,13 @@
+{
+  "name": "@venomzen/pi-web-access-enhanced",
+  "path": "/packages/@venomzen/pi-web-access-enhanced",
+  "url": "https://pi.dev/packages/@venomzen/pi-web-access-enhanced",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 29,
+  "date_ms": 1777731170535,
+  "description_en": "Personal enhanced fork of pi-web-access: web search, content extraction, GitHub repo cloning, PDF extraction, YouTube and local video analysis for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

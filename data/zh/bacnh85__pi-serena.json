@@ -1,0 +1,6 @@
+{
+  "name": "@bacnh85/pi-serena",
+  "description_en": "Pi extension that provides Serena semantic code tools through a persistent worker.",
+  "description_zh": "Pi 扩展，通过持久工作线程提供 Serena 语义代码工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

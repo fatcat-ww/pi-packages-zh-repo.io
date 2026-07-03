@@ -1,0 +1,6 @@
+{
+  "name": "@kmiyh/pi-plan-mode",
+  "description_en": "Pi extension that adds a read-only plan mode for safe code analysis, plan extraction, and execution progress tracking.",
+  "description_zh": "Pi 扩展，添加只读计划模式，用于安全的代码分析、计划提取和执行进度跟踪",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

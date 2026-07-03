@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-cd",
+  "path": "/packages/@firstpick/pi-extension-cd",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-cd",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 104,
+  "date_ms": 1781952499203,
+  "description_en": "A Pi /cd command with ranked directory suggestions, persistent history, and aliases.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

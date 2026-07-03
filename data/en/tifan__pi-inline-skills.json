@@ -1,0 +1,14 @@
+{
+  "name": "@tifan/pi-inline-skills",
+  "path": "/packages/@tifan/pi-inline-skills",
+  "url": "https://pi.dev/packages/@tifan/pi-inline-skills",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 1056,
+  "date_ms": 1781968473725,
+  "description_en": "Inline /skill autocomplete in the pi editor.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

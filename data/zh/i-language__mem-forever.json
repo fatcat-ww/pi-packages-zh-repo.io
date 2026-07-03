@@ -1,0 +1,6 @@
+{
+  "name": "@i-language/mem-forever",
+  "description_en": "Every AI tool forgets you. This one doesn't. Ever. Persistent memory across sessions and tools. Auto-generates profile, saves decisions and lessons to .ilang/, applies preferences forever.",
+  "description_zh": "每个 AI 工具都会忘记您。而这个不会。永远不会。跨会话和工具的持久化记忆。自动生成配置文件，将决策和课程保存到 .ilang/，永久应用偏好设置。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

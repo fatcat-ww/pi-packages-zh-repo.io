@@ -1,0 +1,6 @@
+{
+  "name": "pi-git-graph-sidebar",
+  "description_en": "A VS Code Git Graph-style sidebar overlay for the Pi coding agent TUI.",
+  "description_zh": "适用于 Pi 编码代理 TUI 的 VS Code Git Graph 样式侧边栏覆盖层。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/skills",
+  "path": "/packages/@barlevalon/skills",
+  "url": "https://pi.dev/packages/@barlevalon/skills",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 864,
+  "date_ms": 1782996779185,
+  "description_en": "A monorepo of portable Agent Skills for AI-assisted engineering workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

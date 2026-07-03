@@ -1,0 +1,13 @@
+{
+  "name": "@pixu1980/pi-path-picker",
+  "path": "/packages/@pixu1980/pi-path-picker",
+  "url": "https://pi.dev/packages/@pixu1980/pi-path-picker",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 283,
+  "date_ms": 1782984114812,
+  "description_en": "Interactive file path autocomplete for pi coding agent — arrow-key navigation, fuzzy matching, Tab completion, and the /pick command",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

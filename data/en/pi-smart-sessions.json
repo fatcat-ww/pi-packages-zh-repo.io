@@ -1,0 +1,14 @@
+{
+  "name": "pi-smart-sessions",
+  "path": "/packages/pi-smart-sessions",
+  "url": "https://pi.dev/packages/pi-smart-sessions",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 100,
+  "date_ms": 1771660569973,
+  "description_en": "Auto-names Pi sessions with AI-generated summaries — no more cryptic skill tags in your session list",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

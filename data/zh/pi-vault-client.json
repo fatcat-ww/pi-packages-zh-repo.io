@@ -1,0 +1,6 @@
+{
+  "name": "pi-vault-client",
+  "description_en": "pi extension package for vault workflows in monorepo runtime",
+  "description_zh": "用于 monorepo 运行时中 vault 工作流的 pi 扩展包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

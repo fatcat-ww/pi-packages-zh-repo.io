@@ -1,0 +1,13 @@
+{
+  "name": "pi-grok-cli",
+  "path": "/packages/pi-grok-cli",
+  "url": "https://pi.dev/packages/pi-grok-cli",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1367,
+  "date_ms": 1782848335482,
+  "description_en": "Use Grok CLI's API endpoint in pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

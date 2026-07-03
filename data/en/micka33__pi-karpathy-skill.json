@@ -1,0 +1,13 @@
+{
+  "name": "@micka33/pi-karpathy-skill",
+  "path": "/packages/@micka33/pi-karpathy-skill",
+  "url": "https://pi.dev/packages/@micka33/pi-karpathy-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 54,
+  "date_ms": 1778863551353,
+  "description_en": "Pi package providing the Karpathy Guidelines skill for safer, simpler coding-agent behavior.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

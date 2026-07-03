@@ -1,0 +1,11 @@
+{
+  "name": "pi-repos",
+  "path": "/packages/pi-repos",
+  "url": "https://pi.dev/packages/pi-repos",
+  "types": "",
+  "type_list": [],
+  "downloads": 56,
+  "date_ms": 1779107638229,
+  "description_en": "Read and search GitHub repositories as if local in Pi: find repos, code examples, files, and grep cached archives.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

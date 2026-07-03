@@ -1,0 +1,13 @@
+{
+  "name": "@pi-unipi/input-shortcuts",
+  "path": "/packages/@pi-unipi/input-shortcuts",
+  "url": "https://pi.dev/packages/@pi-unipi/input-shortcuts",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1099,
+  "date_ms": 1782924701111,
+  "description_en": "Keyboard shortcuts for stash/restore, undo/redo, clipboard, and thinking toggle — chord-based overlay system",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

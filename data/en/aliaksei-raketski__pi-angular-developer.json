@@ -1,0 +1,13 @@
+{
+  "name": "@aliaksei-raketski/pi-angular-developer",
+  "path": "/packages/@aliaksei-raketski/pi-angular-developer",
+  "url": "https://pi.dev/packages/@aliaksei-raketski/pi-angular-developer",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 214,
+  "date_ms": 1782984644432,
+  "description_en": "Pi package that vendors the official Angular developer skill with local documentation helper scripts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

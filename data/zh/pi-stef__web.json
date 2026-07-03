@@ -1,0 +1,6 @@
+{
+  "name": "@pi-stef/web",
+  "description_en": "Pi extension for no-key web search, URL fetch, rendered scraping, browser sessions, login flows, and CloakBrowser-backed page access.",
+  "description_zh": "Pi 扩展，提供无密钥网络搜索、URL 获取、渲染抓取、浏览器会话、登录流程和基于 CloakBrowser 的页面访问",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

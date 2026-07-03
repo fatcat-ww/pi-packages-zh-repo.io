@@ -1,0 +1,11 @@
+{
+  "name": "@petechu/pi-rewrite",
+  "path": "/packages/@petechu/pi-rewrite",
+  "url": "https://pi.dev/packages/@petechu/pi-rewrite",
+  "types": "",
+  "type_list": [],
+  "downloads": 60,
+  "date_ms": 1779806740331,
+  "description_en": "Rewrite prompt text into a clearer coding-agent prompt before sending",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

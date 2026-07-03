@@ -1,0 +1,11 @@
+{
+  "name": "pi-omp-session-sync",
+  "path": "/packages/pi-omp-session-sync",
+  "url": "https://pi.dev/packages/pi-omp-session-sync",
+  "types": "",
+  "type_list": [],
+  "downloads": 68,
+  "date_ms": 1779845940486,
+  "description_en": "Bidirectional session sync between vanilla Pi (@earendil-works/pi-coding-agent) and OMP (@oh-my-pi/pi-coding-agent)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

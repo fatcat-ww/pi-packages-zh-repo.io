@@ -1,0 +1,6 @@
+{
+  "name": "@haphazarddev/pi-ask-user-question",
+  "description_en": "A pi extension that adds an ask_user_question tool for collecting clarification, confirmation, and input through the UI.",
+  "description_zh": "一个 pi 扩展，添加了 ask_user_question 工具，用于通过 UI 收集澄清、确认和输入",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

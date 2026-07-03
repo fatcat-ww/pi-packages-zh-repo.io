@@ -1,0 +1,13 @@
+{
+  "name": "pi-voice-notify",
+  "path": "/packages/pi-voice-notify",
+  "url": "https://pi.dev/packages/pi-voice-notify",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 133,
+  "date_ms": 1782264375193,
+  "description_en": "Spoken voice summaries when your Pi agent finishes a response. Uses Kokoro TTS with configurable voices.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

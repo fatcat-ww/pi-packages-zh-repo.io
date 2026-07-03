@@ -1,0 +1,13 @@
+{
+  "name": "@hyperprior/pi-model-roles",
+  "path": "/packages/@hyperprior/pi-model-roles",
+  "url": "https://pi.dev/packages/@hyperprior/pi-model-roles",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 36,
+  "date_ms": 1771219068462,
+  "description_en": "Role-based model switching utility (/hyper-role)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

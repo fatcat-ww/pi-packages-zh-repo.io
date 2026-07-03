@@ -1,0 +1,13 @@
+{
+  "name": "@alanw707/rpi-skills",
+  "path": "/packages/@alanw707/rpi-skills",
+  "url": "https://pi.dev/packages/@alanw707/rpi-skills",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 285,
+  "date_ms": 1781911763354,
+  "description_en": "RPI family Agent Skills: context, spec, research, plan, implement, review, and handoff workflows for structured software delivery across coding agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

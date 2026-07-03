@@ -1,0 +1,13 @@
+{
+  "name": "@mjfuertesf/pi-dumb-meter",
+  "path": "/packages/@mjfuertesf/pi-dumb-meter",
+  "url": "https://pi.dev/packages/@mjfuertesf/pi-dumb-meter",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 207,
+  "date_ms": 1780242689456,
+  "description_en": "Context-pressure footer meter extension for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

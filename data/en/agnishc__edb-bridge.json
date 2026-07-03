@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-bridge",
+  "path": "/packages/@agnishc/edb-bridge",
+  "url": "https://pi.dev/packages/@agnishc/edb-bridge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 379,
+  "date_ms": 1782119163812,
+  "description_en": "Pi extension: lightweight inter-session message bus for orchestrator/sub-agent workflows",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-code-planner",
+  "path": "/packages/pi-code-planner",
+  "url": "https://pi.dev/packages/pi-code-planner",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3572,
+  "date_ms": 1782492074110,
+  "description_en": "Structured planning, TDD, and Git worktrees for Pi local coding agents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

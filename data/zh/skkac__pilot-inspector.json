@@ -1,0 +1,6 @@
+{
+  "name": "@skkac/pilot-inspector",
+  "description_en": "Pilot Inspector — A silent sidecar governance agent for Pi that audits workflow, prompt health, and context hygiene at compaction boundaries. Phase 4: Compaction guard, cross-session trends, auto skill generation.",
+  "description_zh": "Pilot Inspector — Pi 的静默侧车治理代理，在压缩边界处审核工作流、提示健康和上下文卫生。第 4 阶段：压缩防护、跨会话趋势、自动技能生成。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

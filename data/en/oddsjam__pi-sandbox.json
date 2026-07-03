@@ -1,0 +1,13 @@
+{
+  "name": "@oddsjam/pi-sandbox",
+  "path": "/packages/@oddsjam/pi-sandbox",
+  "url": "https://pi.dev/packages/@oddsjam/pi-sandbox",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 104,
+  "date_ms": 1778596004231,
+  "description_en": "OS-level sandbox for pi using @anthropic-ai/sandbox-runtime, with an in-pi configure wizard, shift+tab toggle, and longest-prefix project configs.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

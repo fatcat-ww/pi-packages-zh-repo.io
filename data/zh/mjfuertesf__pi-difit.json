@@ -1,0 +1,6 @@
+{
+  "name": "@mjfuertesf/pi-difit",
+  "description_en": "Thin Pi wrapper that opens difit to review branch changes against a base ref",
+  "description_zh": "Pi 的轻量级包装器，打开 difit 以审查分支相对于基础引用的更改",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

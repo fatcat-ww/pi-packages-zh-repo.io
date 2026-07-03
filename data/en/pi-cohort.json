@@ -1,0 +1,11 @@
+{
+  "name": "pi-cohort",
+  "path": "/packages/pi-cohort",
+  "url": "https://pi.dev/packages/pi-cohort",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1783013592976,
+  "description_en": "Delegate Pi work to focused child agents: code review, scouting, implementation, parallel audits, saved chains, and background jobs.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

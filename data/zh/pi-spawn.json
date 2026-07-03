@@ -1,0 +1,6 @@
+{
+  "name": "pi-spawn",
+  "description_en": "Minimal subagent extension for pi — one tool, one prompt, orchestrator-driven concurrency",
+  "description_zh": "pi 的最小子代理扩展 — 一个工具，一个提示，由编排器驱动的并发",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

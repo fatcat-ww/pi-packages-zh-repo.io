@@ -1,0 +1,13 @@
+{
+  "name": "@liborw/pi-startup-time",
+  "path": "/packages/@liborw/pi-startup-time",
+  "url": "https://pi.dev/packages/@liborw/pi-startup-time",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 50,
+  "date_ms": 1779965620199,
+  "description_en": "pi package that measures startup time and shows the latest reading in the status line",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

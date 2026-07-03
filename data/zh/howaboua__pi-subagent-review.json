@@ -1,0 +1,6 @@
+{
+  "name": "@howaboua/pi-subagent-review",
+  "description_en": "Pi extension that adds /review via an isolated review subagent.",
+  "description_zh": "Pi 扩展，通过隔离的审查子代理添加 /review 功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

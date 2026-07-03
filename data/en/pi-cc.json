@@ -1,0 +1,11 @@
+{
+  "name": "pi-cc",
+  "path": "/packages/pi-cc",
+  "url": "https://pi.dev/packages/pi-cc",
+  "types": "",
+  "type_list": [],
+  "downloads": 113,
+  "date_ms": 1776860655612,
+  "description_en": "pi extension that auto-publishes autoresearch.jsonl updates to community.computer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

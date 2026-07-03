@@ -1,0 +1,6 @@
+{
+  "name": "pi-gateway",
+  "description_en": "OpenAI-compatible local API on top of pi.dev — LiteLLM-shape stateless protocol translator. Standalone CLI + pi-extension wrapper.",
+  "description_zh": "pi.dev 上的 OpenAI 兼容本地 API — LiteLLM 形式的无状态协议转换器。独立 CLI + pi-extension 包装器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

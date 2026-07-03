@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-code-quality",
+  "path": "/packages/@firstpick/pi-skill-code-quality",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-code-quality",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 395,
+  "date_ms": 1780954580739,
+  "description_en": "Agents should invoke this skill for code reviews, linting/formatting setup, maintainability checks, complexity concerns, warning cleanup, coding standards, or quality gates in Rust, TypeScript, Python, shell, and mixed repos.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

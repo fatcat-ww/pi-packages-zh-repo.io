@@ -1,0 +1,6 @@
+{
+  "name": "agent-booster-pack-skills",
+  "description_en": "General Agent Booster Pack skills for Pi: data, security, debugging, refactoring, and more. Runtime-owned skills ship with their matching extension packages. Renamed from pi-agent-booster-pack; old name deprecated.",
+  "description_zh": "Pi 的通用代理增强包技能：数据、安全、调试、重构等。运行时拥有的技能与其匹配的扩展包一起提供。从 pi-agent-booster-pack 重命名；旧名称已弃用",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@mobrienv/pi-otlp",
+  "path": "/packages/@mobrienv/pi-otlp",
+  "url": "https://pi.dev/packages/@mobrienv/pi-otlp",
+  "types": "",
+  "type_list": [],
+  "downloads": 89,
+  "date_ms": 1770933856055,
+  "description_en": "OpenTelemetry metrics and events extension for pi-coding-agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

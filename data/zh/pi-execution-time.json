@@ -1,0 +1,6 @@
+{
+  "name": "pi-execution-time",
+  "description_en": "Pi extension that shows prompt execution time in the footer while the agent works.",
+  "description_zh": "在代理工作时在页脚显示提示执行时间的 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

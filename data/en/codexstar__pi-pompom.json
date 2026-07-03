@@ -1,0 +1,13 @@
+{
+  "name": "@codexstar/pi-pompom",
+  "path": "/packages/@codexstar/pi-pompom",
+  "url": "https://pi.dev/packages/@codexstar/pi-pompom",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 992,
+  "date_ms": 1775403967263,
+  "description_en": "Pi-Pompom — A 3D raymarched virtual pet with voice, ambient weather sounds, AI side chat, agent tracking, and 23 layered sound effects for Pi CLI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

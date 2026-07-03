@@ -1,0 +1,13 @@
+{
+  "name": "@season179/pi-worktree",
+  "path": "/packages/@season179/pi-worktree",
+  "url": "https://pi.dev/packages/@season179/pi-worktree",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 136,
+  "date_ms": 1778547515491,
+  "description_en": "Adds a Claude Code-like --worktree flag to Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

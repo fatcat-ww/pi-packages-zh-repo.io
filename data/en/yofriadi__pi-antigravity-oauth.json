@@ -1,0 +1,13 @@
+{
+  "name": "@yofriadi/pi-antigravity-oauth",
+  "path": "/packages/@yofriadi/pi-antigravity-oauth",
+  "url": "https://pi.dev/packages/@yofriadi/pi-antigravity-oauth",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 292,
+  "date_ms": 1782158809346,
+  "description_en": "Pi extension that restores the Antigravity (Gemini 3, Claude, GPT-OSS) OAuth provider.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

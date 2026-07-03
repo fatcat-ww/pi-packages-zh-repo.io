@@ -1,0 +1,13 @@
+{
+  "name": "pi-go-bars",
+  "path": "/packages/pi-go-bars",
+  "url": "https://pi.dev/packages/pi-go-bars",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 110,
+  "date_ms": 1782967241684,
+  "description_en": "Opencode Go plan usage bars for pi — rolling, weekly, and monthly windows in the footer",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

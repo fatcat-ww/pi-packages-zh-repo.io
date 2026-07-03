@@ -1,0 +1,6 @@
+{
+  "name": "pi-evolve",
+  "description_en": "Genetic-programming style brainstorming command for pi. /evolve generates 5 alternatives, you pick one, repeat until you finalize.",
+  "description_zh": "pi 的遗传编程风格头脑风暴命令。/evolve 生成 5 个替代方案，您选择一个，重复直到确定",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

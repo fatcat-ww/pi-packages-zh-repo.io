@@ -1,0 +1,13 @@
+{
+  "name": "pi-wechat",
+  "path": "/packages/pi-wechat",
+  "url": "https://pi.dev/packages/pi-wechat",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 50,
+  "date_ms": 1774254089291,
+  "description_en": "WeChat iLink bot extension for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

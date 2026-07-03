@@ -1,0 +1,6 @@
+{
+  "name": "pi-auto-prompt",
+  "description_en": "Pi extension that injects project-local model-specific system prompt Markdown before each agent run.",
+  "description_zh": "Pi 扩展，在每个代理运行前注入项目本地的模型特定系统提示 Markdown",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

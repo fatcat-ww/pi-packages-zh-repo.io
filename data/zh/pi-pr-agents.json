@@ -1,0 +1,6 @@
+{
+  "name": "pi-pr-agents",
+  "description_en": "Graphite/PR-stack orchestration for pi: a main agent that splits work into PRs, dispatches a dedicated worktree subagent per PR, and lays them out as labelled tmux panes.",
+  "description_zh": "pi 的 Graphite/PR-stack 编排：一个主代理，将工作拆分为 PR，为每个 PR 分发专用工作区子代理，并将它们布置为标记的 tmux 窗格",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

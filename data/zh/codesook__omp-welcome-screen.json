@@ -1,0 +1,6 @@
+{
+  "name": "@codesook/omp-welcome-screen",
+  "description_en": "Customizable animated ASCII art welcome overlay for Oh-My-Pi — shows on session start with countdown and auto-dismiss",
+  "description_zh": "Oh-My-Pi 的可自定义动画 ASCII 艺术欢迎覆盖层 — 会话启动时显示，带倒计时和自动关闭",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

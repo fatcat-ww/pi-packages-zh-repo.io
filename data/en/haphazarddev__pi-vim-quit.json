@@ -1,0 +1,13 @@
+{
+  "name": "@haphazarddev/pi-vim-quit",
+  "path": "/packages/@haphazarddev/pi-vim-quit",
+  "url": "https://pi.dev/packages/@haphazarddev/pi-vim-quit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 95,
+  "date_ms": 1779306033629,
+  "description_en": "A tiny pi extension that quits when you type :q, :qa, or :wq.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

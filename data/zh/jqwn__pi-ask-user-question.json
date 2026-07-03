@@ -1,0 +1,6 @@
+{
+  "name": "@jqwn/pi-ask-user-question",
+  "description_en": "A Pi extension that lets the model ask rich multi-question TUI dialogs with options, descriptions, previews, multi-select, and custom answers.",
+  "description_zh": "一个 Pi 扩展，让模型能够提出丰富的多问题 TUI 对话，包括选项、描述、预览、多选和自定义答案。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

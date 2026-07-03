@@ -1,0 +1,6 @@
+{
+  "name": "pi-auto-mode-router",
+  "description_en": "Auto Mode Router extension for Pi: route prompts between frontend, logic, and terminal models with optional mid-turn domain switching.",
+  "description_zh": "Pi的自动模式路由器扩展：在前端、逻辑和终端模型之间路由提示，可选择中途切换领域。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

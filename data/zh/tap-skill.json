@@ -1,0 +1,6 @@
+{
+  "name": "tap-skill",
+  "description_en": "thalix-auto — multi-agent orchestration skill for Claude Code, Codex CLI, and Pi (pi.dev). Forked from oh-my-claudecode.",
+  "description_zh": "thalix-auto — Claude Code、Codex CLI 和 Pi (pi.dev) 的多代理编排技能。从 oh-my-claudecode 分叉。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

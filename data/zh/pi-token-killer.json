@@ -1,0 +1,6 @@
+{
+  "name": "pi-token-killer",
+  "description_en": "Token Killer for Pi -- reduce LLM token consumption by 60-90% on common dev commands",
+  "description_zh": "Pi 的令牌杀手 — 通过减少 60-90% 的常用开发命令 LLM 令牌消耗。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

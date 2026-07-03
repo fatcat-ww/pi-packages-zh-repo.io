@@ -1,0 +1,13 @@
+{
+  "name": "pi-mono-multi-edit",
+  "path": "/packages/pi-mono-multi-edit",
+  "url": "https://pi.dev/packages/pi-mono-multi-edit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 219,
+  "date_ms": 1778280206275,
+  "description_en": "Pi extension that replaces edit with batch edits and Codex-style patches",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

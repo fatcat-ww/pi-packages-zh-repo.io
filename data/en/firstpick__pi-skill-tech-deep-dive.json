@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-tech-deep-dive",
+  "path": "/packages/@firstpick/pi-skill-tech-deep-dive",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-tech-deep-dive",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 411,
+  "date_ms": 1780954642080,
+  "description_en": "Agents should invoke this skill when choosing or evaluating libraries, frameworks, tools, platforms, models, databases, APIs, or architectures for a use case. Produces criteria scoring, ecosystem assessment, and recommendations.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-agent-teams",
+  "path": "/packages/pi-agent-teams",
+  "url": "https://pi.dev/packages/pi-agent-teams",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 83,
+  "date_ms": 1779174685719,
+  "description_en": "Claude Code agent teams style workflow for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

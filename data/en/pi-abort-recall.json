@@ -1,0 +1,13 @@
+{
+  "name": "pi-abort-recall",
+  "path": "/packages/pi-abort-recall",
+  "url": "https://pi.dev/packages/pi-abort-recall",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 337,
+  "date_ms": 1782018868765,
+  "description_en": "Recall your last prompt back to the editor after aborting (Esc)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

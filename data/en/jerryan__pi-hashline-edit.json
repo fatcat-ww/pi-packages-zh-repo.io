@@ -1,0 +1,13 @@
+{
+  "name": "@jerryan/pi-hashline-edit",
+  "path": "/packages/@jerryan/pi-hashline-edit",
+  "url": "https://pi.dev/packages/@jerryan/pi-hashline-edit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2282,
+  "date_ms": 1782351307275,
+  "description_en": "Fork of pi-hashline-edit with trimmed schema, unified diff, and extra safety guardrails.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

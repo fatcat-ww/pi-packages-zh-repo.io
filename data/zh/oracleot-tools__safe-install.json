@@ -1,0 +1,6 @@
+{
+  "name": "@oracleot-tools/safe-install",
+  "description_en": "Pi slash-command package that audits npm packages before installing them with --ignore-scripts.",
+  "description_zh": "Pi 斜杠命令包，在安装前审计 npm 包，使用 --ignore-scripts",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

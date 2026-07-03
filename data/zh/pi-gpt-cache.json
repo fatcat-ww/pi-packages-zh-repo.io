@@ -1,0 +1,6 @@
+{
+  "name": "pi-gpt-cache",
+  "description_en": "Pi extension that adds prompt_cache_key to OpenAI Responses API requests for better prompt caching.",
+  "description_zh": "Pi 扩展，向 OpenAI Responses API 请求添加 prompt_cache_key，以实现更好的提示词缓存",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

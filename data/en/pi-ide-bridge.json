@@ -1,0 +1,13 @@
+{
+  "name": "pi-ide-bridge",
+  "path": "/packages/pi-ide-bridge",
+  "url": "https://pi.dev/packages/pi-ide-bridge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 699,
+  "date_ms": 1782137571879,
+  "description_en": "IDE bridge extension for Pi: VS Code / Cursor / Trae context, file inserts, and heartbeat support.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-tool-stats",
+  "description_en": "Track skill, prompt-template, extension, and built-in tool usage in pi so you can prune unused resources and keep pi light.",
+  "description_zh": "跟踪 pi 中的技能、提示模板、扩展和内置工具使用，以便你可以修剪未使用的资源并保持 pi 轻量",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

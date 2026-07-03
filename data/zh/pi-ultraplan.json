@@ -1,0 +1,6 @@
+{
+  "name": "pi-ultraplan",
+  "description_en": "Provider-agnostic ultraplan engine for Pi — fan-out planning, adversarial verification, structured plans, worktree-isolated execution. Reference adapter: fairy-tales-deepseek-openai / deepseek-v4-pro.",
+  "description_zh": "Pi 的提供商无关的超计划引擎 — 扇出规划、对抗性验证、结构化计划、工作区隔离执行。参考适配器：fairy-tales-deepseek-openai / deepseek-v4-pro。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@vtstech/pi-status",
+  "path": "/packages/@vtstech/pi-status",
+  "url": "https://pi.dev/packages/@vtstech/pi-status",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 249,
+  "date_ms": 1778719120061,
+  "description_en": "System monitor / status bar extension for Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

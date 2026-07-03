@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/release-prep-skill",
+  "path": "/packages/@barlevalon/release-prep-skill",
+  "url": "https://pi.dev/packages/@barlevalon/release-prep-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 166,
+  "date_ms": 1780699846974,
+  "description_en": "An Agent Skill for evidence-backed release preparation, changelog drafting, SemVer recommendations, and approval-gated publishing plans.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

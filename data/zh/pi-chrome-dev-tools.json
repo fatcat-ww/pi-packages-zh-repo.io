@@ -1,0 +1,6 @@
+{
+  "name": "pi-chrome-dev-tools",
+  "description_en": "Pi extension — lazy-launch Chrome with Playwright, persistent profile, stealth patches, simple browser tools",
+  "description_zh": "Pi 扩展 — 使用 Playwright 延迟启动 Chrome，持久化配置文件，隐身补丁，简单的浏览器工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

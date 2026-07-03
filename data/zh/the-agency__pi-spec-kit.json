@@ -1,0 +1,6 @@
+{
+  "name": "@the-agency/pi-spec-kit",
+  "description_en": "A [Pi](https://github.com/mariozechner/pi-coding-agent) package that integrates GitHub's [Spec Kit](https://github.com/github/spec-kit) in a Pi-native way, to support a spec-driven development workflow for planning and building features in a software repo",
+  "description_zh": "一个 [Pi](https://github.com/mariozechner/pi-coding-agent) 包，以 Pi 原生方式集成 GitHub 的 [Spec Kit](https://github.com/github/spec-kit)，支持软件仓库中规划和构建特性的规范驱动开发工作流",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

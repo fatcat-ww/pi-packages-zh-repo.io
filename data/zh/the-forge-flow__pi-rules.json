@@ -1,0 +1,6 @@
+{
+  "name": "@the-forge-flow/pi-rules",
+  "description_en": "PI extension that auto-loads path-scoped rule files from .pi/rules and .claude/rules",
+  "description_zh": "Pi 扩展，自动从 .pi/rules 和 .claude/rules 加载路径范围规则文件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

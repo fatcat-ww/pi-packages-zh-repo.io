@@ -1,0 +1,13 @@
+{
+  "name": "@zcouncil/pi",
+  "path": "/packages/@zcouncil/pi",
+  "url": "https://pi.dev/packages/@zcouncil/pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 150,
+  "date_ms": 1779149976841,
+  "description_en": "Pi package exposing one /chat-style zcouncil tool backed by the zcouncil SDK and bridge-aware backend.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

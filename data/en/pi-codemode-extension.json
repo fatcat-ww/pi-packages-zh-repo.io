@@ -1,0 +1,13 @@
+{
+  "name": "pi-codemode-extension",
+  "path": "/packages/pi-codemode-extension",
+  "url": "https://pi.dev/packages/pi-codemode-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 37,
+  "date_ms": 1779257206575,
+  "description_en": "Pi extension that adds an exec tool for orchestrating Pi tools with JavaScript, plus a /codeMode command to toggle it.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

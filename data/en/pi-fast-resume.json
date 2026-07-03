@@ -1,0 +1,13 @@
+{
+  "name": "pi-fast-resume",
+  "path": "/packages/pi-fast-resume",
+  "url": "https://pi.dev/packages/pi-fast-resume",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1637,
+  "date_ms": 1783014060572,
+  "description_en": "Fast session picker for pi — reads headers + first messages from 16KB partial reads instead of full-file parsing",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

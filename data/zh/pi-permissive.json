@@ -1,0 +1,6 @@
+{
+  "name": "pi-permissive",
+  "description_en": "A deliberately permissive permission gate for the Pi coding agent — blocks only destructive commands, never nags.",
+  "description_zh": "Pi编程代理的故意宽松权限门 — 仅阻止破坏性命令，从不唠叨",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

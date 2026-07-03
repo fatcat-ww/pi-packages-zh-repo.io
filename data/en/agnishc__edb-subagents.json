@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-subagents",
+  "path": "/packages/@agnishc/edb-subagents",
+  "url": "https://pi.dev/packages/@agnishc/edb-subagents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 526,
+  "date_ms": 1782119189505,
+  "description_en": "Pi extension: Claude Code-style autonomous sub-agents with live widget, parallel execution, mid-run steering, and custom agent types",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

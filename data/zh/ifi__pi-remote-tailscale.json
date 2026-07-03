@@ -1,0 +1,6 @@
+{
+  "name": "@ifi/pi-remote-tailscale",
+  "description_en": "Pi extension for secure remote session sharing with Tailscale URLs, QR codes, and TUI status widgets.",
+  "description_zh": "Pi 扩展，用于通过 Tailscale URL、二维码和 TUI 状态小部件进行安全远程会话共享",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

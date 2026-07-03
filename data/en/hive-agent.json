@@ -1,0 +1,11 @@
+{
+  "name": "hive-agent",
+  "path": "/packages/hive-agent",
+  "url": "https://pi.dev/packages/hive-agent",
+  "types": "",
+  "type_list": [],
+  "downloads": 118,
+  "date_ms": 1773001668390,
+  "description_en": "Hive — Lightweight Feature Tracker for AI Coding Agents. Built on Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

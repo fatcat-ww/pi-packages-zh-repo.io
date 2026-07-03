@@ -1,0 +1,11 @@
+{
+  "name": "pi-xai-oauth",
+  "path": "/packages/pi-xai-oauth",
+  "url": "https://pi.dev/packages/pi-xai-oauth",
+  "types": "",
+  "type_list": [],
+  "downloads": 1430,
+  "date_ms": 1781934088608,
+  "description_en": "One-command installer for xAI OAuth provider + Grok, Grok Build, and Composer models in pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

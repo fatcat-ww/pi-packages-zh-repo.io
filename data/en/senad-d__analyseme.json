@@ -1,0 +1,13 @@
+{
+  "name": "@senad-d/analyseme",
+  "path": "/packages/@senad-d/analyseme",
+  "url": "https://pi.dev/packages/@senad-d/analyseme",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782975346119,
+  "description_en": "Read-only SonarQube and SonarCloud analysis tools for Pi agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

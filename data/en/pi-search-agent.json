@@ -1,0 +1,13 @@
+{
+  "name": "pi-search-agent",
+  "path": "/packages/pi-search-agent",
+  "url": "https://pi.dev/packages/pi-search-agent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 45,
+  "date_ms": 1770390177615,
+  "description_en": "Semantic codebase search with sub-agent processing",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

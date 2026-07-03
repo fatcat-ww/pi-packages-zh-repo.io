@@ -1,0 +1,13 @@
+{
+  "name": "@vtstech/pi-long-term-memory",
+  "path": "/packages/@vtstech/pi-long-term-memory",
+  "url": "https://pi.dev/packages/@vtstech/pi-long-term-memory",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 221,
+  "date_ms": 1779646597125,
+  "description_en": "Long-term memory extension for Pi - persistent memory across sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

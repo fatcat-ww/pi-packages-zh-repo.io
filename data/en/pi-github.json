@@ -1,0 +1,13 @@
+{
+  "name": "pi-github",
+  "path": "/packages/pi-github",
+  "url": "https://pi.dev/packages/pi-github",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 77,
+  "date_ms": 1772509552642,
+  "description_en": "GitHub tool extension for Pi: format threads, list issues/PRs, and inspect PR diffs/images.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

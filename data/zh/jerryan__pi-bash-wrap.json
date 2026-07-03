@@ -1,0 +1,6 @@
+{
+  "name": "@jerryan/pi-bash-wrap",
+  "description_en": "Sandbox pi bash commands with bubblewrap",
+  "description_zh": "使用 bubblewrap 对 pi bash 命令进行沙盒处理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@realvendex/pi-dep-upgrade",
+  "description_en": "Safe dependency upgrade automation for pi.dev extensions — dry-run, rollback, and changelog integration. Natural companion to pi-dep-audit.",
+  "description_zh": "pi.dev 扩展的安全依赖升级自动化 — 试运行、回滚和变更日志集成。pi-dep-audit 的自然配套工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

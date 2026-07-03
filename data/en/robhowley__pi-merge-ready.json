@@ -1,0 +1,11 @@
+{
+  "name": "@robhowley/pi-merge-ready",
+  "path": "/packages/@robhowley/pi-merge-ready",
+  "url": "https://pi.dev/packages/@robhowley/pi-merge-ready",
+  "types": "",
+  "type_list": [],
+  "downloads": 1053,
+  "date_ms": 1782936110912,
+  "description_en": "PR merge-readiness for Pi: status bar and slash-command status, exact PR URL targeting, blocker context, and agent repair loops.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

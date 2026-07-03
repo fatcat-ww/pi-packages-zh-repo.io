@@ -1,0 +1,13 @@
+{
+  "name": "@zhushanwen/pi-statusline",
+  "path": "/packages/@zhushanwen/pi-statusline",
+  "url": "https://pi.dev/packages/@zhushanwen/pi-statusline",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1228,
+  "date_ms": 1780976856007,
+  "description_en": "Pi statusline extension — shows context usage, token speed, and provider quota in the footer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

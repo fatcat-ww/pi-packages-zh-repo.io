@@ -1,0 +1,13 @@
+{
+  "name": "pi-moa-subagents",
+  "path": "/packages/pi-moa-subagents",
+  "url": "https://pi.dev/packages/pi-moa-subagents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 279,
+  "date_ms": 1782008984821,
+  "description_en": "Mixture-of-experts bug diagnosis for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

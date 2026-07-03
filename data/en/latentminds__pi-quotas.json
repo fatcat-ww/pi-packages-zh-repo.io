@@ -1,0 +1,13 @@
+{
+  "name": "@latentminds/pi-quotas",
+  "path": "/packages/@latentminds/pi-quotas",
+  "url": "https://pi.dev/packages/@latentminds/pi-quotas",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 281,
+  "date_ms": 1778740230914,
+  "description_en": "Quota monitoring for Pi. Shows remaining usage and rate limits for Anthropic, OpenAI Codex, GitHub Copilot, OpenRouter, and Synthetic — directly in your Pi session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

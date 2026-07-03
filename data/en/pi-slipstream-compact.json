@@ -1,0 +1,13 @@
+{
+  "name": "pi-slipstream-compact",
+  "path": "/packages/pi-slipstream-compact",
+  "url": "https://pi.dev/packages/pi-slipstream-compact",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 582,
+  "date_ms": 1781384912868,
+  "description_en": "Slipstream-style validated compaction extension for Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

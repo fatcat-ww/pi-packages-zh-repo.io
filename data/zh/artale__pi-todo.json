@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-todo",
+  "description_en": "Persistent todo list for Pi. Track tasks across sessions with priorities, tags, and due dates.",
+  "description_zh": "Pi 的持久化待办事项列表。使用优先级、标签和截止日期跟踪跨会话任务",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

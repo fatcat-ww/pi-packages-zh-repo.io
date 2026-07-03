@@ -1,0 +1,13 @@
+{
+  "name": "@axnic/pi-aks-user-question",
+  "path": "/packages/@axnic/pi-aks-user-question",
+  "url": "https://pi.dev/packages/@axnic/pi-aks-user-question",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 95,
+  "date_ms": 1776984439247,
+  "description_en": "Pi extension — lets LLMs ask structured questions to the user via an interactive TUI form",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

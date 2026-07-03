@@ -1,0 +1,11 @@
+{
+  "name": "@0xkobold/pi-erc8004",
+  "path": "/packages/@0xkobold/pi-erc8004",
+  "url": "https://pi.dev/packages/@0xkobold/pi-erc8004",
+  "types": "",
+  "type_list": [],
+  "downloads": 56,
+  "date_ms": 1773340953245,
+  "description_en": "ERC-8004 Protocol for pi-coding-agent. Agent identity, reputation, and discovery on Base L2",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

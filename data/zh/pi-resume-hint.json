@@ -1,0 +1,6 @@
+{
+  "name": "pi-resume-hint",
+  "description_en": "Pi extension that prints a quirky resume command for the current session when Pi exits.",
+  "description_zh": "Pi 扩展，当 Pi 退出时为当前会话打印一个有趣的恢复命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

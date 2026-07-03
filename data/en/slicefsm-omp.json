@@ -1,0 +1,11 @@
+{
+  "name": "slicefsm-omp",
+  "path": "/packages/slicefsm-omp",
+  "url": "https://pi.dev/packages/slicefsm-omp",
+  "types": "",
+  "type_list": [],
+  "downloads": 505,
+  "date_ms": 1781148229312,
+  "description_en": "slicefsm harness for omp: an omp/pi extension that enforces the slice FSM (block + log + per-turn tool gating + affordance) by bridging to the slicefsm python hook",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

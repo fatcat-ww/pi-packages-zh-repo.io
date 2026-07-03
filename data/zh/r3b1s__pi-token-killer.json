@@ -1,0 +1,6 @@
+{
+  "name": "@r3b1s/pi-token-killer",
+  "description_en": "RTK (Rust Token Killer) extension for pi-coding-agent — routes eligible bash commands through rtk",
+  "description_zh": "pi-coding-agent 的 RTK（Rust Token Killer）扩展 — 将符合条件的 bash 命令通过 rtk 路由。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

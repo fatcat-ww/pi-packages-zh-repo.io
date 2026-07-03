@@ -1,0 +1,11 @@
+{
+  "name": "@ifi/pi-plan",
+  "path": "/packages/@ifi/pi-plan",
+  "url": "https://pi.dev/packages/@ifi/pi-plan",
+  "types": "",
+  "type_list": [],
+  "downloads": 529,
+  "date_ms": 1777355454128,
+  "description_en": "Planning mode extension for pi with persistent plan files, branch-aware planning, and delegated research tasks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

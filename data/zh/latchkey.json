@@ -1,0 +1,6 @@
+{
+  "name": "latchkey",
+  "description_en": "A CLI tool that injects API credentials into curl requests to third-party services",
+  "description_zh": "CLI 工具，将 API 凭证注入到对第三方服务的 curl 请求中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

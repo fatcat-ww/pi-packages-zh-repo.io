@@ -1,0 +1,6 @@
+{
+  "name": "@gotgenes/pi-subagents",
+  "description_en": "A focused, in-process sub-agent core for pi — autonomous agents plus a typed API and lifecycle events other extensions build on. Friendly fork of @tintinweb/pi-subagents.",
+  "description_zh": "一个专注于进程内的 pi 子代理核心 — 自主代理加上其他扩展可构建的类型化 API 和生命周期事件。@tintinweb/pi-subagents 的友好分支。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

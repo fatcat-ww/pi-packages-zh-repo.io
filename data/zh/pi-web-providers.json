@@ -1,0 +1,6 @@
+{
+  "name": "pi-web-providers",
+  "description_en": "Configurable web access extension for pi with per-tool provider routing and explicit provider option schemas for search, contents, quick grounded answers, and research.",
+  "description_zh": "Pi 的可配置网络访问扩展，具有按工具提供程序的路由和明确的提供程序选项模式，用于搜索、内容、快速有答案的研究",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@ifi/pi-provider-ollama",
+  "description_en": "Experimental Ollama provider for pi with local discovery and cloud login support.",
+  "description_zh": "具有本地发现和云登录支持的实验性Ollama提供者，用于pi。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

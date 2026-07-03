@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-extension-hyprland-wiki-local",
+  "description_en": "Local Hyprland Wiki search and retrieval tools for Pi backed by a cloned official hyprland-wiki repository.",
+  "description_zh": "Pi 的本地 Hyprland Wiki 搜索和检索工具，由克隆的官方 hyprland-wiki 仓库支持",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-rollback",
+  "path": "/packages/pi-rollback",
+  "url": "https://pi.dev/packages/pi-rollback",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 55,
+  "date_ms": 1776331164946,
+  "description_en": "Branch-aware rollback for pi — return to the last relevant point, summarize the detour, and continue from cleaner context.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

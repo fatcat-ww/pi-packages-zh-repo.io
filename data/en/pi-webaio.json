@@ -1,0 +1,13 @@
+{
+  "name": "pi-webaio",
+  "path": "/packages/pi-webaio",
+  "url": "https://pi.dev/packages/pi-webaio",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1244,
+  "date_ms": 1781885145239,
+  "description_en": "All-in-one web tools for pi with search (Google, Brave, DDG) and fetch with headless browser AI summarization",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

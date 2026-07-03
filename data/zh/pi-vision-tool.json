@@ -1,0 +1,6 @@
+{
+  "name": "pi-vision-tool",
+  "description_en": "Pi Agent extension that adds a describe_image tool, letting non-multimodal models delegate image analysis to a vision-capable model (like Qwen VL)",
+  "description_zh": "Pi Agent 扩展，添加 describe_image 工具，使非多模态模型将图像分析委托给具有视觉能力的模型（如 Qwen VL）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

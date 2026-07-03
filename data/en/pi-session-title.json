@@ -1,0 +1,13 @@
+{
+  "name": "pi-session-title",
+  "path": "/packages/pi-session-title",
+  "url": "https://pi.dev/packages/pi-session-title",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 55,
+  "date_ms": 1776209021753,
+  "description_en": "Session-title extension for pi-compatible runtimes, including oh-my-pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

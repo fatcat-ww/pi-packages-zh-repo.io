@@ -1,0 +1,13 @@
+{
+  "name": "@chrisbielinski/pi-searchxng",
+  "path": "/packages/@chrisbielinski/pi-searchxng",
+  "url": "https://pi.dev/packages/@chrisbielinski/pi-searchxng",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 29,
+  "date_ms": 1774225708066,
+  "description_en": "Pi package exposing the searchxng CLI as a tool.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

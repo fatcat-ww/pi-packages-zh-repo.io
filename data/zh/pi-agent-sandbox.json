@@ -1,0 +1,6 @@
+{
+  "name": "pi-agent-sandbox",
+  "description_en": "Sandbox awareness for pi: shows a colored [sandboxed:<profile>] footer and injects sandbox-access context when pi runs inside agent-sandbox (asb), plus an asb-pi shell wrapper that launches pi sandboxed inside tmux.",
+  "description_zh": "pi 的沙箱感知：在页脚显示彩色 [sandboxed:<profile>] 标识，并在 pi 在 agent-sandbox (asb) 中运行时注入沙箱访问上下文，以及一个在 tmux 中沙箱化启动 pi 的 asb-pi shell 包装器。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

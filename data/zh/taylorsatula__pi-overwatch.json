@@ -1,0 +1,6 @@
+{
+  "name": "@taylorsatula/pi-overwatch",
+  "description_en": "Weighted-rhythm Pi transcript sidecar monitor that emits structured observer telemetry and contributes the latest output to pi-hud without writing messages into the transcript.",
+  "description_zh": "加权节奏 Pi 转录侧车监视器，发出结构化观察遥测数据，并将最新输出贡献给 pi-hud，而不将消息写入转录",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

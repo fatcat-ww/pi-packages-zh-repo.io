@@ -1,0 +1,6 @@
+{
+  "name": "pi-redline",
+  "description_en": "Redline pi sessions: an overlay TUI showing every file changed in the current pi session with syntax-highlighted diffs, per-line selection, fix/explain annotations, and a one-key submit-as-prompt flow.",
+  "description_zh": "Redline pi会话：叠加TUI，显示当前pi会话中每个已更改的文件，带有语法高亮差异、逐行选择、修复/解释注释，以及一键提交为提示的流程。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-context-tree",
+  "path": "/packages/pi-context-tree",
+  "url": "https://pi.dev/packages/pi-context-tree",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 370,
+  "date_ms": 1781400156199,
+  "description_en": "Git-style /branch /merge /crop workflow + context panel for pi sessions — keep your agent's context small, fresh, and relevant.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

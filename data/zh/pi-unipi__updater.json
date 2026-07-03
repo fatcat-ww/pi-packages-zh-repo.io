@@ -1,0 +1,6 @@
+{
+  "name": "@pi-unipi/updater",
+  "description_en": "Auto-updater, changelog browser, and readme browser for Unipi — checks npm registry, renders CHANGELOG.md and README.md files in TUI overlays",
+  "description_zh": "Unipi 的自动更新程序、变更日志浏览器和自述文件浏览器 — 检查 npm 注册表，在 TUI 覆盖层中渲染 CHANGELOG.md 和 README.md 文件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

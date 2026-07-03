@@ -1,0 +1,6 @@
+{
+  "name": "pi-chess",
+  "description_en": "Play chess against the LLM in pi's TUI — full rules, annotated moves, disk persistence, and constant context cost",
+  "description_zh": "在pi的TUI中与LLM下棋 - 完整规则、带注释的走法、磁盘持久化和持续上下文成本",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

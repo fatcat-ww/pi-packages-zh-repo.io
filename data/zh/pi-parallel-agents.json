@@ -1,0 +1,6 @@
+{
+  "name": "pi-parallel-agents",
+  "description_en": "Dynamic parallel agent execution for pi - run multiple agents with different models without pre-defining configurations",
+  "description_zh": "面向 pi 的动态并行代理执行 - 无需预定义配置即可运行多个具有不同模型的代理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

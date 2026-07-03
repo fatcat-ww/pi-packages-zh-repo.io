@@ -1,0 +1,13 @@
+{
+  "name": "@vahor/pi-keymap",
+  "path": "/packages/@vahor/pi-keymap",
+  "url": "https://pi.dev/packages/@vahor/pi-keymap",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 108,
+  "date_ms": 1779547274851,
+  "description_en": "Vim-like custom keymaps for binding keyboard shortcuts to shell commands in pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

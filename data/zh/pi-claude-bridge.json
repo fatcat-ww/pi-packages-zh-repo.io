@@ -1,0 +1,6 @@
+{
+  "name": "pi-claude-bridge",
+  "description_en": "Pi extension that uses Claude Code (via Agent SDK) as a model provider and adds an AskClaude tool.",
+  "description_zh": "Pi 扩展，使用 Claude Code（通过 Agent SDK）作为模型提供程序，并添加 AskClaude 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

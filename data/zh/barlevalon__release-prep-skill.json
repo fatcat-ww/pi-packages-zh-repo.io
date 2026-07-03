@@ -1,0 +1,6 @@
+{
+  "name": "@barlevalon/release-prep-skill",
+  "description_en": "An Agent Skill for evidence-backed release preparation, changelog drafting, SemVer recommendations, and approval-gated publishing plans.",
+  "description_zh": "用于基于证据的发布准备、变更日志起草、SemVer 建议和批准门控发布计划的代理技能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@sincspecv/pi-chutes",
+  "path": "/packages/@sincspecv/pi-chutes",
+  "url": "https://pi.dev/packages/@sincspecv/pi-chutes",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 52,
+  "date_ms": 1775939876265,
+  "description_en": "pi extension that adds chutes.ai as a model provider",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

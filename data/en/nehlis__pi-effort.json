@@ -1,0 +1,13 @@
+{
+  "name": "@nehlis/pi-effort",
+  "path": "/packages/@nehlis/pi-effort",
+  "url": "https://pi.dev/packages/@nehlis/pi-effort",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 83,
+  "date_ms": 1780563401605,
+  "description_en": "Pi extension that adds /effort for quickly changing reasoning/thinking level.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-toast",
+  "path": "/packages/pi-toast",
+  "url": "https://pi.dev/packages/pi-toast",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 66,
+  "date_ms": 1778562193327,
+  "description_en": "Ephemeral toast overlays for the Pi TUI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

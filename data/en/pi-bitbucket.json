@@ -1,0 +1,11 @@
+{
+  "name": "pi-bitbucket",
+  "path": "/packages/pi-bitbucket",
+  "url": "https://pi.dev/packages/pi-bitbucket",
+  "types": "",
+  "type_list": [],
+  "downloads": 46,
+  "date_ms": 1774436751609,
+  "description_en": "Bitbucket Cloud integration for Pi — repos, PRs, branches, pipelines, and issues",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

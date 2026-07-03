@@ -1,0 +1,13 @@
+{
+  "name": "sutras",
+  "path": "/packages/sutras",
+  "url": "https://pi.dev/packages/sutras",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 69,
+  "date_ms": 1776358759392,
+  "description_en": "Skill development toolkit for pi — /sutras commands + agent skill",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

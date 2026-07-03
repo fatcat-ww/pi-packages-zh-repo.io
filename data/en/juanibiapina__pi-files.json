@@ -1,0 +1,13 @@
+{
+  "name": "@juanibiapina/pi-files",
+  "path": "/packages/@juanibiapina/pi-files",
+  "url": "https://pi.dev/packages/@juanibiapina/pi-files",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 39,
+  "date_ms": 1772876996712,
+  "description_en": "Pi extension that tracks files read/written/edited by the agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-ralph-loop",
+  "path": "/packages/pi-ralph-loop",
+  "url": "https://pi.dev/packages/pi-ralph-loop",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 72,
+  "date_ms": 1779242395602,
+  "description_en": "Pi extension that reruns a prompt from a clean session checkpoint for bounded Ralph loops.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

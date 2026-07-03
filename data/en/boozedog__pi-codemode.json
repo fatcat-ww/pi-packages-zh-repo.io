@@ -1,0 +1,13 @@
+{
+  "name": "@boozedog/pi-codemode",
+  "path": "/packages/@boozedog/pi-codemode",
+  "url": "https://pi.dev/packages/@boozedog/pi-codemode",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 43,
+  "date_ms": 1778927497617,
+  "description_en": "Pi Codemode plugin - TypeScript code execution with sandboxed tools, just-bash shell, and MCP integration",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

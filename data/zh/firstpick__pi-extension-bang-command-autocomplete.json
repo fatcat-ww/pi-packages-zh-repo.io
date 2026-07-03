@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-extension-bang-command-autocomplete",
+  "description_en": "Autocomplete for !<command> in Pi, with optional shell-history indexing.",
+  "description_zh": "Pi 中 !<command> 的自动完成，可选的 shell-history 索引",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

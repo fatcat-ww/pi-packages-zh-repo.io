@@ -1,0 +1,11 @@
+{
+  "name": "pi-journal",
+  "path": "/packages/pi-journal",
+  "url": "https://pi.dev/packages/pi-journal",
+  "types": "",
+  "type_list": [],
+  "downloads": 230,
+  "date_ms": 1780308897014,
+  "description_en": "Session journaling extension for pi-coding-agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

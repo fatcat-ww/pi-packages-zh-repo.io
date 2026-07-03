@@ -1,0 +1,6 @@
+{
+  "name": "pi-opinionated-zenmux",
+  "description_en": "Provider-only Pi package that registers the curated ZenMux model set used by pi-excalibur.",
+  "description_zh": "仅提供者的 Pi 包，注册 pi-excalibur 使用的精选 ZenMux 模型集",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

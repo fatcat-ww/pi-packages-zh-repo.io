@@ -1,0 +1,11 @@
+{
+  "name": "pi-context-pruning",
+  "path": "/packages/pi-context-pruning",
+  "url": "https://pi.dev/packages/pi-context-pruning",
+  "types": "",
+  "type_list": [],
+  "downloads": 63,
+  "date_ms": 1776626678218,
+  "description_en": "OpenCode-style proactive tool output pruning for pi — reduce token usage by pruning stale tool outputs before each LLM call",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

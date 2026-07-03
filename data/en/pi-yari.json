@@ -1,0 +1,11 @@
+{
+  "name": "pi-yari",
+  "path": "/packages/pi-yari",
+  "url": "https://pi.dev/packages/pi-yari",
+  "types": "",
+  "type_list": [],
+  "downloads": 409,
+  "date_ms": 1782315627562,
+  "description_en": "YARI (Yet Another Repetition Intervention). Interrupts agent tool loops and runaway/stuck thinking.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

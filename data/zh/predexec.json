@@ -1,0 +1,6 @@
+{
+  "name": "predexec",
+  "description_en": "Predictive execution: collapse an adaptive multi-level tool sequence into a single model round-trip via a deterministic plan tree. pi coding agent extension / opencode plugin.",
+  "description_zh": "预测执行：通过确定性计划树将自适应多级工具序列折叠为单个模型往返行程。pi coding agent 扩展 / opencode 插件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

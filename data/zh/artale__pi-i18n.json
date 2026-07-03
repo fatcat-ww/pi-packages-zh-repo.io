@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-i18n",
+  "description_en": "i18n/localization toolkit. Scan translations, find missing keys, validate formats, extract strings. Supports JSON, YAML, .po, .xliff, Android XML, iOS .strings.",
+  "description_zh": "i18n/本地化工具包。扫描翻译、查找缺失的键、验证格式、提取字符串。支持 JSON、YAML、.po、.xliff、Android XML、iOS .strings",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

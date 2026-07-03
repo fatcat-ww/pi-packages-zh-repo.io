@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-refactor",
+  "description_en": "Iterative refactoring for Pi. Analyze → refactor → verify cycles with git commits per pass.",
+  "description_zh": "Pi 的迭代重构。分析 → 重构 → 验证循环，每次迭代通过 git commit 进行",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

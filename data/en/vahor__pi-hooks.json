@@ -1,0 +1,13 @@
+{
+  "name": "@vahor/pi-hooks",
+  "path": "/packages/@vahor/pi-hooks",
+  "url": "https://pi.dev/packages/@vahor/pi-hooks",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 261,
+  "date_ms": 1779547274739,
+  "description_en": "Run shell commands on pi lifecycle events.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

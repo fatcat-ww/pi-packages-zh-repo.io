@@ -1,0 +1,6 @@
+{
+  "name": "@iflytekopensource/adapters",
+  "description_en": "Host lifecycle adapters for wiring MemFlywheel into agent runtimes.",
+  "description_zh": "用于将 MemFlywire 连接到代理运行时的生命周期适配器主机。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

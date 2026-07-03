@@ -1,0 +1,11 @@
+{
+  "name": "@neuralpartners/pi-yo",
+  "path": "/packages/@neuralpartners/pi-yo",
+  "url": "https://pi.dev/packages/@neuralpartners/pi-yo",
+  "types": "",
+  "type_list": [],
+  "downloads": 166,
+  "date_ms": 1778611020918,
+  "description_en": "Inter-terminal messaging for Pi agents and Claude Code sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

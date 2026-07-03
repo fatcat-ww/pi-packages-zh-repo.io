@@ -1,0 +1,13 @@
+{
+  "name": "@spences10/pi-skills",
+  "path": "/packages/@spences10/pi-skills",
+  "url": "https://pi.dev/packages/@spences10/pi-skills",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 780,
+  "date_ms": 1781704239481,
+  "description_en": "Agent Skills management for Pi with profiles, enablement rules, GitHub search/install, and update flows",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

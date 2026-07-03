@@ -1,0 +1,13 @@
+{
+  "name": "@jerryan/pi-sanity",
+  "path": "/packages/@jerryan/pi-sanity",
+  "url": "https://pi.dev/packages/@jerryan/pi-sanity",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 340,
+  "date_ms": 1781844042482,
+  "description_en": "Pi extension for sanity checks on agent operations",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

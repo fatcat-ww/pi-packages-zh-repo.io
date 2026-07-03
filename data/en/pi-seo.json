@@ -1,0 +1,13 @@
+{
+  "name": "pi-seo",
+  "path": "/packages/pi-seo",
+  "url": "https://pi.dev/packages/pi-seo",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 166,
+  "date_ms": 1780600800944,
+  "description_en": "SEO assistant extension for pi powered by Google Lighthouse audits and actionable recommendations.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

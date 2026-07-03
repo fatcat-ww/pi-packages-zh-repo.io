@@ -1,0 +1,13 @@
+{
+  "name": "pi-formatter",
+  "path": "/packages/pi-formatter",
+  "url": "https://pi.dev/packages/pi-formatter",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 129,
+  "date_ms": 1776345531425,
+  "description_en": "Pi extension that auto-formats files.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

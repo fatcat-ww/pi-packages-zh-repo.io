@@ -1,0 +1,13 @@
+{
+  "name": "@jc4649/pi-usage-recorder",
+  "path": "/packages/@jc4649/pi-usage-recorder",
+  "url": "https://pi.dev/packages/@jc4649/pi-usage-recorder",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782491767664,
+  "description_en": "pi coding-agent extension: pi-usage-recorder",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

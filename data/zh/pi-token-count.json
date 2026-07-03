@@ -1,0 +1,6 @@
+{
+  "name": "pi-token-count",
+  "description_en": "Pi extension that shows tokens, context usage, cost spent, and model/reasoning in the footer.",
+  "description_zh": "在页脚显示令牌、上下文使用情况、已花费成本、模型/推理的 pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

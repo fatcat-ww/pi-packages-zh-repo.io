@@ -1,0 +1,6 @@
+{
+  "name": "pi-commit-message",
+  "description_en": "Pi extension that generates Conventional Commit messages from staged diff and commits via /commit",
+  "description_zh": "Pi 扩展，根据暂存差异生成 Conventional Commit 消息，并通过 /commit 提交",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

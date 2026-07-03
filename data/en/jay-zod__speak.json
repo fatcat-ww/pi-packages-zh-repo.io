@@ -1,0 +1,11 @@
+{
+  "name": "@jay-zod/speak",
+  "path": "/packages/@jay-zod/speak",
+  "url": "https://pi.dev/packages/@jay-zod/speak",
+  "types": "",
+  "type_list": [],
+  "downloads": 122,
+  "date_ms": 1769475077697,
+  "description_en": "Convert text to speech using Chatterbox TTS on Apple Silicon",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

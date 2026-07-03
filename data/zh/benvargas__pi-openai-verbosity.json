@@ -1,0 +1,6 @@
+{
+  "name": "@benvargas/pi-openai-verbosity",
+  "description_en": "Per-model OpenAI Codex text verbosity overrides for pi",
+  "description_zh": "针对 pi 的每个模型 OpenAI Codex 文本详细程度覆盖设置",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

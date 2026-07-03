@@ -1,0 +1,13 @@
+{
+  "name": "@xynogen/pix-welcome",
+  "path": "/packages/@xynogen/pix-welcome",
+  "url": "https://pi.dev/packages/@xynogen/pix-welcome",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1657,
+  "date_ms": 1782814337896,
+  "description_en": "Pi extension — welcome banner with startup health checks",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

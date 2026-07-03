@@ -1,0 +1,13 @@
+{
+  "name": "pi-soccer-widget",
+  "path": "/packages/pi-soccer-widget",
+  "url": "https://pi.dev/packages/pi-soccer-widget",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1034,
+  "date_ms": 1782607276797,
+  "description_en": "Pi widget for tracking a favorite soccer team with standings, recent results, and upcoming matches.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

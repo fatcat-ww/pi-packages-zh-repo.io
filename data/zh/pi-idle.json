@@ -1,0 +1,6 @@
+{
+  "name": "pi-idle",
+  "description_en": "Pi extension: shows ✓ in terminal title when idle, spinner (◰◳◲◱) while working, with context-usage percentage beside the checkmark",
+  "description_zh": "Pi 扩展：空闲时在终端标题中显示 ✓，工作时显示旋转图标 (◰◳◲◱)，检查标记旁边显示上下文使用百分比",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

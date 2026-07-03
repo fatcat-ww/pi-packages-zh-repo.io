@@ -1,0 +1,13 @@
+{
+  "name": "pi-autoname",
+  "path": "/packages/pi-autoname",
+  "url": "https://pi.dev/packages/pi-autoname",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2008,
+  "date_ms": 1781795469877,
+  "description_en": "AI-powered session naming for Pi — generate meaningful, semantic session names via LLM",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

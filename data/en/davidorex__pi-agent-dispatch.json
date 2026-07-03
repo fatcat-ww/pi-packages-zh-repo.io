@@ -1,0 +1,11 @@
+{
+  "name": "@davidorex/pi-agent-dispatch",
+  "path": "/packages/@davidorex/pi-agent-dispatch",
+  "url": "https://pi.dev/packages/@davidorex/pi-agent-dispatch",
+  "types": "",
+  "type_list": [],
+  "downloads": 929,
+  "date_ms": 1781394940927,
+  "description_en": "In-pi agent-as-tool dispatch + capability composition extension",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

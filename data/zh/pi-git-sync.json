@@ -1,0 +1,6 @@
+{
+  "name": "pi-git-sync",
+  "description_en": "Sync Pi agent config through Git",
+  "description_zh": "通过 Git 同步 Pi 代理配置",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

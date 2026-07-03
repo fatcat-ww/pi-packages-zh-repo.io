@@ -1,0 +1,6 @@
+{
+  "name": "pi-windows-path-guard",
+  "description_en": "Prevents Windows-native Pi file tools from silently writing to mangled paths when agents reuse Git Bash/MSYS paths like /c/Users/...",
+  "description_zh": "防止 Windows 原生 Pi 文件工具在代理重用 Git Bash/MSYS 路径（如 /c/Users/...）时静默写入损坏路径",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

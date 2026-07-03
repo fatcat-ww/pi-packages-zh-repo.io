@@ -1,0 +1,11 @@
+{
+  "name": "pi-safety-git-operations",
+  "path": "/packages/pi-safety-git-operations",
+  "url": "https://pi.dev/packages/pi-safety-git-operations",
+  "types": "",
+  "type_list": [],
+  "downloads": 21,
+  "date_ms": 1773417484457,
+  "description_en": "Guards destructive git and GitHub/GitLab CLI operations with severity-based confirmation dialogs and session memory. Covers force-push, reset --hard, branch deletion, gh/glab repo operations, and more.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

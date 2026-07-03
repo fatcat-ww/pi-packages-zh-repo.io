@@ -1,0 +1,11 @@
+{
+  "name": "pi-repoprompt-mcp",
+  "path": "/packages/pi-repoprompt-mcp",
+  "url": "https://pi.dev/packages/pi-repoprompt-mcp",
+  "types": "",
+  "type_list": [],
+  "downloads": 116,
+  "date_ms": 1782735755877,
+  "description_en": "A token-efficient RepoPrompt integration for Pi with branch-safe workspace and tab management",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

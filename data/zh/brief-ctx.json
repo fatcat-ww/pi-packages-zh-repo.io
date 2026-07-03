@@ -1,0 +1,6 @@
+{
+  "name": "brief-ctx",
+  "description_en": "Adds /brief for generating and updating AI coding agent project context. Works with Pi, Claude Code, and Codex.",
+  "description_zh": "添加 /brief 用于生成和更新 AI 编码代理项目上下文。适用于 Pi、Claude Code 和 Codex。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

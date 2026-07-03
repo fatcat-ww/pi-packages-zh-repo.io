@@ -1,0 +1,11 @@
+{
+  "name": "pi-subprocess",
+  "path": "/packages/pi-subprocess",
+  "url": "https://pi.dev/packages/pi-subprocess",
+  "types": "",
+  "type_list": [],
+  "downloads": 323,
+  "date_ms": 1782425496756,
+  "description_en": "Minimal subprocess isolation for Pi agents. Spawns isolated Pi subprocesses and returns curated results.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

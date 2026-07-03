@@ -1,0 +1,11 @@
+{
+  "name": "pi-goal",
+  "path": "/packages/pi-goal",
+  "url": "https://pi.dev/packages/pi-goal",
+  "types": "",
+  "type_list": [],
+  "downloads": 1471,
+  "date_ms": 1782023358401,
+  "description_en": "Persistent autonomous goals for pi — /goal loops until complete, paused, or budget-limited",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@grammeaway/pi-provider-sakana-fugu",
+  "path": "/packages/@grammeaway/pi-provider-sakana-fugu",
+  "url": "https://pi.dev/packages/@grammeaway/pi-provider-sakana-fugu",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 432,
+  "date_ms": 1782196552424,
+  "description_en": "Sakana Fugu provider extension for the Pi agentic harness (OpenAI-compatible, /login support)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@lojacobs/pi-roles",
+  "description_en": "Role-based session configuration for pi coding agent. Launch a session as a named role and hot-swap roles mid-session, with optional pi-intercom and pi-mcp-adapter integration.",
+  "description_zh": "pi 编码代理的基于角色的会话配置。以命名角色启动会话，并在会话中途热切换角色，可选集成 pi-intercom 和 pi-mcp-adapter。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

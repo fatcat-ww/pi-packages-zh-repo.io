@@ -1,0 +1,13 @@
+{
+  "name": "@cullendotdev/pi-rewind",
+  "path": "/packages/@cullendotdev/pi-rewind",
+  "url": "https://pi.dev/packages/@cullendotdev/pi-rewind",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782485159750,
+  "description_en": "Checkpoint/rewind extension for the Pi coding agent — per-tool snapshots, /rewind command, Esc+Esc shortcut, safe restore, redo stack",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

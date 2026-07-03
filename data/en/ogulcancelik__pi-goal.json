@@ -1,0 +1,13 @@
+{
+  "name": "@ogulcancelik/pi-goal",
+  "path": "/packages/@ogulcancelik/pi-goal",
+  "url": "https://pi.dev/packages/@ogulcancelik/pi-goal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 161,
+  "date_ms": 1778169463131,
+  "description_en": "Codex-style long-running goal mode for pi with automatic linked-session handoff.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

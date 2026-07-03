@@ -1,0 +1,13 @@
+{
+  "name": "pi-sift",
+  "path": "/packages/pi-sift",
+  "url": "https://pi.dev/packages/pi-sift",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 79,
+  "date_ms": 1773322457903,
+  "description_en": "Model-scored compression of large tool results for Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@bastilleworks/shared",
+  "path": "/packages/@bastilleworks/shared",
+  "url": "https://pi.dev/packages/@bastilleworks/shared",
+  "types": "",
+  "type_list": [],
+  "downloads": 321,
+  "date_ms": 1782296682486,
+  "description_en": "BASTILLE shared event bus, pattern matching, messages, and path utilities — cross-cutting infrastructure for all pi-* extensions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

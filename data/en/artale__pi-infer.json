@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-infer",
+  "path": "/packages/@artale/pi-infer",
+  "url": "https://pi.dev/packages/@artale/pi-infer",
+  "types": "",
+  "type_list": [],
+  "downloads": 47,
+  "date_ms": 1777148840402,
+  "description_en": "Minimum viable free-LLM gateway — stdlib-only Python, no Docker, ~700 LOC",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@martintrojer/mu",
+  "path": "/packages/@martintrojer/mu",
+  "url": "https://pi.dev/packages/@martintrojer/mu",
+  "types": "",
+  "type_list": [],
+  "downloads": 362,
+  "date_ms": 1781077134809,
+  "description_en": "A persistent, observable crew of pi agents running in one tmux session per workstream, coordinated through a built-in task DAG.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

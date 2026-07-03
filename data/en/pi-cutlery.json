@@ -1,0 +1,13 @@
+{
+  "name": "pi-cutlery",
+  "path": "/packages/pi-cutlery",
+  "url": "https://pi.dev/packages/pi-cutlery",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 71,
+  "date_ms": 1777413071802,
+  "description_en": "Multi-session workflow toolbox for Pi, centered on session forking",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

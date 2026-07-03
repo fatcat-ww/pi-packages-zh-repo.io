@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-compact-tools",
+  "path": "/packages/@agnishc/edb-compact-tools",
+  "url": "https://pi.dev/packages/@agnishc/edb-compact-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 519,
+  "date_ms": 1782119168231,
+  "description_en": "Pi extension: compact outlined tool-call renderers with ctrl+o expansion",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

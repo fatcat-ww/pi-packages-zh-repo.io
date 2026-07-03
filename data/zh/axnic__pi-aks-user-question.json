@@ -1,0 +1,6 @@
+{
+  "name": "@axnic/pi-aks-user-question",
+  "description_en": "Pi extension — lets LLMs ask structured questions to the user via an interactive TUI form",
+  "description_zh": "Pi 扩展 — 允许 LLM 通过交互式 TUI 表单向用户提出结构化问题",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

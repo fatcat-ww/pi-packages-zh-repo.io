@@ -1,0 +1,13 @@
+{
+  "name": "pi-lean-edit",
+  "path": "/packages/pi-lean-edit",
+  "url": "https://pi.dev/packages/pi-lean-edit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 53,
+  "date_ms": 1780043473249,
+  "description_en": "Safer, cheaper edits by verifying prior reads in the harness instead of the prompt. Lets the harness verify the model already read the latest text it wants to edit, avoiding old-text replay and hash-decorated reads.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

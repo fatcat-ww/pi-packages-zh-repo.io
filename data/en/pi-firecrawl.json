@@ -1,0 +1,13 @@
+{
+  "name": "pi-firecrawl",
+  "path": "/packages/pi-firecrawl",
+  "url": "https://pi.dev/packages/pi-firecrawl",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 207,
+  "date_ms": 1781397282729,
+  "description_en": "Firecrawl web scraping tools for Pi coding agent - scrape, crawl, map, and search with Firecrawl API v2",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

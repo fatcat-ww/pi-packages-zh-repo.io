@@ -1,0 +1,11 @@
+{
+  "name": "@xl0/pi-lovely-web",
+  "path": "/packages/@xl0/pi-lovely-web",
+  "url": "https://pi.dev/packages/@xl0/pi-lovely-web",
+  "types": "",
+  "type_list": [],
+  "downloads": 70,
+  "date_ms": 1782859497101,
+  "description_en": "Pi extension package for web_search, web_fetch, and web_image via Firecrawl, Exa, Tavily, and Brave.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

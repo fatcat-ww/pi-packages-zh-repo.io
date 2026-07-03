@@ -1,0 +1,11 @@
+{
+  "name": "@monotykamary/pi-cost-backoff",
+  "path": "/packages/@monotykamary/pi-cost-backoff",
+  "url": "https://pi.dev/packages/@monotykamary/pi-cost-backoff",
+  "types": "",
+  "type_list": [],
+  "downloads": 111,
+  "date_ms": 1781884322107,
+  "description_en": "Cost-aware request throttling for pi — exponential backoff when $/M or $/min exceeds your cap. Companion to pi-tps.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

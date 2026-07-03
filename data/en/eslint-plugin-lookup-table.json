@@ -1,0 +1,13 @@
+{
+  "name": "eslint-plugin-lookup-table",
+  "path": "/packages/eslint-plugin-lookup-table",
+  "url": "https://pi.dev/packages/eslint-plugin-lookup-table",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 170,
+  "date_ms": 1776836180774,
+  "description_en": "Detect redundant conditional chains and suggest lookup tables",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

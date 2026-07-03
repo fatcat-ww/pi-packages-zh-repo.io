@@ -1,0 +1,11 @@
+{
+  "name": "pi-tau-mux",
+  "path": "/packages/pi-tau-mux",
+  "url": "https://pi.dev/packages/pi-tau-mux",
+  "types": "",
+  "type_list": [],
+  "downloads": 32,
+  "date_ms": 1774555732437,
+  "description_en": "Web UI that mirrors your Pi terminal session in the browser - tmux session aware",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@testzugang/pi-commit",
+  "description_en": "Interactive gitmoji-based commit skill with staged review for Pi",
+  "description_zh": "基于 gitmoji 的交互式提交技能，包含暂存区审查功能，专为 Pi 设计",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

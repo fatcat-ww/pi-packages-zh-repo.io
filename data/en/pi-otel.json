@@ -1,0 +1,13 @@
+{
+  "name": "pi-otel",
+  "path": "/packages/pi-otel",
+  "url": "https://pi.dev/packages/pi-otel",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 426,
+  "date_ms": 1778925326568,
+  "description_en": "OpenTelemetry traces for pi-coding-agent — per-prompt span tree (interaction → llm_request, tool.<name>) exported via OTLP. Aspire-dashboard ready.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

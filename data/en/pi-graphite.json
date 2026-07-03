@@ -1,0 +1,11 @@
+{
+  "name": "pi-graphite",
+  "path": "/packages/pi-graphite",
+  "url": "https://pi.dev/packages/pi-graphite",
+  "types": "",
+  "type_list": [],
+  "downloads": 833,
+  "date_ms": 1782167385448,
+  "description_en": "Opinionated pi tools + skill for stacked PR workflows with the Graphite (gt) CLI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

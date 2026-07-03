@@ -1,0 +1,11 @@
+{
+  "name": "@richardgill/pi-parrot",
+  "path": "/packages/@richardgill/pi-parrot",
+  "url": "https://pi.dev/packages/@richardgill/pi-parrot",
+  "types": "",
+  "type_list": [],
+  "downloads": 48,
+  "date_ms": 1779644157946,
+  "description_en": "Populate Pi's input box with the last assistant message.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

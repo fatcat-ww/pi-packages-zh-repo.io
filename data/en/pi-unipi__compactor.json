@@ -1,0 +1,13 @@
+{
+  "name": "@pi-unipi/compactor",
+  "path": "/packages/@pi-unipi/compactor",
+  "url": "https://pi.dev/packages/@pi-unipi/compactor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1234,
+  "date_ms": 1782924693961,
+  "description_en": "Context engine for Pi — zero-LLM compaction, session continuity, sandbox execution, and tool display optimization",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

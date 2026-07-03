@@ -1,0 +1,11 @@
+{
+  "name": "@luxusai/pi-hindsight",
+  "path": "/packages/@luxusai/pi-hindsight",
+  "url": "https://pi.dev/packages/@luxusai/pi-hindsight",
+  "types": "",
+  "type_list": [],
+  "downloads": 505,
+  "date_ms": 1779273251944,
+  "description_en": "Pi extension for durable Hindsight-backed long-term memory.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

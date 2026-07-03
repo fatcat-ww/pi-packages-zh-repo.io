@@ -1,0 +1,6 @@
+{
+  "name": "pi-byteplus-modelark",
+  "description_en": "Pi extension for BytePlus ModelArk Coding Plan — registers ModelArk as a custom OpenAI-compatible provider with all supported coding models.",
+  "description_zh": "BytePlus ModelArk 编码计划的 Pi 扩展 — 将 ModelArk 注册为具有所有支持编码模型的自定义 OpenAI 兼容提供商",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-kimchi-login",
+  "path": "/packages/pi-kimchi-login",
+  "url": "https://pi.dev/packages/pi-kimchi-login",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782803230821,
+  "description_en": "Pi extension: Kimchi (kimchi-dev) provider with browser login for /login",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

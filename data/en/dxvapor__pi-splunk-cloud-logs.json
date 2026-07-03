@@ -1,0 +1,13 @@
+{
+  "name": "@dxvapor/pi-splunk-cloud-logs",
+  "path": "/packages/@dxvapor/pi-splunk-cloud-logs",
+  "url": "https://pi.dev/packages/@dxvapor/pi-splunk-cloud-logs",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 34,
+  "date_ms": 1776834687661,
+  "description_en": "Pi coding agent extension for querying Splunk Cloud logs via REST API. Supports OAuth2 client credentials and bearer token auth.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

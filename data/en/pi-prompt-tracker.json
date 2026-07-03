@@ -1,0 +1,11 @@
+{
+  "name": "pi-prompt-tracker",
+  "path": "/packages/pi-prompt-tracker",
+  "url": "https://pi.dev/packages/pi-prompt-tracker",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782996790581,
+  "description_en": "Track complete prompts sent to the LLM gateway — system prompt, tools, messages, responses, and usage",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

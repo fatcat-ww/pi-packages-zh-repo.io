@@ -1,0 +1,13 @@
+{
+  "name": "@carter-mcalister/pi-worktrunk",
+  "path": "/packages/@carter-mcalister/pi-worktrunk",
+  "url": "https://pi.dev/packages/@carter-mcalister/pi-worktrunk",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 49,
+  "date_ms": 1775993128789,
+  "description_en": "Worktrunk-backed worktree extension for Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

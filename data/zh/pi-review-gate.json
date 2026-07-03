@@ -1,0 +1,6 @@
+{
+  "name": "pi-review-gate",
+  "description_en": "CI-level merge guardian for AI agents — required reviewers, breaking change detection, stale PR cleanup, and review automation.",
+  "description_zh": "AI代理的CI级别合并守护者 — 必需审查者、破坏性变更检测、过时PR清理和审查自动化。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

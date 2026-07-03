@@ -1,0 +1,13 @@
+{
+  "name": "@aittalam/pi-llamafile",
+  "path": "/packages/@aittalam/pi-llamafile",
+  "url": "https://pi.dev/packages/@aittalam/pi-llamafile",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 54,
+  "date_ms": 1779383337724,
+  "description_en": "Pi extension that supervises local llamafile-served model processes — start, stop, adopt, with progress visible on quit",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

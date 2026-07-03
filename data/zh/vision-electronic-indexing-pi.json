@@ -1,0 +1,6 @@
+{
+  "name": "vision-electronic-indexing-pi",
+  "description_en": "Pi package for agent-assisted electronics/PCB image inventory with Cloudflare Workers AI vision and datasheet enrichment.",
+  "description_zh": "代理辅助的电子/PCB 图像清单的 Pi 包，使用 Cloudflare Workers AI 视觉和数据表丰富功能。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

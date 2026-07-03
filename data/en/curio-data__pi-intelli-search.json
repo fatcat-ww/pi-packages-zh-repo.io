@@ -1,0 +1,13 @@
+{
+  "name": "@curio-data/pi-intelli-search",
+  "path": "/packages/@curio-data/pi-intelli-search",
+  "url": "https://pi.dev/packages/@curio-data/pi-intelli-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 991,
+  "date_ms": 1783020201449,
+  "description_en": "Intelligent web research for Pi: search, extract, collate, and cache grounded web context in one tool call.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

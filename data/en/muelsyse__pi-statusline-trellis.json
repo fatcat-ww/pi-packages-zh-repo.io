@@ -1,0 +1,13 @@
+{
+  "name": "@muelsyse/pi-statusline-trellis",
+  "path": "/packages/@muelsyse/pi-statusline-trellis",
+  "url": "https://pi.dev/packages/@muelsyse/pi-statusline-trellis",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 38,
+  "date_ms": 1779089413211,
+  "description_en": "Fixed two-line status footer for pi with Trellis runtime task display, model, thinking, context, git, token, worktree, and skill indicators",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

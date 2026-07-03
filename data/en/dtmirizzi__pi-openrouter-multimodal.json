@@ -1,0 +1,11 @@
+{
+  "name": "@dtmirizzi/pi-openrouter-multimodal",
+  "path": "/packages/@dtmirizzi/pi-openrouter-multimodal",
+  "url": "https://pi.dev/packages/@dtmirizzi/pi-openrouter-multimodal",
+  "types": "",
+  "type_list": [],
+  "downloads": 530,
+  "date_ms": 1780116176728,
+  "description_en": "OpenRouter multimodal tools for Pi — search, fetch, image gen, vision, video, PDF, TTS, STT",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

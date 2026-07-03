@@ -1,0 +1,6 @@
+{
+  "name": "pi-dcp",
+  "description_en": "Dynamic Context Pruning extension for pi - intelligently removes obsolete messages to optimize token usage",
+  "description_zh": "Pi 的动态上下文修剪扩展 — 智能删除过时消息以优化令牌使用",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

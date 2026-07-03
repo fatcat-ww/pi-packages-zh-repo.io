@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-lsp",
+  "path": "/packages/@arvoretech/pi-lsp",
+  "url": "https://pi.dev/packages/@arvoretech/pi-lsp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 607,
+  "date_ms": 1782475651509,
+  "description_en": "PI extension that bridges Language Server Protocol servers to give the agent real compiler diagnostics, go-to-definition, references, hover and rename",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

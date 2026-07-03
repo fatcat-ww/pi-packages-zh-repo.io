@@ -1,0 +1,11 @@
+{
+  "name": "shopq",
+  "path": "/packages/shopq",
+  "url": "https://pi.dev/packages/shopq",
+  "types": "",
+  "type_list": [],
+  "downloads": 114,
+  "date_ms": 1774773915862,
+  "description_en": "A zero-dependency Shopify Admin CLI built on Bun",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

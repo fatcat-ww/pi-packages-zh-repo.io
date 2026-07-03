@@ -1,0 +1,13 @@
+{
+  "name": "pi-hodor",
+  "path": "/packages/pi-hodor",
+  "url": "https://pi.dev/packages/pi-hodor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 220,
+  "date_ms": 1776848920933,
+  "description_en": "A pi extension that automatically continues after transient stream and connection errors.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

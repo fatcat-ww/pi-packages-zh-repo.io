@@ -1,0 +1,11 @@
+{
+  "name": "@aedge-io/typed-clone",
+  "path": "/packages/@aedge-io/typed-clone",
+  "url": "https://pi.dev/packages/@aedge-io/typed-clone",
+  "types": "",
+  "type_list": [],
+  "downloads": 83,
+  "date_ms": 1775575470068,
+  "description_en": "Type-safe, performant and extensible clone implementation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

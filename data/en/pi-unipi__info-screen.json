@@ -1,0 +1,13 @@
+{
+  "name": "@pi-unipi/info-screen",
+  "path": "/packages/@pi-unipi/info-screen",
+  "url": "https://pi.dev/packages/@pi-unipi/info-screen",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1825,
+  "date_ms": 1782924698706,
+  "description_en": "Dashboard and module registry for Unipi — configurable info overlay with tabbed groups",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

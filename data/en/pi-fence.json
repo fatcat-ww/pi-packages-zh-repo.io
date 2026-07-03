@@ -1,0 +1,11 @@
+{
+  "name": "pi-fence",
+  "path": "/packages/pi-fence",
+  "url": "https://pi.dev/packages/pi-fence",
+  "types": "",
+  "type_list": [],
+  "downloads": 438,
+  "date_ms": 1780254059511,
+  "description_en": "Pi Agent extension: block or warn on fence/divider comments in written code",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

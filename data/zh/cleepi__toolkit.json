@@ -1,0 +1,6 @@
+{
+  "name": "@cleepi/toolkit",
+  "description_en": "The Cleevio agent in one install. Bundles @cleepi/sdd, base, coding, git, crew, atlassian, and ships a `cleepi-toolkit init` CLI to wire them up in one command.",
+  "description_zh": "一站式 Cleevio 代理安装。捆绑 @cleepi/sdd、base、coding、git、crew、atlassian，并提供 `cleepi-toolkit init` CLI 以一键连接它们",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

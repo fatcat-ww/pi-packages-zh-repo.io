@@ -1,0 +1,14 @@
+{
+  "name": "@the-forge-flow/lumen",
+  "path": "/packages/@the-forge-flow/lumen",
+  "url": "https://pi.dev/packages/@the-forge-flow/lumen",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 237,
+  "date_ms": 1778589300198,
+  "description_en": "Illuminate code: skills for diagrams, charts, mermaid, slides, galleries, guides, project recaps, and fact-checks. Works in Claude Code and PI coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

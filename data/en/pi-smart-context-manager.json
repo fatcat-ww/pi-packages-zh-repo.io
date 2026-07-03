@@ -1,0 +1,14 @@
+{
+  "name": "pi-smart-context-manager",
+  "path": "/packages/pi-smart-context-manager",
+  "url": "https://pi.dev/packages/pi-smart-context-manager",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 356,
+  "date_ms": 1780637551636,
+  "description_en": "Intelligent context management for long-session AI agents. Solves U-shaped attention curve and context decay problems with four-level memory hierarchy.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

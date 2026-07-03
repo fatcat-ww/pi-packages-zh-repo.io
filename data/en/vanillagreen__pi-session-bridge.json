@@ -1,0 +1,11 @@
+{
+  "name": "@vanillagreen/pi-session-bridge",
+  "path": "/packages/@vanillagreen/pi-session-bridge",
+  "url": "https://pi.dev/packages/@vanillagreen/pi-session-bridge",
+  "types": "",
+  "type_list": [],
+  "downloads": 576,
+  "date_ms": 1781280400284,
+  "description_en": "Pi extension and CLI for controlling visible interactive Pi sessions over a structured Unix-socket side channel.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

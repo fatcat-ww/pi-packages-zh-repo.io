@@ -1,0 +1,6 @@
+{
+  "name": "@porche/pi-usage",
+  "description_en": "Pi Coding Agent extension for tracking session token usage, provider account limits, and historical local consumption.",
+  "description_zh": "用于跟踪会话令牌使用、提供商账户限制和历史本地消耗的 Pi 编码代理扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

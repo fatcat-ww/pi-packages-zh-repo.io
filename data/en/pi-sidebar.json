@@ -1,0 +1,11 @@
+{
+  "name": "pi-sidebar",
+  "path": "/packages/pi-sidebar",
+  "url": "https://pi.dev/packages/pi-sidebar",
+  "types": "",
+  "type_list": [],
+  "downloads": 233,
+  "date_ms": 1780180917940,
+  "description_en": "Floating right sidebar for pi with git diff/status and session metadata.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

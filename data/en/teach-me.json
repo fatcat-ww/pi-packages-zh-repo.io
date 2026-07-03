@@ -1,0 +1,13 @@
+{
+  "name": "teach-me",
+  "path": "/packages/teach-me",
+  "url": "https://pi.dev/packages/teach-me",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 178,
+  "date_ms": 1779011663940,
+  "description_en": "A Socratic learning system with literature review and curriculum building",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

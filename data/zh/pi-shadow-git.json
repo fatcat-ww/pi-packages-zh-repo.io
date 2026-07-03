@@ -1,0 +1,6 @@
+{
+  "name": "pi-shadow-git",
+  "description_en": "Git-based orchestration logging for pi subagents with Mission Control dashboard",
+  "description_zh": "用于 pi 子代理的基于 Git 的编排日志，附带任务控制面板。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

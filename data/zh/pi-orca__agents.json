@@ -1,0 +1,6 @@
+{
+  "name": "@pi-orca/agents",
+  "description_en": "Subagent lifecycle via SDK/RPC/tmux",
+  "description_zh": "通过 SDK/RPC/tmux 的子代理生命周期",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

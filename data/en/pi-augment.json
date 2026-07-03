@@ -1,0 +1,13 @@
+{
+  "name": "pi-augment",
+  "path": "/packages/pi-augment",
+  "url": "https://pi.dev/packages/pi-augment",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 326,
+  "date_ms": 1780407834702,
+  "description_en": "Augment-style prompt rewriter for Pi — one command, stronger prompts",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

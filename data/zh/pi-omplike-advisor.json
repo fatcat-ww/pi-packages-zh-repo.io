@@ -1,0 +1,6 @@
+{
+  "name": "pi-omplike-advisor",
+  "description_en": "Pi extension: a persistent second model that reviews the main agent's work each turn and injects concise advice inline.",
+  "description_zh": "Pi 扩展：一个持久的第二个模型，每轮检查主代理的工作并内联注入简洁的建议。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

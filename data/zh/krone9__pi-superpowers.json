@@ -1,0 +1,6 @@
+{
+  "name": "@krone9/pi-superpowers",
+  "description_en": "Process-discipline skills bundle for pi (brainstorming, systematic debugging, TDD, plans, verification, worktrees, parallel agents). Inspired by Claude Code's superpowers plugin.",
+  "description_zh": "pi 的流程纪律技能包（头脑风暴、系统化调试、TDD、计划、验证、工作树、并行代理）。受 Claude Code 的 superpowers 插件启发。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

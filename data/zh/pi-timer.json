@@ -1,0 +1,6 @@
+{
+  "name": "pi-timer",
+  "description_en": "Pi package that shows a per-run elapsed timer inline in the footer.",
+  "description_zh": "Pi 包，在页脚内联显示每次运行的计时器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

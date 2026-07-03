@@ -1,0 +1,13 @@
+{
+  "name": "pi-lightpanda-extension",
+  "path": "/packages/pi-lightpanda-extension",
+  "url": "https://pi.dev/packages/pi-lightpanda-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 37,
+  "date_ms": 1778513923463,
+  "description_en": "Pi extension exposing Lightpanda web tools plus Playwright-backed real visual screenshots.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

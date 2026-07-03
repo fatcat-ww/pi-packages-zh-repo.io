@@ -1,0 +1,6 @@
+{
+  "name": "pi-slop-review",
+  "description_en": "Native diff review window for AI coding agents (pi, Claude Code, Codex CLI). Opens a Monaco-powered review UI in a Glimpse window so you can leave inline / file-level / overall comments on the agent's slop, then have the agent address each item. Adapted f",
+  "description_zh": "AI 编码代理（pi、Claude Code、Codex CLI）的原生差异审查窗口。在 Glimpse 窗口中打开由 Monaco 驱动的审查 UI，以便在代理的代码草稿上添加内联/文件级/总体评论，然后让代理解决每个问题。改编自",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

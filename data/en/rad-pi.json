@@ -1,0 +1,11 @@
+{
+  "name": "rad-pi",
+  "path": "/packages/rad-pi",
+  "url": "https://pi.dev/packages/rad-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 400,
+  "date_ms": 1782455493876,
+  "description_en": "Default Radicle package for pi: core deterministic tooling",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

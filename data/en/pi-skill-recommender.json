@@ -1,0 +1,14 @@
+{
+  "name": "pi-skill-recommender",
+  "path": "/packages/pi-skill-recommender",
+  "url": "https://pi.dev/packages/pi-skill-recommender",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 168,
+  "date_ms": 1781805510477,
+  "description_en": "Pi package that observes repeated workflows and drafts reusable skills from them.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

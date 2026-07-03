@@ -1,0 +1,13 @@
+{
+  "name": "pi-mono-usage",
+  "path": "/packages/pi-mono-usage",
+  "url": "https://pi.dev/packages/pi-mono-usage",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 54,
+  "date_ms": 1778431853292,
+  "description_en": "Pi extension that aggregates local session usage, cost and sustainability impact",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

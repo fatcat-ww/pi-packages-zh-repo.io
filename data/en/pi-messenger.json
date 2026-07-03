@@ -1,0 +1,13 @@
+{
+  "name": "pi-messenger",
+  "path": "/packages/pi-messenger",
+  "url": "https://pi.dev/packages/pi-messenger",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 671,
+  "date_ms": 1775268859145,
+  "description_en": "Inter-agent messaging and file reservation system for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

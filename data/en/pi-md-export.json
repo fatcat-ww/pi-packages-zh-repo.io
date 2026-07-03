@@ -1,0 +1,11 @@
+{
+  "name": "pi-md-export",
+  "path": "/packages/pi-md-export",
+  "url": "https://pi.dev/packages/pi-md-export",
+  "types": "",
+  "type_list": [],
+  "downloads": 109,
+  "date_ms": 1778173572633,
+  "description_en": "Export Pi sessions (last N turns, full branch, or full session) to readable Markdown on clipboard or local file, with opt-in tool call and thinking block inclusion",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

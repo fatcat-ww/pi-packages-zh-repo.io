@@ -1,0 +1,6 @@
+{
+  "name": "pi-lodestone",
+  "description_en": "Persistent memory for the Pi coding agent, tuned for local LLMs. Curated decisions, preferences, and workflows that survive future sessions, with cheap context-aware injection.",
+  "description_zh": "Pi 编码代理的持久内存，针对本地 LLM 进行优化。精选的决策、偏好和工作流程可在未来会话中保留，具有低成本上下文感知注入功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

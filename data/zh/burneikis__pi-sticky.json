@@ -1,0 +1,6 @@
+{
+  "name": "@burneikis/pi-sticky",
+  "description_en": "Keeps the chat input and footer pinned to the bottom of the terminal while you scroll — works alongside pi-vim, pi-status, and any other extensions",
+  "description_zh": "将聊天输入和页脚固定在终端底部，同时您可滚动浏览 — 与 pi-vim、pi-status 和任何其他扩展配合使用。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@barlevalon/grill-with-docs-skill",
+  "description_en": "Composable grilling session that pressure-tests plans while maintaining CONTEXT.md and ADRs as decisions crystallise.",
+  "description_zh": "可组合的烧烤会话，在决策形成时压力测试计划，同时维护 CONTEXT.md 和 ADR",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

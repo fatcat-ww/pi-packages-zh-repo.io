@@ -1,0 +1,13 @@
+{
+  "name": "@kylebrodeur/pi-model-router",
+  "path": "/packages/@kylebrodeur/pi-model-router",
+  "url": "https://pi.dev/packages/@kylebrodeur/pi-model-router",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 186,
+  "date_ms": 1782662341611,
+  "description_en": "Intelligent per-turn model router extension for the pi coding agent (Enhanced Fork)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

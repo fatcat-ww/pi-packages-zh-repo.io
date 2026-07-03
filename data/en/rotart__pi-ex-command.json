@@ -1,0 +1,14 @@
+{
+  "name": "@rotart/pi-ex-command",
+  "path": "/packages/@rotart/pi-ex-command",
+  "url": "https://pi.dev/packages/@rotart/pi-ex-command",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 487,
+  "date_ms": 1781147443414,
+  "description_en": "Pi extension — /order command for prompt template management with system prompt injection.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

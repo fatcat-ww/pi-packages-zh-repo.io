@@ -1,0 +1,13 @@
+{
+  "name": "pi-zhihu-search",
+  "path": "/packages/pi-zhihu-search",
+  "url": "https://pi.dev/packages/pi-zhihu-search",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 90,
+  "date_ms": 1780670782065,
+  "description_en": "知乎开放平台搜索能力 pi skill 合集：知乎站内搜索、直答、全网搜索、热榜 — 四合一，开箱即用",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

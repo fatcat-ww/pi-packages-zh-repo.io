@@ -1,0 +1,13 @@
+{
+  "name": "pi-agents-talk-to-each-other",
+  "path": "/packages/pi-agents-talk-to-each-other",
+  "url": "https://pi.dev/packages/pi-agents-talk-to-each-other",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782683627116,
+  "description_en": "A Pi extension that lets local Pi agents join rooms, see each other, and send tasks/messages.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@ifi/pi-bash-live-view",
+  "description_en": "PTY-backed live bash rendering for pi with a real-time terminal widget and /bash-pty command.",
+  "description_zh": "带有实时终端小部件和 /bash-pty 命令的 PTY 支持的实时 bash 渲染，用于 pi",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

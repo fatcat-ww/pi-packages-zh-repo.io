@@ -1,0 +1,13 @@
+{
+  "name": "@danchamorro/pi-handoff-agent",
+  "path": "/packages/@danchamorro/pi-handoff-agent",
+  "url": "https://pi.dev/packages/@danchamorro/pi-handoff-agent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 69,
+  "date_ms": 1779062652606,
+  "description_en": "Export clean Pi session handoffs for portable agent continuity",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@weshipwork/pi-herdr",
+  "path": "/packages/@weshipwork/pi-herdr",
+  "url": "https://pi.dev/packages/@weshipwork/pi-herdr",
+  "types": "",
+  "type_list": [],
+  "downloads": 168,
+  "date_ms": 1781537293319,
+  "description_en": "Pi extension for orchestrating herdr workspaces, tabs, and panes from inside herdr.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

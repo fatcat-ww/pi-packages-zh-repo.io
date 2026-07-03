@@ -1,0 +1,13 @@
+{
+  "name": "@bacnh85/pi-web",
+  "path": "/packages/@bacnh85/pi-web",
+  "url": "https://pi.dev/packages/@bacnh85/pi-web",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 417,
+  "date_ms": 1783066126801,
+  "description_en": "Pi extension for web search, page extraction, Firecrawl scraping/crawling, and Crawl4AI headless browser crawling.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

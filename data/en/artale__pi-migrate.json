@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-migrate",
+  "path": "/packages/@artale/pi-migrate",
+  "url": "https://pi.dev/packages/@artale/pi-migrate",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 30,
+  "date_ms": 1772992895104,
+  "description_en": "Code migration and codemods. Detect outdated patterns, check dependencies, generate migration plans.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

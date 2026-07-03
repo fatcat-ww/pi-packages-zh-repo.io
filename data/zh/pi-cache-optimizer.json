@@ -1,0 +1,6 @@
+{
+  "name": "pi-cache-optimizer",
+  "description_en": "Improve Pi prompt/KV cache hit rates with stable prompts, OpenAI-compatible cache keys, proxy compat warnings, and footer cache stats.",
+  "description_zh": "通过稳定提示、OpenAI 兼容的缓存键、代理兼容警告和页脚缓存统计来提高 Pi 提示/KV 缓存命中率",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

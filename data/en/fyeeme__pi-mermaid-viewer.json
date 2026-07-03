@@ -1,0 +1,11 @@
+{
+  "name": "@fyeeme/pi-mermaid-viewer",
+  "path": "/packages/@fyeeme/pi-mermaid-viewer",
+  "url": "https://pi.dev/packages/@fyeeme/pi-mermaid-viewer",
+  "types": "",
+  "type_list": [],
+  "downloads": 111,
+  "date_ms": 1781545761056,
+  "description_en": "Render Mermaid diagrams from the conversation in the browser.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

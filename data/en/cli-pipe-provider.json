@@ -1,0 +1,11 @@
+{
+  "name": "cli-pipe-provider",
+  "path": "/packages/cli-pipe-provider",
+  "url": "https://pi.dev/packages/cli-pipe-provider",
+  "types": "",
+  "type_list": [],
+  "downloads": 97,
+  "date_ms": 1771641470347,
+  "description_en": "pi-ai provider for CLI tools that speak the stream-json format, with MCP tool bridge support",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

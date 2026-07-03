@@ -1,0 +1,11 @@
+{
+  "name": "@jakeryderv/pi-artifacts",
+  "path": "/packages/@jakeryderv/pi-artifacts",
+  "url": "https://pi.dev/packages/@jakeryderv/pi-artifacts",
+  "types": "",
+  "type_list": [],
+  "downloads": 7,
+  "date_ms": 1782580770997,
+  "description_en": "Rich visualization artifacts for the Pi coding agent: scaffold, validate, and preview portable markdown and html bundles.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

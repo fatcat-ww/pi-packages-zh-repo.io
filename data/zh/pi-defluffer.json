@@ -1,0 +1,6 @@
+{
+  "name": "pi-defluffer",
+  "description_en": "Pi extension that safely defluffs user prompts before sending them to the model.",
+  "description_zh": "Pi 扩展，在将用户提示发送到模型之前安全地去除冗余内容",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

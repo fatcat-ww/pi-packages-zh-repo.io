@@ -1,0 +1,6 @@
+{
+  "name": "@nerisma/pi-agents",
+  "description_en": "Specialized agent system for pi: task delegation, activation/deactivation, and system prompt injection via .md files.",
+  "description_zh": "pi 的专业化代理系统：任务委派、激活/停用，以及通过 .md 文件进行系统提示注入。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "vim-motions-pi",
+  "path": "/packages/vim-motions-pi",
+  "url": "https://pi.dev/packages/vim-motions-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 253,
+  "date_ms": 1782054992030,
+  "description_en": "A focused Vim-style editing layer for pi, with motions, text objects, visual selections, and clipboard sync",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

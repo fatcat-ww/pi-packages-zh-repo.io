@@ -1,0 +1,13 @@
+{
+  "name": "@alexanderfortin/pi-share-opengist",
+  "path": "/packages/@alexanderfortin/pi-share-opengist",
+  "url": "https://pi.dev/packages/@alexanderfortin/pi-share-opengist",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782808143902,
+  "description_en": "Pi extension that shares sessions to a self-hosted Opengist instance",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

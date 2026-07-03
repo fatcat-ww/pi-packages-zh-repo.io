@@ -1,0 +1,6 @@
+{
+  "name": "@anierbeck/pi-model-dynamic-router",
+  "description_en": "Pi extension that routes model groups to concrete models. Balances intelligence, cost, and availability.",
+  "description_zh": "Pi 扩展，将模型组路由到具体模型。平衡智能、成本和可用性",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

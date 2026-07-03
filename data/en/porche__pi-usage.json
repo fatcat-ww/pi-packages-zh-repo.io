@@ -1,0 +1,11 @@
+{
+  "name": "@porche/pi-usage",
+  "path": "/packages/@porche/pi-usage",
+  "url": "https://pi.dev/packages/@porche/pi-usage",
+  "types": "",
+  "type_list": [],
+  "downloads": 214,
+  "date_ms": 1778537229444,
+  "description_en": "Pi Coding Agent extension for tracking session token usage, provider account limits, and historical local consumption.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

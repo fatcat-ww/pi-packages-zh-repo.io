@@ -1,0 +1,13 @@
+{
+  "name": "@chrischow/pi-lockdown",
+  "path": "/packages/@chrischow/pi-lockdown",
+  "url": "https://pi.dev/packages/@chrischow/pi-lockdown",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 463,
+  "date_ms": 1781332332838,
+  "description_en": "A Pi extension to add security constraints to agent tool usage.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@mrclrchtr/supi-context",
+  "path": "/packages/@mrclrchtr/supi-context",
+  "url": "https://pi.dev/packages/@mrclrchtr/supi-context",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2845,
+  "date_ms": 1783012913244,
+  "description_en": "SuPi Context extension — detailed context usage report via /supi-context command",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

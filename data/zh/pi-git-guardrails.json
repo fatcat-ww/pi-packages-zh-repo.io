@@ -1,0 +1,6 @@
+{
+  "name": "pi-git-guardrails",
+  "description_en": "Native Pi extension that blocks dangerous git operations, including git calls hidden inside scripts.",
+  "description_zh": "原生 Pi 扩展，阻止危险的 git 操作，包括隐藏在脚本中的 git 调用。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

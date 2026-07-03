@@ -1,0 +1,11 @@
+{
+  "name": "pi-agent-browser",
+  "path": "/packages/pi-agent-browser",
+  "url": "https://pi.dev/packages/pi-agent-browser",
+  "types": "",
+  "type_list": [],
+  "downloads": 568,
+  "date_ms": 1770608523217,
+  "description_en": "Browser automation tool for pi — interactive browsing, screenshots with inline vision, and session cleanup via agent-browser CLI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

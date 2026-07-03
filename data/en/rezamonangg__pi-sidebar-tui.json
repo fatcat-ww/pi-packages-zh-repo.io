@@ -1,0 +1,11 @@
+{
+  "name": "@rezamonangg/pi-sidebar-tui",
+  "path": "/packages/@rezamonangg/pi-sidebar-tui",
+  "url": "https://pi.dev/packages/@rezamonangg/pi-sidebar-tui",
+  "types": "",
+  "type_list": [],
+  "downloads": 391,
+  "date_ms": 1780416386932,
+  "description_en": "Tmux right sidebar for Pi showing git file changes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

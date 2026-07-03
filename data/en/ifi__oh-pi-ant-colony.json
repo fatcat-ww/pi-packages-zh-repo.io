@@ -1,0 +1,11 @@
+{
+  "name": "@ifi/oh-pi-ant-colony",
+  "path": "/packages/@ifi/oh-pi-ant-colony",
+  "url": "https://pi.dev/packages/@ifi/oh-pi-ant-colony",
+  "types": "",
+  "type_list": [],
+  "downloads": 399,
+  "date_ms": 1777355437668,
+  "description_en": "Autonomous multi-agent swarm extension for pi — adaptive concurrency, pheromone communication.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

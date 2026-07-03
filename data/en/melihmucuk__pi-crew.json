@@ -1,0 +1,11 @@
+{
+  "name": "@melihmucuk/pi-crew",
+  "path": "/packages/@melihmucuk/pi-crew",
+  "url": "https://pi.dev/packages/@melihmucuk/pi-crew",
+  "types": "",
+  "type_list": [],
+  "downloads": 578,
+  "date_ms": 1782286908419,
+  "description_en": "Non-blocking subagent orchestration for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@tavily/pi-extension",
+  "path": "/packages/@tavily/pi-extension",
+  "url": "https://pi.dev/packages/@tavily/pi-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 233,
+  "date_ms": 1779220775148,
+  "description_en": "Official Tavily extension for the Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@agnishc/edb-append-system-prompt",
+  "description_en": "Pi extension: manage per-session system prompt snippets with add/delete UI",
+  "description_zh": "Pi 扩展：通过添加/删除 UI 管理每个会话的系统提示片段",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

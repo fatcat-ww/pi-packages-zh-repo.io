@@ -1,0 +1,11 @@
+{
+  "name": "@jayjnu/pi-auto-review",
+  "path": "/packages/@jayjnu/pi-auto-review",
+  "url": "https://pi.dev/packages/@jayjnu/pi-auto-review",
+  "types": "",
+  "type_list": [],
+  "downloads": 284,
+  "date_ms": 1780566589681,
+  "description_en": "Pi package that automatically queues a read-only code review after agent code changes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

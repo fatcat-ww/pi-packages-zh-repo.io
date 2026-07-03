@@ -1,0 +1,13 @@
+{
+  "name": "pi-browser-search",
+  "path": "/packages/pi-browser-search",
+  "url": "https://pi.dev/packages/pi-browser-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783066040327,
+  "description_en": "Pi extension: web search and browsing through a real Playwright browser — JS-rendered pages, cookie walls, SPAs — with prompt-injection sanitization and network-level SSRF protection.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

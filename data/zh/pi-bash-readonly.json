@@ -1,0 +1,6 @@
+{
+  "name": "pi-bash-readonly",
+  "description_en": "Sandboxed read-only bash for Pi agents via bwrap",
+  "description_zh": "通过 bwrap 为 Pi 代理提供沙盒化的只读 bash。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

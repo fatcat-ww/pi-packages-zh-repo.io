@@ -1,0 +1,11 @@
+{
+  "name": "@alexanderfortin/pi-loaded-tools",
+  "path": "/packages/@alexanderfortin/pi-loaded-tools",
+  "url": "https://pi.dev/packages/@alexanderfortin/pi-loaded-tools",
+  "types": "",
+  "type_list": [],
+  "downloads": 225,
+  "date_ms": 1779192686188,
+  "description_en": "Pi coding agent extension for listing loaded tools with source provenance",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

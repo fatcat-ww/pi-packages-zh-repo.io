@@ -1,0 +1,13 @@
+{
+  "name": "pi-ollama-cloud-provider",
+  "path": "/packages/pi-ollama-cloud-provider",
+  "url": "https://pi.dev/packages/pi-ollama-cloud-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 339,
+  "date_ms": 1781507670908,
+  "description_en": "Ollama Cloud provider extension for pi coding agent with dynamic model discovery",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

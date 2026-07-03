@@ -1,0 +1,13 @@
+{
+  "name": "pi-safeguard",
+  "path": "/packages/pi-safeguard",
+  "url": "https://pi.dev/packages/pi-safeguard",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 71,
+  "date_ms": 1773592316098,
+  "description_en": "LLM-as-judge guardrail for pi · from yapp",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

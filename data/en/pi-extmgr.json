@@ -1,0 +1,13 @@
+{
+  "name": "pi-extmgr",
+  "path": "/packages/pi-extmgr",
+  "url": "https://pi.dev/packages/pi-extmgr",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 737,
+  "date_ms": 1778496953943,
+  "description_en": "Enhanced UX for managing local Pi extensions and community packages",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

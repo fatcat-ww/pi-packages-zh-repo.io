@@ -1,0 +1,6 @@
+{
+  "name": "@regent-vcs/pi-extension",
+  "description_en": "Pi extension package that forwards session events to re_gent.",
+  "description_zh": "将会话事件转发给 re_gent 的 Pi 扩展包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

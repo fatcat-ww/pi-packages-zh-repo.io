@@ -1,0 +1,11 @@
+{
+  "name": "@piotr-oles/pi-title",
+  "path": "/packages/@piotr-oles/pi-title",
+  "url": "https://pi.dev/packages/@piotr-oles/pi-title",
+  "types": "",
+  "type_list": [],
+  "downloads": 132,
+  "date_ms": 1782838076858,
+  "description_en": "Pi Agent extension: generate a short session title from the first user message",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

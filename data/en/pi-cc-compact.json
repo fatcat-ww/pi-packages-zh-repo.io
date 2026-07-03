@@ -1,0 +1,13 @@
+{
+  "name": "pi-cc-compact",
+  "path": "/packages/pi-cc-compact",
+  "url": "https://pi.dev/packages/pi-cc-compact",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782797103204,
+  "description_en": "Ports Claude Code's compaction prompt (9-section <analysis>+<summary>) to pi's session_before_compact hook. Faithful reconstruction of the leaked full-compact prompt.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

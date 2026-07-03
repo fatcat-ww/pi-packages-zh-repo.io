@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-refactor",
+  "path": "/packages/@artale/pi-refactor",
+  "url": "https://pi.dev/packages/@artale/pi-refactor",
+  "types": "",
+  "type_list": [],
+  "downloads": 33,
+  "date_ms": 1773502973720,
+  "description_en": "Iterative refactoring for Pi. Analyze → refactor → verify cycles with git commits per pass.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

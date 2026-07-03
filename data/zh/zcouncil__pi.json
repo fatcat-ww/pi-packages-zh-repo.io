@@ -1,0 +1,6 @@
+{
+  "name": "@zcouncil/pi",
+  "description_en": "Pi package exposing one /chat-style zcouncil tool backed by the zcouncil SDK and bridge-aware backend.",
+  "description_zh": "Pi 包，通过 zcouncil SDK 和桥接感知后端提供一个 /chat 风格的 zcouncil 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

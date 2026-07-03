@@ -1,0 +1,13 @@
+{
+  "name": "pi-model-flash",
+  "path": "/packages/pi-model-flash",
+  "url": "https://pi.dev/packages/pi-model-flash",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 18,
+  "date_ms": 1779097833112,
+  "description_en": "Pi extension that flashes the current model name in BIG block letters when you cycle models with Ctrl+P.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

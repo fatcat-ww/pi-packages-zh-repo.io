@@ -1,0 +1,6 @@
+{
+  "name": "@capyup/pi-obsidian",
+  "description_en": "pi extension that wraps the Obsidian CLI as typed tools — read, list, search, outline, create, append, open, backlinks, tags, and daily-append against the active vault.",
+  "description_zh": "pi 扩展，将 Obsidian CLI 包装为类型化工具 — 对活跃 vault 进行读取、列表、搜索、大纲、创建、附加、打开、反向链接、标签和每日追加操作",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@brain0pia/pi-ultrathink",
+  "path": "/packages/@brain0pia/pi-ultrathink",
+  "url": "https://pi.dev/packages/@brain0pia/pi-ultrathink",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 148,
+  "date_ms": 1774467324050,
+  "description_en": "Pi extension for /ultrathink review loops with conditional git commits",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

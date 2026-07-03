@@ -1,0 +1,14 @@
+{
+  "name": "pi-skill-model-effort",
+  "path": "/packages/pi-skill-model-effort",
+  "url": "https://pi.dev/packages/pi-skill-model-effort",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 42,
+  "date_ms": 1778170553831,
+  "description_en": "Pi extension that honors model, effort, and thinking frontmatter on skills.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

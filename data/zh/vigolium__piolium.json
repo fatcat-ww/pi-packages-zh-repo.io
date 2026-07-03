@@ -1,0 +1,6 @@
+{
+  "name": "@vigolium/piolium",
+  "description_en": "Multi-phase security audits with specialist sub-agents, isolated context windows, capped concurrency, and resumable state — packaged as a Pi extension.",
+  "description_zh": "使用专业子代理的多阶段安全审计，具有隔离的上下文窗口、限制的并发性和可恢复状态 — 打包为 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

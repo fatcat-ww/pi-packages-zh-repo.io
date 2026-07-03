@@ -1,0 +1,11 @@
+{
+  "name": "@arvoretech/pi-changes-tracker",
+  "path": "/packages/@arvoretech/pi-changes-tracker",
+  "url": "https://pi.dev/packages/@arvoretech/pi-changes-tracker",
+  "types": "",
+  "type_list": [],
+  "downloads": 335,
+  "date_ms": 1782217134543,
+  "description_en": "PI extension that shows changed repos and files with /changed and /changes commands",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

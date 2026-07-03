@@ -1,0 +1,13 @@
+{
+  "name": "@zigai/pi-footer",
+  "path": "/packages/@zigai/pi-footer",
+  "url": "https://pi.dev/packages/@zigai/pi-footer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1587,
+  "date_ms": 1782833508110,
+  "description_en": "Pi package that replaces Pi's footer with a compact status line.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

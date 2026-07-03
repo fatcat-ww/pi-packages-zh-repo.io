@@ -1,0 +1,11 @@
+{
+  "name": "@zhushanwen/pi-claude-rules-loader",
+  "path": "/packages/@zhushanwen/pi-claude-rules-loader",
+  "url": "https://pi.dev/packages/@zhushanwen/pi-claude-rules-loader",
+  "types": "",
+  "type_list": [],
+  "downloads": 260,
+  "date_ms": 1780661061904,
+  "description_en": "Load CLAUDE.md rules for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

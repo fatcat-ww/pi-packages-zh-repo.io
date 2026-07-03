@@ -1,0 +1,13 @@
+{
+  "name": "nightmanager",
+  "path": "/packages/nightmanager",
+  "url": "https://pi.dev/packages/nightmanager",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 114,
+  "date_ms": 1778569068130,
+  "description_en": "Finder, Oracle, Manager, and Worker tools for Pi's Nightmanager workflow",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

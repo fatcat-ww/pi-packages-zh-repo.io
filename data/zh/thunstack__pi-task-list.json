@@ -1,0 +1,6 @@
+{
+  "name": "@thunstack/pi-task-list",
+  "description_en": "Claude Code style task list for Pi, implicitly managed by the agent without a dedicated plan mode.",
+  "description_zh": "Pi 的 Claude Code 风格任务列表，由代理隐式管理，无需专用计划模式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-mdxml-context",
+  "path": "/packages/pi-mdxml-context",
+  "url": "https://pi.dev/packages/pi-mdxml-context",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 493,
+  "date_ms": 1782961007934,
+  "description_en": "Pi extension that converts Markdown context to XML-like structure at model send time",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

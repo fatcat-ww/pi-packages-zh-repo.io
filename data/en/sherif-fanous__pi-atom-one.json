@@ -1,0 +1,13 @@
+{
+  "name": "@sherif-fanous/pi-atom-one",
+  "path": "/packages/@sherif-fanous/pi-atom-one",
+  "url": "https://pi.dev/packages/@sherif-fanous/pi-atom-one",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 64,
+  "date_ms": 1775343283977,
+  "description_en": "Atom One themes for the Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

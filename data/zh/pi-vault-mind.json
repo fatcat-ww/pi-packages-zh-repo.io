@@ -1,0 +1,6 @@
+{
+  "name": "pi-vault-mind",
+  "description_en": "Passive Obsidian vault extension for pi. Watches @agent markers, dispatches forked subagents (Miner, Broadcaster, Heavy-Lifter), stores in LanceDB with vector + FTS + graph. Multi-agent 'Drop & Forget' workflow for the pi agent ecosystem.",
+  "description_zh": "Pi 的被动 Obsidian 保险库扩展。监视 @agent 标记，分叉子代理（Miner、Broadcaster、Heavy-Lifter），存储在 LanceDB 中，具有向量 + FTS + 图形。Pi 代理生态系统的多代理'放下即忘'工作流",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

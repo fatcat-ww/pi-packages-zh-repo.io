@@ -1,0 +1,6 @@
+{
+  "name": "@qagent/pidev-package",
+  "description_en": "Let Pi QA your web app in a real browser and return evidence-backed pass/fail checks.",
+  "description_zh": "让 Pi 在真实浏览器中测试您的 Web 应用并返回基于证据的通过/失败检查",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-footer-bar",
+  "path": "/packages/pi-footer-bar",
+  "url": "https://pi.dev/packages/pi-footer-bar",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 232,
+  "date_ms": 1780325487526,
+  "description_en": "An independent fork of pi-bar showing extra metrics and status info in pi's footer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

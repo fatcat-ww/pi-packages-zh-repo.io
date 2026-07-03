@@ -1,0 +1,6 @@
+{
+  "name": "pi-libp2p-mesh",
+  "description_en": "P2P mesh network extension for pi agents built on libp2p — peer discovery, direct messaging, and gossip broadcast.",
+  "description_zh": "基于 libp2p 构建的 pi 代理的 P2P 网状网络扩展 — 对等发现、直接消息传递和闲谈广播。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

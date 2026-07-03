@@ -1,0 +1,6 @@
+{
+  "name": "pi-router",
+  "description_en": "Intelligent routing layer for pi coding agent with multi-level failover, circuit breaker, and comprehensive observability",
+  "description_zh": "pi 编码代理的智能路由层，具有多级故障转移、断路器和全面的可观察性",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

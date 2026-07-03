@@ -1,0 +1,15 @@
+{
+  "name": "pi-shit",
+  "path": "/packages/pi-shit",
+  "url": "https://pi.dev/packages/pi-shit",
+  "types": "extension skill theme",
+  "type_list": [
+    "extension",
+    "skill",
+    "theme"
+  ],
+  "downloads": 500,
+  "date_ms": 1780419462981,
+  "description_en": "Personal Pi package bundling extensions, skills, and Rose Pine themes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

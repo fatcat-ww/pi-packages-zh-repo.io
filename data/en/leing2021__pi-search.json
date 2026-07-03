@@ -1,0 +1,13 @@
+{
+  "name": "@leing2021/pi-search",
+  "path": "/packages/@leing2021/pi-search",
+  "url": "https://pi.dev/packages/@leing2021/pi-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 92,
+  "date_ms": 1778161755032,
+  "description_en": "Minimal Secure Evidence Gateway for Pi Coding Agent — search, web_search, web_fetch, research_search. Intent-based provider routing, quota fallback, dual-LLM research, 4-layer abuse prevention.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-supergsd",
+  "path": "/packages/pi-supergsd",
+  "url": "https://pi.dev/packages/pi-supergsd",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 1751,
+  "date_ms": 1781655281615,
+  "description_en": "Curated, patched Superpowers skills packaged for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

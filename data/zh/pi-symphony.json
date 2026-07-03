@@ -1,0 +1,6 @@
+{
+  "name": "pi-symphony",
+  "description_en": "Unattended issue orchestration for Pi — polls Linear, spawns workers, manages PRs",
+  "description_zh": "Pi 的无人值守问题编排 — 轮询 Linear、生成 worker、管理 PR",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

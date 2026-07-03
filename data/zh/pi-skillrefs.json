@@ -1,0 +1,6 @@
+{
+  "name": "pi-skillrefs",
+  "description_en": "Pi extension package that autocompletes $skill refs and injects referenced skill bodies as visible environment context.",
+  "description_zh": "Pi 扩展包，自动完成 $skill 引用并将引用的技能主体作为可见环境上下文注入",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-uv",
+  "path": "/packages/pi-uv",
+  "url": "https://pi.dev/packages/pi-uv",
+  "types": "",
+  "type_list": [],
+  "downloads": 31,
+  "date_ms": 1781011293452,
+  "description_en": "pi extension — auto-rewrites Python commands to execute inside a uv-managed virtual environment",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

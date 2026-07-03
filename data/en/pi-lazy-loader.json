@@ -1,0 +1,13 @@
+{
+  "name": "pi-lazy-loader",
+  "path": "/packages/pi-lazy-loader",
+  "url": "https://pi.dev/packages/pi-lazy-loader",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 49,
+  "date_ms": 1777270020125,
+  "description_en": "Lazy-load pi-coding-agent extensions on first slash-command use. Keeps slash commands discoverable while deferring heavy module loads until activation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

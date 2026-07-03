@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-git-graph",
+  "path": "/packages/@artale/pi-git-graph",
+  "url": "https://pi.dev/packages/@artale/pi-git-graph",
+  "types": "",
+  "type_list": [],
+  "downloads": 55,
+  "date_ms": 1776777888310,
+  "description_en": "Visual git history — ASCII commit graph, branch map, contributor stats",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

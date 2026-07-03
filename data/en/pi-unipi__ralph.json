@@ -1,0 +1,13 @@
+{
+  "name": "@pi-unipi/ralph",
+  "path": "/packages/@pi-unipi/ralph",
+  "url": "https://pi.dev/packages/@pi-unipi/ralph",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1327,
+  "date_ms": 1782924716221,
+  "description_en": "Long-running iterative development loops for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

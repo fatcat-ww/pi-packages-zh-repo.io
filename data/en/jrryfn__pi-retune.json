@@ -1,0 +1,13 @@
+{
+  "name": "@jrryfn/pi-retune",
+  "path": "/packages/@jrryfn/pi-retune",
+  "url": "https://pi.dev/packages/@jrryfn/pi-retune",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 46,
+  "date_ms": 1776734199477,
+  "description_en": "One-command session renamer toggle for pi (retune/restore).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

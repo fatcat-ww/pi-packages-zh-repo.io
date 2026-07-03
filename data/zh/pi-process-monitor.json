@@ -1,0 +1,6 @@
+{
+  "name": "pi-process-monitor",
+  "description_en": "Non-blocking background watcher for pi — start a process, SSH poll, or log tail and get pinged in-session on milestones, failure, or exit. Claude Code's Monitor tool, with conditional delivery.",
+  "description_zh": "pi 的非阻塞后台监视器 — 启动进程、SSH 轮询或日志跟踪，并在里程碑、失败或退出时在会话中收到通知。Claude Code 的 Monitor 工具，具有条件传递功能。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

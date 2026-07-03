@@ -1,0 +1,13 @@
+{
+  "name": "pi-block-unknown-command",
+  "path": "/packages/pi-block-unknown-command",
+  "url": "https://pi.dev/packages/pi-block-unknown-command",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 24,
+  "date_ms": 1777055754151,
+  "description_en": "A pi extension that blocks unknown slash commands before they reach the LLM.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

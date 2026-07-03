@@ -1,0 +1,6 @@
+{
+  "name": "@kmalkenneth/pi-watch",
+  "description_en": "Pi extension that watches for AI comments in your code and sends them to the agent",
+  "description_zh": "Pi 扩展，监视代码中的 AI 注释并将其发送给代理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

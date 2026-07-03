@@ -1,0 +1,13 @@
+{
+  "name": "@pi-unipi/core",
+  "path": "/packages/@pi-unipi/core",
+  "url": "https://pi.dev/packages/@pi-unipi/core",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3167,
+  "date_ms": 1782924677951,
+  "description_en": "Shared utilities, event types, and constants for Unipi extension suite",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

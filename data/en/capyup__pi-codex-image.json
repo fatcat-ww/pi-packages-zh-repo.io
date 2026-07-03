@@ -1,0 +1,14 @@
+{
+  "name": "@capyup/pi-codex-image",
+  "path": "/packages/@capyup/pi-codex-image",
+  "url": "https://pi.dev/packages/@capyup/pi-codex-image",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 61,
+  "date_ms": 1778556518435,
+  "description_en": "Pi package that exposes Codex-style image_generation and view_image tools with dynamic model routing.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

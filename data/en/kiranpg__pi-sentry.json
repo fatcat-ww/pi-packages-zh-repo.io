@@ -1,0 +1,13 @@
+{
+  "name": "@kiranpg/pi-sentry",
+  "path": "/packages/@kiranpg/pi-sentry",
+  "url": "https://pi.dev/packages/@kiranpg/pi-sentry",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 371,
+  "date_ms": 1780409200032,
+  "description_en": "A Pi extension that blocks sensitive file reads and redacts secrets before they reach the model or session history.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

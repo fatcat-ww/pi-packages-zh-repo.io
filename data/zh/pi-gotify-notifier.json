@@ -1,0 +1,6 @@
+{
+  "name": "pi-gotify-notifier",
+  "description_en": "Send Gotify notifications for pi agent session events",
+  "description_zh": "为 pi 代理会话事件发送 Gotify 通知",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

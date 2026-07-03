@@ -1,0 +1,6 @@
+{
+  "name": "@nonplanarslicer/pi-tps",
+  "description_en": "Show live TPS in the pi-coding-agent status bar without overwriting it",
+  "description_zh": "在 pi-coding-agent 状态栏中显示实时 TPS，不覆盖原有内容",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

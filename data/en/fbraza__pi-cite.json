@@ -1,0 +1,13 @@
+{
+  "name": "@fbraza/pi-cite",
+  "path": "/packages/@fbraza/pi-cite",
+  "url": "https://pi.dev/packages/@fbraza/pi-cite",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 542,
+  "date_ms": 1782553074641,
+  "description_en": "Pi extension with PubMed, Zotero, and literature search tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

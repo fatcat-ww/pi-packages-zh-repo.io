@@ -1,0 +1,6 @@
+{
+  "name": "@zm2231/pi-mcporter-bridge",
+  "description_en": "pi extension that registers each mcporter-managed MCP server's tools natively into pi by attaching to a running `mcporter serve` over Streamable HTTP. Per-server allowlist; tools surface to the agent as first-class pi tools.",
+  "description_zh": "pi 扩展，通过在运行中的 `mcporter serve` 上附加 Streamable HTTP 来将每个 mcporter 管理的 MCP 服务器的工具原生注册到 pi 中。每服务器允许列表；工具作为一流 pi 工具显示给代理。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-alert",
+  "path": "/packages/pi-alert",
+  "url": "https://pi.dev/packages/pi-alert",
+  "types": "",
+  "type_list": [],
+  "downloads": 79,
+  "date_ms": 1774197035604,
+  "description_en": "Pi extension that sends a system notification when the agent ends its turn",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

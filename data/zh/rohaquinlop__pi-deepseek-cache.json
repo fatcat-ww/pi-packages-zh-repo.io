@@ -1,0 +1,6 @@
+{
+  "name": "@rohaquinlop/pi-deepseek-cache",
+  "description_en": "DeepSeek prefix cache optimization for pi — date/CWD freeze, hit-rate telemetry, cache-friendly compaction, and TUI overlays",
+  "description_zh": "Pi 的 DeepSeek 前缀缓存优化 — 日期/CWD 冻结、命中率遥测、缓存友好压缩和 TUI 覆盖层",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@nteract/pi",
+  "path": "/packages/@nteract/pi",
+  "url": "https://pi.dev/packages/@nteract/pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 556,
+  "date_ms": 1782792561491,
+  "description_en": "Persistent notebook-backed Python REPL for Pi coding agents. Stateful execution, hot dependency sync, zero cold starts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

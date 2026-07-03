@@ -1,0 +1,13 @@
+{
+  "name": "@codingcoffee/pi-readonly-ssh",
+  "path": "/packages/@codingcoffee/pi-readonly-ssh",
+  "url": "https://pi.dev/packages/@codingcoffee/pi-readonly-ssh",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 87,
+  "date_ms": 1776863050303,
+  "description_en": "a pi extension for safely running allow-listed, read-only commands on remote hosts over SSH",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

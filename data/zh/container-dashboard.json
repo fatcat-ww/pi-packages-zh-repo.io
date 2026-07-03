@@ -1,0 +1,6 @@
+{
+  "name": "container-dashboard",
+  "description_en": "A pi coding agent extension for managing Docker, Podman, and Nerdctl containers — list, logs, prune, stats, inspect, and more.",
+  "description_zh": "用于管理 Docker、Podman 和 Nerdctl 容器的 pi 编码代理扩展 — 列表、日志、清理、统计、检查等",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

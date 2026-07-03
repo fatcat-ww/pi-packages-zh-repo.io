@@ -1,0 +1,13 @@
+{
+  "name": "@claaslange/pi-directory-models",
+  "path": "/packages/@claaslange/pi-directory-models",
+  "url": "https://pi.dev/packages/@claaslange/pi-directory-models",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 176,
+  "date_ms": 1780919276201,
+  "description_en": "pi extension that selects a model from the nearest ancestor .pi/settings.json",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

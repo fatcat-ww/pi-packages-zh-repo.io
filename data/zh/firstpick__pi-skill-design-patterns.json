@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-design-patterns",
+  "description_en": "Agents should invoke this skill when choosing patterns, designing traits/interfaces/components, deciding abstraction boundaries, evaluating dependency injection/callbacks, or comparing implementation approaches in Rust, TypeScript/React, or Django/Python.",
+  "description_zh": "代理在选择模式、设计特征/接口/组件、决定抽象边界、评估依赖注入/回调或比较 Rust、TypeScript/React 或 Django/Python 中的实现方法时应调用此技能。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

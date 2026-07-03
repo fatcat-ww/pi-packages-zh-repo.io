@@ -1,0 +1,13 @@
+{
+  "name": "pi-pai",
+  "path": "/packages/pi-pai",
+  "url": "https://pi.dev/packages/pi-pai",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 97,
+  "date_ms": 1773149717785,
+  "description_en": "Personal AI Infrastructure extension for Pi — full v4.0.3 sync: ISC splitting test, count gates, anti-criteria, capability tracking, time budgets, enhanced observability, agent personas, sentiment tracking, self-evolution, Ralph iteration, damage control",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

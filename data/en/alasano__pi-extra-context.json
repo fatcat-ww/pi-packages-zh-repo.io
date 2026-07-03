@@ -1,0 +1,11 @@
+{
+  "name": "@alasano/pi-extra-context",
+  "path": "/packages/@alasano/pi-extra-context",
+  "url": "https://pi.dev/packages/@alasano/pi-extra-context",
+  "types": "",
+  "type_list": [],
+  "downloads": 232,
+  "date_ms": 1782010703097,
+  "description_en": "Load extra configured context files into pi sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

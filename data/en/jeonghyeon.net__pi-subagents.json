@@ -1,0 +1,13 @@
+{
+  "name": "@jeonghyeon.net/pi-subagents",
+  "path": "/packages/@jeonghyeon.net/pi-subagents",
+  "url": "https://pi.dev/packages/@jeonghyeon.net/pi-subagents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 66,
+  "date_ms": 1776881253287,
+  "description_en": "A pi extension extension that brings smart Claude Code-style autonomous sub-agents to pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@e9n/pi-supabase",
+  "description_en": "Supabase integration for pi — read-only queries, table subscriptions, and pi-channels notifications",
+  "description_zh": "pi 的 Supabase 集成 — 只读查询、表订阅和 pi-channels 通知",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

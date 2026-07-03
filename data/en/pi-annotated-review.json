@@ -1,0 +1,13 @@
+{
+  "name": "pi-annotated-review",
+  "path": "/packages/pi-annotated-review",
+  "url": "https://pi.dev/packages/pi-annotated-review",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 28,
+  "date_ms": 1778509012546,
+  "description_en": "Pi extension that creates annotated HTML code-review pages for git changes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

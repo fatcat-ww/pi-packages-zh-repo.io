@@ -1,0 +1,13 @@
+{
+  "name": "pi-wechat-assistant",
+  "path": "/packages/pi-wechat-assistant",
+  "url": "https://pi.dev/packages/pi-wechat-assistant",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 295,
+  "date_ms": 1781119922504,
+  "description_en": "微信作为 pi TUI 的移动端分身 — 通过微信远程与 pi 交互",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

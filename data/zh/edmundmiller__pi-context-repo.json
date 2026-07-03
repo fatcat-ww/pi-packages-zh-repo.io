@@ -1,0 +1,6 @@
+{
+  "name": "@edmundmiller/pi-context-repo",
+  "description_en": "Git-backed persistent memory filesystem for pi agents, inspired by Letta Code's Context Repositories",
+  "description_zh": "面向 pi 代理的基于 Git 的持久化内存文件系统，灵感来自 Letta Code 的上下文存储库",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

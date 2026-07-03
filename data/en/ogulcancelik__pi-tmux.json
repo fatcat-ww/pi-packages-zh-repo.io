@@ -1,0 +1,13 @@
+{
+  "name": "@ogulcancelik/pi-tmux",
+  "path": "/packages/@ogulcancelik/pi-tmux",
+  "url": "https://pi.dev/packages/@ogulcancelik/pi-tmux",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 83,
+  "date_ms": 1778169490571,
+  "description_en": "Tmux pane management for pi. Run dev servers, watchers, and long-running processes in named panes without blocking the agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

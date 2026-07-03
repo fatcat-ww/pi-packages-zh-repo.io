@@ -1,0 +1,13 @@
+{
+  "name": "pi-direnv",
+  "path": "/packages/pi-direnv",
+  "url": "https://pi.dev/packages/pi-direnv",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 127,
+  "date_ms": 1771972933537,
+  "description_en": "Auto-load direnv environment at session start — ensures bash commands have project-specific env vars from .envrc",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

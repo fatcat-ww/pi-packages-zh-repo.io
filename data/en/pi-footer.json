@@ -1,0 +1,13 @@
+{
+  "name": "pi-footer",
+  "path": "/packages/pi-footer",
+  "url": "https://pi.dev/packages/pi-footer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 791,
+  "date_ms": 1782947400194,
+  "description_en": "Configurable, Ultimate multi-line footer/statusline extension for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

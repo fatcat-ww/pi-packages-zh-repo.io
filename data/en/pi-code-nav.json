@@ -1,0 +1,13 @@
+{
+  "name": "pi-code-nav",
+  "path": "/packages/pi-code-nav",
+  "url": "https://pi.dev/packages/pi-code-nav",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 96,
+  "date_ms": 1778460677776,
+  "description_en": "Exact symbol navigation companion for Pi, built to sit between pi-codesight discovery and pi-lens raw LSP operations.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

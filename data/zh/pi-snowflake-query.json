@@ -1,0 +1,6 @@
+{
+  "name": "pi-snowflake-query",
+  "description_en": "Pi extension for read-only Snowflake queries via the team `claude` connection, with a specialized snowflake-analyst agent.",
+  "description_zh": "Pi 扩展，通过团队 `claude` 连接进行只读 Snowflake 查询，配有专门的 snowflake-analyst 代理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

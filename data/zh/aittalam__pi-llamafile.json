@@ -1,0 +1,6 @@
+{
+  "name": "@aittalam/pi-llamafile",
+  "description_en": "Pi extension that supervises local llamafile-served model processes — start, stop, adopt, with progress visible on quit",
+  "description_zh": "Pi扩展，监督本地llamafile服务的模型进程 — 启动、停止、采用，退出时可见进度",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

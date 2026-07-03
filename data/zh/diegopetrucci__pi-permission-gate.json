@@ -1,0 +1,6 @@
+{
+  "name": "@diegopetrucci/pi-permission-gate",
+  "description_en": "A pi extension that prompts before dangerous bash commands.",
+  "description_zh": "Pi 扩展，在危险 bash 命令前提示用户",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

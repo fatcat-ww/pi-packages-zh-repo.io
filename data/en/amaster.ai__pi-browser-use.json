@@ -1,0 +1,13 @@
+{
+  "name": "@amaster.ai/pi-browser-use",
+  "path": "/packages/@amaster.ai/pi-browser-use",
+  "url": "https://pi.dev/packages/@amaster.ai/pi-browser-use",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 4025,
+  "date_ms": 1782723691262,
+  "description_en": "Pi extension for browser automation via chrome-devtools-mcp with browser_ prefixed tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

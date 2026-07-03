@@ -1,0 +1,6 @@
+{
+  "name": "pi-rtk-noemoji",
+  "description_en": "Fork of pi-rtk with all emoji removed from output. Same token reduction, plain text only.",
+  "description_zh": "pi-rtk 的分支版本，从输出中移除了所有 emoji。相同的 token 减少，仅纯文本",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

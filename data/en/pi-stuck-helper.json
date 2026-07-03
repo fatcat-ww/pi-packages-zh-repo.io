@@ -1,0 +1,13 @@
+{
+  "name": "pi-stuck-helper",
+  "path": "/packages/pi-stuck-helper",
+  "url": "https://pi.dev/packages/pi-stuck-helper",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 155,
+  "date_ms": 1780019174857,
+  "description_en": "Detect when problem-solving degrades into unproductive loops, over-reflection, or runaway self-criticism, then stop and escalate to the user for help.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

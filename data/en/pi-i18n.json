@@ -1,0 +1,13 @@
+{
+  "name": "pi-i18n",
+  "path": "/packages/pi-i18n",
+  "url": "https://pi.dev/packages/pi-i18n",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 173,
+  "date_ms": 1777596851532,
+  "description_en": "/lang lets pi speak 中文, 日本語, 한국어, Español, Français, Deutsch, and more.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

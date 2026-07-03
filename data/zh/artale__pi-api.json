@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-api",
+  "description_en": "API development toolkit. Route scanning (Express/Next/Flask/FastAPI), endpoint testing, OpenAPI spec generation.",
+  "description_zh": "API 开发工具包。路由扫描（Express/Next/Flask/FastAPI）、端点测试、OpenAPI 规范生成。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

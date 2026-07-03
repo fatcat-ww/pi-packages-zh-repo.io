@@ -1,0 +1,11 @@
+{
+  "name": "@ifiokjr/oh-pi-prompts",
+  "path": "/packages/@ifiokjr/oh-pi-prompts",
+  "url": "https://pi.dev/packages/@ifiokjr/oh-pi-prompts",
+  "types": "",
+  "type_list": [],
+  "downloads": 33,
+  "date_ms": 1772960955133,
+  "description_en": "Prompt templates for pi: review, fix, explain, refactor, test, commit, and more.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

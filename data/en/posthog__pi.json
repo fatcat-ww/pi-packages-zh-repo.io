@@ -1,0 +1,11 @@
+{
+  "name": "@posthog/pi",
+  "path": "/packages/@posthog/pi",
+  "url": "https://pi.dev/packages/@posthog/pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 893,
+  "date_ms": 1773660718800,
+  "description_en": "PostHog LLM Analytics extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

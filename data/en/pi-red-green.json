@@ -1,0 +1,13 @@
+{
+  "name": "pi-red-green",
+  "path": "/packages/pi-red-green",
+  "url": "https://pi.dev/packages/pi-red-green",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 314,
+  "date_ms": 1778755207530,
+  "description_en": "A Pi extension that enforces Test-Driven Development (RED-GREEN-REFACTOR) discipline during agent coding sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

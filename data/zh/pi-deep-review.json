@@ -1,0 +1,6 @@
+{
+  "name": "pi-deep-review",
+  "description_en": "Deep PR review extension for Pi with deterministic context packing and Responses API streaming",
+  "description_zh": "针对 Pi 的深度 PR 审查扩展，具有确定性上下文压缩和 Responses API 流式传输功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

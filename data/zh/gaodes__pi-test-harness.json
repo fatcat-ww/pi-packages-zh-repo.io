@@ -1,0 +1,6 @@
+{
+  "name": "@gaodes/pi-test-harness",
+  "description_en": "Test harness for pi extensions — in-process session testing, package install verification, and subprocess mocking",
+  "description_zh": "Pi 扩展的测试工具 — 进程内会话测试、包安装验证和子进程模拟",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

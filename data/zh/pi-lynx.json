@@ -1,0 +1,6 @@
+{
+  "name": "pi-lynx",
+  "description_en": "Pi extension for web search and page fetch via lynx + DuckDuckGo Lite. Terminal browser, web scrape, and search tools with zero API keys.",
+  "description_zh": "Pi 扩展，通过 lynx + DuckDuckGo Lite 进行网页搜索和页面获取。终端浏览器、网页抓取和搜索工具，无需 API 密钥。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

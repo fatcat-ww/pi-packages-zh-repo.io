@@ -1,0 +1,13 @@
+{
+  "name": "@zhushanwen/pi-workflow",
+  "path": "/packages/@zhushanwen/pi-workflow",
+  "url": "https://pi.dev/packages/@zhushanwen/pi-workflow",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3414,
+  "date_ms": 1782234836222,
+  "description_en": "Multi-agent workflow orchestration for Pi — stateful workflow management with persistence, state machine, and execution tracing.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

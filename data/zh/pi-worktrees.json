@@ -1,0 +1,6 @@
+{
+  "name": "pi-worktrees",
+  "description_en": "A polished Pi extension for creating, switching, returning from, and deleting managed Git worktrees from the Pi TUI.",
+  "description_zh": "一个精致的 Pi 扩展，用于在 Pi TUI 中创建、切换、返回和删除管理的 Git 工作树",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

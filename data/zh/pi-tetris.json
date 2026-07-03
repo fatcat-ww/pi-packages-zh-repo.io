@@ -1,0 +1,6 @@
+{
+  "name": "pi-tetris",
+  "description_en": "Play Tetris in pi! All 7 tetrominoes, ghost piece, wall kicks, hold piece, score, levels, and session save/restore.",
+  "description_zh": "在 pi 中玩俄罗斯方块！全部 7 种方块、幽灵方块、墙踢、保存方块、分数、等级和会话保存/恢复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

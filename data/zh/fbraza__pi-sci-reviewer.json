@@ -1,0 +1,6 @@
+{
+  "name": "@fbraza/pi-sci-reviewer",
+  "description_en": "Pi extension that runs the scientific-audit skill, parses its verdict, and syncs findings to todos. Bundles the scientific-audit skill.",
+  "description_zh": "Pi 扩展，运行科学审计技能，解析其裁决，并将发现同步到待办事项。捆绑科学审计技能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

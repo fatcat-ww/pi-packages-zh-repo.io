@@ -1,0 +1,13 @@
+{
+  "name": "@haphazarddev/pi-copy-code-block",
+  "path": "/packages/@haphazarddev/pi-copy-code-block",
+  "url": "https://pi.dev/packages/@haphazarddev/pi-copy-code-block",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 85,
+  "date_ms": 1779306033581,
+  "description_en": "A pi extension that copies code blocks from the latest assistant message to the clipboard.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

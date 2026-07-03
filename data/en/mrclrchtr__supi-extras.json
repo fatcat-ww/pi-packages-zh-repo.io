@@ -1,0 +1,13 @@
+{
+  "name": "@mrclrchtr/supi-extras",
+  "path": "/packages/@mrclrchtr/supi-extras",
+  "url": "https://pi.dev/packages/@mrclrchtr/supi-extras",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2391,
+  "date_ms": 1783012923388,
+  "description_en": "SuPi extras — command aliases, skill shorthand, tab spinner, /supi-stash prompt stash with TUI overlay, and other small utilities",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

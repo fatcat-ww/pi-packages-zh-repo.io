@@ -1,0 +1,6 @@
+{
+  "name": "pi-auggie-router",
+  "description_en": "Opinionated sub-agent router for Pi: tightly couples SKILL.md execution with the Augment Code (auggie) Context Engine.",
+  "description_zh": "Pi 的特定子代理路由器：将 SKILL.md 执行与 Augment Code (auggie) 上下文引擎紧密耦合",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

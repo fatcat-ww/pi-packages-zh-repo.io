@@ -1,0 +1,13 @@
+{
+  "name": "pi-extension-gba",
+  "path": "/packages/pi-extension-gba",
+  "url": "https://pi.dev/packages/pi-extension-gba",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 289,
+  "date_ms": 1782253778369,
+  "description_en": "GBA emulator as a pi extension. Play Pokémon while the agent works.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

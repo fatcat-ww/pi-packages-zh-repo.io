@@ -1,0 +1,6 @@
+{
+  "name": "pi-roam-code",
+  "description_en": "Roam compile/verify hooks for pi — injects pre-computed plan context before agent turns and auto-fixes post-edit findings",
+  "description_zh": "pi 的 Roam 编译/验证钩子 — 在代理轮次前注入预计算的计划上下文，并在后编辑发现后自动修复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

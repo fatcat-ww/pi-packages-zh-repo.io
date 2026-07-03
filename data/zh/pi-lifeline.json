@@ -1,0 +1,6 @@
+{
+  "name": "pi-lifeline",
+  "description_en": "Pi extension that lets smaller models phone a stronger advisor model when autoresearch gets stuck.",
+  "description_zh": "当自动研究陷入困境时，让较小模型联系更强大的顾问模型的 pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

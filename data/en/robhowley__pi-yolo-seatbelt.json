@@ -1,0 +1,11 @@
+{
+  "name": "@robhowley/pi-yolo-seatbelt",
+  "path": "/packages/@robhowley/pi-yolo-seatbelt",
+  "url": "https://pi.dev/packages/@robhowley/pi-yolo-seatbelt",
+  "types": "",
+  "type_list": [],
+  "downloads": 225,
+  "date_ms": 1781663290925,
+  "description_en": "Keep the YOLO workflow but avoid bash catastrophe with configurable guardrails for destructive commands.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

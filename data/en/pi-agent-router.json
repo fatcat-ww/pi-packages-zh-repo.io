@@ -1,0 +1,13 @@
+{
+  "name": "pi-agent-router",
+  "path": "/packages/pi-agent-router",
+  "url": "https://pi.dev/packages/pi-agent-router",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 412,
+  "date_ms": 1783049496995,
+  "description_en": "Pi extension for active-agent routing, controlled subagent delegation, and task result rendering.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

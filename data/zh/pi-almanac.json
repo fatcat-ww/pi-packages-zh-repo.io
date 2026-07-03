@@ -1,0 +1,6 @@
+{
+  "name": "pi-almanac",
+  "description_en": "Pi extension for exporting current session JSONL files for cross-machine resume workflows",
+  "description_zh": "Pi 扩展，用于导出当前会话的 JSONL 文件，实现跨机器恢复工作流",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

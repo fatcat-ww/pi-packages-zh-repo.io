@@ -1,0 +1,6 @@
+{
+  "name": "pi-resume-on-exit",
+  "description_en": "Print a copyable Pi resume command when an interactive Pi session exits.",
+  "description_zh": "当交互式 Pi 会话退出时，打印可复制的 Pi 恢复命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

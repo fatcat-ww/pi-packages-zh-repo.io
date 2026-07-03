@@ -1,0 +1,6 @@
+{
+  "name": "pi-rules",
+  "description_en": "PI extension that injects markdown rules for any pi tool, including custom registered tools",
+  "description_zh": "为任何 pi 工具（包括自定义注册工具）注入 markdown 规则的 PI 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

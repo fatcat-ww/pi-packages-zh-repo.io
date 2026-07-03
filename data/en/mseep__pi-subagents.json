@@ -1,0 +1,11 @@
+{
+  "name": "@mseep/pi-subagents",
+  "path": "/packages/@mseep/pi-subagents",
+  "url": "https://pi.dev/packages/@mseep/pi-subagents",
+  "types": "",
+  "type_list": [],
+  "downloads": 136,
+  "date_ms": 1782106943816,
+  "description_en": "Pi extension for delegating tasks to subagents with chains, parallel execution, and TUI clarification",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@gregjohnso/pi-imgview",
+  "description_en": "Display images from inside the pi coding agent: imgcat-style inline rendering in supported terminals, and one-click open in the system browser.",
+  "description_zh": "在 pi 编码代理内显示图像：在支持的终端中进行 imgcat 样式内联渲染，并可一键在系统浏览器中打开。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

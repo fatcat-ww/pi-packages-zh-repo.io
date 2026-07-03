@@ -1,0 +1,6 @@
+{
+  "name": "@unfixed3854/pi-usage",
+  "description_en": "A pi extension that displays active model provider subscription quota usage in the status bar. Supports z.ai (GLM) and OpenAI Codex with provider-specific quota percentages, plan levels, and reset times. Updates every 60 seconds during agent runs.",
+  "description_zh": "Pi 扩展，在状态栏显示活动模型提供商订阅配额使用情况。支持 z.ai (GLM) 和 OpenAI Codex，带有提供商特定的配额百分比、计划级别和重置时间。在代理运行期间每 60 秒更新一次",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

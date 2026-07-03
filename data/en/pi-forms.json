@@ -1,0 +1,11 @@
+{
+  "name": "pi-forms",
+  "path": "/packages/pi-forms",
+  "url": "https://pi.dev/packages/pi-forms",
+  "types": "",
+  "type_list": [],
+  "downloads": 29,
+  "date_ms": 1775325652573,
+  "description_en": "Interactive TUI form overlay tool for pi agents. Collect structured input via declarative form schemas.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

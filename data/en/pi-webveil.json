@@ -1,0 +1,13 @@
+{
+  "name": "pi-webveil",
+  "path": "/packages/pi-webveil",
+  "url": "https://pi.dev/packages/pi-webveil",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1132,
+  "date_ms": 1782598985265,
+  "description_en": "Pi extension: web_search and web_fetch tools backed by webveil. A drop-in, anonymity-capable replacement for Ollama's web_search/web_fetch.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

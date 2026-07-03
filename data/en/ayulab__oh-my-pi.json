@@ -1,0 +1,16 @@
+{
+  "name": "@ayulab/oh-my-pi",
+  "path": "/packages/@ayulab/oh-my-pi",
+  "url": "https://pi.dev/packages/@ayulab/oh-my-pi",
+  "types": "extension skill theme prompt",
+  "type_list": [
+    "extension",
+    "skill",
+    "theme",
+    "prompt"
+  ],
+  "downloads": 5220,
+  "date_ms": 1782307248994,
+  "description_en": "Personal Pi toolkit: extensions, skills, prompts, and themes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

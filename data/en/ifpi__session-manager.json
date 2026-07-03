@@ -1,0 +1,11 @@
+{
+  "name": "@ifpi/session-manager",
+  "path": "/packages/@ifpi/session-manager",
+  "url": "https://pi.dev/packages/@ifpi/session-manager",
+  "types": "",
+  "type_list": [],
+  "downloads": 46,
+  "date_ms": 1779982933480,
+  "description_en": "TUI session manager for pi — browse, switch, and delete sessions grouped by project path.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

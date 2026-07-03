@@ -1,0 +1,11 @@
+{
+  "name": "pi-ultra-compact",
+  "path": "/packages/pi-ultra-compact",
+  "url": "https://pi.dev/packages/pi-ultra-compact",
+  "types": "",
+  "type_list": [],
+  "downloads": 4397,
+  "date_ms": 1782905963689,
+  "description_en": "Advanced compaction extension and skill for Pi with automatic threshold-based compaction and critical context preservation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

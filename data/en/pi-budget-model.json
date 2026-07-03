@@ -1,0 +1,11 @@
+{
+  "name": "pi-budget-model",
+  "path": "/packages/pi-budget-model",
+  "url": "https://pi.dev/packages/pi-budget-model",
+  "types": "",
+  "type_list": [],
+  "downloads": 51,
+  "date_ms": 1772918290246,
+  "description_en": "Auto-select the cheapest available model for background tasks in pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

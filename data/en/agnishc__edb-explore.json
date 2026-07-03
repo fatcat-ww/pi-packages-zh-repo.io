@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-explore",
+  "path": "/packages/@agnishc/edb-explore",
+  "url": "https://pi.dev/packages/@agnishc/edb-explore",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 86,
+  "date_ms": 1778002763332,
+  "description_en": "Pi extension: explore_dir tool — sub-agent directory search that keeps results out of main context",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-banana",
+  "description_en": "Generate, edit, and analyze images in pi using Google Nano Banana (image gen) and Gemini Vision (analysis). Inline terminal preview, reference-image editing, auto-save.",
+  "description_zh": "在 pi 中使用 Google Nano Banana（图像生成）和 Gemini Vision（分析）生成、编辑和分析图像。内联终端预览、参考图像编辑、自动保存功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

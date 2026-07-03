@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-test-plan-generator",
+  "description_en": "Agents should invoke this skill when planning tests from specs, architecture docs, PRs, risky changes, new features, bug fixes, or release work. Generates prioritized unit, integration, E2E, regression, and edge-case coverage.",
+  "description_zh": "代理在从规范、架构文档、PR、有风险更改、新功能、错误修复或发布工作中规划测试时应调用此技能。生成优先级排序的单元测试、集成测试、端到端测试、回归测试和边界用例覆盖",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

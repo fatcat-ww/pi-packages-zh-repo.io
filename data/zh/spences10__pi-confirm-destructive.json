@@ -1,0 +1,6 @@
+{
+  "name": "@spences10/pi-confirm-destructive",
+  "description_en": "Git-aware Pi guardrail that asks for confirmation before destructive shell actions can change or lose work",
+  "description_zh": "Git 感知的 Pi 防护栏，在破坏性 shell 操作可以更改或丢失工作之前要求确认",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

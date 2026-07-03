@@ -1,0 +1,11 @@
+{
+  "name": "pi-confluence",
+  "path": "/packages/pi-confluence",
+  "url": "https://pi.dev/packages/pi-confluence",
+  "types": "",
+  "type_list": [],
+  "downloads": 50,
+  "date_ms": 1774365333209,
+  "description_en": "Confluence integration for Pi Coding Agent — search, fetch, and save Confluence pages as Markdown with a TUI config editor",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

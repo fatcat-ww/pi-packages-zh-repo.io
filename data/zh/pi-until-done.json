@@ -1,0 +1,6 @@
+{
+  "name": "pi-until-done",
+  "description_en": "Pi extension that brings Hermes Agent's /goal (Ralph loop with judge) to Pi as /until-done. Pi self-judges every turn, runs verifyCommand to confirm done, and routes all CI/CD through mise across 18 language profiles.",
+  "description_zh": "将 Hermes Agent 的 /goal（带有 judge 的 Ralph 循环）带到 Pi 中的 /until-done 扩展。Pi 每轮自我判断，运行 verifyCommand 确认完成，并通过 mise 在 18 个语言配置文件中路由所有 CI/CD",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

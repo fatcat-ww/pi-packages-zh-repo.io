@@ -1,0 +1,6 @@
+{
+  "name": "@qmxme/pi-stats",
+  "description_en": "Stats widget extension for pi - shows token throughput, usage, and duration",
+  "description_zh": "pi 的统计小部件扩展 — 显示令牌吞吐量、使用情况和持续时间",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

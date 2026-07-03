@@ -1,0 +1,13 @@
+{
+  "name": "@complexthings/pi-dynamic-context-pruning",
+  "path": "/packages/@complexthings/pi-dynamic-context-pruning",
+  "url": "https://pi.dev/packages/@complexthings/pi-dynamic-context-pruning",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 218,
+  "date_ms": 1776191122283,
+  "description_en": "PI coding agent extension — Dynamic Context Pruning (DCP)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

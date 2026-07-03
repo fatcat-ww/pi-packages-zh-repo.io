@@ -1,0 +1,6 @@
+{
+  "name": "pi-safety-path-protection",
+  "description_en": "Protects sensitive paths (.env files, .git internals, node_modules, SSH keys) from unauthorized reads and writes across all tools — read, write, edit, and bash.",
+  "description_zh": "保护敏感路径（.env 文件、.git 内部、node_modules、SSH 密钥）免受所有工具（读取、写入、编辑和 bash）的未授权访问。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

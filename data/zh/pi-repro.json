@@ -1,0 +1,6 @@
+{
+  "name": "pi-repro",
+  "description_en": "Reproduce the quantitative results of an academic paper — ingest, gap-analyze the code, plan, reproduce each claim, and report what does and doesn't replicate. A pi extension.",
+  "description_zh": "重现学术论文的定量结果 — 摄入、分析代码差距、规划、重现每个主张，并报告哪些内容可以复制。pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

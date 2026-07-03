@@ -1,0 +1,6 @@
+{
+  "name": "pi-llama-cpp",
+  "description_en": "Pi extension for llama.cpp integration. Supports router, single and legacy models. Supports multiple servers.",
+  "description_zh": "Pi 的 llama.cpp 集成扩展。支持路由器、单模型和遗留模型。支持多个服务器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

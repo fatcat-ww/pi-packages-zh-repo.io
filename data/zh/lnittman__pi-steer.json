@@ -1,0 +1,6 @@
+{
+  "name": "@lnittman/pi-steer",
+  "description_en": "Steering compiler for pi — turn-by-turn decision prompts, context-aware handoff synthesis, and pickup-ready prompt packaging",
+  "description_zh": "pi 的转向编译器 — 逐点决策提示、上下文感知交接合成、可拾取的提示打包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@dietrichgebert/ponytail",
+  "path": "/packages/@dietrichgebert/ponytail",
+  "url": "https://pi.dev/packages/@dietrichgebert/ponytail",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 5446,
+  "date_ms": 1782710812344,
+  "description_en": "Lazy senior dev mode for AI agents. The best code is the code you never wrote.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-figma-mcp",
+  "description_en": "Pi package that connects Pi to the Figma desktop MCP server and exposes Figma design tools inside Pi.",
+  "description_zh": "Pi 包，将 Pi 连接到 Figma 桌面 MCP 服务器，并在 Pi 内部暴露 Figma 设计工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

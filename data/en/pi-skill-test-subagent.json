@@ -1,0 +1,13 @@
+{
+  "name": "pi-skill-test-subagent",
+  "path": "/packages/pi-skill-test-subagent",
+  "url": "https://pi.dev/packages/pi-skill-test-subagent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 38,
+  "date_ms": 1778510977487,
+  "description_en": "Pi extension for isolated skill pressure testing with baseline and skill-present subagents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

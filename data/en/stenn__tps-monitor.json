@@ -1,0 +1,11 @@
+{
+  "name": "@stenn/tps-monitor",
+  "path": "/packages/@stenn/tps-monitor",
+  "url": "https://pi.dev/packages/@stenn/tps-monitor",
+  "types": "",
+  "type_list": [],
+  "downloads": 35,
+  "date_ms": 1776517393839,
+  "description_en": "Minimal tokens-per-second display in pi footer",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

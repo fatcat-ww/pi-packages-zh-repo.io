@@ -1,0 +1,14 @@
+{
+  "name": "pi-dex",
+  "path": "/packages/pi-dex",
+  "url": "https://pi.dev/packages/pi-dex",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 59,
+  "date_ms": 1772899801837,
+  "description_en": "Pi, but with Codex's UI — or at least as far as I can go before forking it.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@the-forge-flow/hippo-memory-pi",
+  "path": "/packages/@the-forge-flow/hippo-memory-pi",
+  "url": "https://pi.dev/packages/@the-forge-flow/hippo-memory-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 122,
+  "date_ms": 1776256889425,
+  "description_en": "PI extension for biologically-inspired long-term memory, powered by hippo-memory",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@carlosgtrz/pi-terminal-bell",
+  "path": "/packages/@carlosgtrz/pi-terminal-bell",
+  "url": "https://pi.dev/packages/@carlosgtrz/pi-terminal-bell",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 43,
+  "date_ms": 1778441028221,
+  "description_en": "Pi extension that rings the terminal bell when an agent run finishes after a configurable timeout.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

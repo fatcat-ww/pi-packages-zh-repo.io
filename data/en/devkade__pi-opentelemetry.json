@@ -1,0 +1,13 @@
+{
+  "name": "@devkade/pi-opentelemetry",
+  "path": "/packages/@devkade/pi-opentelemetry",
+  "url": "https://pi.dev/packages/@devkade/pi-opentelemetry",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 173,
+  "date_ms": 1771582837606,
+  "description_en": "OpenTelemetry trace + metrics + diagnostics extension for Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

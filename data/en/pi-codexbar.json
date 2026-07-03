@@ -1,0 +1,13 @@
+{
+  "name": "pi-codexbar",
+  "path": "/packages/pi-codexbar",
+  "url": "https://pi.dev/packages/pi-codexbar",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 94,
+  "date_ms": 1777312400501,
+  "description_en": "Pi extension wrapper for CodexBar provider state and controls",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

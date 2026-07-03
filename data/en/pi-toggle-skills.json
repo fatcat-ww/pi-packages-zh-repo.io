@@ -1,0 +1,14 @@
+{
+  "name": "pi-toggle-skills",
+  "path": "/packages/pi-toggle-skills",
+  "url": "https://pi.dev/packages/pi-toggle-skills",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 634,
+  "date_ms": 1781553411660,
+  "description_en": "Toggle skill visibility in pi's system prompt — flip disable-model-invocation on skills via an interactive TUI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

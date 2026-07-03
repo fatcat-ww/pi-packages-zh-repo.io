@@ -1,0 +1,14 @@
+{
+  "name": "@timonclaeys/pi-github-skill-installer",
+  "path": "/packages/@timonclaeys/pi-github-skill-installer",
+  "url": "https://pi.dev/packages/@timonclaeys/pi-github-skill-installer",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 35,
+  "date_ms": 1779383944905,
+  "description_en": "A pi extension to install agent skills directly from GitHub repositories.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

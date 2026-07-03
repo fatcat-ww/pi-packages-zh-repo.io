@@ -1,0 +1,6 @@
+{
+  "name": "@whynothugo/pi-auto-theme",
+  "description_en": "Pi extension to automatically switch theme based on terminal dark/light mode.",
+  "description_zh": "根据终端深色/浅色模式自动切换主题的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

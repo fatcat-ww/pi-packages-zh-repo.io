@@ -1,0 +1,13 @@
+{
+  "name": "symphony-pi",
+  "path": "/packages/symphony-pi",
+  "url": "https://pi.dev/packages/symphony-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 73,
+  "date_ms": 1777842315870,
+  "description_en": "Generic Symphony autonomous issue orchestration extension for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

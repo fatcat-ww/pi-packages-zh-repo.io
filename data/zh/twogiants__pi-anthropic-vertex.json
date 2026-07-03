@@ -1,0 +1,6 @@
+{
+  "name": "@twogiants/pi-anthropic-vertex",
+  "description_en": "Anthropic Claude models on Google Cloud Vertex AI for pi",
+  "description_zh": "Google Cloud Vertex AI 上的 Anthropic Claude 模型，用于 pi",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

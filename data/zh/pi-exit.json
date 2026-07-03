@@ -1,0 +1,6 @@
+{
+  "name": "pi-exit",
+  "description_en": "Minimal pi package that adds a /exit command.",
+  "description_zh": "添加 /exit 命令的最小 pi 包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

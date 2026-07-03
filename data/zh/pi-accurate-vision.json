@@ -1,0 +1,6 @@
+{
+  "name": "pi-accurate-vision",
+  "description_en": "Accurate spatial reasoning over images — vision model extracts bounding boxes, LLM calculates exact distances",
+  "description_zh": "图像上的精确空间推理 — 视觉模型提取边界框，LLM 计算精确距离",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

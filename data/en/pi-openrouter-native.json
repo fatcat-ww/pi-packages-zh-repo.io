@@ -1,0 +1,13 @@
+{
+  "name": "pi-openrouter-native",
+  "path": "/packages/pi-openrouter-native",
+  "url": "https://pi.dev/packages/pi-openrouter-native",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 53,
+  "date_ms": 1777997070458,
+  "description_en": "Native OpenRouter model sync for pi using built-in provider routing support",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-animations",
+  "path": "/packages/pi-animations",
+  "url": "https://pi.dev/packages/pi-animations",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 358,
+  "date_ms": 1780884777634,
+  "description_en": "Animated thinking/working/tool indicators for the Pi coding agent — 26 terminal animations with ANSI true color and Nerd Font glyphs",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

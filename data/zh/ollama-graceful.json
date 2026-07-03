@@ -1,0 +1,6 @@
+{
+  "name": "ollama-graceful",
+  "description_en": "Pi extension that gracefully starts and stops the Ollama service on demand when switching between local and cloud models",
+  "description_zh": "在本地和云模型之间切换时，按需优雅地启动和停止 Ollama 服务的 pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

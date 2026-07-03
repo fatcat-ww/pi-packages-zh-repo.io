@@ -1,0 +1,6 @@
+{
+  "name": "@jetmiky/pigram",
+  "description_en": "Clean, session-local Telegram bridge for the pi coding agent — chat with pi from your phone with rich text, streaming previews, file attachments, and native inline-keyboard dialogs.",
+  "description_zh": "pi coding agent 的干净、会话本地的 Telegram 桥接器 — 从您的手机与 pi 聊天，支持富文本、流式预览、文件附件和原生内联键盘对话框。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

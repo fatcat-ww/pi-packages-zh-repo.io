@@ -1,0 +1,11 @@
+{
+  "name": "pi-loopflows",
+  "path": "/packages/pi-loopflows",
+  "url": "https://pi.dev/packages/pi-loopflows",
+  "types": "",
+  "type_list": [],
+  "downloads": 731,
+  "date_ms": 1782184980928,
+  "description_en": "Deterministic loop workflows for Pi subagents: steps, gates, feedback loops, and artifacts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

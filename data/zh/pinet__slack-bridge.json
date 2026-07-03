@@ -1,0 +1,6 @@
+{
+  "name": "@pinet/slack-bridge",
+  "description_en": "Pi package for Pinet Slack assistant integration — multi-agent broker, thread routing, and inbox tools",
+  "description_zh": "用于 Pinet Slack 助理集成的 Pi 包 — 多代理代理、线程路由和收件箱工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

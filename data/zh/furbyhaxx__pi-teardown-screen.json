@@ -1,0 +1,6 @@
+{
+  "name": "@furbyhaxx/pi-teardown-screen",
+  "description_en": "Slim Pi extension that prints a teardown screen with session stats when the user quits a pi session. Uses the default pi theme; no configuration.",
+  "description_zh": "精简的 Pi 扩展，当用户退出 pi 会话时打印包含会话统计信息的分解屏幕。使用默认 pi 主题；无需配置。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

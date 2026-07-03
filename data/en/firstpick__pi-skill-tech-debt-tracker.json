@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-tech-debt-tracker",
+  "path": "/packages/@firstpick/pi-skill-tech-debt-tracker",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-tech-debt-tracker",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 372,
+  "date_ms": 1780954639052,
+  "description_en": "Agents should invoke this skill when identifying, categorizing, prioritizing, or planning technical debt work, debt sprints, cleanup backlogs, TODO consolidation, or long-term maintainability risks. Tracks debt with severity/effort.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@pi-stef/azure-foundry",
+  "path": "/packages/@pi-stef/azure-foundry",
+  "url": "https://pi.dev/packages/@pi-stef/azure-foundry",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 460,
+  "date_ms": 1781990045166,
+  "description_en": "Azure Foundry and Azure OpenAI deployments as native Pi providers — config-driven, JSONC support, validation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

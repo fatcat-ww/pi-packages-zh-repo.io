@@ -1,0 +1,11 @@
+{
+  "name": "pi-twincat-ads",
+  "path": "/packages/pi-twincat-ads",
+  "url": "https://pi.dev/packages/pi-twincat-ads",
+  "types": "",
+  "type_list": [],
+  "downloads": 881,
+  "date_ms": 1782134562297,
+  "description_en": "Pi extension for reading and writing TwinCAT runtime values over ADS.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

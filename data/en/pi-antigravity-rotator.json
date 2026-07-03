@@ -1,0 +1,11 @@
+{
+  "name": "pi-antigravity-rotator",
+  "path": "/packages/pi-antigravity-rotator",
+  "url": "https://pi.dev/packages/pi-antigravity-rotator",
+  "types": "",
+  "type_list": [],
+  "downloads": 1274,
+  "date_ms": 1782825058757,
+  "description_en": "Multi-account rotation proxy for Google Antigravity with per-model routing, real-time quota tracking, and infringement detection",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@grammeaway/pi-path-complete",
+  "path": "/packages/@grammeaway/pi-path-complete",
+  "url": "https://pi.dev/packages/@grammeaway/pi-path-complete",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 180,
+  "date_ms": 1782263436640,
+  "description_en": "Inline file-path autocompletion extension for the Pi agentic harness",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

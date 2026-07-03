@@ -1,0 +1,6 @@
+{
+  "name": "@showbegin/pi-aws-accounts",
+  "description_en": "Pi extension: safe multi-account AWS + EKS context switching with a fail-honest prod guardrail and a visible active-account indicator.",
+  "description_zh": "Pi 扩展：安全的多账户 AWS + EKS 上下文切换，带有诚实失败防护栏和可见的活动账户指示器。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

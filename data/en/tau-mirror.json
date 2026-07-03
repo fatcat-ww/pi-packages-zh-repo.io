@@ -1,0 +1,11 @@
+{
+  "name": "tau-mirror",
+  "path": "/packages/tau-mirror",
+  "url": "https://pi.dev/packages/tau-mirror",
+  "types": "",
+  "type_list": [],
+  "downloads": 1203,
+  "date_ms": 1782112787000,
+  "description_en": "Web UI that mirrors your Pi terminal session in the browser",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

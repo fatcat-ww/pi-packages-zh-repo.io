@@ -1,0 +1,6 @@
+{
+  "name": "pi-morphllm-plugin",
+  "description_en": "Morph runtime extension package for Pi Coding Agent with tools, hooks, and compaction",
+  "description_zh": "Pi Coding Agent 的 Morph 运行时扩展包，带有工具、钩子和压缩功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@mrclrchtr/supi-web",
+  "description_en": "SuPi Web extension — fetch web pages as clean Markdown (web_fetch_md) and library docs via Context7 (web_docs_search, web_docs_fetch)",
+  "description_zh": "SuPi Web 扩展 — 将网页作为干净的 Markdown 获取（web_fetch_md）并通过 Context7 获取库文档（web_docs_search、web_docs_fetch）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

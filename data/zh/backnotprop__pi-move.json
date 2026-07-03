@@ -1,0 +1,6 @@
+{
+  "name": "@backnotprop/pi-move",
+  "description_en": "Pi extension that adds /move session relocation with Git worktree support.",
+  "description_zh": "Pi扩展，添加支持Git worktree的/move会话重定位功能。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

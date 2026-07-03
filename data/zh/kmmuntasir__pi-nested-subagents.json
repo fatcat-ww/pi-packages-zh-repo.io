@@ -1,0 +1,6 @@
+{
+  "name": "@kmmuntasir/pi-nested-subagents",
+  "description_en": "A pi extension that brings Claude Code-style autonomous sub-agents to pi, with safe configurable nesting depth and built-in ground-truth verification. Fork of tintinweb/pi-subagents.",
+  "description_zh": "一个 pi 扩展，将 Claude Code 式的自主子代理引入 pi，具有可配置的安全嵌套深度和内置的真相验证。tintinweb/pi-subagents 的分支。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

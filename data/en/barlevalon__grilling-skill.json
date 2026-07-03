@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/grilling-skill",
+  "path": "/packages/@barlevalon/grilling-skill",
+  "url": "https://pi.dev/packages/@barlevalon/grilling-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 0,
+  "date_ms": 1782995514235,
+  "description_en": "Reusable interview loop for pressure-testing a plan or design until every branch of the decision tree is resolved.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

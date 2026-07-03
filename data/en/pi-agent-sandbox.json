@@ -1,0 +1,13 @@
+{
+  "name": "pi-agent-sandbox",
+  "path": "/packages/pi-agent-sandbox",
+  "url": "https://pi.dev/packages/pi-agent-sandbox",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 507,
+  "date_ms": 1781131975382,
+  "description_en": "Sandbox awareness for pi: shows a colored [sandboxed:<profile>] footer and injects sandbox-access context when pi runs inside agent-sandbox (asb), plus an asb-pi shell wrapper that launches pi sandboxed inside tmux.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

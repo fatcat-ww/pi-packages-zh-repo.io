@@ -1,0 +1,6 @@
+{
+  "name": "@howaboua/pi-auto-reasoning-tool",
+  "description_en": "Pi package that gives agents a change_reasoning tool for adjusting reasoning level when substantial work is likely.",
+  "description_zh": "为代理提供 change_reasoning 工具的 Pi 包，在可能进行大量工作时调整推理级别",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

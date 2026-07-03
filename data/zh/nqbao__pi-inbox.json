@@ -1,0 +1,6 @@
+{
+  "name": "@nqbao/pi-inbox",
+  "description_en": "Inter-session communication extension for Pi — file-based, channel-oriented, threaded messaging between independently-running Pi sessions",
+  "description_zh": "Pi 的会话间通信扩展 — 基于文件、面向通道、线程化的消息传递，在独立运行的 Pi 会话之间",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

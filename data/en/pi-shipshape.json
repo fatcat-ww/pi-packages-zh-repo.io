@@ -1,0 +1,14 @@
+{
+  "name": "pi-shipshape",
+  "path": "/packages/pi-shipshape",
+  "url": "https://pi.dev/packages/pi-shipshape",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 1609,
+  "date_ms": 1781712181551,
+  "description_en": "Pi package for the Shipshape context-isolated spec-driven development workflow.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "omp-notify-tool",
+  "path": "/packages/omp-notify-tool",
+  "url": "https://pi.dev/packages/omp-notify-tool",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 276,
+  "date_ms": 1780773991313,
+  "description_en": "Model-callable non-blocking notify tool for OMP and Pi-family runtimes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

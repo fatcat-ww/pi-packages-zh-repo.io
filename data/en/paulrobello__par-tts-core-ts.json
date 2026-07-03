@@ -1,0 +1,11 @@
+{
+  "name": "@paulrobello/par-tts-core-ts",
+  "path": "/packages/@paulrobello/par-tts-core-ts",
+  "url": "https://pi.dev/packages/@paulrobello/par-tts-core-ts",
+  "types": "",
+  "type_list": [],
+  "downloads": 91,
+  "date_ms": 1779858350535,
+  "description_en": "Provider-neutral TypeScript text-to-speech library for Node, browsers via proxy, and pi extensions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

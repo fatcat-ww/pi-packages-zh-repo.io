@@ -1,0 +1,13 @@
+{
+  "name": "pi-matrix-bridge",
+  "path": "/packages/pi-matrix-bridge",
+  "url": "https://pi.dev/packages/pi-matrix-bridge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 210,
+  "date_ms": 1780822047422,
+  "description_en": "Bridge Matrix into pi (Matrix-only fork of pi-messenger-bridge)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

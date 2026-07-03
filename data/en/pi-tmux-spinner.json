@@ -1,0 +1,11 @@
+{
+  "name": "pi-tmux-spinner",
+  "path": "/packages/pi-tmux-spinner",
+  "url": "https://pi.dev/packages/pi-tmux-spinner",
+  "types": "",
+  "type_list": [],
+  "downloads": 26,
+  "date_ms": 1779564272330,
+  "description_en": "Animated tmux window-name spinner for the pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

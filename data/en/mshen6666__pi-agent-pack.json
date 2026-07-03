@@ -1,0 +1,13 @@
+{
+  "name": "@mshen6666/pi-agent-pack",
+  "path": "/packages/@mshen6666/pi-agent-pack",
+  "url": "https://pi.dev/packages/@mshen6666/pi-agent-pack",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 771,
+  "date_ms": 1782967379655,
+  "description_en": "BTKS enterprise extension pack for Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

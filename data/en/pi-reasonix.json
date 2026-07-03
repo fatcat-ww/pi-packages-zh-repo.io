@@ -1,0 +1,13 @@
+{
+  "name": "pi-reasonix",
+  "path": "/packages/pi-reasonix",
+  "url": "https://pi.dev/packages/pi-reasonix",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 246,
+  "date_ms": 1780343840677,
+  "description_en": "DeepSeek-native optimizations for Pi: cache-first prefix stabilization, tool-call repair, and cost control.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

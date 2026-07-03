@@ -1,0 +1,13 @@
+{
+  "name": "pi-reminders",
+  "path": "/packages/pi-reminders",
+  "url": "https://pi.dev/packages/pi-reminders",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 253,
+  "date_ms": 1781109377134,
+  "description_en": "Pi extension for Apple Reminders via rem CLI with dry-run confirmation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

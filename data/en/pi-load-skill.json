@@ -1,0 +1,14 @@
+{
+  "name": "pi-load-skill",
+  "path": "/packages/pi-load-skill",
+  "url": "https://pi.dev/packages/pi-load-skill",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 268,
+  "date_ms": 1781714940002,
+  "description_en": "Pi extension for loading skills on demand from any location",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

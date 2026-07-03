@@ -1,0 +1,14 @@
+{
+  "name": "pi-tinyfish-tools",
+  "path": "/packages/pi-tinyfish-tools",
+  "url": "https://pi.dev/packages/pi-tinyfish-tools",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 411,
+  "date_ms": 1781109379412,
+  "description_en": "TinyFish Web Agent tools for pi — search, fetch, and goal-driven browser automation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

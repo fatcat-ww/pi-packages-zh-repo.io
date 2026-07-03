@@ -1,0 +1,6 @@
+{
+  "name": "@arvoretech/pi-warp-tab-title",
+  "description_en": "PI extension that lets the LLM rename the Warp terminal tab to reflect the current task focus",
+  "description_zh": "允许 LLM 重命名 Warp 终端标签以反映当前任务焦点的 PI 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

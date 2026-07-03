@@ -1,0 +1,13 @@
+{
+  "name": "pi-session-cleanup",
+  "path": "/packages/pi-session-cleanup",
+  "url": "https://pi.dev/packages/pi-session-cleanup",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 463,
+  "date_ms": 1783049872971,
+  "description_en": "Pi extension for interactive batch session cleanup and safe deletion.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

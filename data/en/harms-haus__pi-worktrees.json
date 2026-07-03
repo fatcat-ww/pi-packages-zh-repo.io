@@ -1,0 +1,11 @@
+{
+  "name": "@harms-haus/pi-worktrees",
+  "path": "/packages/@harms-haus/pi-worktrees",
+  "url": "https://pi.dev/packages/@harms-haus/pi-worktrees",
+  "types": "",
+  "type_list": [],
+  "downloads": 86,
+  "date_ms": 1779752436992,
+  "description_en": "pi-coding-agent extension: manage git worktrees with /wt-create, /wt-switch, /wt-merge, /wt-cleanup",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

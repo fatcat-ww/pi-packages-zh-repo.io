@@ -1,0 +1,11 @@
+{
+  "name": "pi-captain",
+  "path": "/packages/pi-captain",
+  "url": "https://pi.dev/packages/pi-captain",
+  "types": "",
+  "type_list": [],
+  "downloads": 116,
+  "date_ms": 1773417476000,
+  "description_en": "Captain — multi-agent pipeline orchestrator for pi. Define specialized agents, wire them into sequential/parallel/pool pipelines with quality gates, and run complex workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

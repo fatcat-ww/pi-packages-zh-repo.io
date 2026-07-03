@@ -1,0 +1,13 @@
+{
+  "name": "pi-minions",
+  "path": "/packages/pi-minions",
+  "url": "https://pi.dev/packages/pi-minions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 266,
+  "date_ms": 1779851515825,
+  "description_en": "Minimal recursive subagent orchestration for pi. No bundled agents, no opinions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

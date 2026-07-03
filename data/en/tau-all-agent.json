@@ -1,0 +1,15 @@
+{
+  "name": "tau-all-agent",
+  "path": "/packages/tau-all-agent",
+  "url": "https://pi.dev/packages/tau-all-agent",
+  "types": "extension skill theme",
+  "type_list": [
+    "extension",
+    "skill",
+    "theme"
+  ],
+  "downloads": 142,
+  "date_ms": 1778335056962,
+  "description_en": "Full Tau package for Pi with coding workflows, web search, sandboxing, memory, Telegram, Home Assistant, OpenSCAD, skills, and a theme",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

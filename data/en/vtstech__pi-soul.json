@@ -1,0 +1,13 @@
+{
+  "name": "@vtstech/pi-soul",
+  "path": "/packages/@vtstech/pi-soul",
+  "url": "https://pi.dev/packages/@vtstech/pi-soul",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 546,
+  "date_ms": 1781183409187,
+  "description_en": "SoulSpec extension for Pi Coding Agent - Load and manage AI agent personas",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

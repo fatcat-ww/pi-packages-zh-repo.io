@@ -1,0 +1,13 @@
+{
+  "name": "@brain0pia/pi-notify",
+  "path": "/packages/@brain0pia/pi-notify",
+  "url": "https://pi.dev/packages/@brain0pia/pi-notify",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 42,
+  "date_ms": 1773480800998,
+  "description_en": "Pi package that sends Telegram notifications after each completed agent response.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-chatgpt-usage-status",
+  "description_en": "Pi extension that shows ChatGPT 5h and weekly rate-limit usage in the status bar.",
+  "description_zh": "Pi 扩展，在状态栏显示 ChatGPT 5 小时和每周速率限制使用情况。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

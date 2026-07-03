@@ -1,0 +1,6 @@
+{
+  "name": "pi-agentkernel",
+  "description_en": "Route Pi coding agent commands through agentkernel microVM sandboxes",
+  "description_zh": "通过 agentkernel 微沙盒路由 Pi 编码代理命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

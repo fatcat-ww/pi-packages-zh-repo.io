@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-backup-manager",
+  "path": "/packages/@firstpick/pi-skill-backup-manager",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-backup-manager",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 389,
+  "date_ms": 1780954574618,
+  "description_en": "Agents should invoke this skill for backup health checks, restore testing, NAS/Gitea backup integrity, 3-2-1 strategy review, backup script audits, or verifying repositories and archives can be restored safely.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

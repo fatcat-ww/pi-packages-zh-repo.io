@@ -1,0 +1,14 @@
+{
+  "name": "@dkmnx/pi-clarify",
+  "path": "/packages/@dkmnx/pi-clarify",
+  "url": "https://pi.dev/packages/@dkmnx/pi-clarify",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 153,
+  "date_ms": 1782998461891,
+  "description_en": "Prompt clarification extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

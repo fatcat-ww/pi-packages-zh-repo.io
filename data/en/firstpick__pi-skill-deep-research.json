@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-deep-research",
+  "path": "/packages/@firstpick/pi-skill-deep-research",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-deep-research",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 679,
+  "date_ms": 1780954590365,
+  "description_en": "Agents should invoke this skill for high-stakes or complex research needing multi-source evidence, scientific/technical fact-checking, decision traces, or rigorous verification. Runs deterministic two-phase research with schema/policy validation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

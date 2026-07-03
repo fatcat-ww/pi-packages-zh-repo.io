@@ -1,0 +1,6 @@
+{
+  "name": "@jademind/pi-bridge",
+  "description_en": "Minimal secure inbox bridge for Pi: reliable queued/steering message delivery to running sessions.",
+  "description_zh": "Pi 的最小安全收件箱桥：可靠地将排队/引导消息传递到正在运行的会话。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

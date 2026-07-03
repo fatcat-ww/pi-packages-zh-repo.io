@@ -1,0 +1,6 @@
+{
+  "name": "pi-bash-live-view",
+  "description_en": "A pi extension that adds optional PTY-backed live terminal rendering to the bash tool via usePTY=true.",
+  "description_zh": "通过 usePTY=true 为 bash 工具添加可选的 PTY 支持的实时终端渲染的 pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-lazy-extensions",
+  "path": "/packages/pi-lazy-extensions",
+  "url": "https://pi.dev/packages/pi-lazy-extensions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 150,
+  "date_ms": 1782499255070,
+  "description_en": "Lazy-load pi extensions on demand via a ToolSearch-style proxy tool",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

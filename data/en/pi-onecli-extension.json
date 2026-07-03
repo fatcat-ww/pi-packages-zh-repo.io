@@ -1,0 +1,13 @@
+{
+  "name": "pi-onecli-extension",
+  "path": "/packages/pi-onecli-extension",
+  "url": "https://pi.dev/packages/pi-onecli-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 35,
+  "date_ms": 1777591978308,
+  "description_en": "OneCLI gateway integration for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

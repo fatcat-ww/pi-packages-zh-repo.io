@@ -1,0 +1,13 @@
+{
+  "name": "@trevonistrevon/pi-loop",
+  "path": "/packages/@trevonistrevon/pi-loop",
+  "url": "https://pi.dev/packages/@trevonistrevon/pi-loop",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3972,
+  "date_ms": 1783020726923,
+  "description_en": "A pi extension for cron/event-based agent re-wake loops and background process monitoring.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

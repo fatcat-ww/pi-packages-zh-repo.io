@@ -1,0 +1,6 @@
+{
+  "name": "model-debugger",
+  "description_en": "Debug Pi model interactions: log requests, detect silent failures, track model selection",
+  "description_zh": "调试 Pi 模型交互：记录请求、检测静默失败、跟踪模型选择",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

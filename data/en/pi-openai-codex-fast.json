@@ -1,0 +1,11 @@
+{
+  "name": "pi-openai-codex-fast",
+  "path": "/packages/pi-openai-codex-fast",
+  "url": "https://pi.dev/packages/pi-openai-codex-fast",
+  "types": "",
+  "type_list": [],
+  "downloads": 474,
+  "date_ms": 1782909492512,
+  "description_en": "Pi package that adds an openai-codex-fast provider backed by openai-codex with priority service tier",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

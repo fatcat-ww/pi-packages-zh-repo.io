@@ -1,0 +1,13 @@
+{
+  "name": "pi-provider-fallback",
+  "path": "/packages/pi-provider-fallback",
+  "url": "https://pi.dev/packages/pi-provider-fallback",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 763,
+  "date_ms": 1782105866261,
+  "description_en": "Cross-provider model fallback for pi, with an interactive TUI config",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

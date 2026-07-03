@@ -1,0 +1,13 @@
+{
+  "name": "@cad0p/pi-bash-timeout",
+  "path": "/packages/@cad0p/pi-bash-timeout",
+  "url": "https://pi.dev/packages/@cad0p/pi-bash-timeout",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782820599849,
+  "description_en": "Wraps pi's built-in bash tool with a 120s default timeout — preserves the stock renderer and delegates execution to the built-in implementation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

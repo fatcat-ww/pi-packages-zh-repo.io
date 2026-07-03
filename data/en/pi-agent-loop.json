@@ -1,0 +1,11 @@
+{
+  "name": "pi-agent-loop",
+  "path": "/packages/pi-agent-loop",
+  "url": "https://pi.dev/packages/pi-agent-loop",
+  "types": "",
+  "type_list": [],
+  "downloads": 136,
+  "date_ms": 1773417480653,
+  "description_en": "General-purpose agent loop extension for pi. Supports goal loops (repeat until done), fixed-pass loops, and multi-stage pipelines via /loop goal, /loop passes, and /loop pipeline commands.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

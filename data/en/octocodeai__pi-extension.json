@@ -1,0 +1,13 @@
+{
+  "name": "@octocodeai/pi-extension",
+  "path": "/packages/@octocodeai/pi-extension",
+  "url": "https://pi.dev/packages/@octocodeai/pi-extension",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 0,
+  "date_ms": 1782832679713,
+  "description_en": "Official Octocode Pi package: system prompt, skills, harness docs, and setup commands for coding agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

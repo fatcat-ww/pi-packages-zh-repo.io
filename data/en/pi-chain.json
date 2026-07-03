@@ -1,0 +1,13 @@
+{
+  "name": "pi-chain",
+  "path": "/packages/pi-chain",
+  "url": "https://pi.dev/packages/pi-chain",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 29,
+  "date_ms": 1774007271523,
+  "description_en": "Pi extension that starts a new session seeded with recent conversation messages",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

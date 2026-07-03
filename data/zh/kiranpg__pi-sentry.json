@@ -1,0 +1,6 @@
+{
+  "name": "@kiranpg/pi-sentry",
+  "description_en": "A Pi extension that blocks sensitive file reads and redacts secrets before they reach the model or session history.",
+  "description_zh": "一个 Pi 扩展，阻止敏感文件读取并在敏感信息到达模型或会话历史前进行脱敏",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

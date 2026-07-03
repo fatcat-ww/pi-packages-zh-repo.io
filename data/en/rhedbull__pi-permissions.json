@@ -1,0 +1,13 @@
+{
+  "name": "@rhedbull/pi-permissions",
+  "path": "/packages/@rhedbull/pi-permissions",
+  "url": "https://pi.dev/packages/@rhedbull/pi-permissions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 96,
+  "date_ms": 1772185169338,
+  "description_en": "Claude Code-style permission modes for pi. Controls approval for file writes, edits, and bash commands with four modes: default, acceptEdits, fullAuto, and bypassPermissions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

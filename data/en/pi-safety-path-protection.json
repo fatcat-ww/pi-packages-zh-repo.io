@@ -1,0 +1,11 @@
+{
+  "name": "pi-safety-path-protection",
+  "path": "/packages/pi-safety-path-protection",
+  "url": "https://pi.dev/packages/pi-safety-path-protection",
+  "types": "",
+  "type_list": [],
+  "downloads": 32,
+  "date_ms": 1773417486343,
+  "description_en": "Protects sensitive paths (.env files, .git internals, node_modules, SSH keys) from unauthorized reads and writes across all tools — read, write, edit, and bash.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

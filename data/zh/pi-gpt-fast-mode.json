@@ -1,0 +1,6 @@
+{
+  "name": "pi-gpt-fast-mode",
+  "description_en": "Pi extension to control OpenAI's GPT service tier (priority/flex/default/auto) for GPT-5.4 / GPT-5.5, with subagent hand-off.",
+  "description_zh": "用于控制 OpenAI GPT 服务层（priority/flex/default/auto）的 Pi 扩展，支持 GPT-5.4 / GPT-5.5，并提供子代理移交功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

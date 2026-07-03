@@ -1,0 +1,13 @@
+{
+  "name": "pi-persistent-term",
+  "path": "/packages/pi-persistent-term",
+  "url": "https://pi.dev/packages/pi-persistent-term",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 354,
+  "date_ms": 1780237232087,
+  "description_en": "Integrated terminal panel for pi coding agent — persistent PTY shell, colored overlay, LLM tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

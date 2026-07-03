@@ -1,0 +1,11 @@
+{
+  "name": "@fractary/pi-claude-code",
+  "path": "/packages/@fractary/pi-claude-code",
+  "url": "https://pi.dev/packages/@fractary/pi-claude-code",
+  "types": "",
+  "type_list": [],
+  "downloads": 93,
+  "date_ms": 1774880051579,
+  "description_en": "Pi extensions that shim Claude Code's tool API, letting agents, skills, and prompts built for Claude Code run in pi without modification.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-deepseek-cache",
+  "path": "/packages/pi-deepseek-cache",
+  "url": "https://pi.dev/packages/pi-deepseek-cache",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 188,
+  "date_ms": 1780191670204,
+  "description_en": "DeepSeek prefix-cache extension for pi — hit-rate telemetry, prefix guard, and cache-friendly compaction.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@kuzat/pi-extension-gpt-image-2",
+  "path": "/packages/@kuzat/pi-extension-gpt-image-2",
+  "url": "https://pi.dev/packages/@kuzat/pi-extension-gpt-image-2",
+  "types": "",
+  "type_list": [],
+  "downloads": 25,
+  "date_ms": 1777037383536,
+  "description_en": "Pi extension that adds a gpt_image_2_generate tool",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

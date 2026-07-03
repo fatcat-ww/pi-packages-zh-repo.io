@@ -1,0 +1,14 @@
+{
+  "name": "pi-order-extension",
+  "path": "/packages/pi-order-extension",
+  "url": "https://pi.dev/packages/pi-order-extension",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 172,
+  "date_ms": 1780292654496,
+  "description_en": "Pi extension for managing reusable prompt templates with the /order command.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

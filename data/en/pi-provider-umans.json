@@ -1,0 +1,11 @@
+{
+  "name": "pi-provider-umans",
+  "path": "/packages/pi-provider-umans",
+  "url": "https://pi.dev/packages/pi-provider-umans",
+  "types": "",
+  "type_list": [],
+  "downloads": 199,
+  "date_ms": 1782521627326,
+  "description_en": "Umans.ai provider for pi — Anthropic Messages-compatible endpoint with dynamic model discovery",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

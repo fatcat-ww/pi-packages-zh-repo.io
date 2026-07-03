@@ -1,0 +1,11 @@
+{
+  "name": "@ldelossa/pi-ide",
+  "path": "/packages/@ldelossa/pi-ide",
+  "url": "https://pi.dev/packages/@ldelossa/pi-ide",
+  "types": "",
+  "type_list": [],
+  "downloads": 796,
+  "date_ms": 1780577705951,
+  "description_en": "Pi extension that connects to a running editor (Neovim today, more later) over a local WebSocket. Adds ambient editor context to the agent and routes write/edit tool calls through interactive diffs in the editor.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

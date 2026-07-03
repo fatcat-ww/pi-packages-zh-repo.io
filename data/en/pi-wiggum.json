@@ -1,0 +1,11 @@
+{
+  "name": "pi-wiggum",
+  "path": "/packages/pi-wiggum",
+  "url": "https://pi.dev/packages/pi-wiggum",
+  "types": "",
+  "type_list": [],
+  "downloads": 100,
+  "date_ms": 1778821545975,
+  "description_en": "Ralph Wiggum loop for pi — autonomous agentic software development workflow. Agents clarify, plan, implement, review, fix, and iterate.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

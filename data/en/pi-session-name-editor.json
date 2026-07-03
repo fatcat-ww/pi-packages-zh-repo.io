@@ -1,0 +1,13 @@
+{
+  "name": "pi-session-name-editor",
+  "path": "/packages/pi-session-name-editor",
+  "url": "https://pi.dev/packages/pi-session-name-editor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 28,
+  "date_ms": 1777552754482,
+  "description_en": "Pi extension that shows a context-aware label in the editor border and a custom footer with token stats",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

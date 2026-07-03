@@ -1,0 +1,13 @@
+{
+  "name": "pi-models",
+  "path": "/packages/pi-models",
+  "url": "https://pi.dev/packages/pi-models",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 405,
+  "date_ms": 1782042674876,
+  "description_en": "Quality-of-life Pi extension for browsing models by provider or family",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

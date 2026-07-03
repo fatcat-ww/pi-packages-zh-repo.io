@@ -1,0 +1,6 @@
+{
+  "name": "@estebanforge/pi-glm-tweaks",
+  "description_en": "Pi-native tweaks for Z.AI's GLM-5.2. Restricts the Pi thinking-level UI to the three modes GLM-5.2 actually supports (off, high, max), wires the native thinkingFormat:\"zai\" wire translation, and auto-clamps hidden levels when the model is selected.",
+  "description_zh": "针对 Z.AI 的 GLM-5.2 的 Pi 原生调整。将 Pi 思考级别 UI 限制为 GLM-5.2 实际支持的三种模式（关闭、高、最大），连接原生 thinkingFormat:\"zai\" 线翻译，并在选择模型时自动限制隐藏级别。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

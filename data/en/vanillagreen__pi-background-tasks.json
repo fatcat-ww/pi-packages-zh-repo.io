@@ -1,0 +1,11 @@
+{
+  "name": "@vanillagreen/pi-background-tasks",
+  "path": "/packages/@vanillagreen/pi-background-tasks",
+  "url": "https://pi.dev/packages/@vanillagreen/pi-background-tasks",
+  "types": "",
+  "type_list": [],
+  "downloads": 730,
+  "date_ms": 1781280367636,
+  "description_en": "Pi extension for explicit non-blocking background shell tasks, log tails, and completion wakeups.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

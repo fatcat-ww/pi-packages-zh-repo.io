@@ -1,0 +1,13 @@
+{
+  "name": "pi-brainstorm",
+  "path": "/packages/pi-brainstorm",
+  "url": "https://pi.dev/packages/pi-brainstorm",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 298,
+  "date_ms": 1782716291238,
+  "description_en": "Multi-model brainstorming and debate sessions for pi subagents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

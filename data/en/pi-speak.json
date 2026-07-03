@@ -1,0 +1,11 @@
+{
+  "name": "pi-speak",
+  "path": "/packages/pi-speak",
+  "url": "https://pi.dev/packages/pi-speak",
+  "types": "",
+  "type_list": [],
+  "downloads": 18,
+  "date_ms": 1776068680273,
+  "description_en": "Voice readback extension for Pi — reads agent responses aloud via Unreal Speech TTS",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

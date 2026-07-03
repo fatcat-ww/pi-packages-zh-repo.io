@@ -1,0 +1,13 @@
+{
+  "name": "pi-weixinbot",
+  "path": "/packages/pi-weixinbot",
+  "url": "https://pi.dev/packages/pi-weixinbot",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 137,
+  "date_ms": 1779712808164,
+  "description_en": "微信机器人 extension for pi，支持扫码登录和消息收发",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

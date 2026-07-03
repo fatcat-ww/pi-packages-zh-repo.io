@@ -1,0 +1,6 @@
+{
+  "name": "@indiekitai/pi-skills",
+  "description_en": "IndieKit developer tools as Pi/Claude Code/Codex skills — PostgreSQL health, schema diff, type generation, rate limiting, terminal styling, and more",
+  "description_zh": "IndieKit 开发工具作为 Pi/Claude Code/Codex 技能 — PostgreSQL 健康检查、模式差异、类型生成、速率限制、终端样式等",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

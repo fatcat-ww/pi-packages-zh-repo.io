@@ -1,0 +1,11 @@
+{
+  "name": "pi-reason-harness",
+  "path": "/packages/pi-reason-harness",
+  "url": "https://pi.dev/packages/pi-reason-harness",
+  "types": "",
+  "type_list": [],
+  "downloads": 283,
+  "date_ms": 1783014116201,
+  "description_en": "Recursive self-improving reasoning harness for pi — iterate, verify, improve. Builds task-specific reasoning strategies on top of any LLM.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

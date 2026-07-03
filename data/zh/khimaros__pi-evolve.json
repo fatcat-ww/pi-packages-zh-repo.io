@@ -1,0 +1,6 @@
+{
+  "name": "@khimaros/pi-evolve",
+  "description_en": "self-modifying hook extension for pi-coding-agent -- implements the hook protocol so opencode-evolve hooks run in pi unchanged",
+  "description_zh": "pi-coding-agent 的自修改钩子扩展 — 实现钩子协议，使 opencode-evolve 钩子在 pi 中无需更改即可运行。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

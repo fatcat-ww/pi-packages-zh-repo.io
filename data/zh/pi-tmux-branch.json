@@ -1,0 +1,6 @@
+{
+  "name": "pi-tmux-branch",
+  "description_en": "Pi extension for branching the current session into a new tmux pane.",
+  "description_zh": "Pi 扩展，用于将当前会话分支到新的 tmux 窗格。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

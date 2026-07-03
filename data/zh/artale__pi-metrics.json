@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-metrics",
+  "description_en": "Code metrics and health. Lines of code, cyclomatic complexity, tech debt indicators by language.",
+  "description_zh": "代码指标和健康度。按语言统计的代码行数、循环复杂度、技术债务指标。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-agent-board",
+  "path": "/packages/pi-agent-board",
+  "url": "https://pi.dev/packages/pi-agent-board",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1938,
+  "date_ms": 1782323099447,
+  "description_en": "Agent-board dashboard for Pi: dispatch, monitor, peek/reply, and attach to background Pi sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

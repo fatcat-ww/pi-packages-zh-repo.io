@@ -1,0 +1,11 @@
+{
+  "name": "@cleepi/toolkit",
+  "path": "/packages/@cleepi/toolkit",
+  "url": "https://pi.dev/packages/@cleepi/toolkit",
+  "types": "",
+  "type_list": [],
+  "downloads": 1403,
+  "date_ms": 1780523997201,
+  "description_en": "The Cleevio agent in one install. Bundles @cleepi/sdd, base, coding, git, crew, atlassian, and ships a `cleepi-toolkit init` CLI to wire them up in one command.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

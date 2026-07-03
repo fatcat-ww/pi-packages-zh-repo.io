@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-architecture-review",
+  "description_en": "Agents should invoke this skill for architecture reviews, module boundaries, dependency direction, coupling/cohesion, SOLID concerns, system design trade-offs, layering, service boundaries, or design decisions before implementation.",
+  "description_zh": "代理应在架构审查、模块边界、依赖方向、耦合/内聚、SOLID 关注点、系统设计权衡、分层、服务边界或实现前设计决策时调用此技能。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

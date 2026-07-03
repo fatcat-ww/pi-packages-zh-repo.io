@@ -1,0 +1,11 @@
+{
+  "name": "pi-workbench",
+  "path": "/packages/pi-workbench",
+  "url": "https://pi.dev/packages/pi-workbench",
+  "types": "",
+  "type_list": [],
+  "downloads": 61,
+  "date_ms": 1778073635767,
+  "description_en": "Terminal workbench for switching between live Pi sessions using tmux.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

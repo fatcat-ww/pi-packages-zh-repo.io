@@ -1,0 +1,11 @@
+{
+  "name": "pi-aliases",
+  "path": "/packages/pi-aliases",
+  "url": "https://pi.dev/packages/pi-aliases",
+  "types": "",
+  "type_list": [],
+  "downloads": 125,
+  "date_ms": 1778445222818,
+  "description_en": "Pi extension that adds command aliases: /clear → /new, /exit → /quit",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

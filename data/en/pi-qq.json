@@ -1,0 +1,13 @@
+{
+  "name": "pi-qq",
+  "path": "/packages/pi-qq",
+  "url": "https://pi.dev/packages/pi-qq",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 522,
+  "date_ms": 1780361743500,
+  "description_en": "Ask side questions in pi without polluting the main transcript — /qq or alt+q.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

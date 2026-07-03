@@ -1,0 +1,11 @@
+{
+  "name": "pi-context-prune",
+  "path": "/packages/pi-context-prune",
+  "url": "https://pi.dev/packages/pi-context-prune",
+  "types": "",
+  "type_list": [],
+  "downloads": 1470,
+  "date_ms": 1781313862867,
+  "description_en": "Pi extension package for pruning future context while preserving original tool-call history.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

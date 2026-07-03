@@ -1,0 +1,6 @@
+{
+  "name": "pi-assisted-by",
+  "description_en": "A Pi extension that automatically appends an Assisted-by (or other customizable) git trailer to commit messages with the model name",
+  "description_zh": "Pi 扩展，自动将 Assisted-by（或其他可自定义）git trailer 和模型名称附加到提交消息",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

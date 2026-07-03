@@ -1,0 +1,11 @@
+{
+  "name": "pi-changelog",
+  "path": "/packages/pi-changelog",
+  "url": "https://pi.dev/packages/pi-changelog",
+  "types": "",
+  "type_list": [],
+  "downloads": 28,
+  "date_ms": 1782397477020,
+  "description_en": "Zero-config changelog generator for pi.dev projects from conventional commits",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

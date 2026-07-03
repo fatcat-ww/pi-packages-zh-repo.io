@@ -1,0 +1,13 @@
+{
+  "name": "pi-tool-duration",
+  "path": "/packages/pi-tool-duration",
+  "url": "https://pi.dev/packages/pi-tool-duration",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 113,
+  "date_ms": 1782320178108,
+  "description_en": "Append model-visible durations to slow Pi tool results",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-restrict-bash",
+  "path": "/packages/pi-restrict-bash",
+  "url": "https://pi.dev/packages/pi-restrict-bash",
+  "types": "",
+  "type_list": [],
+  "downloads": 164,
+  "date_ms": 1775078787417,
+  "description_en": "Opinionated bash tool restrictions for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

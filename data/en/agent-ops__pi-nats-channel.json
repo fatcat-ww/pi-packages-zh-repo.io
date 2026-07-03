@@ -1,0 +1,11 @@
+{
+  "name": "@agent-ops/pi-nats-channel",
+  "path": "/packages/@agent-ops/pi-nats-channel",
+  "url": "https://pi.dev/packages/@agent-ops/pi-nats-channel",
+  "types": "",
+  "type_list": [],
+  "downloads": 504,
+  "date_ms": 1780541845397,
+  "description_en": "Synadia Agent Protocol for NATS channel for PI Agent. Makes every PI session a discoverable, spec-compliant agent on NATS.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

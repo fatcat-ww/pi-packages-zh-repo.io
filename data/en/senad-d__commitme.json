@@ -1,0 +1,13 @@
+{
+  "name": "@senad-d/commitme",
+  "path": "/packages/@senad-d/commitme",
+  "url": "https://pi.dev/packages/@senad-d/commitme",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 726,
+  "date_ms": 1782988344567,
+  "description_en": "Pi extension that gathers git diff and project context to draft or create clear Conventional Commit messages.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

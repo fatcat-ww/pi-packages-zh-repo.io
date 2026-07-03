@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-extension-brave-search",
+  "description_en": "Brave Search tool for Pi with API key resolution from env and .env files.",
+  "description_zh": "带有从环境和 .env 文件解析 API 密钥的 Brave Search 工具。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

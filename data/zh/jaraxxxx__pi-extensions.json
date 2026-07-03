@@ -1,0 +1,6 @@
+{
+  "name": "@jaraxxxx/pi-extensions",
+  "description_en": "A comprehensive collection of extension packages for Pi the coding agent — token guard, system context, tool profiler, project detector, dirty guard, permission gate, prompt customizer, auto commit, turn clock, branch navigator, and more.",
+  "description_zh": "Pi 编码代理的扩展包综合集合 — 令牌保护、系统上下文、工具分析器、项目检测器、脏数据保护、权限门、提示自定义器、自动提交、时钟切换、分支导航器等",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

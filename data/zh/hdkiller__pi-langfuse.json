@@ -1,0 +1,6 @@
+{
+  "name": "@hdkiller/pi-langfuse",
+  "description_en": "Production-grade Langfuse observability for Pi. Tracks prompts, turns, tools, and streaming assistant responses with native trace hierarchies, token usage, and cost monitoring.",
+  "description_zh": "Pi 的生产级 Langfuse 可观察性。跟踪提示、轮次、工具和流式助手响应，具有原生跟踪层次结构、令牌使用情况和成本监控",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

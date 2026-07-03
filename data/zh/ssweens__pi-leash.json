@@ -1,0 +1,6 @@
+{
+  "name": "@ssweens/pi-leash",
+  "description_en": "Security hooks for Pi to reduce accidental destructive actions and secret-file access.",
+  "description_zh": "面向 Pi 的安全钩子，减少意外破坏性操作和秘密文件访问。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

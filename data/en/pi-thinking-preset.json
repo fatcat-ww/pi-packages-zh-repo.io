@@ -1,0 +1,13 @@
+{
+  "name": "pi-thinking-preset",
+  "path": "/packages/pi-thinking-preset",
+  "url": "https://pi.dev/packages/pi-thinking-preset",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 265,
+  "date_ms": 1781780992824,
+  "description_en": "Remember pi thinking levels per model.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

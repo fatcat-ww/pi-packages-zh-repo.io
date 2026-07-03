@@ -1,0 +1,11 @@
+{
+  "name": "@diegopetrucci/pi-annotate-git-diff",
+  "path": "/packages/@diegopetrucci/pi-annotate-git-diff",
+  "url": "https://pi.dev/packages/@diegopetrucci/pi-annotate-git-diff",
+  "types": "",
+  "type_list": [],
+  "downloads": 211,
+  "date_ms": 1782197102867,
+  "description_en": "A standalone pi extension that adds /annotate-git-diff, a native Glimpse UI for annotating git diffs and sending feedback to the editor.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

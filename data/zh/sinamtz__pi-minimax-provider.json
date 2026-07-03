@@ -1,0 +1,6 @@
+{
+  "name": "@sinamtz/pi-minimax-provider",
+  "description_en": "Pi coding agent provider for MiniMax AI with M3, Anthropic-compatible streaming, and native MiniMax tools",
+  "description_zh": "MiniMax AI 的 Pi 编码代理提供程序，带有 M3、Anthropic 兼容流和原生 MiniMax 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

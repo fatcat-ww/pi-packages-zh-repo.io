@@ -1,0 +1,13 @@
+{
+  "name": "@jaraxxxx/pi-extensions",
+  "path": "/packages/@jaraxxxx/pi-extensions",
+  "url": "https://pi.dev/packages/@jaraxxxx/pi-extensions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 39,
+  "date_ms": 1779482699234,
+  "description_en": "A comprehensive collection of extension packages for Pi the coding agent — token guard, system context, tool profiler, project detector, dirty guard, permission gate, prompt customizer, auto commit, turn clock, branch navigator, and more.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

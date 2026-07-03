@@ -1,0 +1,11 @@
+{
+  "name": "pi-browser-cdp-extension",
+  "path": "/packages/pi-browser-cdp-extension",
+  "url": "https://pi.dev/packages/pi-browser-cdp-extension",
+  "types": "",
+  "type_list": [],
+  "downloads": 84,
+  "date_ms": 1778673831569,
+  "description_en": "Pi coding-agent extension exposing BrowserCode CDP browser_execute",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-tmux-harness",
+  "description_en": "Pi extension exposing tmux as native tools — drive other TUIs (pi, claude, copilot CLI, lazygit, etc.) for adversarial testing without fragile sleep+grep loops.",
+  "description_zh": "Pi 扩展，将 tmux 作为原生工具暴露 — 驱动其他 TUI（pi、claude、copilot CLI、lazygit 等）进行对抗性测试，无需脆弱的 sleep+grep 循环",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

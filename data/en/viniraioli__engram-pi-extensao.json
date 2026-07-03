@@ -1,0 +1,13 @@
+{
+  "name": "@viniraioli/engram-pi-extensao",
+  "path": "/packages/@viniraioli/engram-pi-extensao",
+  "url": "https://pi.dev/packages/@viniraioli/engram-pi-extensao",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 763,
+  "date_ms": 1782165404785,
+  "description_en": "Persistent memory for Pi agents — one local-or-cloud brain shared across sessions, compactions, and MCP agents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-protected-paths",
+  "description_en": "Blocks write/edit/read of sensitive files (.env, .git, node_modules, SSH keys, credentials, and more)",
+  "description_zh": "阻止敏感文件（.env、.git、node_modules、SSH 密钥、凭据等）的写入/编辑/读取",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@ntimpano/pi-flint",
+  "description_en": "flint memory tools for Pi coding agent — save, recall, get, and list notes via local SQLite",
+  "description_zh": "Pi 编码代理的 flint 内存工具 — 通过本地 SQLite 保存、回忆、获取和列出笔记",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

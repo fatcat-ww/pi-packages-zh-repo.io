@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-gepa",
+  "path": "/packages/@artale/pi-gepa",
+  "url": "https://pi.dev/packages/@artale/pi-gepa",
+  "types": "",
+  "type_list": [],
+  "downloads": 58,
+  "date_ms": 1773504227831,
+  "description_en": "Skill scanner and quality scorer for Pi. Scans, scores, and identifies weak skills. Pairs with pi-evolve for mutation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

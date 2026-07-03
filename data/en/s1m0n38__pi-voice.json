@@ -1,0 +1,11 @@
+{
+  "name": "@s1m0n38/pi-voice",
+  "path": "/packages/@s1m0n38/pi-voice",
+  "url": "https://pi.dev/packages/@s1m0n38/pi-voice",
+  "types": "",
+  "type_list": [],
+  "downloads": 145,
+  "date_ms": 1778165874941,
+  "description_en": "HTTP server for Kokoro TTS — text-to-speech via ONNX inference.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

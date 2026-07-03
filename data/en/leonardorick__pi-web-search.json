@@ -1,0 +1,11 @@
+{
+  "name": "@leonardorick/pi-web-search",
+  "path": "/packages/@leonardorick/pi-web-search",
+  "url": "https://pi.dev/packages/@leonardorick/pi-web-search",
+  "types": "",
+  "type_list": [],
+  "downloads": 149,
+  "date_ms": 1779130940653,
+  "description_en": "Web search tool for pi — Exa MCP search with DuckDuckGo fallback via wreq-js.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

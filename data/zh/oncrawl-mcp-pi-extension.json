@@ -1,0 +1,6 @@
+{
+  "name": "oncrawl-mcp-pi-extension",
+  "description_en": "Pi Agent extension that bridges the Oncrawl MCP Server directly into Pi – no Claude Code or Claude Desktop required.",
+  "description_zh": "将 Oncrawl MCP 服务器直接桥接到 Pi Agent 的扩展 — 无需 Claude Code 或 Claude Desktop",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

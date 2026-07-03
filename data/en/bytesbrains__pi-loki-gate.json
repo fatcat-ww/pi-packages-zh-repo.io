@@ -1,0 +1,13 @@
+{
+  "name": "@bytesbrains/pi-loki-gate",
+  "path": "/packages/@bytesbrains/pi-loki-gate",
+  "url": "https://pi.dev/packages/@bytesbrains/pi-loki-gate",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 44,
+  "date_ms": 1778871264160,
+  "description_en": "Loki log gateway for pi agents — query Grafana Loki for container/job/worker logs from the wrok.in AI Factory.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

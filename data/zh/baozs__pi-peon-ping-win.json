@@ -1,0 +1,6 @@
+{
+  "name": "@baozs/pi-peon-ping-win",
+  "description_en": "Pi extension for peon-ping sound notifications — fork with native Windows support (ffplay/mpv + winmm.dll PlaySound fallback)",
+  "description_zh": "peon-ping 声音通知的 Pi 扩展 — 带原生 Windows 支持的分支（ffplay/mpv + winmm.dll PlaySound 回退）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

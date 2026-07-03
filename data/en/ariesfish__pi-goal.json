@@ -1,0 +1,13 @@
+{
+  "name": "@ariesfish/pi-goal",
+  "path": "/packages/@ariesfish/pi-goal",
+  "url": "https://pi.dev/packages/@ariesfish/pi-goal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 120,
+  "date_ms": 1779789889550,
+  "description_en": "Autonomous experiment loop for pi — run, measure, keep or discard. Inspired by karpathy/autoresearch.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

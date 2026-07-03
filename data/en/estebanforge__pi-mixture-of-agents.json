@@ -1,0 +1,13 @@
+{
+  "name": "@estebanforge/pi-mixture-of-agents",
+  "path": "/packages/@estebanforge/pi-mixture-of-agents",
+  "url": "https://pi.dev/packages/@estebanforge/pi-mixture-of-agents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782836384945,
+  "description_en": "Mixture of Agents for Pi. Registers a virtual `moa` provider (presets selectable in /model) and a `/moa` command that runs one-shot passes plus a drill-down preset menu. Each preset fans out N reference models in parallel over a trimmed transcript, an agg",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

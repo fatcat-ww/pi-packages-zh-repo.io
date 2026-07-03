@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-package-remote-webui",
+  "description_en": "Pi /remote command that opens the existing Pi Web UI to a trusted LAN and shows a QR code for mobile.",
+  "description_zh": "Pi /remote 命令，将现有的 Pi Web UI 打开到受信任的 LAN 并显示移动设备的二维码",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

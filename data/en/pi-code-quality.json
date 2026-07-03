@@ -1,0 +1,11 @@
+{
+  "name": "pi-code-quality",
+  "path": "/packages/pi-code-quality",
+  "url": "https://pi.dev/packages/pi-code-quality",
+  "types": "",
+  "type_list": [],
+  "downloads": 81,
+  "date_ms": 1778529574792,
+  "description_en": "Declarative Pi extension that automatically formats and lints files after write/edit.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

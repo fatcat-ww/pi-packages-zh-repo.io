@@ -1,0 +1,6 @@
+{
+  "name": "@tifan/pi-handoff",
+  "description_en": "Transfer pi session context to a new session and query past sessions.",
+  "description_zh": "将 pi 会话上下文传输到新会话并查询过去的会话。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

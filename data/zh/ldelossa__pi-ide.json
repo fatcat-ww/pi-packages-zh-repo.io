@@ -1,0 +1,6 @@
+{
+  "name": "@ldelossa/pi-ide",
+  "description_en": "Pi extension that connects to a running editor (Neovim today, more later) over a local WebSocket. Adds ambient editor context to the agent and routes write/edit tool calls through interactive diffs in the editor.",
+  "description_zh": "Pi 扩展，通过本地 WebSocket 连接到正在运行的编辑器（目前是 Neovim，以后会有更多）。将环境编辑器上下文添加到代理中，并通过编辑器中的交互式差异路由写入/编辑工具调用",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

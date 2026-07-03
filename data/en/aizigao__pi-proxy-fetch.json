@@ -1,0 +1,13 @@
+{
+  "name": "@aizigao/pi-proxy-fetch",
+  "path": "/packages/@aizigao/pi-proxy-fetch",
+  "url": "https://pi.dev/packages/@aizigao/pi-proxy-fetch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 730,
+  "date_ms": 1781591312753,
+  "description_en": "Pi extension package that routes globalThis.fetch through direct, proxy, or fallback behavior based on hostname rules.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

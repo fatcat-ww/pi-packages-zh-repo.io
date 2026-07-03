@@ -1,0 +1,13 @@
+{
+  "name": "pi-skill-acli",
+  "path": "/packages/pi-skill-acli",
+  "url": "https://pi.dev/packages/pi-skill-acli",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 0,
+  "date_ms": 1782717193421,
+  "description_en": "Pi skill for interacting with Atlassian Cloud (Jira & Confluence) via the acli CLI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

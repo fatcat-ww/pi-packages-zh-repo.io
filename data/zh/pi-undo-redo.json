@@ -1,0 +1,6 @@
+{
+  "name": "pi-undo-redo",
+  "description_en": "Undo/redo for Pi conversations and workspace changes with hybrid git and non-git snapshots.",
+  "description_zh": "用于 Pi 对话和更改的撤销/重做功能，具有混合 git 和非 git 快照。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

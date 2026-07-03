@@ -1,0 +1,13 @@
+{
+  "name": "pi-ssh",
+  "path": "/packages/pi-ssh",
+  "url": "https://pi.dev/packages/pi-ssh",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 78,
+  "date_ms": 1775025822736,
+  "description_en": "pi extension for local-model plus remote SSH workspace tool execution",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

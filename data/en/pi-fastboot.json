@@ -1,0 +1,13 @@
+{
+  "name": "pi-fastboot",
+  "path": "/packages/pi-fastboot",
+  "url": "https://pi.dev/packages/pi-fastboot",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 67,
+  "date_ms": 1777015598039,
+  "description_en": "Make Pi startup feel close to PI_OFFLINE=1 while still letting npm-based extensions update",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

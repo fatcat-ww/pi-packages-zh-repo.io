@@ -1,0 +1,13 @@
+{
+  "name": "@ryukin-dev/pi-featherless-kali",
+  "path": "/packages/@ryukin-dev/pi-featherless-kali",
+  "url": "https://pi.dev/packages/@ryukin-dev/pi-featherless-kali",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782837331002,
+  "description_en": "Featherless Provider for Pi with accurate tokenization and concurrency tracking.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

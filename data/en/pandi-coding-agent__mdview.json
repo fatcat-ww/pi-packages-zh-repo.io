@@ -1,0 +1,13 @@
+{
+  "name": "@pandi-coding-agent/mdview",
+  "path": "/packages/@pandi-coding-agent/mdview",
+  "url": "https://pi.dev/packages/@pandi-coding-agent/mdview",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783061697555,
+  "description_en": "Pi extension that adds a TUI Markdown viewer command.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

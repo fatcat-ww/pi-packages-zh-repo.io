@@ -1,0 +1,6 @@
+{
+  "name": "@s1m0n38/pi-voice",
+  "description_en": "HTTP server for Kokoro TTS — text-to-speech via ONNX inference.",
+  "description_zh": "Kokoro TTS 的 HTTP 服务器 — 通过 ONNX 推理实现文本转语音",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

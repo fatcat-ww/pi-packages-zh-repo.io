@@ -1,0 +1,13 @@
+{
+  "name": "pi-quota-status",
+  "path": "/packages/pi-quota-status",
+  "url": "https://pi.dev/packages/pi-quota-status",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 903,
+  "date_ms": 1782220306107,
+  "description_en": "Pi extension package that adds compact provider quota/reset status to the footer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

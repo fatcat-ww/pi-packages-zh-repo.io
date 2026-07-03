@@ -1,0 +1,6 @@
+{
+  "name": "@juanibiapina/pi-usage",
+  "description_en": "Pi extension that fetches Anthropic subscription usage. Simplified fork of @marckrenn/pi-sub-core.",
+  "description_zh": "Pi 扩展，获取 Anthropic 订阅使用情况。@marckrenn/pi-sub-core 的简化分支。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

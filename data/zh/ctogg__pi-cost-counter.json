@@ -1,0 +1,6 @@
+{
+  "name": "@ctogg/pi-cost-counter",
+  "description_en": "Pi extension that tracks LLM API costs across all sessions with daily JSONL logging and a /cost command",
+  "description_zh": "Pi 扩展，跟踪所有会话中的 LLM API 成本，具有每日 JSONL 日志记录和 /cost 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

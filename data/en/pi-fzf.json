@@ -1,0 +1,11 @@
+{
+  "name": "pi-fzf",
+  "path": "/packages/pi-fzf",
+  "url": "https://pi.dev/packages/pi-fzf",
+  "types": "",
+  "type_list": [],
+  "downloads": 180,
+  "date_ms": 1777036001342,
+  "description_en": "A [Pi](https://github.com/badlogic/pi) extension for fuzzy finding. Define commands that list candidates from any shell command, then perform actions on the selected item—fill the editor, send to the agent, or run shell commands.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

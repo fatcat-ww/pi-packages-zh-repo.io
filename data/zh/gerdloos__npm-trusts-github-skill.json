@@ -1,0 +1,6 @@
+{
+  "name": "@gerdloos/npm-trusts-github-skill",
+  "description_en": "A skill that teaches an LLM how to set up and/or use npm trusted publishing (OIDC) with GitHub Actions. No long-lived tokens, no 2FA prompts, no manual rotation.",
+  "description_zh": "一项技能，教授 LLM 如何使用 GitHub Actions 设置和/或使用 npm 信任发布（OIDC）。无需长期令牌，无需双因素认证提示，无需手动轮换。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

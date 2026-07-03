@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-datasci",
+  "path": "/packages/@artale/pi-datasci",
+  "url": "https://pi.dev/packages/@artale/pi-datasci",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 41,
+  "date_ms": 1772983878377,
+  "description_en": "Data science toolkit. Profile datasets, correlation matrices, outlier detection, statistical summaries. CSV/JSON/JSONL support.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

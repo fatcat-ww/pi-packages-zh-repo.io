@@ -1,0 +1,14 @@
+{
+  "name": "@dotdotgod/pi",
+  "path": "/packages/@dotdotgod/pi",
+  "url": "https://pi.dev/packages/@dotdotgod/pi",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 2058,
+  "date_ms": 1783066444421,
+  "description_en": "Pi adapter for dotdotgod: project-initializer skill, shared docs scaffold, plan/archive workflow, and project loading extensions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

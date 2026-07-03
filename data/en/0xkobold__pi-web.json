@@ -1,0 +1,13 @@
+{
+  "name": "@0xkobold/pi-web",
+  "path": "/packages/@0xkobold/pi-web",
+  "url": "https://pi.dev/packages/@0xkobold/pi-web",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 103,
+  "date_ms": 1775859507803,
+  "description_en": "Web search and content extraction for pi agents — DuckDuckGo/SearX search, cascade fetching (fast → readability → Playwright), deep research",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

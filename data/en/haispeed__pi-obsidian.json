@@ -1,0 +1,11 @@
+{
+  "name": "@haispeed/pi-obsidian",
+  "path": "/packages/@haispeed/pi-obsidian",
+  "url": "https://pi.dev/packages/@haispeed/pi-obsidian",
+  "types": "",
+  "type_list": [],
+  "downloads": 293,
+  "date_ms": 1774581952640,
+  "description_en": "Pi extension + skill for managing Obsidian vaults via Obsidian CLI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-terminal",
+  "description_en": "Adds /terminal and /t commands to run shell commands in the current working directory and display output inline — with smart truncation and TUI notifications.",
+  "description_zh": "添加 /terminal 和 /t 命令，在当前工作目录运行 shell 命令并内联显示输出 — 具有智能截断和 TUI 通知",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

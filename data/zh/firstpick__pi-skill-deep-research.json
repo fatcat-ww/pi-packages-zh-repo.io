@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-deep-research",
+  "description_en": "Agents should invoke this skill for high-stakes or complex research needing multi-source evidence, scientific/technical fact-checking, decision traces, or rigorous verification. Runs deterministic two-phase research with schema/policy validation.",
+  "description_zh": "代理应调用此技能进行高风险或复杂研究，需要多源证据、科学/技术事实核查、决策跟踪或严格验证。运行确定性的两阶段研究，包含模式/策略验证",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

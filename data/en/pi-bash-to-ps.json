@@ -1,0 +1,13 @@
+{
+  "name": "pi-bash-to-ps",
+  "path": "/packages/pi-bash-to-ps",
+  "url": "https://pi.dev/packages/pi-bash-to-ps",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 32,
+  "date_ms": 1779115691355,
+  "description_en": "pi extension that transpiles LLM-generated bash commands to PowerShell on Windows",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

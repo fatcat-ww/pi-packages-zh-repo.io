@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-append-system-prompt",
+  "path": "/packages/@agnishc/edb-append-system-prompt",
+  "url": "https://pi.dev/packages/@agnishc/edb-append-system-prompt",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 635,
+  "date_ms": 1782119157045,
+  "description_en": "Pi extension: manage per-session system prompt snippets with add/delete UI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

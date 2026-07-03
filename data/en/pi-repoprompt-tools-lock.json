@@ -1,0 +1,11 @@
+{
+  "name": "pi-repoprompt-tools-lock",
+  "path": "/packages/pi-repoprompt-tools-lock",
+  "url": "https://pi.dev/packages/pi-repoprompt-tools-lock",
+  "types": "",
+  "type_list": [],
+  "downloads": 73,
+  "date_ms": 1778173586802,
+  "description_en": "Forces the agent to use RepoPrompt tools during repo-scoped work by disabling Pi's native tools when RepoPrompt tools are available (through either the `pi-repoprompt-cli` or `pi-repoprompt-mcp` Pi packages/extensions)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@zgltyq/pi-provider-claude",
+  "path": "/packages/@zgltyq/pi-provider-claude",
+  "url": "https://pi.dev/packages/@zgltyq/pi-provider-claude",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 506,
+  "date_ms": 1781711468937,
+  "description_en": "Claude (Anthropic OAuth/subscription) compatibility layer for pi-coding-agent — keeps ALL extension tools usable under the Claude subscription by mapping unknown flat tool names to mcp__pi__<name> on the wire instead of dropping them, plus optional multi-",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

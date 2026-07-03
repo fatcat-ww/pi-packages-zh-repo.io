@@ -1,0 +1,6 @@
+{
+  "name": "pi-knowledge",
+  "description_en": "Local-first RAG knowledge base for Pi agents with hybrid code/doc search, reranking, diagnostics, and large-project indexing",
+  "description_zh": "Pi 代理的本地优先 RAG 知识库，具有混合代码/文档搜索、重新排序、诊断和大型项目索引功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@arvoretech/pi-slack-tracker",
+  "description_en": "PI extension that pins the active Slack thread/channel link in the chat as a compact persistent widget",
+  "description_zh": "将活动的 Slack 线程/频道链接固定在聊天中的紧凑持久小部件的 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

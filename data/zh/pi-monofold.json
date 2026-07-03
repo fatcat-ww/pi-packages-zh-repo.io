@@ -1,0 +1,6 @@
+{
+  "name": "pi-monofold",
+  "description_en": "Pi extension that folds multiple repositories and folders into a guarded virtual monorepo for AI agents.",
+  "description_zh": "Pi 扩展，将多个存储库和文件夹折叠成受保护的虚拟 monorepo，供 AI 代理使用",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

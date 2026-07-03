@@ -1,0 +1,6 @@
+{
+  "name": "pi-resume-remind",
+  "description_en": "Pi CLI extension that reminds users how to resume the current session when quitting",
+  "description_zh": "Pi CLI 扩展，在退出时提醒用户如何恢复当前会话",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-oneliner",
+  "path": "/packages/pi-oneliner",
+  "url": "https://pi.dev/packages/pi-oneliner",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 43,
+  "date_ms": 1776743596469,
+  "description_en": "One-line sticky footer extension for pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

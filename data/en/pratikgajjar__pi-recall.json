@@ -1,0 +1,13 @@
+{
+  "name": "@pratikgajjar/pi-recall",
+  "path": "/packages/@pratikgajjar/pi-recall",
+  "url": "https://pi.dev/packages/@pratikgajjar/pi-recall",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1833,
+  "date_ms": 1781939579067,
+  "description_en": "pi extension: search your past AI chat history (Cursor, Claude Code, Codex, pi) via the recall CLI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

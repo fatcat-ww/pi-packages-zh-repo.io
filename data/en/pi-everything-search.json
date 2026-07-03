@@ -1,0 +1,13 @@
+{
+  "name": "pi-everything-search",
+  "path": "/packages/pi-everything-search",
+  "url": "https://pi.dev/packages/pi-everything-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783067840433,
+  "description_en": "Pi extension: ultra-fast file search via Everything (voidtools) — replaces slow find/ls/grep",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

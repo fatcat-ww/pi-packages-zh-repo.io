@@ -1,0 +1,6 @@
+{
+  "name": "pi-fastboot",
+  "description_en": "Make Pi startup feel close to PI_OFFLINE=1 while still letting npm-based extensions update",
+  "description_zh": "使 Pi 启动感觉接近 PI_OFFLINE=1，同时仍允许基于 npm 的扩展更新",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

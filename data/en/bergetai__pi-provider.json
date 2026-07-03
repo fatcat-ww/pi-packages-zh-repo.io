@@ -1,0 +1,13 @@
+{
+  "name": "@bergetai/pi-provider",
+  "path": "/packages/@bergetai/pi-provider",
+  "url": "https://pi.dev/packages/@bergetai/pi-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 304,
+  "date_ms": 1782222121944,
+  "description_en": "Run [Berget AI](https://berget.ai) models inside [Pi](https://pi.dev).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

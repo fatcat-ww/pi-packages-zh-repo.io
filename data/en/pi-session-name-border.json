@@ -1,0 +1,13 @@
+{
+  "name": "pi-session-name-border",
+  "path": "/packages/pi-session-name-border",
+  "url": "https://pi.dev/packages/pi-session-name-border",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 16,
+  "date_ms": 1778532569212,
+  "description_en": "Show the current Pi session name on the prompt editor border.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

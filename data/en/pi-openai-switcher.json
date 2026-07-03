@@ -1,0 +1,13 @@
+{
+  "name": "pi-openai-switcher",
+  "path": "/packages/pi-openai-switcher",
+  "url": "https://pi.dev/packages/pi-openai-switcher",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 82,
+  "date_ms": 1776327321645,
+  "description_en": "pi extension that switches ChatGPT Codex accounts when 5h or 1w usage limits are exhausted",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@kushagharahi/pi-llama-extensions",
+  "path": "/packages/@kushagharahi/pi-llama-extensions",
+  "url": "https://pi.dev/packages/@kushagharahi/pi-llama-extensions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 79,
+  "date_ms": 1777229241525,
+  "description_en": "Pi extensions for llama.cpp router — auto model discovery and tokens/second display",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

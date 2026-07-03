@@ -1,0 +1,13 @@
+{
+  "name": "@jc4649/pi-hashline-edit",
+  "path": "/packages/@jc4649/pi-hashline-edit",
+  "url": "https://pi.dev/packages/@jc4649/pi-hashline-edit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782491755532,
+  "description_en": "Hashline read/edit tool override for the pi coding agent — edits anchored by stable per-line hashes. Thin fork inspired by RimuruW's pi-hashline-edit.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

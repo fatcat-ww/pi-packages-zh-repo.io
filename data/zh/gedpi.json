@@ -1,0 +1,6 @@
+{
+  "name": "gedpi",
+  "description_en": "Single-agent Pi package that clarifies requests, documents the spec, and implements work in bounded slices.",
+  "description_zh": "澄清请求、记录规范并实现有界切片工作的单代理 Pi 包。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

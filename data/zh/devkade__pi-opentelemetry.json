@@ -1,0 +1,6 @@
+{
+  "name": "@devkade/pi-opentelemetry",
+  "description_en": "OpenTelemetry trace + metrics + diagnostics extension for Pi Coding Agent",
+  "description_zh": "Pi 编码代理的 OpenTelemetry 跟踪 + 指标 + 诊断扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

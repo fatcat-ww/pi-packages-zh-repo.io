@@ -1,0 +1,13 @@
+{
+  "name": "pi-token-speed",
+  "path": "/packages/pi-token-speed",
+  "url": "https://pi.dev/packages/pi-token-speed",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3042,
+  "date_ms": 1782861366625,
+  "description_en": "Pi extension to measure tokens per second via sliding window.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

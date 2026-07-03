@@ -1,0 +1,13 @@
+{
+  "name": "@komarspn/pi-permission-system",
+  "path": "/packages/@komarspn/pi-permission-system",
+  "url": "https://pi.dev/packages/@komarspn/pi-permission-system",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 154,
+  "date_ms": 1782436703282,
+  "description_en": "Permission enforcement extension for the Pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

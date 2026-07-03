@@ -1,0 +1,13 @@
+{
+  "name": "@0xkobold/pi-orchestration",
+  "path": "/packages/@0xkobold/pi-orchestration",
+  "url": "https://pi.dev/packages/@0xkobold/pi-orchestration",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 104,
+  "date_ms": 1775588787367,
+  "description_en": "Agnostic subagent orchestration for pi-coding-agent. Supports single, chain, parallel, and fork execution modes with depth limiting and worktree isolation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

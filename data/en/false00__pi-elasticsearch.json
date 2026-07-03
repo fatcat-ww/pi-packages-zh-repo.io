@@ -1,0 +1,13 @@
+{
+  "name": "@false00/pi-elasticsearch",
+  "path": "/packages/@false00/pi-elasticsearch",
+  "url": "https://pi.dev/packages/@false00/pi-elasticsearch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 107,
+  "date_ms": 1781715442074,
+  "description_en": "Production-focused Elasticsearch automation tools for the Pi coding agent — curated tools for search, documents, indices, cluster administration, security, lifecycle, and full API reach via the official JS client and raw REST access",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@josephyoung/pi-file-reference",
+  "path": "/packages/@josephyoung/pi-file-reference",
+  "url": "https://pi.dev/packages/@josephyoung/pi-file-reference",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 107,
+  "date_ms": 1779781195603,
+  "description_en": "Pi extension: resolve @filepath (files & directories) in AGENTS.md, inject into system prompt",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

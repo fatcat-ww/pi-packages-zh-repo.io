@@ -1,0 +1,13 @@
+{
+  "name": "@vanillagreen/pi-skills-manager",
+  "path": "/packages/@vanillagreen/pi-skills-manager",
+  "url": "https://pi.dev/packages/@vanillagreen/pi-skills-manager",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 700,
+  "date_ms": 1781280406785,
+  "description_en": "Polished Pi skills manager with a dedicated /skill menu for browsing, previewing, inserting, creating, editing, renaming, deleting, and toggling skills while preserving native /skill:name invocation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

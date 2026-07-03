@@ -1,0 +1,13 @@
+{
+  "name": "@sahebjot94/pi-goal",
+  "path": "/packages/@sahebjot94/pi-goal",
+  "url": "https://pi.dev/packages/@sahebjot94/pi-goal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 29,
+  "date_ms": 1778276551151,
+  "description_en": "Codex-like /goal command for pi — autonomous goal tracking with continuation loops",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

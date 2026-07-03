@@ -1,0 +1,6 @@
+{
+  "name": "pi-glm-usage",
+  "description_en": "A pi extension that displays z.ai (GLM Coding Plan) subscription quota usage in the status bar. Shows 5-hour and weekly quota percentages, plan level, and reset times. Updates every 60 seconds during agent runs.",
+  "description_zh": "pi 扩展，在状态栏中显示 z.ai (GLM Coding Plan) 订阅配额使用情况。显示 5 小时和每周配额百分比、计划级别和重置时间。在代理运行期间每 60 秒更新一次。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

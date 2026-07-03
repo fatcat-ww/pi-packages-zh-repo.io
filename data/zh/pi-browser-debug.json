@@ -1,0 +1,6 @@
+{
+  "name": "pi-browser-debug",
+  "description_en": "Pi extension for debugging active browser sessions via Chrome DevTools Protocol",
+  "description_zh": "Pi 扩展，通过 Chrome DevTools Protocol 调试活动浏览器会话",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

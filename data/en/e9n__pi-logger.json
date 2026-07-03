@@ -1,0 +1,11 @@
+{
+  "name": "@e9n/pi-logger",
+  "path": "/packages/@e9n/pi-logger",
+  "url": "https://pi.dev/packages/@e9n/pi-logger",
+  "types": "",
+  "type_list": [],
+  "downloads": 59,
+  "date_ms": 1777233165198,
+  "description_en": "Event bus logger for pi — writes structured JSONL logs from bus events",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

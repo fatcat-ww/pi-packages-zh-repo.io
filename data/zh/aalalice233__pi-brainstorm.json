@@ -1,0 +1,6 @@
+{
+  "name": "@aalalice233/pi-brainstorm",
+  "description_en": "A conversation-only brainstorm mode extension for pi, with dynamic tool detection (grep, ask_user_question, subagent)",
+  "description_zh": "Pi 的仅对话头脑风暴模式扩展，具有动态工具检测（grep、ask_user_question、subagent）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

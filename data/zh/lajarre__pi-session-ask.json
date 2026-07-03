@@ -1,0 +1,6 @@
+{
+  "name": "@lajarre/pi-session-ask",
+  "description_en": "Ask questions about any Pi session (by path, UUID, or name) via an isolated subagent, keeping current context clean.",
+  "description_zh": "通过隔离的子代理询问任何 Pi 会话（按路径、UUID 或名称）的问题，保持当前上下文清洁",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@lokiyou/modelscope-vision",
+  "description_en": "Simple image understanding for Pi Coding Agent. Install it, set your API key, and ask normal questions about images.",
+  "description_zh": "Pi 编码代理的简单图像理解。安装它，设置您的 API 密钥，然后对图像提出常规问题",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

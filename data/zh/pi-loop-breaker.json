@@ -1,0 +1,6 @@
+{
+  "name": "pi-loop-breaker",
+  "description_en": "Pi extension that aborts repeated failing tool loops",
+  "description_zh": "Pi 扩展，中止重复失败的工具循环",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

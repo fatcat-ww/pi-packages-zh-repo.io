@@ -1,0 +1,13 @@
+{
+  "name": "pi-meeting-blackboard",
+  "path": "/packages/pi-meeting-blackboard",
+  "url": "https://pi.dev/packages/pi-meeting-blackboard",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782622933347,
+  "description_en": "Blackboard-based brainstorm and debate meetings for pi subagents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

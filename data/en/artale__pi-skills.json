@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-skills",
+  "path": "/packages/@artale/pi-skills",
+  "url": "https://pi.dev/packages/@artale/pi-skills",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 109,
+  "date_ms": 1777731817565,
+  "description_en": "Production-grade engineering skills for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

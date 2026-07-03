@@ -1,0 +1,6 @@
+{
+  "name": "@lhl/pi-vertex",
+  "description_en": "Google Vertex AI provider for Pi coding agent - supports Gemini, Claude, and all MaaS models",
+  "description_zh": "Pi 编码代理的 Google Vertex AI 提供者 — 支持 Gemini、Claude 和所有 MaaS 模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "pi-mono-all",
+  "path": "/packages/pi-mono-all",
+  "url": "https://pi.dev/packages/pi-mono-all",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 308,
+  "date_ms": 1780578449755,
+  "description_en": "All pi-mono extensions and bundled skills",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

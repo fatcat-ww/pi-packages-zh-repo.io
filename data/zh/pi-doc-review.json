@@ -1,0 +1,6 @@
+{
+  "name": "pi-doc-review",
+  "description_en": "Native Markdown document review window for AI coding agents (pi, Claude Code, Codex CLI). Opens a Glimpse window that renders Markdown, lets the user leave selection and document comments, edit the raw Markdown, and returns feedback to the agent.",
+  "description_zh": "AI 编码代理（pi、Claude Code、Codex CLI）的原生 Markdown 文档审查窗口。打开一个渲染 Markdown 的 Glimpse 窗口，允许用户进行选择和文档评论，编辑原始 Markdown，并将反馈返回给代理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

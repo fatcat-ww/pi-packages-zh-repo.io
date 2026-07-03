@@ -1,0 +1,6 @@
+{
+  "name": "@juanibiapina/pi-powerbar",
+  "description_en": "Pi extension that renders a persistent powerline status bar with left/right segments updated via events",
+  "description_zh": "Pi 扩展，渲染持久的 powerline 状态栏，左右段通过事件更新",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

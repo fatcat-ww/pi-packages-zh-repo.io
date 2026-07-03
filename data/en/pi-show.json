@@ -1,0 +1,13 @@
+{
+  "name": "pi-show",
+  "path": "/packages/pi-show",
+  "url": "https://pi.dev/packages/pi-show",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 48,
+  "date_ms": 1777663617520,
+  "description_en": "Display pi-coding-agent state: commands, skills, prompts, tools, themes, and model info",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

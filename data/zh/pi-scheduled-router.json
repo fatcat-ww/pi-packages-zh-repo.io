@@ -1,0 +1,6 @@
+{
+  "name": "pi-scheduled-router",
+  "description_en": "Switch Pi's AI provider and model based on time of day via YAML time-slot configuration.",
+  "description_zh": "通过 YAML 时间槽配置根据一天中的时间切换 Pi 的 AI 提供者和模型。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

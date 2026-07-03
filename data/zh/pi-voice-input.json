@@ -1,0 +1,6 @@
+{
+  "name": "pi-voice-input",
+  "description_en": "Press Ctrl+Shift+R to dictate prompts into Pi using VolcEngine ASR",
+  "description_zh": "按 Ctrl+Shift+R 使用火山引擎 ASR 向 Pi 口述提示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

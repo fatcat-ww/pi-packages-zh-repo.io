@@ -1,0 +1,13 @@
+{
+  "name": "pi-harness-factory",
+  "path": "/packages/pi-harness-factory",
+  "url": "https://pi.dev/packages/pi-harness-factory",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 63,
+  "date_ms": 1779932431397,
+  "description_en": "Create, switch, and manage persona-based harness profiles for Pi Coding Agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-llm-as-verifier",
+  "description_en": "Pi skill + extension for llm-as-verifier style pairwise, repeated, criteria-decomposed candidate selection.",
+  "description_zh": "Pi 技能 + 扩展，用于 llm-as-verifier 风格的成对、重复、标准分解式候选选择。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

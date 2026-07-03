@@ -1,0 +1,13 @@
+{
+  "name": "@realvendex/pi-log",
+  "path": "/packages/@realvendex/pi-log",
+  "url": "https://pi.dev/packages/@realvendex/pi-log",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782526858169,
+  "description_en": "Structured logging and monitoring for pi.dev extensions — log piping, tailing, and rotation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

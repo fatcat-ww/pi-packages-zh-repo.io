@@ -1,0 +1,13 @@
+{
+  "name": "@zhushanwen/pi-subagents",
+  "path": "/packages/@zhushanwen/pi-subagents",
+  "url": "https://pi.dev/packages/@zhushanwen/pi-subagents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 390,
+  "date_ms": 1782539421187,
+  "description_en": "In-process agent execution runtime for Pi — unified execute entry, isolated state, sync/background modes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-extension-git-footer-status",
+  "description_en": "Enhanced Pi footer with git status, token usage, context usage, and model telemetry.",
+  "description_zh": "增强的 Pi 页脚，具有 git 状态、令牌使用、上下文使用和模型遥测",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@shelken/pi-defender",
+  "description_en": "Defense-in-depth protection for Pi coding agent. Blocks dangerous commands and protects sensitive files — fork of Serhioromano/pi-defender with defaultMode support.",
+  "description_zh": "Pi 编码代理的纵深防御保护。阻止危险命令并保护敏感文件 — Serhioromano/pi-defender 的分支，支持 defaultMode",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

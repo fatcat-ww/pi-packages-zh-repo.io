@@ -1,0 +1,13 @@
+{
+  "name": "@spences10/pi-skill-importer",
+  "path": "/packages/@spences10/pi-skill-importer",
+  "url": "https://pi.dev/packages/@spences10/pi-skill-importer",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 188,
+  "date_ms": 1779822764545,
+  "description_en": "Helpers for importing external Agent Skills-compatible sources into Pi-native skill storage",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-zed-shift-enter",
+  "path": "/packages/pi-zed-shift-enter",
+  "url": "https://pi.dev/packages/pi-zed-shift-enter",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 36,
+  "date_ms": 1771168610890,
+  "description_en": "Fixes Shift+Enter not creating newlines in pi when running inside Zed's terminal",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

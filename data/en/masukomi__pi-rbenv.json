@@ -1,0 +1,13 @@
+{
+  "name": "@masukomi/pi-rbenv",
+  "path": "/packages/@masukomi/pi-rbenv",
+  "url": "https://pi.dev/packages/@masukomi/pi-rbenv",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 26,
+  "date_ms": 1780885192053,
+  "description_en": "Pi extension to automatically manage Ruby versions, and gem installed executables via rbenv",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

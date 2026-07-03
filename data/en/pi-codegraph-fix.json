@@ -1,0 +1,11 @@
+{
+  "name": "pi-codegraph-fix",
+  "path": "/packages/pi-codegraph-fix",
+  "url": "https://pi.dev/packages/pi-codegraph-fix",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782667407801,
+  "description_en": "Pi coding agent extension that wires codegraph as an MCP sidecar — with ctx.cwd fix for cross-project sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

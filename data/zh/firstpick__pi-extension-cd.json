@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-extension-cd",
+  "description_en": "A Pi /cd command with ranked directory suggestions, persistent history, and aliases.",
+  "description_zh": "具有排名目录建议、持久历史记录和别名的 Pi /cd 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

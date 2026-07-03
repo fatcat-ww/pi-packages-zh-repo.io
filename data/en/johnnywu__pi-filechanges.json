@@ -1,0 +1,11 @@
+{
+  "name": "@johnnywu/pi-filechanges",
+  "path": "/packages/@johnnywu/pi-filechanges",
+  "url": "https://pi.dev/packages/@johnnywu/pi-filechanges",
+  "types": "",
+  "type_list": [],
+  "downloads": 146,
+  "date_ms": 1778594554282,
+  "description_en": "Tracks files changed by pi via edit and write tools, with a toggleable file changes widget",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

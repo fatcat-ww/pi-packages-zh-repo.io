@@ -1,0 +1,6 @@
+{
+  "name": "@taimoorchatha/pi-context-pulse",
+  "description_en": "pi coding-agent extension: input-editor border pulses yellow → red as the context window fills up, like an FPS damage-vignette.",
+  "description_zh": "pi coding-agent 扩展：输入编辑器边框随着上下文窗口填满从黄色→红色脉冲，类似于 FPS 伤害晕影效果",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

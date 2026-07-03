@@ -1,0 +1,6 @@
+{
+  "name": "pi-plan-modus",
+  "description_en": "Read-only plan mode with RepoPrompt-aware write blocking; restricts tools, bash commands, and RepoPrompt operations (MCP + CLI) to read-only access",
+  "description_zh": "只读计划模式，具有 RepoPrompt 感知的写入阻止功能；将工具、bash 命令和 RepoPrompt 操作（MCP + CLI）限制为只读访问",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

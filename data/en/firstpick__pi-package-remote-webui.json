@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-package-remote-webui",
+  "path": "/packages/@firstpick/pi-package-remote-webui",
+  "url": "https://pi.dev/packages/@firstpick/pi-package-remote-webui",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1044,
+  "date_ms": 1782597435893,
+  "description_en": "Pi /remote command that opens the existing Pi Web UI to a trusted LAN and shows a QR code for mobile.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

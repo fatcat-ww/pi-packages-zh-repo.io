@@ -1,0 +1,14 @@
+{
+  "name": "@juicesharp/rpiv-pi",
+  "path": "/packages/@juicesharp/rpiv-pi",
+  "url": "https://pi.dev/packages/@juicesharp/rpiv-pi",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 6754,
+  "date_ms": 1781526937264,
+  "description_en": "A skill-based development workflow for Pi Agent. Twenty contract-carrying skills (discover → research → design → plan → implement → validate → code-review → commit, and more), the named subagents they dispatch, and six built-in /wf workflows that chain th",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

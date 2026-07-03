@@ -1,0 +1,13 @@
+{
+  "name": "pi-session-guard",
+  "path": "/packages/pi-session-guard",
+  "url": "https://pi.dev/packages/pi-session-guard",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 44,
+  "date_ms": 1772109028422,
+  "description_en": "Session guard extension for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

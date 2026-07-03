@@ -1,0 +1,14 @@
+{
+  "name": "pi-dracula",
+  "path": "/packages/pi-dracula",
+  "url": "https://pi.dev/packages/pi-dracula",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 37,
+  "date_ms": 1776250785823,
+  "description_en": "Dracula theme for the pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

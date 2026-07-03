@@ -1,0 +1,6 @@
+{
+  "name": "pi-read-before-write",
+  "description_en": "Pi extension that blocks stale edit/write operations when files changed since the agent last read them.",
+  "description_zh": "Pi 扩展，当文件自代理上次读取后发生更改时，会阻止过时的编辑/写入操作",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

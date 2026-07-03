@@ -1,0 +1,11 @@
+{
+  "name": "@alexanderfortin/pi-tavily-tools",
+  "path": "/packages/@alexanderfortin/pi-tavily-tools",
+  "url": "https://pi.dev/packages/@alexanderfortin/pi-tavily-tools",
+  "types": "",
+  "type_list": [],
+  "downloads": 1126,
+  "date_ms": 1781450989500,
+  "description_en": "Pi coding agent extension for web search and content extraction using Tavily",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

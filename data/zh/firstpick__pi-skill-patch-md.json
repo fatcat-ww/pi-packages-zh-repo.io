@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-patch-md",
+  "description_en": "Agents should invoke this skill to create, update, or implement standardized PATCH.md documents that describe reproducible source code patches.",
+  "description_zh": "代理应调用此技能来创建、更新或实现标准化的 PATCH.md 文档，描述可重现的源代码补丁",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

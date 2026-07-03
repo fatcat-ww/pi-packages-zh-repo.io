@@ -1,0 +1,11 @@
+{
+  "name": "@monotykamary/pi-localterm",
+  "path": "/packages/@monotykamary/pi-localterm",
+  "url": "https://pi.dev/packages/@monotykamary/pi-localterm",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1783043218579,
+  "description_en": "localterm <-> pi integration: Kitty graphics for the browser renderer, and scrubbing localterm-managed secret env vars from the agent's bash-tool children.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

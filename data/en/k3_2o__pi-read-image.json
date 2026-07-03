@@ -1,0 +1,11 @@
+{
+  "name": "@k3_2o/pi-read-image",
+  "path": "/packages/@k3_2o/pi-read-image",
+  "url": "https://pi.dev/packages/@k3_2o/pi-read-image",
+  "types": "",
+  "type_list": [],
+  "downloads": 485,
+  "date_ms": 1782563414355,
+  "description_en": "OCR image-to-text tool for Pi — extracts text from screenshots, terminal output, and code images using Tesseract + ImageMagick",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

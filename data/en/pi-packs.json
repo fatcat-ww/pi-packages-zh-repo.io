@@ -1,0 +1,13 @@
+{
+  "name": "pi-packs",
+  "path": "/packages/pi-packs",
+  "url": "https://pi.dev/packages/pi-packs",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 732,
+  "date_ms": 1780364900185,
+  "description_en": "Umbrella Pi package: /install picker for a curated set of pi extensions (pi-qq, pi-chrome, pi-linter, pi-bar, pi-prompt-shelf, pi-caveman, pi-graphite, pi-gh-cli, pi-loadout, pi-cp).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

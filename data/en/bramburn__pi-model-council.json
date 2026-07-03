@@ -1,0 +1,13 @@
+{
+  "name": "@bramburn/pi-model-council",
+  "path": "/packages/@bramburn/pi-model-council",
+  "url": "https://pi.dev/packages/@bramburn/pi-model-council",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782838174215,
+  "description_en": "Pi extension: multi-model coding decisions via OpenRouter",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

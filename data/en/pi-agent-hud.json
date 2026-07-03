@@ -1,0 +1,13 @@
+{
+  "name": "pi-agent-hud",
+  "path": "/packages/pi-agent-hud",
+  "url": "https://pi.dev/packages/pi-agent-hud",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 185,
+  "date_ms": 1781004997650,
+  "description_en": "Pi HUD — real-time status bar extension for pi-coding-agent, inspired by claude-hud",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

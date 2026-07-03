@@ -1,0 +1,11 @@
+{
+  "name": "@josephakern/pi-tree-sitter-cli",
+  "path": "/packages/@josephakern/pi-tree-sitter-cli",
+  "url": "https://pi.dev/packages/@josephakern/pi-tree-sitter-cli",
+  "types": "",
+  "type_list": [],
+  "downloads": 312,
+  "date_ms": 1782806024353,
+  "description_en": "Thin pi extension exposing the tree-sitter CLI as capped agent tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

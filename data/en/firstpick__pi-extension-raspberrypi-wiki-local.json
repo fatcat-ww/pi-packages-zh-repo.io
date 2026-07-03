@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-raspberrypi-wiki-local",
+  "path": "/packages/@firstpick/pi-extension-raspberrypi-wiki-local",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-raspberrypi-wiki-local",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 525,
+  "date_ms": 1780954499192,
+  "description_en": "Local Raspberry Pi Documentation search and retrieval tools for Pi backed by a local documentation corpus.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-startup-redraw-fix",
+  "path": "/packages/pi-startup-redraw-fix",
+  "url": "https://pi.dev/packages/pi-startup-redraw-fix",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 425,
+  "date_ms": 1783049904161,
+  "description_en": "Pi extension that patches terminal full-clear ordering to avoid startup redraw glitches.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

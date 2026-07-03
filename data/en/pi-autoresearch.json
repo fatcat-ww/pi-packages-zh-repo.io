@@ -1,0 +1,13 @@
+{
+  "name": "pi-autoresearch",
+  "path": "/packages/pi-autoresearch",
+  "url": "https://pi.dev/packages/pi-autoresearch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3072,
+  "date_ms": 1782978561680,
+  "description_en": "Autonomous experiment loop for pi — run, measure, keep or discard. Inspired by karpathy/autoresearch.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

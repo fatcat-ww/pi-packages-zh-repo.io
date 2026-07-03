@@ -1,0 +1,11 @@
+{
+  "name": "@diegopetrucci/pi-gnosis",
+  "path": "/packages/@diegopetrucci/pi-gnosis",
+  "url": "https://pi.dev/packages/@diegopetrucci/pi-gnosis",
+  "types": "",
+  "type_list": [],
+  "downloads": 344,
+  "date_ms": 1782197130761,
+  "description_en": "A pi extension that exposes the gnosis repo-local knowledge base CLI as an agent tool.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

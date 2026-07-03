@@ -1,0 +1,11 @@
+{
+  "name": "@cortexkit/pi-openai-auth",
+  "path": "/packages/@cortexkit/pi-openai-auth",
+  "url": "https://pi.dev/packages/@cortexkit/pi-openai-auth",
+  "types": "",
+  "type_list": [],
+  "downloads": 829,
+  "date_ms": 1782423584751,
+  "description_en": "Pi package for CortexKit OpenAI Codex OAuth support. It overrides Pi's built-in `openai-codex` provider with a CortexKit provider extension backed by Pi's OpenAI Codex Responses transport and OAuth primitives.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

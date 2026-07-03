@@ -1,0 +1,6 @@
+{
+  "name": "@amaster.ai/pi-attachments",
+  "description_en": "Pi extension for attachment processing — classifies, parses, and renders file attachments into LLM-visible prompt context",
+  "description_zh": "Pi附件处理扩展 — 将文件附件分类、解析并渲染为LLM可见的提示上下文",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

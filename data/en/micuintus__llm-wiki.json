@@ -1,0 +1,11 @@
+{
+  "name": "@micuintus/llm-wiki",
+  "path": "/packages/@micuintus/llm-wiki",
+  "url": "https://pi.dev/packages/@micuintus/llm-wiki",
+  "types": "",
+  "type_list": [],
+  "downloads": 1340,
+  "date_ms": 1780159704850,
+  "description_en": "As minimal as Pi. Karpathy's LLM Wiki pattern as a minimal, agent-agnostic skill.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

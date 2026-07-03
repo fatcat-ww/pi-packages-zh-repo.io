@@ -1,0 +1,13 @@
+{
+  "name": "@dmille56/pi-piper-tts",
+  "path": "/packages/@dmille56/pi-piper-tts",
+  "url": "https://pi.dev/packages/@dmille56/pi-piper-tts",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 199,
+  "date_ms": 1778816359531,
+  "description_en": "A Pi package that adds a /piper-tts command (and /tts alias) for speaking the latest assistant message with Piper TTS.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

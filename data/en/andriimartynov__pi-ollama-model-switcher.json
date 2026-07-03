@@ -1,0 +1,13 @@
+{
+  "name": "@andriimartynov/pi-ollama-model-switcher",
+  "path": "/packages/@andriimartynov/pi-ollama-model-switcher",
+  "url": "https://pi.dev/packages/@andriimartynov/pi-ollama-model-switcher",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 75,
+  "date_ms": 1778999140702,
+  "description_en": "Monitors and manages Ollama model instances within the pi coding agent harness.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

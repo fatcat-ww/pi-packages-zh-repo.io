@@ -1,0 +1,6 @@
+{
+  "name": "pi-env-guard",
+  "description_en": "Environment variable validation, secret leak detection, and drift analysis for pi.dev projects",
+  "description_zh": "pi.dev 项目的环境变量验证、秘密泄露检测和漂移分析",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

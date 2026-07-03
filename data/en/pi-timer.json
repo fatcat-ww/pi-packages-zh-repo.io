@@ -1,0 +1,13 @@
+{
+  "name": "pi-timer",
+  "path": "/packages/pi-timer",
+  "url": "https://pi.dev/packages/pi-timer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 119,
+  "date_ms": 1773818497199,
+  "description_en": "Pi package that shows a per-run elapsed timer inline in the footer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

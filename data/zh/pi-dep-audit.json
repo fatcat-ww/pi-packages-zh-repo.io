@@ -1,0 +1,6 @@
+{
+  "name": "pi-dep-audit",
+  "description_en": "Audit npm dependencies for vulnerabilities, outdated packages, and license compliance — integrated into pi.dev workflow",
+  "description_zh": "审计 npm 依赖项的安全漏洞、过时包和许可证合规性 — 集成到 pi.dev 工作流",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

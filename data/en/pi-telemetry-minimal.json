@@ -1,0 +1,13 @@
+{
+  "name": "pi-telemetry-minimal",
+  "path": "/packages/pi-telemetry-minimal",
+  "url": "https://pi.dev/packages/pi-telemetry-minimal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 48,
+  "date_ms": 1777383907120,
+  "description_en": "Minimal token usage telemetry for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

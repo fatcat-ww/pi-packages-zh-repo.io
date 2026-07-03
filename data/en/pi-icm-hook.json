@@ -1,0 +1,13 @@
+{
+  "name": "pi-icm-hook",
+  "path": "/packages/pi-icm-hook",
+  "url": "https://pi.dev/packages/pi-icm-hook",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 44,
+  "date_ms": 1779380694491,
+  "description_en": "Pi extension wrapping ICM (Infinite Context Memory) as native Pi tools and lifecycle hooks — semantic, cross-session, cross-project recall via the local icm CLI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

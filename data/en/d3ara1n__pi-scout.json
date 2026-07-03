@@ -1,0 +1,11 @@
+{
+  "name": "@d3ara1n/pi-scout",
+  "path": "/packages/@d3ara1n/pi-scout",
+  "url": "https://pi.dev/packages/@d3ara1n/pi-scout",
+  "types": "",
+  "type_list": [],
+  "downloads": 482,
+  "date_ms": 1782657379642,
+  "description_en": "Per-turn side agent decision framework for pi — uses a cheap model to select skills and route models before each conversation turn",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-contrib-gate",
+  "path": "/packages/pi-contrib-gate",
+  "url": "https://pi.dev/packages/pi-contrib-gate",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 171,
+  "date_ms": 1778870733472,
+  "description_en": "Contribution gateway for AI agents — enforce branch naming, conventional commits, pre-commit quality gates, and PR automation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

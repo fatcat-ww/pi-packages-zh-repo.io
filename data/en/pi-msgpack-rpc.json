@@ -1,0 +1,11 @@
+{
+  "name": "pi-msgpack-rpc",
+  "path": "/packages/pi-msgpack-rpc",
+  "url": "https://pi.dev/packages/pi-msgpack-rpc",
+  "types": "",
+  "type_list": [],
+  "downloads": 76,
+  "date_ms": 1779045208478,
+  "description_en": "A MessagePack RPC tool for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

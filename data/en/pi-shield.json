@@ -1,0 +1,11 @@
+{
+  "name": "pi-shield",
+  "path": "/packages/pi-shield",
+  "url": "https://pi.dev/packages/pi-shield",
+  "types": "",
+  "type_list": [],
+  "downloads": 42,
+  "date_ms": 1778816740397,
+  "description_en": "Pi extension that shields your files and system from accidental destructive operations",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

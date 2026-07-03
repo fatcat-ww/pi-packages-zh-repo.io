@@ -1,0 +1,6 @@
+{
+  "name": "pi-killswitch",
+  "description_en": "Keep Pi runs controlled with automatic context-budget wrap-up and kill thresholds.",
+  "description_zh": "通过自动上下文预算结束和终止阈值保持 Pi 运行受控",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-dstui",
+  "path": "/packages/pi-dstui",
+  "url": "https://pi.dev/packages/pi-dstui",
+  "types": "",
+  "type_list": [],
+  "downloads": 116,
+  "date_ms": 1780032147439,
+  "description_en": "Lisp DSL runtime for composable, on-demand TUI components",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

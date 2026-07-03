@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-quit-summary",
+  "path": "/packages/@agnishc/edb-quit-summary",
+  "url": "https://pi.dev/packages/@agnishc/edb-quit-summary",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 503,
+  "date_ms": 1782119184759,
+  "description_en": "Pi extension: prints a session summary to the terminal when you hit /quit",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

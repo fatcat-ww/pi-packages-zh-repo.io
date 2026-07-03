@@ -1,0 +1,6 @@
+{
+  "name": "@ifi/pi-spec",
+  "description_en": "Native spec-kit workflow for pi with a /spec command, TypeScript scaffolding, and spec-driven prompts.",
+  "description_zh": "带有 /spec 命令、TypeScript 脚手架和规范驱动提示的 pi 原生 spec-kit 工作流",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

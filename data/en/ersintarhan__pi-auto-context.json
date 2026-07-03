@@ -1,0 +1,14 @@
+{
+  "name": "@ersintarhan/pi-auto-context",
+  "path": "/packages/@ersintarhan/pi-auto-context",
+  "url": "https://pi.dev/packages/@ersintarhan/pi-auto-context",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 168,
+  "date_ms": 1779062420745,
+  "description_en": "Automatic context management for pi sessions: anchors, pivots, and cross-session recall — with a status line and auto-truncation of stale tool results.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

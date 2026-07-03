@@ -1,0 +1,11 @@
+{
+  "name": "pi-mnemosyne",
+  "path": "/packages/pi-mnemosyne",
+  "url": "https://pi.dev/packages/pi-mnemosyne",
+  "types": "",
+  "type_list": [],
+  "downloads": 36,
+  "date_ms": 1775341243457,
+  "description_en": "Pi extension for local persistent memory using Mnemosyne — offline semantic search, no cloud required",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

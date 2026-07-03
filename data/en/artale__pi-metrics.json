@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-metrics",
+  "path": "/packages/@artale/pi-metrics",
+  "url": "https://pi.dev/packages/@artale/pi-metrics",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 29,
+  "date_ms": 1772992898995,
+  "description_en": "Code metrics and health. Lines of code, cyclomatic complexity, tech debt indicators by language.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "pi-toolbox",
+  "path": "/packages/pi-toolbox",
+  "url": "https://pi.dev/packages/pi-toolbox",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 53,
+  "date_ms": 1777042465260,
+  "description_en": "A comprehensive extension toolkit for the Pi Coding Agent — 17 extensions, 11 themes, skills, agents, and team orchestration templates",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

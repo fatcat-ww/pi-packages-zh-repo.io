@@ -1,0 +1,13 @@
+{
+  "name": "@juanibiapina/pi-extension-settings",
+  "path": "/packages/@juanibiapina/pi-extension-settings",
+  "url": "https://pi.dev/packages/@juanibiapina/pi-extension-settings",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3170,
+  "date_ms": 1779269061879,
+  "description_en": "Pi extension for centralized settings management across extensions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

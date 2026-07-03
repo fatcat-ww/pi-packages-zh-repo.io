@@ -1,0 +1,6 @@
+{
+  "name": "@jmcombs/pi-notify",
+  "description_en": "Terminal-emulator notifications (OSC 777/9/99) for the Pi coding agent — alerts you when Pi finishes a turn. Works in Ghostty, iTerm2, WezTerm, Kitty, etc. Zero OS binaries or dependencies.",
+  "description_zh": "Pi 编码代理的终端模拟器通知（OSC 777/9/99）— 在 Pi 完成轮次时提醒您。适用于 Ghostty、iTerm2、WezTerm、Kitty 等。零操作系统二进制文件或依赖项。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

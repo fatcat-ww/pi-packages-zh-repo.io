@@ -1,0 +1,11 @@
+{
+  "name": "@diegopetrucci/pi-triage-comments",
+  "path": "/packages/@diegopetrucci/pi-triage-comments",
+  "url": "https://pi.dev/packages/@diegopetrucci/pi-triage-comments",
+  "types": "",
+  "type_list": [],
+  "downloads": 374,
+  "date_ms": 1782197157337,
+  "description_en": "A pi extension that adds /triage-comments and a read-only triage_comments subagent tool for review-comment triage.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

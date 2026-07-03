@@ -1,0 +1,11 @@
+{
+  "name": "@arvoretech/pi-element-inspector",
+  "path": "/packages/@arvoretech/pi-element-inspector",
+  "url": "https://pi.dev/packages/@arvoretech/pi-element-inspector",
+  "types": "",
+  "type_list": [],
+  "downloads": 464,
+  "date_ms": 1782216698873,
+  "description_en": "PI extension that receives inspected browser elements and pastes them into the editor",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

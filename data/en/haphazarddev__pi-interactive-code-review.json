@@ -1,0 +1,13 @@
+{
+  "name": "@haphazarddev/pi-interactive-code-review",
+  "path": "/packages/@haphazarddev/pi-interactive-code-review",
+  "url": "https://pi.dev/packages/@haphazarddev/pi-interactive-code-review",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 162,
+  "date_ms": 1779306033678,
+  "description_en": "A pi extension for interactive code review against your default branch, including uncommitted changes, with line or hunk comments, batching, and inline agent responses.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

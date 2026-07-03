@@ -1,0 +1,13 @@
+{
+  "name": "@amitkot/pi-safe-github",
+  "path": "/packages/@amitkot/pi-safe-github",
+  "url": "https://pi.dev/packages/@amitkot/pi-safe-github",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 308,
+  "date_ms": 1781698841127,
+  "description_en": "Typed GitHub wrapper tools for Pi: PRs, CI runs, issues, releases, and workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

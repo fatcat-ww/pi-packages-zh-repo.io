@@ -1,0 +1,6 @@
+{
+  "name": "@apmantza/greedysearch-pi",
+  "description_en": "Headless multi-engine AI search (Perplexity, Google AI, ChatGPT, Gemini) via browser automation. NO API KEYS needed. Grounded all-engine search fetches sources by default, with optional configurable synthesis and deep research.",
+  "description_zh": "通过浏览器自动化实现的无头多引擎 AI 搜索（Perplexity、Google AI、ChatGPT、Gemini）。无需 API 密钥。默认获取来源的全面引擎搜索，可选配置的合成和深度研究",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

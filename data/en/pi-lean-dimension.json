@@ -1,0 +1,13 @@
+{
+  "name": "pi-lean-dimension",
+  "path": "/packages/pi-lean-dimension",
+  "url": "https://pi.dev/packages/pi-lean-dimension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 323,
+  "date_ms": 1782320803997,
+  "description_en": "Pi extension. The full pi web-tools suite — interactive browsing (pi-lean-portal) and SearXNG search (pi-lean-search), unified under /web.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

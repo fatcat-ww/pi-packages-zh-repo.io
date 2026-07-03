@@ -1,0 +1,13 @@
+{
+  "name": "pi-create",
+  "path": "/packages/pi-create",
+  "url": "https://pi.dev/packages/pi-create",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 151,
+  "date_ms": 1782469874844,
+  "description_en": "Opinionated project scaffolder for pi.dev extensions with full pipeline integration",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

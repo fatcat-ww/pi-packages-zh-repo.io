@@ -1,0 +1,11 @@
+{
+  "name": "@lanquarden/pi-memini",
+  "path": "/packages/@lanquarden/pi-memini",
+  "url": "https://pi.dev/packages/@lanquarden/pi-memini",
+  "types": "",
+  "type_list": [],
+  "downloads": 96,
+  "date_ms": 1782816146211,
+  "description_en": "Pi extension for seamless memini long-term memory over REST (no MCP required).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

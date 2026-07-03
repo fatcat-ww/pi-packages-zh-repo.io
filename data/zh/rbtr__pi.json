@@ -1,0 +1,6 @@
+{
+  "name": "@rbtr/pi",
+  "description_en": "pi extension that surfaces rbtr's structural code index to the LLM — symbol search, source read, file outlines, dependency edges, and cross-ref diffs without raw shell commands.",
+  "description_zh": "pi 扩展，将 rbtr 的结构代码索引呈现给 LLM — 符号搜索、源代码读取、文件大纲、依赖关系边和交叉引用差异，无需原始 shell 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

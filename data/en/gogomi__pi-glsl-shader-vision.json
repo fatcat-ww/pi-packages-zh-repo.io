@@ -1,0 +1,14 @@
+{
+  "name": "@gogomi/pi-glsl-shader-vision",
+  "path": "/packages/@gogomi/pi-glsl-shader-vision",
+  "url": "https://pi.dev/packages/@gogomi/pi-glsl-shader-vision",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 205,
+  "date_ms": 1778792425366,
+  "description_en": "GLSL fragment shader viewer for Pi Agent — live WebGL preview, Tweakpane uniform controls, presets, probe sheets & video export",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

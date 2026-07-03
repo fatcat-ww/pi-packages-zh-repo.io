@@ -1,0 +1,11 @@
+{
+  "name": "oh-pi",
+  "path": "/packages/oh-pi",
+  "url": "https://pi.dev/packages/oh-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 514,
+  "date_ms": 1772454076816,
+  "description_en": "One-click setup for pi-coding-agent. Like oh-my-zsh for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

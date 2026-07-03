@@ -1,0 +1,6 @@
+{
+  "name": "pi-karpathy-guidelines",
+  "description_en": "Enforces Andrej Karpathy's coding guidelines to reduce common LLM mistakes: think before coding, simplicity first, surgical changes, goal-driven execution.",
+  "description_zh": "执行 Andrej Karpathy 的编码指南以减少常见 LLM 错误：编码前思考，简单优先，精确修改，目标驱动执行",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-simple-memory",
+  "path": "/packages/pi-simple-memory",
+  "url": "https://pi.dev/packages/pi-simple-memory",
+  "types": "",
+  "type_list": [],
+  "downloads": 92,
+  "date_ms": 1776966669647,
+  "description_en": "Simple persistent file-based memory for pi agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

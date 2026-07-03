@@ -1,0 +1,13 @@
+{
+  "name": "@fingerskier/pi-email",
+  "path": "/packages/@fingerskier/pi-email",
+  "url": "https://pi.dev/packages/@fingerskier/pi-email",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 93,
+  "date_ms": 1778184895938,
+  "description_en": "Planning skill for the legacy Claude email extension concept, ported as a Pi skill placeholder",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

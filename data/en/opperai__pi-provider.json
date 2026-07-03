@@ -1,0 +1,11 @@
+{
+  "name": "@opperai/pi-provider",
+  "path": "/packages/@opperai/pi-provider",
+  "url": "https://pi.dev/packages/@opperai/pi-provider",
+  "types": "",
+  "type_list": [],
+  "downloads": 68,
+  "date_ms": 1778591663342,
+  "description_en": "Opper AI gateway provider and tools for the pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

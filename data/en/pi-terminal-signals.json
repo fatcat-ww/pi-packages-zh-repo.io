@@ -1,0 +1,13 @@
+{
+  "name": "pi-terminal-signals",
+  "path": "/packages/pi-terminal-signals",
+  "url": "https://pi.dev/packages/pi-terminal-signals",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 43,
+  "date_ms": 1775159543206,
+  "description_en": "Pi extension that communicates agent lifecycle to the terminal via OSC 9;4 (progress) and OSC 133 (semantic prompts).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

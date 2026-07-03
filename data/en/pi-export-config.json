@@ -1,0 +1,13 @@
+{
+  "name": "pi-export-config",
+  "path": "/packages/pi-export-config",
+  "url": "https://pi.dev/packages/pi-export-config",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 73,
+  "date_ms": 1779108366178,
+  "description_en": "Pi extension to export, import, SSH-transfer, and GitHub-sync pi configuration including extension secrets.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

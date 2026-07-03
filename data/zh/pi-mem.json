@@ -1,0 +1,6 @@
+{
+  "name": "pi-mem",
+  "description_en": "Persistent memory extension for pi — captures observations, compresses them into searchable memories, and injects context into future sessions",
+  "description_zh": "pi 的持久内存扩展 — 捕获观察结果，将其压缩为可搜索的记忆，并将上下文注入到未来的会话中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@ricoyudog/pi-goal-hermes",
+  "path": "/packages/@ricoyudog/pi-goal-hermes",
+  "url": "https://pi.dev/packages/@ricoyudog/pi-goal-hermes",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 54,
+  "date_ms": 1779506932715,
+  "description_en": "Goal-driven autonomous continuation for Pi coding agent - set a goal and let the agent work until done, with LLM-based judge evaluation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

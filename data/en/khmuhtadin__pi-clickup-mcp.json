@@ -1,0 +1,13 @@
+{
+  "name": "@khmuhtadin/pi-clickup-mcp",
+  "path": "/packages/@khmuhtadin/pi-clickup-mcp",
+  "url": "https://pi.dev/packages/@khmuhtadin/pi-clickup-mcp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 54,
+  "date_ms": 1778054020022,
+  "description_en": "Pi extension that bridges pi to the official ClickUp remote MCP server.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

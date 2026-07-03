@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-package-webui",
+  "description_en": "Pi Web UI companion package with a local browser UI CLI plus /webui-start and /webui-status commands.",
+  "description_zh": "Pi Web UI 配套包，包含本地浏览器 UI CLI 和 /webui-start、/webui-status 命令。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

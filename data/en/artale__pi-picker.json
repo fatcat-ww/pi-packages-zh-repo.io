@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-picker",
+  "path": "/packages/@artale/pi-picker",
+  "url": "https://pi.dev/packages/@artale/pi-picker",
+  "types": "",
+  "type_list": [],
+  "downloads": 22,
+  "date_ms": 1773503513052,
+  "description_en": "TUI picker for Pi. Interactive fuzzy selectors for tools, commands, sessions, and files with keyboard navigation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

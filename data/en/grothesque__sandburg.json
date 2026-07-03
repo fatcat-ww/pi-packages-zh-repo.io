@@ -1,0 +1,13 @@
+{
+  "name": "@grothesque/sandburg",
+  "path": "/packages/@grothesque/sandburg",
+  "url": "https://pi.dev/packages/@grothesque/sandburg",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 47,
+  "date_ms": 1779051032645,
+  "description_en": "Pi sandbox balancing security, usability and agent autonomy; for Linux",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

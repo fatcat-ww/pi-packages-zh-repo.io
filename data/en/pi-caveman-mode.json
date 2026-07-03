@@ -1,0 +1,13 @@
+{
+  "name": "pi-caveman-mode",
+  "path": "/packages/pi-caveman-mode",
+  "url": "https://pi.dev/packages/pi-caveman-mode",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 39,
+  "date_ms": 1776259148492,
+  "description_en": "Caveman Mode extension for pi. Makes assistant responses terse and blunt.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

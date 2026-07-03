@@ -1,0 +1,13 @@
+{
+  "name": "@jmcombs/pi-grok-search",
+  "path": "/packages/@jmcombs/pi-grok-search",
+  "url": "https://pi.dev/packages/@jmcombs/pi-grok-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 82,
+  "date_ms": 1779735057699,
+  "description_en": "Pi extension that performs real-time web search via the xAI Grok API.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

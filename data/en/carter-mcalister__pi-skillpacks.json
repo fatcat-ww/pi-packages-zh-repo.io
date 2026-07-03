@@ -1,0 +1,14 @@
+{
+  "name": "@carter-mcalister/pi-skillpacks",
+  "path": "/packages/@carter-mcalister/pi-skillpacks",
+  "url": "https://pi.dev/packages/@carter-mcalister/pi-skillpacks",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 45,
+  "date_ms": 1778371403241,
+  "description_en": "Session-scoped skill pack loader for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

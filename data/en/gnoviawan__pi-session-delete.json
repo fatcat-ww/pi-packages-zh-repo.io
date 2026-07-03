@@ -1,0 +1,11 @@
+{
+  "name": "@gnoviawan/pi-session-delete",
+  "path": "/packages/@gnoviawan/pi-session-delete",
+  "url": "https://pi.dev/packages/@gnoviawan/pi-session-delete",
+  "types": "",
+  "type_list": [],
+  "downloads": 79,
+  "date_ms": 1777535245963,
+  "description_en": "Interactive session deletion command for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

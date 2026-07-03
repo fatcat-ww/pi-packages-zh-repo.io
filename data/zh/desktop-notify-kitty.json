@@ -1,0 +1,6 @@
+{
+  "name": "desktop-notify-kitty",
+  "description_en": "Pi extension that sends desktop notifications via kitten notify (kitty) or notify-send when a kitty terminal session needs attention.",
+  "description_zh": "Pi 扩展，当 kitty 终端会话需要关注时，通过 kitten notify（kitty）或 notify-send 发送桌面通知。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

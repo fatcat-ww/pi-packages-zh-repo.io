@@ -1,0 +1,13 @@
+{
+  "name": "@rxreyn3/pi-azure-devops",
+  "path": "/packages/@rxreyn3/pi-azure-devops",
+  "url": "https://pi.dev/packages/@rxreyn3/pi-azure-devops",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 56,
+  "date_ms": 1778178241637,
+  "description_en": "Azure DevOps diagnostics extension and CLI for Pi/OMP",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

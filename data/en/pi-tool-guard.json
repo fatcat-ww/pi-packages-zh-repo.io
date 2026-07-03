@@ -1,0 +1,13 @@
+{
+  "name": "pi-tool-guard",
+  "path": "/packages/pi-tool-guard",
+  "url": "https://pi.dev/packages/pi-tool-guard",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 472,
+  "date_ms": 1781513118871,
+  "description_en": "Pi extension that corrects LLM tool calls: normalizes argument aliases for edit/write/read and strips trailing pipeline extractors from bash commands",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

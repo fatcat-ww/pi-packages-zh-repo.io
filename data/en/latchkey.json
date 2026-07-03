@@ -1,0 +1,11 @@
+{
+  "name": "latchkey",
+  "path": "/packages/latchkey",
+  "url": "https://pi.dev/packages/latchkey",
+  "types": "",
+  "type_list": [],
+  "downloads": 11874,
+  "date_ms": 1782375388447,
+  "description_en": "A CLI tool that injects API credentials into curl requests to third-party services",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

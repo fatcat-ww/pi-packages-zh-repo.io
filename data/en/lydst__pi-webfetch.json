@@ -1,0 +1,13 @@
+{
+  "name": "@lydst/pi-webfetch",
+  "path": "/packages/@lydst/pi-webfetch",
+  "url": "https://pi.dev/packages/@lydst/pi-webfetch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 50,
+  "date_ms": 1775190334378,
+  "description_en": "A pi package that fetches public web pages for AI agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

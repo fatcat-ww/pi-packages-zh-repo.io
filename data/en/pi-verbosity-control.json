@@ -1,0 +1,11 @@
+{
+  "name": "pi-verbosity-control",
+  "path": "/packages/pi-verbosity-control",
+  "url": "https://pi.dev/packages/pi-verbosity-control",
+  "types": "",
+  "type_list": [],
+  "downloads": 376,
+  "date_ms": 1780419476696,
+  "description_en": "Per-model OpenAI verbosity control for Pi with optional inline footer display",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

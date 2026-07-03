@@ -1,0 +1,11 @@
+{
+  "name": "@e9n/pi-github",
+  "path": "/packages/@e9n/pi-github",
+  "url": "https://pi.dev/packages/@e9n/pi-github",
+  "types": "",
+  "type_list": [],
+  "downloads": 53,
+  "date_ms": 1772884954306,
+  "description_en": "GitHub integration for pi — PR management, issue tracking, and review feedback commands",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

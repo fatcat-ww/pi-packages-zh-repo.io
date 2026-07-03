@@ -1,0 +1,6 @@
+{
+  "name": "@javimolina/pi-rg",
+  "description_en": "Pi package that adds a /r command with cached ripgrep-backed file completions",
+  "description_zh": "pi 包，添加带有缓存 ripgrep 支持的文件补全的 /r 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

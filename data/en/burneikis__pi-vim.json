@@ -1,0 +1,11 @@
+{
+  "name": "@burneikis/pi-vim",
+  "path": "/packages/@burneikis/pi-vim",
+  "url": "https://pi.dev/packages/@burneikis/pi-vim",
+  "types": "",
+  "type_list": [],
+  "downloads": 453,
+  "date_ms": 1781815088313,
+  "description_en": "Vim motions extension for pi – normal, insert, visual, and replace modes with operators, motions, text objects, registers, search, and repeat",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

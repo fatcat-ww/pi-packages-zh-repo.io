@@ -1,0 +1,13 @@
+{
+  "name": "@clanker-code/pi-subagents",
+  "path": "/packages/@clanker-code/pi-subagents",
+  "url": "https://pi.dev/packages/@clanker-code/pi-subagents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 725,
+  "date_ms": 1782626493961,
+  "description_en": "A pi extension extension that brings smart Claude Code-style autonomous sub-agents to pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

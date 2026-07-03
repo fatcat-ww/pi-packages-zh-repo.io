@@ -1,0 +1,6 @@
+{
+  "name": "pi-permission-gate",
+  "description_en": "Config-driven permission system for Pi agents. Deny-by-default tool restriction with glob matching, path normalization, self-protection, and structured logging.",
+  "description_zh": "Pi 代理的配置驱动权限系统。默认拒绝工具限制，具有全局匹配、路径规范化、自我保护和结构化日志",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-reason-harness",
+  "description_en": "Recursive self-improving reasoning harness for pi — iterate, verify, improve. Builds task-specific reasoning strategies on top of any LLM.",
+  "description_zh": "pi 的递归自我改进推理框架 — 迭代、验证、改进。在任何 LLM 上构建特定任务的推理策略。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@sentiolabs/pi-frontend-design",
+  "path": "/packages/@sentiolabs/pi-frontend-design",
+  "url": "https://pi.dev/packages/@sentiolabs/pi-frontend-design",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 109,
+  "date_ms": 1778032825419,
+  "description_en": "Frontend design skill for distinctive, production-grade Pi UI work.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

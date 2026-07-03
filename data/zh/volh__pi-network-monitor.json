@@ -1,0 +1,6 @@
+{
+  "name": "@volh/pi-network-monitor",
+  "description_en": "Network request monitor for pi agent — live overlay showing all HTTP traffic",
+  "description_zh": "pi 代理的网络请求监视器 — 实时覆盖层显示所有 HTTP 流量",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

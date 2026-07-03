@@ -1,0 +1,11 @@
+{
+  "name": "pi-loop-mode",
+  "path": "/packages/pi-loop-mode",
+  "url": "https://pi.dev/packages/pi-loop-mode",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1783080243706,
+  "description_en": "Unattended loop mode for pi — separate goal/prepare/run phases with per-phase model selection, endless by default, objective goal function (--check) with score/regression tracking, error retry with backoff, layered anti-repetition defenses (near-duplicate",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

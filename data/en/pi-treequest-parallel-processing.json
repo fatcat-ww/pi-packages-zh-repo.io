@@ -1,0 +1,13 @@
+{
+  "name": "pi-treequest-parallel-processing",
+  "path": "/packages/pi-treequest-parallel-processing",
+  "url": "https://pi.dev/packages/pi-treequest-parallel-processing",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 34,
+  "date_ms": 1777232318754,
+  "description_en": "TreeQuest Parallel Processing - multi-provider AI orchestration for pi with parallel queries, smart routing, and agent coordination",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

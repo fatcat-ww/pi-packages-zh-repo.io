@@ -1,0 +1,6 @@
+{
+  "name": "pi-claude-style-tools",
+  "description_en": "Claude Code-style grouped tool rows for pi with Ctrl+O/Ctrl+Shift+O previews, math rendering, and consistent built-in, MCP, and custom tool rendering",
+  "description_zh": "Pi 的 Claude Code 风格分组工具行，具有 Ctrl+O/Ctrl+Shift+O 预览、数学渲染和一致的内置、MCP 和自定义工具渲染",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

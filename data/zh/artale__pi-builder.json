@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-builder",
+  "description_en": "Extension builder for Pi. Scaffold, build, test, and publish Pi extensions from a single command. The tool that built 82 packages.",
+  "description_zh": "Pi 的扩展构建器。从单个命令中搭建、构建、测试和发布 Pi 扩展。构建了 82 个包的工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

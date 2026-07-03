@@ -1,0 +1,6 @@
+{
+  "name": "@estebanforge/pi-go-review",
+  "description_en": "Go code-review tool for Pi. Grades your git diffs against the 100 Go Mistakes rubric (https://100go.co/) and returns categorized findings (Bug / Suggestion / Nit / Good pattern) with an Approve or Request-Changes verdict. Not a linter; pairs with go vet a",
+  "description_zh": "Pi 的 Go 代码审查工具。根据 100 Go Mistakes 标准（https://100go.co/）对你的 git diff 评分，并返回分类结果（错误/建议/细枝末节/良好模式）以及批准或请求更改的裁决。不是 linter；与 go vet 配对",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

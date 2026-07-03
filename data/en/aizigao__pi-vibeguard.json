@@ -1,0 +1,13 @@
+{
+  "name": "@aizigao/pi-vibeguard",
+  "path": "/packages/@aizigao/pi-vibeguard",
+  "url": "https://pi.dev/packages/@aizigao/pi-vibeguard",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 235,
+  "date_ms": 1780061541929,
+  "description_en": "Pi extension that replaces sensitive strings with placeholders before LLM requests (inspired by VibeGuard).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

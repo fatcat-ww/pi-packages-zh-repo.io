@@ -1,0 +1,11 @@
+{
+  "name": "pi-gsd-redux",
+  "path": "/packages/pi-gsd-redux",
+  "url": "https://pi.dev/packages/pi-gsd-redux",
+  "types": "",
+  "type_list": [],
+  "downloads": 62,
+  "date_ms": 1779988656411,
+  "description_en": "Pi adapter for official Open GSD without forking workflows",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

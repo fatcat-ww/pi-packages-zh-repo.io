@@ -1,0 +1,13 @@
+{
+  "name": "@pi-stef/cursor",
+  "path": "/packages/@pi-stef/cursor",
+  "url": "https://pi.dev/packages/@pi-stef/cursor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 481,
+  "date_ms": 1781990123330,
+  "description_en": "Cursor AI editor as a native Pi stream provider — OAuth login, protobuf/HTTP2 protocol, tool-call recovery",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@lalalic/local-vision-audio",
+  "description_en": "Local vision (describe images), STT (speech-to-text), and TTS (text-to-speech). macOS uses MLX (Apple Silicon GPU). Windows/Linux use whisper, edge-tts, and transformers.",
+  "description_zh": "本地视觉（描述图像）、STT（语音转文本）和 TTS（文本转语音）。macOS 使用 MLX（Apple Silicon GPU）。Windows/Linux 使用 whisper、edge-tts 和 transformers。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

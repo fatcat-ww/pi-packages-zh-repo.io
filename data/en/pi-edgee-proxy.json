@@ -1,0 +1,11 @@
+{
+  "name": "pi-edgee-proxy",
+  "path": "/packages/pi-edgee-proxy",
+  "url": "https://pi.dev/packages/pi-edgee-proxy",
+  "types": "",
+  "type_list": [],
+  "downloads": 64,
+  "date_ms": 1777470501928,
+  "description_en": "Route Pi coding agent through Edgee AI Gateway for lossless token compression — any provider, any model",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

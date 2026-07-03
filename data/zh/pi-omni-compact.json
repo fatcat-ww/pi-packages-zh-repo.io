@@ -1,0 +1,6 @@
+{
+  "name": "pi-omni-compact",
+  "description_en": "Pi extension that delegates compaction to a large-context model subprocess",
+  "description_zh": "Pi 扩展，将压缩委托给大上下文模型子进程",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-cp2cb",
+  "path": "/packages/pi-cp2cb",
+  "url": "https://pi.dev/packages/pi-cp2cb",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782721815961,
+  "description_en": "Pi extension that auto-copies matching assistant code blocks to the clipboard.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

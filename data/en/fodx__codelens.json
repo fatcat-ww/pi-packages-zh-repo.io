@@ -1,0 +1,11 @@
+{
+  "name": "@fodx/codelens",
+  "path": "/packages/@fodx/codelens",
+  "url": "https://pi.dev/packages/@fodx/codelens",
+  "types": "",
+  "type_list": [],
+  "downloads": 2219,
+  "date_ms": 1782457585332,
+  "description_en": "Local, branch-aware code search & relation graph. SQLite FTS5 + tree-sitter symbols + source-graph edges, exposed as an MCP server and CLI. No chat LLM required.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

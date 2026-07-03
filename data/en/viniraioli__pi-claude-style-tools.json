@@ -1,0 +1,13 @@
+{
+  "name": "@viniraioli/pi-claude-style-tools",
+  "path": "/packages/@viniraioli/pi-claude-style-tools",
+  "url": "https://pi.dev/packages/@viniraioli/pi-claude-style-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 5164,
+  "date_ms": 1782011588674,
+  "description_en": "Claude Code-style tool rows for pi with Ctrl+O image previews and consistent built-in, MCP, and custom tool rendering",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

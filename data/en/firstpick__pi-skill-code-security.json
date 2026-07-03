@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-code-security",
+  "path": "/packages/@firstpick/pi-skill-code-security",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-code-security",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 219,
+  "date_ms": 1780954583899,
+  "description_en": "Agents should invoke this skill for code security reviews, leaked secret checks, dependency risk, unsafe shell/Python/TypeScript/Rust patterns, auth/input-validation flaws, SAST-style audits, or supply-chain concerns in repositories.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

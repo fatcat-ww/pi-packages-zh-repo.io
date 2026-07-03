@@ -1,0 +1,13 @@
+{
+  "name": "pi-end-turn",
+  "path": "/packages/pi-end-turn",
+  "url": "https://pi.dev/packages/pi-end-turn",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 42,
+  "date_ms": 1779423474755,
+  "description_en": "Pi extension for ending the agent's turn using tool",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

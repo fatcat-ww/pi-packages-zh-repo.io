@@ -1,0 +1,6 @@
+{
+  "name": "@winterchenhuan/pi-hide-hf",
+  "description_en": "Hide HuggingFace models extension for Pi. Filter HF models from the model selector when HF_TOKEN is present.",
+  "description_zh": "Pi 的隐藏 HuggingFace 模型扩展。当存在 HF_TOKEN 时，从模型选择器中过滤 HF 模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

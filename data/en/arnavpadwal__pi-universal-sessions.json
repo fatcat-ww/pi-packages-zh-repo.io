@@ -1,0 +1,13 @@
+{
+  "name": "@arnavpadwal/pi-universal-sessions",
+  "path": "/packages/@arnavpadwal/pi-universal-sessions",
+  "url": "https://pi.dev/packages/@arnavpadwal/pi-universal-sessions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 35,
+  "date_ms": 1778595857557,
+  "description_en": "Universal session switch for pi — browse, switch, delete, and rename sessions from ANY project",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

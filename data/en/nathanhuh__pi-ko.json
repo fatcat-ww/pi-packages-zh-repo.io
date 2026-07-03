@@ -1,0 +1,14 @@
+{
+  "name": "@nathanhuh/pi-ko",
+  "path": "/packages/@nathanhuh/pi-ko",
+  "url": "https://pi.dev/packages/@nathanhuh/pi-ko",
+  "types": "skill prompt",
+  "type_list": [
+    "skill",
+    "prompt"
+  ],
+  "downloads": 49,
+  "date_ms": 1778063364007,
+  "description_en": "Korean-first prompts and skills for Pi Coding Agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

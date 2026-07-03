@@ -1,0 +1,6 @@
+{
+  "name": "pi-bailian-models",
+  "description_en": "Adds Alibaba Cloud BaiLian Qwen models to pi with OAuth support",
+  "description_zh": "使用 OAuth 支持将阿里云百炼 Qwen 模型添加到 pi",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

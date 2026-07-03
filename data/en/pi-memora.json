@@ -1,0 +1,13 @@
+{
+  "name": "pi-memora",
+  "path": "/packages/pi-memora",
+  "url": "https://pi.dev/packages/pi-memora",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782891393248,
+  "description_en": "Memora-backed persistent memory for Pi and Codex via MCP.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

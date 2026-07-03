@@ -1,0 +1,11 @@
+{
+  "name": "@rbright/pi-notify-koko",
+  "path": "/packages/@rbright/pi-notify-koko",
+  "url": "https://pi.dev/packages/@rbright/pi-notify-koko",
+  "types": "",
+  "type_list": [],
+  "downloads": 54,
+  "date_ms": 1771533887463,
+  "description_en": "Koko voice notifications for Pi agent turn completion.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

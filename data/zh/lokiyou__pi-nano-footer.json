@@ -1,0 +1,6 @@
+{
+  "name": "@lokiyou/pi-nano-footer",
+  "description_en": "Lightweight powerline-style footer for Pi Coding Agent that shows model, thinking level, directory, MCP status, context usage, tokens, and cost while keeping the built-in Working indicator.",
+  "description_zh": "Pi Coding Agent 的轻量级 powerline 风格页脚，显示模型、思考级别、目录、MCP 状态、上下文使用量、token 和成本，同时保持内置的 Working 指示器。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@momomemory/pi-momo",
+  "path": "/packages/@momomemory/pi-momo",
+  "url": "https://pi.dev/packages/@momomemory/pi-momo",
+  "types": "",
+  "type_list": [],
+  "downloads": 59,
+  "date_ms": 1770922023588,
+  "description_en": "Pi plugin that gives agents persistent memory using Momo",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

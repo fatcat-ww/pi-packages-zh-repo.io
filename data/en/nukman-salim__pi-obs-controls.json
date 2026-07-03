@@ -1,0 +1,11 @@
+{
+  "name": "@nukman-salim/pi-obs-controls",
+  "path": "/packages/@nukman-salim/pi-obs-controls",
+  "url": "https://pi.dev/packages/@nukman-salim/pi-obs-controls",
+  "types": "",
+  "type_list": [],
+  "downloads": 67,
+  "date_ms": 1779267922538,
+  "description_en": "Control OBS Studio via WebSocket from Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@markoonakic/pi-working-line",
+  "path": "/packages/@markoonakic/pi-working-line",
+  "url": "https://pi.dev/packages/@markoonakic/pi-working-line",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 69,
+  "date_ms": 1776056672709,
+  "description_en": "Claude-style working message phrases and elapsed timer for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

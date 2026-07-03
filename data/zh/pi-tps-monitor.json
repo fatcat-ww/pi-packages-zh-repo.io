@@ -1,0 +1,6 @@
+{
+  "name": "pi-tps-monitor",
+  "description_en": "Live tokens-per-second display next to the working indicator in pi-coding-agent",
+  "description_zh": "在 pi-coding-agent 的工作指示器旁边显示实时每秒 token 数",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

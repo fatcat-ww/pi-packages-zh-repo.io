@@ -1,0 +1,6 @@
+{
+  "name": "@cocodrino/bridge-harness-pi",
+  "description_en": "Pi coding agent extension for bridge-harness — real-time NATS communication with Claude Code",
+  "description_zh": "Pi 编码代理扩展，用于 bridge-harness — 与 Claude Code 进行实时 NATS 通信",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

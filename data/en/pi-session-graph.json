@@ -1,0 +1,13 @@
+{
+  "name": "pi-session-graph",
+  "path": "/packages/pi-session-graph",
+  "url": "https://pi.dev/packages/pi-session-graph",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1565,
+  "date_ms": 1781982260130,
+  "description_en": "Session lineage graph tools for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

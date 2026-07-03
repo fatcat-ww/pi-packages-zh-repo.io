@@ -1,0 +1,13 @@
+{
+  "name": "@phongndo/pi-threads",
+  "path": "/packages/@phongndo/pi-threads",
+  "url": "https://pi.dev/packages/@phongndo/pi-threads",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783049278237,
+  "description_en": "A minimal Pi extension that lets Pi sessions start, poll, message, list, and stop other Pi sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

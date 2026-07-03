@@ -1,0 +1,6 @@
+{
+  "name": "pi-jj",
+  "description_en": "Pi extension package for Jujutsu workflows (checkpointing, rewind, and jj onboarding)",
+  "description_zh": "用于 Jujutsu 工作流的 Pi 扩展包（检查点、回退和 jj 上）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

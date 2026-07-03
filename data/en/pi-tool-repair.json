@@ -1,0 +1,13 @@
+{
+  "name": "pi-tool-repair",
+  "path": "/packages/pi-tool-repair",
+  "url": "https://pi.dev/packages/pi-tool-repair",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1477,
+  "date_ms": 1782200836328,
+  "description_en": "Validate-then-repair extension for pi — fixes common LLM tool-call mistakes (null fields, stringified arrays, wrong field names, anchor bleed) before tools execute",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

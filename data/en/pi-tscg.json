@@ -1,0 +1,11 @@
+{
+  "name": "pi-tscg",
+  "path": "/packages/pi-tscg",
+  "url": "https://pi.dev/packages/pi-tscg",
+  "types": "",
+  "type_list": [],
+  "downloads": 378,
+  "date_ms": 1777493605191,
+  "description_en": "Drop-in tool-schema and tool-result compression for the Pi coding-agent. Built on TSCG by Furkan Sakizli (SKZL-AI) — wraps @tscg/core and adds tool-result compression plus provider-aware prompt-cache awareness (Anthropic/OpenAI/Ollama). Provider-agnostic,",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

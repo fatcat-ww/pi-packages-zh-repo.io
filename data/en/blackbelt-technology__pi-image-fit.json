@@ -1,0 +1,13 @@
+{
+  "name": "@blackbelt-technology/pi-image-fit",
+  "path": "/packages/@blackbelt-technology/pi-image-fit",
+  "url": "https://pi.dev/packages/@blackbelt-technology/pi-image-fit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 196,
+  "date_ms": 1781305748685,
+  "description_en": "Pi extension that resizes oversize images at Read-time so they fit model byte and pixel ceilings.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

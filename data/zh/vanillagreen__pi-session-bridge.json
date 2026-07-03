@@ -1,0 +1,6 @@
+{
+  "name": "@vanillagreen/pi-session-bridge",
+  "description_en": "Pi extension and CLI for controlling visible interactive Pi sessions over a structured Unix-socket side channel.",
+  "description_zh": "Pi 扩展和 CLI，通过结构化的 Unix 套接字侧通道控制可见的交互式 Pi 会话",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

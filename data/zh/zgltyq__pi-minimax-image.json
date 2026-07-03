@@ -1,0 +1,6 @@
+{
+  "name": "@zgltyq/pi-minimax-image",
+  "description_en": "Fallback image understanding for models without native vision support - provides understand_image tool via MiniMax API",
+  "description_zh": "无原生视觉支持模型的备用图像理解 - 通过 MiniMax API 提供 understand_image 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

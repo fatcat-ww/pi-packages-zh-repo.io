@@ -1,0 +1,6 @@
+{
+  "name": "pi-reduce",
+  "description_en": "Reduce Pi session context by rebuilding the current branch with only the message types you keep.",
+  "description_zh": "通过仅保留您保留的消息类型重新构建当前分支来减少Pi会话上下文",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

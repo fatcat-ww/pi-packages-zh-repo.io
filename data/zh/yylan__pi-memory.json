@@ -1,0 +1,6 @@
+{
+  "name": "@yylan/pi-memory",
+  "description_en": "High-performance long-term memory system for pi coding agent — SQLite FTS5 + local ONNX embeddings",
+  "description_zh": "面向 pi 编码代理的高性能长期记忆系统 — SQLite FTS5 + 本地 ONNX 嵌入",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

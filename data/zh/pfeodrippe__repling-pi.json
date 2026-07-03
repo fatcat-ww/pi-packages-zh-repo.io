@@ -1,0 +1,6 @@
+{
+  "name": "@pfeodrippe/repling-pi",
+  "description_en": "Pi extension that runs Repling as the agent runtime/tool loop.",
+  "description_zh": "将 Repling 作为代理运行时/工具循环运行的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

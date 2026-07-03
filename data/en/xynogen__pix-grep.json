@@ -1,0 +1,13 @@
+{
+  "name": "@xynogen/pix-grep",
+  "path": "/packages/@xynogen/pix-grep",
+  "url": "https://pi.dev/packages/@xynogen/pix-grep",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1287,
+  "date_ms": 1783045275859,
+  "description_en": "Pi tool — pattern search in files",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

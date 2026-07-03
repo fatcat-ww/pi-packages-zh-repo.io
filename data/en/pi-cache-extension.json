@@ -1,0 +1,13 @@
+{
+  "name": "pi-cache-extension",
+  "path": "/packages/pi-cache-extension",
+  "url": "https://pi.dev/packages/pi-cache-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 278,
+  "date_ms": 1782236270568,
+  "description_en": "一个简单友好的 pi 扩展，查看 AI 对话的缓存效率和节省的 Token",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@odinlayer/pi-provider-litellm",
+  "path": "/packages/@odinlayer/pi-provider-litellm",
+  "url": "https://pi.dev/packages/@odinlayer/pi-provider-litellm",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782931364847,
+  "description_en": "LiteLLM proxy provider extension for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

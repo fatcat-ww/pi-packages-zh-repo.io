@@ -1,0 +1,6 @@
+{
+  "name": "pi-memory",
+  "description_en": "Pi coding agent extension for memory with qmd-powered semantic search across daily logs, long-term memory, and scratchpad",
+  "description_zh": "Pi 编码代理的内存扩展，使用 qmd 支持的语义搜索，涵盖日常日志、长期记忆和草稿板",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

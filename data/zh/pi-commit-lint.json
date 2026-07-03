@@ -1,0 +1,6 @@
+{
+  "name": "pi-commit-lint",
+  "description_en": "Validate commit messages against Conventional Commits format with configurable rules",
+  "description_zh": "根据 Conventional Commits 格式使用可配置规则验证提交消息",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

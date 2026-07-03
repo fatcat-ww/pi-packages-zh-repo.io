@@ -1,0 +1,6 @@
+{
+  "name": "pi-skill-gate",
+  "description_en": "Interactive skill visibility manager for pi coding agent — browse, toggle, invoke, and track usage of skills from a keyboard-driven TUI overlay.",
+  "description_zh": "Pi 编码代理的交互式技能可见性管理器 — 从键盘驱动的 TUI 覆盖层中浏览、切换、调用和跟踪技能使用情况",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@getpipher/armory-memory",
+  "path": "/packages/@getpipher/armory-memory",
+  "url": "https://pi.dev/packages/@getpipher/armory-memory",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782890773196,
+  "description_en": "Memory for pi — Claude-Code-compatible cwd-keyed memory, auto-injected into every prompt. One-command CC→Pi import. The cross-tool on-ramp from Claude Code to pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

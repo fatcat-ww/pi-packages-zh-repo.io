@@ -1,0 +1,13 @@
+{
+  "name": "pi-effect-harness",
+  "path": "/packages/pi-effect-harness",
+  "url": "https://pi.dev/packages/pi-effect-harness",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 447,
+  "date_ms": 1780084815562,
+  "description_en": "a harness specifically for writing Effect v4 code",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

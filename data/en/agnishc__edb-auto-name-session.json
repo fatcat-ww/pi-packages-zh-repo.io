@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-auto-name-session",
+  "path": "/packages/@agnishc/edb-auto-name-session",
+  "url": "https://pi.dev/packages/@agnishc/edb-auto-name-session",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 618,
+  "date_ms": 1782119161472,
+  "description_en": "Pi extension: replace Pi's first-message session label with a generated title",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

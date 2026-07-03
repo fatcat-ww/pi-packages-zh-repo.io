@@ -1,0 +1,6 @@
+{
+  "name": "pi-speak",
+  "description_en": "Voice readback extension for Pi — reads agent responses aloud via Unreal Speech TTS",
+  "description_zh": "Pi 的语音朗读扩展 — 通过 Unreal Speech TTS 大声朗读代理回复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

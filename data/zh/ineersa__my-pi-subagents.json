@@ -1,0 +1,6 @@
+{
+  "name": "@ineersa/my-pi-subagents",
+  "description_en": "Subagent orchestration extension for Pi coding agent — single and parallel foreground execution, agent discovery, skill injection, model fallback",
+  "description_zh": "Pi 编码代理的子代理编排扩展 — 单个和并行前台执行、代理发现、技能注入、模型回退",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

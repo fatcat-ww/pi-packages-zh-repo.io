@@ -1,0 +1,6 @@
+{
+  "name": "@diegopetrucci/pi-triage-comments",
+  "description_en": "A pi extension that adds /triage-comments and a read-only triage_comments subagent tool for review-comment triage.",
+  "description_zh": "Pi 扩展，添加 /triage-comments 和用于审查评论分诊的只读 triage_comments 子代理工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

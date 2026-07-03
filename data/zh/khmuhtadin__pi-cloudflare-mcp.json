@@ -1,0 +1,6 @@
+{
+  "name": "@khmuhtadin/pi-cloudflare-mcp",
+  "description_en": "Pi extension that bridges pi to the official Cloudflare remote MCP server (Code Mode). Extended API access: DNS, zones, email routing, account, and more.",
+  "description_zh": "Pi 扩展，将 pi 连接到官方 Cloudflare 远程 MCP 服务器（代码模式）。扩展 API 访问：DNS、区域、电子邮件路由、账户等。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@pi-unipi/footer",
+  "path": "/packages/@pi-unipi/footer",
+  "url": "https://pi.dev/packages/@pi-unipi/footer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1019,
+  "date_ms": 1782924696291,
+  "description_en": "Persistent status bar for Unipi — subscribes to UNIPI_EVENTS and renders key stats from all unipi packages",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

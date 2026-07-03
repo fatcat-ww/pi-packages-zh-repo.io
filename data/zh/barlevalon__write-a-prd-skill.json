@@ -1,0 +1,6 @@
+{
+  "name": "@barlevalon/write-a-prd-skill",
+  "description_en": "Create a PRD through user interview, codebase exploration, and module design. Use when user wants to write a PRD, create a product requirements document, or plan a new feature.",
+  "description_zh": "通过用户访谈、代码库探索和模块设计创建 PRD。当用户想要编写 PRD、创建产品需求文档或规划新功能时使用",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

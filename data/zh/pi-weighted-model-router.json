@@ -1,0 +1,6 @@
+{
+  "name": "pi-weighted-model-router",
+  "description_en": "Pi extension that balances model/provider usage across weighted model pools.",
+  "description_zh": "Pi 扩展，在加权的模型池之间平衡模型/提供商的使用。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

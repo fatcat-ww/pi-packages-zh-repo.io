@@ -1,0 +1,15 @@
+{
+  "name": "@lebronj/pi-suite",
+  "path": "/packages/@lebronj/pi-suite",
+  "url": "https://pi.dev/packages/@lebronj/pi-suite",
+  "types": "extension skill prompt",
+  "type_list": [
+    "extension",
+    "skill",
+    "prompt"
+  ],
+  "downloads": 3516,
+  "date_ms": 1782978683062,
+  "description_en": "JHP's Pi extension suite for team coding workflows",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@vanillagreen/pi-skills-manager",
+  "description_en": "Polished Pi skills manager with a dedicated /skill menu for browsing, previewing, inserting, creating, editing, renaming, deleting, and toggling skills while preserving native /skill:name invocation.",
+  "description_zh": "精美的 Pi 技能管理器，带有专用的 /skill 菜单，用于浏览、预览、插入、创建、编辑、重命名、删除和切换技能，同时保留原生的 /skill:name 调用方式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

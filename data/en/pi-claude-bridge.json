@@ -1,0 +1,13 @@
+{
+  "name": "pi-claude-bridge",
+  "path": "/packages/pi-claude-bridge",
+  "url": "https://pi.dev/packages/pi-claude-bridge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1636,
+  "date_ms": 1782962460425,
+  "description_en": "Pi extension that uses Claude Code (via Agent SDK) as a model provider and adds an AskClaude tool.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

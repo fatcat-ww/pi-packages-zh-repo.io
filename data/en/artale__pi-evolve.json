@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-evolve",
+  "path": "/packages/@artale/pi-evolve",
+  "url": "https://pi.dev/packages/@artale/pi-evolve",
+  "types": "",
+  "type_list": [],
+  "downloads": 41,
+  "date_ms": 1773497562618,
+  "description_en": "Evolutionary self-improvement for Pi. AlphaEvolve-inspired mutation, evaluation, and selection of prompts, skills, and extensions. Open-ended agent evolution.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

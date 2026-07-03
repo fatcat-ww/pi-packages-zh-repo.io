@@ -1,0 +1,6 @@
+{
+  "name": "pi-daily-cost",
+  "description_en": "Daily spend tracker for the Pi coding agent — shows total API cost across all of today's sessions in the footer status bar",
+  "description_zh": "Pi编码代理的每日支出跟踪器 — 在底部状态栏显示今日所有会话的总API成本",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

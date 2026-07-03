@@ -1,0 +1,13 @@
+{
+  "name": "@bacnh85/pi-themes",
+  "path": "/packages/@bacnh85/pi-themes",
+  "url": "https://pi.dev/packages/@bacnh85/pi-themes",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 0,
+  "date_ms": 1782541248166,
+  "description_en": "Custom pi themes collection — Ayu-based dark, mirage, and light variants",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

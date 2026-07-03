@@ -1,0 +1,6 @@
+{
+  "name": "@zilchfp/pi-agent-stack",
+  "description_en": "Public-safe base Pi agent stack: pinned package settings, bootstrap helpers, and environment checks.",
+  "description_zh": "公共安全的基础 Pi 代理堆栈：固定包设置、引导助手和环境检查",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

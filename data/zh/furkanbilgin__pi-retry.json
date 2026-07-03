@@ -1,0 +1,6 @@
+{
+  "name": "@furkanbilgin/pi-retry",
+  "description_en": "Auto-retry Pi extension — automatically recovers from transient provider errors (400, 5xx, rate limits, connection failures) mid-conversation by sending a continuation prompt with exponential backoff",
+  "description_zh": "自动重试 Pi 扩展 — 通过使用指数退避发送继续提示，从临时提供程序错误（400、5xx、速率限制、连接失败）中自动恢复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

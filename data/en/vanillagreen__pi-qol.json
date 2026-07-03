@@ -1,0 +1,11 @@
+{
+  "name": "@vanillagreen/pi-qol",
+  "path": "/packages/@vanillagreen/pi-qol",
+  "url": "https://pi.dev/packages/@vanillagreen/pi-qol",
+  "types": "",
+  "type_list": [],
+  "downloads": 946,
+  "date_ms": 1781280394147,
+  "description_en": "Pi quality-of-life extension: compact statusline/π prompt, reliable multiline input, styled pasted-image chips, session naming/search/context import, scheduled prompts, handoff, permission prompts, notifications, custom compaction, and a collapsed-thinkin",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

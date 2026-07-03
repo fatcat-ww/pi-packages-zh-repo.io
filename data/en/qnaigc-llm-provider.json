@@ -1,0 +1,13 @@
+{
+  "name": "qnaigc-llm-provider",
+  "path": "/packages/qnaigc-llm-provider",
+  "url": "https://pi.dev/packages/qnaigc-llm-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 35,
+  "date_ms": 1773913660801,
+  "description_en": "QNAIGC provider extension for pi-mono - Anthropic-compatible API for Chinese LLMs",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

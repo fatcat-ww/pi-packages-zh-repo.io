@@ -1,0 +1,6 @@
+{
+  "name": "pi-startup-picker",
+  "description_en": "Pi extension that lets power users choose provider and model at startup before the session begins.",
+  "description_zh": "Pi 扩展，允许高级用户在会话开始前选择提供者和模型。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

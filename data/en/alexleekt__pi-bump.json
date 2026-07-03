@@ -1,0 +1,13 @@
+{
+  "name": "@alexleekt/pi-bump",
+  "path": "/packages/@alexleekt/pi-bump",
+  "url": "https://pi.dev/packages/@alexleekt/pi-bump",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 106,
+  "date_ms": 1779433683548,
+  "description_en": "Invisible continuation for the Pi agent. Double-tap Enter on empty chat to resume the agentic loop without sending the LLM a single token.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

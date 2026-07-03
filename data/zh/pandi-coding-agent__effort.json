@@ -1,0 +1,6 @@
+{
+  "name": "@pandi-coding-agent/effort",
+  "description_en": "Pi extension that adds a Claude-style /effort command for thinking levels and Ultracode mode.",
+  "description_zh": "Pi 扩展，添加 Claude 风格的 /effort 命令，用于思考级别和 Ultracode 模式。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

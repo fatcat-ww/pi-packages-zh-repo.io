@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-maze",
+  "description_en": "Procedural maze generator with BFS solver, themes, and timer.",
+  "description_zh": "程序化迷宫生成器，带有 BFS 解算器、主题和计时器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@capyup/pi-basic-tools",
+  "description_en": "Standalone core productivity tools for pi: repo_map, read_block, symbol_outline, apply_patch, exec_command, write_stdin, grouped basic-tool UI, work_checkpoint, ask_user, ask_question, ask_questionnaire, fetch, Sourcegraph, and built-in search activation.",
+  "description_zh": "面向 pi 的独立核心生产力工具：repo_map、read_block、symbol_outline、apply_patch、exec_command、write_stdin、分组基本工具 UI、work_checkpoint、ask_user、ask_question、ask_questionnaire、fetch、Sourcegraph 和内置搜索激活。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

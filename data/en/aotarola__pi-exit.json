@@ -1,0 +1,13 @@
+{
+  "name": "@aotarola/pi-exit",
+  "path": "/packages/@aotarola/pi-exit",
+  "url": "https://pi.dev/packages/@aotarola/pi-exit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 60,
+  "date_ms": 1777136926078,
+  "description_en": "pi package that adds /exit as an alias for /quit",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

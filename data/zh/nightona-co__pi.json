@@ -1,0 +1,6 @@
+{
+  "name": "@nightona-co/pi",
+  "description_en": "Pi coding agent extension that runs all tool calls inside a remote, ephemeral Nightona sandbox while the agent runs locally",
+  "description_zh": "Pi coding agent 扩展，在远程短暂的 Nightona 沙箱中运行所有工具调用，而代理在本地运行。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

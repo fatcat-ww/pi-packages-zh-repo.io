@@ -1,0 +1,6 @@
+{
+  "name": "@cnife/pi-execute-python",
+  "description_en": "Execute Python code with uv - streaming output, dependency management",
+  "description_zh": "使用 uv 执行 Python 代码 — 流式输出、依赖管理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

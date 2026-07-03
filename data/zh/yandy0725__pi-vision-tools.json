@@ -1,0 +1,6 @@
+{
+  "name": "@yandy0725/pi-vision-tools",
+  "description_en": "pi package adding a describe_image tool that lets non-multimodal models delegate image analysis to a vision model",
+  "description_zh": "pi 包，添加了 describe_image 工具，使非多模态模型能够将图像分析委托给视觉模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

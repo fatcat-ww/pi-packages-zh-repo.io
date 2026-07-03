@@ -1,0 +1,13 @@
+{
+  "name": "@lojacobs/pi-roles",
+  "path": "/packages/@lojacobs/pi-roles",
+  "url": "https://pi.dev/packages/@lojacobs/pi-roles",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 36,
+  "date_ms": 1777480336480,
+  "description_en": "Role-based session configuration for pi coding agent. Launch a session as a named role and hot-swap roles mid-session, with optional pi-intercom and pi-mcp-adapter integration.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-smart-context-manager",
+  "description_en": "Intelligent context management for long-session AI agents. Solves U-shaped attention curve and context decay problems with four-level memory hierarchy.",
+  "description_zh": "长会话 AI 智能体的智能上下文管理。通过四级内存层次结构解决 U 型注意力曲线和上下文衰减问题",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-refactor-loop",
+  "description_en": "Iterative refactoring pipeline for pi. Runs analyze → refactor → verify cycles with a TUI progress widget, git commit-and-push per pass, and a bundled SKILL.md guide.",
+  "description_zh": "Pi 的迭代重构管道。使用 TUI 进度小部件运行分析 → 重构 → 验证周期，每次通过进行 git 提交并推送，并附带捆绑的 SKILL.md 指南。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

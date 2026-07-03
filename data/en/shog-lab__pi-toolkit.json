@@ -1,0 +1,13 @@
+{
+  "name": "@shog-lab/pi-toolkit",
+  "path": "/packages/@shog-lab/pi-toolkit",
+  "url": "https://pi.dev/packages/@shog-lab/pi-toolkit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 521,
+  "date_ms": 1783059890389,
+  "description_en": "Common pi-coding-agent extensions: web search (mmx) and MCP server bridge. NOTE: 0.3.0 removed spawn_subagent (→ @shog-lab/pi-subagent); 0.4.0 removed understand_image (models have native vision now); cron scheduling moved to @shog-lab/pi-bus; browser aut",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-haiku",
+  "description_en": "A warm, minimal theme plus a structured footer and keymap header replacement for Pi coding agent. Bundles the 'haiku' theme with a footer that surfaces location, model, context, tokens, cache, and cost — and a startup keymap that stays readable on any ter",
+  "description_zh": "一个温暖、简约的主题，加上结构化页脚和键映射页眉替换，用于 Pi 编码代理。将 'haiku' 主题与显示位置、模型、上下文、令牌、缓存和成本的页脚捆绑在一起，以及在任何终端上保持可读的启动键映射。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

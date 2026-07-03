@@ -1,0 +1,13 @@
+{
+  "name": "pi-observability",
+  "path": "/packages/pi-observability",
+  "url": "https://pi.dev/packages/pi-observability",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 405,
+  "date_ms": 1779810646936,
+  "description_en": "Live observability dashboard for pi coding agent sessions — tokens, cost, TPS, runtime, git stats, and context usage",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-chroma",
+  "path": "/packages/pi-chroma",
+  "url": "https://pi.dev/packages/pi-chroma",
+  "types": "",
+  "type_list": [],
+  "downloads": 28,
+  "date_ms": 1778428897084,
+  "description_en": "A Pi extension that indexes your local TypeScript/TSX codebase into Chroma Cloud, enabling semantic and symbol-based code retrieval directly within Pi's agent loop.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

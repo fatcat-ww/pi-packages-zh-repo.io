@@ -1,0 +1,6 @@
+{
+  "name": "executor-pi",
+  "description_en": "`executor-pi` is a first-class Pi extension for running Executor from inside Pi with native approval, elicitation, rendering, and project-aware Executor configuration.",
+  "description_zh": "`executor-pi` 是一个一流的 Pi 扩展，用于在 Pi 内部运行 Executor，具有原生批准、提示、渲染和项目感知的 Executor 配置。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

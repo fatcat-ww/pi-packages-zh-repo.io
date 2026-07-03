@@ -1,0 +1,6 @@
+{
+  "name": "@hewliyang/pi-codex-image",
+  "description_en": "Pi extension that exposes OpenAI's hosted image_generation tool to any model, authenticated via the openai-codex (ChatGPT Plus/Pro) OAuth credential.",
+  "description_zh": "Pi 扩展，将 OpenAI 托管的 image_generation 工具暴露给任何模型，通过 openai-codex (ChatGPT Plus/Pro) OAuth 凭证认证",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

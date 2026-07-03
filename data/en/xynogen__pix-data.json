@@ -1,0 +1,13 @@
+{
+  "name": "@xynogen/pix-data",
+  "path": "/packages/@xynogen/pix-data",
+  "url": "https://pi.dev/packages/@xynogen/pix-data",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1941,
+  "date_ms": 1783006126777,
+  "description_en": "Pi extension — shared model data layer (models.dev + BenchLM), cached at ~/.cache/pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

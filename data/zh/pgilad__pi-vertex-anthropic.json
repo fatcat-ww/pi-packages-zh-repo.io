@@ -1,0 +1,6 @@
+{
+  "name": "@pgilad/pi-vertex-anthropic",
+  "description_en": "Pi extension: Claude on Google Cloud Vertex AI via ADC. Uses the official @anthropic-ai/vertex-sdk for real Application Default Credentials (gcloud user creds, service account JSON, GCE/GKE metadata server, workload identity).",
+  "description_zh": "Pi 扩展：通过 ADC 在 Google Cloud Vertex AI 上使用 Claude。使用官方 @anthropic-ai/vertex-sdk 处理真实的应用默认凭据（gcloud 用户凭据、服务账户 JSON、GCE/GKE 元数据服务器、工作负载身份）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

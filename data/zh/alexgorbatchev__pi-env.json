@@ -1,0 +1,6 @@
+{
+  "name": "@alexgorbatchev/pi-env",
+  "description_en": "Pi extension that injects environment variables from project config settings.",
+  "description_zh": "从项目配置设置中注入环境变量的 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

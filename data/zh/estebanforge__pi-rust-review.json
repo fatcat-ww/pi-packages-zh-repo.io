@@ -1,0 +1,6 @@
+{
+  "name": "@estebanforge/pi-rust-review",
+  "description_en": "Rust code-review tool for Pi. Grades your git diffs against a curated code-smells rubric (each entry: anti-pattern plus idiomatic fix) and returns categorized findings (Bug / Suggestion / Nit / Good pattern) with an Approve or Request-Changes verdict. Not",
+  "description_zh": "Pi 的 Rust 代码审查工具。根据精选的代码异味评分标准对您的 git diff 进行评分（每条：反模式加惯用修复），并返回分类结果（Bug/建议/Nit/良好模式）以及批准或请求更改的 verdict。不",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@pandi-coding-agent/effort",
+  "path": "/packages/@pandi-coding-agent/effort",
+  "url": "https://pi.dev/packages/@pandi-coding-agent/effort",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783061658604,
+  "description_en": "Pi extension that adds a Claude-style /effort command for thinking levels and Ultracode mode.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

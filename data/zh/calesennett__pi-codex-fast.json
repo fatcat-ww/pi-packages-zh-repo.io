@@ -1,0 +1,6 @@
+{
+  "name": "@calesennett/pi-codex-fast",
+  "description_en": "pi extension that adds service_tier=priority to supported OpenAI Codex requests when fast mode is enabled.",
+  "description_zh": "pi 扩展，在启用快速模式时为支持的 OpenAI Codex 请求添加 service_tier=priority",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

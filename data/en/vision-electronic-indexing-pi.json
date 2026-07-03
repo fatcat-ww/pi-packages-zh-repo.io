@@ -1,0 +1,11 @@
+{
+  "name": "vision-electronic-indexing-pi",
+  "path": "/packages/vision-electronic-indexing-pi",
+  "url": "https://pi.dev/packages/vision-electronic-indexing-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 2349,
+  "date_ms": 1782422320372,
+  "description_en": "Pi package for agent-assisted electronics/PCB image inventory with Cloudflare Workers AI vision and datasheet enrichment.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

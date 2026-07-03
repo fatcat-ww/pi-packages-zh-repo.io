@@ -1,0 +1,13 @@
+{
+  "name": "pi-local-rag",
+  "path": "/packages/pi-local-rag",
+  "url": "https://pi.dev/packages/pi-local-rag",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 248,
+  "date_ms": 1779902572350,
+  "description_en": "Local hybrid RAG pipeline for the Pi coding agent. SQLite FTS5 + sqlite-vec, ONNX embeddings via Transformers.js, PDF/DOCX/HTML extraction (with OCR fallback), per-project storage, auto-injection. Zero cloud dependency.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

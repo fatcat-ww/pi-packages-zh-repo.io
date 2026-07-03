@@ -1,0 +1,6 @@
+{
+  "name": "pi-repeat-tool-guard",
+  "description_en": "Pi extension that appends system reminders to repeated tool call results.",
+  "description_zh": "Pi 扩展，将系统提醒附加到重复的工具调用结果中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

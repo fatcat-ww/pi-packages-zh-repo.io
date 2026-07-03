@@ -1,0 +1,6 @@
+{
+  "name": "pi-gitnexus-plus",
+  "description_en": "GitNexus knowledge graph integration for pi — enriches searches with call chains, execution flows, and blast radius. Supports stdio and HTTP transports.",
+  "description_zh": "GitNexus 知识图谱与 pi 的集成 — 通过调用链、执行流程和影响范围丰富搜索。支持 stdio 和 HTTP 传输。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

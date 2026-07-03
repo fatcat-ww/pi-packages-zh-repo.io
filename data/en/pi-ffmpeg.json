@@ -1,0 +1,11 @@
+{
+  "name": "pi-ffmpeg",
+  "path": "/packages/pi-ffmpeg",
+  "url": "https://pi.dev/packages/pi-ffmpeg",
+  "types": "",
+  "type_list": [],
+  "downloads": 83,
+  "date_ms": 1772888111635,
+  "description_en": "ffmpeg Swiss Army knife for pi — probe, transcode, trim, concat, GIF, frames, audio extract/mux, thumbnail, compress, speedup/slowdown",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

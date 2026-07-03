@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-migrate",
+  "description_en": "Code migration and codemods. Detect outdated patterns, check dependencies, generate migration plans.",
+  "description_zh": "代码迁移和 codemods。检测过时模式，检查依赖项，生成迁移计划。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

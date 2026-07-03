@@ -1,0 +1,6 @@
+{
+  "name": "@victormilk/pi-vibeproxy",
+  "description_en": "Pi Coding Agent extension that exposes a CLIProxyAPIPlus (VibeProxy) instance as Anthropic and OpenAI model providers.",
+  "description_zh": "Pi Coding Agent 扩展，将 CLIProxyAPIPlus (VibeProxy) 实例暴露为 Anthropic 和 OpenAI 模型提供商",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

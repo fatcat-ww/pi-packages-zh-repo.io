@@ -1,0 +1,11 @@
+{
+  "name": "@khimaros/pi-evolve",
+  "path": "/packages/@khimaros/pi-evolve",
+  "url": "https://pi.dev/packages/@khimaros/pi-evolve",
+  "types": "",
+  "type_list": [],
+  "downloads": 223,
+  "date_ms": 1781806889599,
+  "description_en": "self-modifying hook extension for pi-coding-agent -- implements the hook protocol so opencode-evolve hooks run in pi unchanged",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

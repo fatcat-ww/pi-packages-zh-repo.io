@@ -1,0 +1,11 @@
+{
+  "name": "pi-release-scribe",
+  "path": "/packages/pi-release-scribe",
+  "url": "https://pi.dev/packages/pi-release-scribe",
+  "types": "",
+  "type_list": [],
+  "downloads": 139,
+  "date_ms": 1781357779062,
+  "description_en": "Generate human-readable release notes and CI/CD release drafts for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

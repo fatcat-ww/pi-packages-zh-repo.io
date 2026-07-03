@@ -1,0 +1,11 @@
+{
+  "name": "@furbyhaxx/pi-fancy-editor",
+  "path": "/packages/@furbyhaxx/pi-fancy-editor",
+  "url": "https://pi.dev/packages/@furbyhaxx/pi-fancy-editor",
+  "types": "",
+  "type_list": [],
+  "downloads": 34,
+  "date_ms": 1778679816737,
+  "description_en": "Pi extension that replaces the input editor with a responsive status-border editor and compact footer using the active pi theme.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

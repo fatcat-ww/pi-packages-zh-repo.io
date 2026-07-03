@@ -1,0 +1,6 @@
+{
+  "name": "@aprimediet/todo",
+  "description_en": "todo_write tool + /todos command — extracted from @aprimediet/minion. Multi-step auto-create + crash-resilient resumption for the pi coding agent.",
+  "description_zh": "todo_write 工具 + /todos 命令 — 从 @aprimediet/minion 中提取。Pi 编程代理的多步自动创建 + 崩溃恢复恢复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

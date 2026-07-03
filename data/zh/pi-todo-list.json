@@ -1,0 +1,6 @@
+{
+  "name": "pi-todo-list",
+  "description_en": "Live, user-visible task list for pi. LLM tracks multi-step work via todo_update, users see real-time progress in the footer.",
+  "description_zh": "pi 的实时、用户可见的任务列表。LLM 通过 todo_update 跟踪多步骤工作，用户在页脚实时查看进度。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

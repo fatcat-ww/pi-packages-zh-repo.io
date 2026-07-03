@@ -1,0 +1,13 @@
+{
+  "name": "harpy-theme",
+  "path": "/packages/harpy-theme",
+  "url": "https://pi.dev/packages/harpy-theme",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 111,
+  "date_ms": 1780591426059,
+  "description_en": "Harpy theme for Pi — dark (harpy-noct) and light (harpy-insone) variants inspired by the Harpy eagle, apex predator of the Amazon",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

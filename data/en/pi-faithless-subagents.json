@@ -1,0 +1,11 @@
+{
+  "name": "pi-faithless-subagents",
+  "path": "/packages/pi-faithless-subagents",
+  "url": "https://pi.dev/packages/pi-faithless-subagents",
+  "types": "",
+  "type_list": [],
+  "downloads": 92,
+  "date_ms": 1776329122023,
+  "description_en": "PI-native constrained subagent orchestration library",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

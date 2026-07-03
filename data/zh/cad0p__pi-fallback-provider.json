@@ -1,0 +1,6 @@
+{
+  "name": "@cad0p/pi-fallback-provider",
+  "description_en": "Automatic model cycling when the pi agent gets stuck on errors",
+  "description_zh": "当 pi 代理在错误上卡住时自动循环模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

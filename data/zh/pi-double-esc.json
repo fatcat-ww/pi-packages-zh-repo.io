@@ -1,0 +1,6 @@
+{
+  "name": "pi-double-esc",
+  "description_en": "Prevent accidental Escape from aborting the LLM — requires double-press to interrupt while streaming",
+  "description_zh": "防止意外 Escape 中断 LLM — 流式传输时需要双击才能中断",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-dependency-safety",
+  "path": "/packages/pi-dependency-safety",
+  "url": "https://pi.dev/packages/pi-dependency-safety",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 347,
+  "date_ms": 1780956212326,
+  "description_en": "Pi skill for reviewing npm-registry dependency safety across npm, pnpm, yarn, and bun before project initialization, feature work, package additions, or package updates.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

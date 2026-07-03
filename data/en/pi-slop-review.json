@@ -1,0 +1,11 @@
+{
+  "name": "pi-slop-review",
+  "path": "/packages/pi-slop-review",
+  "url": "https://pi.dev/packages/pi-slop-review",
+  "types": "",
+  "type_list": [],
+  "downloads": 95,
+  "date_ms": 1778907829504,
+  "description_en": "Native diff review window for AI coding agents (pi, Claude Code, Codex CLI). Opens a Monaco-powered review UI in a Glimpse window so you can leave inline / file-level / overall comments on the agent's slop, then have the agent address each item. Adapted f",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

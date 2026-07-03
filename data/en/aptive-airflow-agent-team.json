@@ -1,0 +1,13 @@
+{
+  "name": "aptive-airflow-agent-team",
+  "path": "/packages/aptive-airflow-agent-team",
+  "url": "https://pi.dev/packages/aptive-airflow-agent-team",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2079,
+  "date_ms": 1781900174544,
+  "description_en": "Pi package for the Aptive Airflow sequential agent chain.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

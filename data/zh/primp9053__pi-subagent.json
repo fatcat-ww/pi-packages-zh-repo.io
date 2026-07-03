@@ -1,0 +1,6 @@
+{
+  "name": "@primp9053/pi-subagent",
+  "description_en": "Concurrent sub-agents for pi. /sub <task> opens a fork-point selector so you can pick any user message as the sub's inherited context (Enter = latest); /subn <task> spawns from latest without the selector; status line shows main/sub1/sub2; alt+s cycles su",
+  "description_zh": "pi 的并发子代理。/sub <任务> 打开分支点选择器，以便您选择任何用户消息作为子代理的继承上下文（Enter = 最新）；/subn <任务> 从最新状态启动而不使用选择器；状态栏显示 main/sub1/sub2；alt+s 循环切换",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

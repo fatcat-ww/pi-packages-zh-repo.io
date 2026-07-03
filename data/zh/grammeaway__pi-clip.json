@@ -1,0 +1,6 @@
+{
+  "name": "@grammeaway/pi-clip",
+  "description_en": "Clipboard snippet picker extension for the Pi agentic harness — /clip copies recent code blocks to the system clipboard, raw",
+  "description_zh": "Pi 代理脚手架的剪贴板代码段选择器扩展程序 — /clip 将最近的代码块复制到系统剪贴板，原始格式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

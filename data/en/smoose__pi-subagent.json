@@ -1,0 +1,11 @@
+{
+  "name": "@smoose/pi-subagent",
+  "path": "/packages/@smoose/pi-subagent",
+  "url": "https://pi.dev/packages/@smoose/pi-subagent",
+  "types": "",
+  "type_list": [],
+  "downloads": 110,
+  "date_ms": 1780381063717,
+  "description_en": "Minimal Pi subagent extension with explorer and general roles.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

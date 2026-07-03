@@ -1,0 +1,6 @@
+{
+  "name": "pi-release",
+  "description_en": "Pi-native release automation: bump version, create GitHub release, publish to npm",
+  "description_zh": "Pi 原生发布自动化：递增版本、创建 GitHub 发布、发布到 npm",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

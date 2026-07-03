@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-catch-the-fox",
+  "path": "/packages/@arvoretech/pi-catch-the-fox",
+  "url": "https://pi.dev/packages/@arvoretech/pi-catch-the-fox",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782949590249,
+  "description_en": "PI extension: uma raposa em pixel-art que reage ao que o agente está fazendo (farejando, cavando, executando, dormindo)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-sticky-input",
+  "path": "/packages/pi-sticky-input",
+  "url": "https://pi.dev/packages/pi-sticky-input",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 272,
+  "date_ms": 1783050272626,
+  "description_en": "Pi extension that keeps chat input bounded and anchored while session history updates.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@guneriu/pi-files",
+  "description_en": "Shows agent-edited files in a compact widget above the input bar, plus an on-demand interactive project tree (gitignore-aware)",
+  "description_zh": "在输入栏上方显示代理编辑的文件的紧凑小组件，以及按需交互式项目树（gitignore 感知）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

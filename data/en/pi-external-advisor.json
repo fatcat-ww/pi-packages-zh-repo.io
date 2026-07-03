@@ -1,0 +1,13 @@
+{
+  "name": "pi-external-advisor",
+  "path": "/packages/pi-external-advisor",
+  "url": "https://pi.dev/packages/pi-external-advisor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783065401230,
+  "description_en": "Pi extension that replaces pi's built-in LLM provider with an external agent CLI (Codex CLI or Claude CLI) for advisor consultation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

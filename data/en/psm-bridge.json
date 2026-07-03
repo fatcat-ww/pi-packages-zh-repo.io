@@ -1,0 +1,11 @@
+{
+  "name": "psm-bridge",
+  "path": "/packages/psm-bridge",
+  "url": "https://pi.dev/packages/psm-bridge",
+  "types": "",
+  "type_list": [],
+  "downloads": 28,
+  "date_ms": 1775971842518,
+  "description_en": "Bridge Pi agent sessions to Pi Session Manager — session sync, tagging, search, and live mode.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

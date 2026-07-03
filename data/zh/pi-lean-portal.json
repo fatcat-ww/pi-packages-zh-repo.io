@@ -1,0 +1,6 @@
+{
+  "name": "pi-lean-portal",
+  "description_en": "Pi extension. Interactive web browsing for Pi — Playwright Chromium/Firefox, accessibility-tree snapshots, profiles, cookies, guides. Owns the /web command.",
+  "description_zh": "Pi 扩展。Pi 的交互式网页浏览 — Playwright Chromium/Firefox、可访问性树快照、配置文件、Cookie 和指南。拥有 /web 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

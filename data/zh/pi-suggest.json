@@ -1,0 +1,6 @@
+{
+  "name": "pi-suggest",
+  "description_en": "LLM-generated next-step suggestions for Pi autocomplete, chips, and picker UI.",
+  "description_zh": "Pi 自动完成、芯片和选择器 UI 的 LLM 生成的下一步建议",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-lore",
+  "path": "/packages/pi-lore",
+  "url": "https://pi.dev/packages/pi-lore",
+  "types": "",
+  "type_list": [],
+  "downloads": 402,
+  "date_ms": 1782511633943,
+  "description_en": "`pi-lore` gives Pi agents GHC-aware tools for Haskell codebases. In large projects, ordinary code discovery often means reading whole files, chasing imports by hand, and filling the model context with definitions that are unrelated or already known. Lore",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

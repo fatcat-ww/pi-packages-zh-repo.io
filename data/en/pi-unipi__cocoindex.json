@@ -1,0 +1,13 @@
+{
+  "name": "@pi-unipi/cocoindex",
+  "path": "/packages/@pi-unipi/cocoindex",
+  "url": "https://pi.dev/packages/@pi-unipi/cocoindex",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1095,
+  "date_ms": 1782924691522,
+  "description_en": "CocoIndex integration for Pi — AST-aware content indexing, semantic vector search, and incremental pipeline management",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

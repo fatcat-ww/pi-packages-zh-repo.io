@@ -1,0 +1,13 @@
+{
+  "name": "@pi-unipi/command-enchantment",
+  "path": "/packages/@pi-unipi/command-enchantment",
+  "url": "https://pi.dev/packages/@pi-unipi/command-enchantment",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1171,
+  "date_ms": 1782924687013,
+  "description_en": "Enhanced TUI autocomplete for /unipi:* commands — colored, sorted, and grouped by package",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

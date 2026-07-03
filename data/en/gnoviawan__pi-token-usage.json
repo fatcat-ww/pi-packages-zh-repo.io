@@ -1,0 +1,11 @@
+{
+  "name": "@gnoviawan/pi-token-usage",
+  "path": "/packages/@gnoviawan/pi-token-usage",
+  "url": "https://pi.dev/packages/@gnoviawan/pi-token-usage",
+  "types": "",
+  "type_list": [],
+  "downloads": 88,
+  "date_ms": 1777535253409,
+  "description_en": "Displays session and project token usage across Pi sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

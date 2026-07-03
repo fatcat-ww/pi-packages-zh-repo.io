@@ -1,0 +1,11 @@
+{
+  "name": "pi-openai-instructions-provider",
+  "path": "/packages/pi-openai-instructions-provider",
+  "url": "https://pi.dev/packages/pi-openai-instructions-provider",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782967230656,
+  "description_en": "Pi provider package for OpenAI-compatible Responses APIs that sends system prompts via instructions and uses a stable prompt_cache_key.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

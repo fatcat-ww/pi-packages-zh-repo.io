@@ -1,0 +1,13 @@
+{
+  "name": "pi-theme-synthwave-84",
+  "path": "/packages/pi-theme-synthwave-84",
+  "url": "https://pi.dev/packages/pi-theme-synthwave-84",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 182,
+  "date_ms": 1778293438542,
+  "description_en": "Synthwave '84 theme for the Pi coding agent TUI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@hk_net/pi-thinking-command",
+  "description_en": "Pi extension that adds a /thinking slash command for changing reasoning level",
+  "description_zh": "添加 /thinking 斜杠命令以更改推理级别的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

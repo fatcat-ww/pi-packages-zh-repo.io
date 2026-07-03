@@ -1,0 +1,11 @@
+{
+  "name": "@wind_mask/aw-watcher-agent-pi",
+  "path": "/packages/@wind_mask/aw-watcher-agent-pi",
+  "url": "https://pi.dev/packages/@wind_mask/aw-watcher-agent-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 87,
+  "date_ms": 1779380979299,
+  "description_en": "Pi extension for ActivityWatch session tracking — records code agent sessions, models, token usage, and costs",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@gswangg/duncan-pi",
+  "path": "/packages/@gswangg/duncan-pi",
+  "url": "https://pi.dev/packages/@gswangg/duncan-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 36,
+  "date_ms": 1774820140490,
+  "description_en": "Session memory for pi — query dormant sessions, hand off context across session boundaries",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

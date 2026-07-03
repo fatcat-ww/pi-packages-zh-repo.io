@@ -1,0 +1,6 @@
+{
+  "name": "pi-non-interactive",
+  "description_en": "Prevent agent hangs on interactive commands — sets GIT_EDITOR=true, PAGER=cat, etc. for all bash executions",
+  "description_zh": "防止代理在交互式命令上挂起 — 为所有 bash 执行设置 GIT_EDITOR=true、PAGER=cat 等",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

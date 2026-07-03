@@ -1,0 +1,6 @@
+{
+  "name": "pi-mulerouter",
+  "description_en": "MuleRouter provider for Pi — auto-discovers LLM models via the MuleRouter API",
+  "description_zh": "Pi 的 MuleRouter 提供程序 — 通过 MuleRouter API 自动发现 LLM 模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

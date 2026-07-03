@@ -1,0 +1,13 @@
+{
+  "name": "@0xkobold/pi-gateway",
+  "path": "/packages/@0xkobold/pi-gateway",
+  "url": "https://pi.dev/packages/@0xkobold/pi-gateway",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 146,
+  "date_ms": 1775739816633,
+  "description_en": "Hermes-style messaging gateway for pi - multi-platform agent with sessions, security, and background tasks",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

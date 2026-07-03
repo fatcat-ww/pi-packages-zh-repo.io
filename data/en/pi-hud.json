@@ -1,0 +1,13 @@
+{
+  "name": "pi-hud",
+  "path": "/packages/pi-hud",
+  "url": "https://pi.dev/packages/pi-hud",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2902,
+  "date_ms": 1782288189403,
+  "description_en": "Persistent HUD extension for Pi showing project, context, MCP, git, and subagent status.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

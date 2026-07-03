@@ -1,0 +1,6 @@
+{
+  "name": "pi-files-touched",
+  "description_en": "Deterministic file-activity tracking for Pi sessions, covering native tools, RepoPrompt, and bash commands.  Includes /files-touched picker and a shared core for compaction/handover extensions",
+  "description_zh": "Pi 会话的确定性文件活动跟踪，涵盖原生工具、RepoPrompt 和 bash 命令。包括 /files-touched 选择器和用于压缩/交接扩展的共享核心",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

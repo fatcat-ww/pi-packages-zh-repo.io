@@ -1,0 +1,6 @@
+{
+  "name": "@fractary/pi-claude-code",
+  "description_en": "Pi extensions that shim Claude Code's tool API, letting agents, skills, and prompts built for Claude Code run in pi without modification.",
+  "description_zh": "Pi 扩展，模拟 Claude Code 的工具 API，使为 Claude Code 构建的代理、技能和提示无需修改即可在 pi 中运行。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

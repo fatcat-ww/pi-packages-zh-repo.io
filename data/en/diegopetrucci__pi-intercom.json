@@ -1,0 +1,11 @@
+{
+  "name": "@diegopetrucci/pi-intercom",
+  "path": "/packages/@diegopetrucci/pi-intercom",
+  "url": "https://pi.dev/packages/@diegopetrucci/pi-intercom",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782848924513,
+  "description_en": "Local session-to-session intercom extension for Pi coding agent and tlh workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

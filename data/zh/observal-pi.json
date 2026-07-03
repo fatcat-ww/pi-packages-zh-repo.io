@@ -1,0 +1,6 @@
+{
+  "name": "observal-pi",
+  "description_en": "Observal session telemetry for Pi — zero-dependency extension that pushes session traces to your Observal server",
+  "description_zh": "Pi 的 Observal 会话遥测 — 无依赖扩展，将会话跟踪推送到您的 Observal 服务器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

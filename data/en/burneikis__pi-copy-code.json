@@ -1,0 +1,11 @@
+{
+  "name": "@burneikis/pi-copy-code",
+  "path": "/packages/@burneikis/pi-copy-code",
+  "url": "https://pi.dev/packages/@burneikis/pi-copy-code",
+  "types": "",
+  "type_list": [],
+  "downloads": 37,
+  "date_ms": 1778794521114,
+  "description_en": "Pi coding-agent extension that copies fenced code blocks from recent assistant (and tool result) messages into the system clipboard.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

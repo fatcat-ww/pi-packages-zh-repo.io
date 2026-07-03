@@ -1,0 +1,11 @@
+{
+  "name": "pi-claude-boost",
+  "path": "/packages/pi-claude-boost",
+  "url": "https://pi.dev/packages/pi-claude-boost",
+  "types": "",
+  "type_list": [],
+  "downloads": 68,
+  "date_ms": 1773783148342,
+  "description_en": "Shows whether Claude's 2x usage boost is active right now, with countdowns in both directions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

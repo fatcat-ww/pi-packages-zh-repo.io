@@ -1,0 +1,6 @@
+{
+  "name": "pi-worktree-tui-status",
+  "description_en": "TUI-only worktree and experiment status indicator for Pi; detects agent tool paths without managing them",
+  "description_zh": "仅TUI的worktree和实验状态指示器，用于Pi；检测代理工具路径而不管理它们",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

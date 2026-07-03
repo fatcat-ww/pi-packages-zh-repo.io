@@ -1,0 +1,6 @@
+{
+  "name": "@chaotic1988/pi-subagent",
+  "description_en": "A [pi](https://github.com/mariozechner/pi) extension for delegating tasks to subagents. Each subagent runs as an in-process SDK session with its own isolated context window — ideal for parallel work, specialist prompts, or keeping noisy subtasks out of yo",
+  "description_zh": "一个 [pi](https://github.com/mariozechner/pi) 扩展，用于将任务委托给子代理。每个子代理作为具有自己独立上下文窗口的进程内 SDK 会话运行 — 适用于并行工作、专业提示或将嘈杂的子任务排除在您",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

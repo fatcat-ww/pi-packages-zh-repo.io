@@ -1,0 +1,11 @@
+{
+  "name": "@sean_pedersen/pi-codegraph",
+  "path": "/packages/@sean_pedersen/pi-codegraph",
+  "url": "https://pi.dev/packages/@sean_pedersen/pi-codegraph",
+  "types": "",
+  "type_list": [],
+  "downloads": 72,
+  "date_ms": 1779713583495,
+  "description_en": "Pi coding agent extension that wires codegraph (tree-sitter knowledge graph) as an MCP sidecar and injects usage instructions into the system prompt",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

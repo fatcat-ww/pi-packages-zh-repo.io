@@ -1,0 +1,11 @@
+{
+  "name": "pi-crofai",
+  "path": "/packages/pi-crofai",
+  "url": "https://pi.dev/packages/pi-crofai",
+  "types": "",
+  "type_list": [],
+  "downloads": 351,
+  "date_ms": 1781371380380,
+  "description_en": "CrofAI provider for Pi — self-contained, auto-discovers models, supports env var or /login paste",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "glm-vision",
+  "description_en": "Pi extension that gives non-vision GLM models (z.ai) image understanding via GLM-4.6V",
+  "description_zh": "Pi 扩展，通过 GLM-4.6V 为非视觉 GLM 模型 (z.ai) 提供图像理解能力",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

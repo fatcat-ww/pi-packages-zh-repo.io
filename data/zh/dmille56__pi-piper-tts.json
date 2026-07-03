@@ -1,0 +1,6 @@
+{
+  "name": "@dmille56/pi-piper-tts",
+  "description_en": "A Pi package that adds a /piper-tts command (and /tts alias) for speaking the latest assistant message with Piper TTS.",
+  "description_zh": "Pi 包，添加一个 /piper-tts 命令（以及 /tts 别名）用于使用 Piper TTS 朗读最新的助手消息",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

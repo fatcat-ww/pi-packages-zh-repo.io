@@ -1,0 +1,13 @@
+{
+  "name": "@ramarivera/pi-model-guardrails",
+  "path": "/packages/@ramarivera/pi-model-guardrails",
+  "url": "https://pi.dev/packages/@ramarivera/pi-model-guardrails",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1698,
+  "date_ms": 1782383386984,
+  "description_en": "Deterministic destructive-command guard + inviolable-constraint policy engine and deviation state machine for the Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

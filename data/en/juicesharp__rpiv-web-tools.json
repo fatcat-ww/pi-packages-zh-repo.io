@@ -1,0 +1,13 @@
+{
+  "name": "@juicesharp/rpiv-web-tools",
+  "path": "/packages/@juicesharp/rpiv-web-tools",
+  "url": "https://pi.dev/packages/@juicesharp/rpiv-web-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 10654,
+  "date_ms": 1781526943860,
+  "description_en": "Pi extension. Web search and fetch for the model with pluggable providers (Brave, Tavily, Serper, Exa, You.com, Jina, Firecrawl, Perplexity, SearXNG, Ollama).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "pi-prompt-control",
+  "path": "/packages/pi-prompt-control",
+  "url": "https://pi.dev/packages/pi-prompt-control",
+  "types": "extension skill prompt",
+  "type_list": [
+    "extension",
+    "skill",
+    "prompt"
+  ],
+  "downloads": 28,
+  "date_ms": 1780998419689,
+  "description_en": "Manage and minimize Pi's system prompt — config-driven patches, interactive skill toggle, and probe-based prompt capture.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

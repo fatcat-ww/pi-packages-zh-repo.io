@@ -1,0 +1,13 @@
+{
+  "name": "@davehardy20/pi-ast-grep-tools",
+  "path": "/packages/@davehardy20/pi-ast-grep-tools",
+  "url": "https://pi.dev/packages/@davehardy20/pi-ast-grep-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 31,
+  "date_ms": 1779016953231,
+  "description_en": "Pi package for structural code search and replace using AST matching via ast-grep.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

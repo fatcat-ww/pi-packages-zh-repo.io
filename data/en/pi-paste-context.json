@@ -1,0 +1,13 @@
+{
+  "name": "pi-paste-context",
+  "path": "/packages/pi-paste-context",
+  "url": "https://pi.dev/packages/pi-paste-context",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 29,
+  "date_ms": 1779691638050,
+  "description_en": "A pi extension to add coding support to any editor by using the clipboard (aka CTRL+C) for light integration. It searches the current project for the text in your clipboard, and then sends the matching file and snippet into the conversation as context, po",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

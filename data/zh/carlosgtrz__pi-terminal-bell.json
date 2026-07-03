@@ -1,0 +1,6 @@
+{
+  "name": "@carlosgtrz/pi-terminal-bell",
+  "description_en": "Pi extension that rings the terminal bell when an agent run finishes after a configurable timeout.",
+  "description_zh": "Pi 扩展，在代理运行经过可配置超时后完成时响铃终端",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-upgrade-extensions",
+  "path": "/packages/@firstpick/pi-extension-upgrade-extensions",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-upgrade-extensions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 400,
+  "date_ms": 1780954531976,
+  "description_en": "Upgrade npm-installed Pi extensions with up-to-date checks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

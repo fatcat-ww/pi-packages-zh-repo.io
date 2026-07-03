@@ -1,0 +1,6 @@
+{
+  "name": "@pi-stef/superpowers-adapter",
+  "description_en": "Bridges the superpowers skill system to pi's extension API with TodoWrite, Task, and Skill tools.",
+  "description_zh": "使用 TodoWrite、Task 和 Skill 工具将 superpowers 技能系统桥接到 pi 的扩展 API",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

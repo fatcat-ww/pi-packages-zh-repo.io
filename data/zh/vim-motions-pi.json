@@ -1,0 +1,6 @@
+{
+  "name": "vim-motions-pi",
+  "description_en": "A focused Vim-style editing layer for pi, with motions, text objects, visual selections, and clipboard sync",
+  "description_zh": "面向 pi 的专注式 Vim 风格编辑层，包含移动、文本对象、可视选择和剪贴板同步",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

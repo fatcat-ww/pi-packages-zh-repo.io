@@ -1,0 +1,11 @@
+{
+  "name": "@burneikis/pi-sticky",
+  "path": "/packages/@burneikis/pi-sticky",
+  "url": "https://pi.dev/packages/@burneikis/pi-sticky",
+  "types": "",
+  "type_list": [],
+  "downloads": 73,
+  "date_ms": 1778794795975,
+  "description_en": "Keeps the chat input and footer pinned to the bottom of the terminal while you scroll — works alongside pi-vim, pi-status, and any other extensions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

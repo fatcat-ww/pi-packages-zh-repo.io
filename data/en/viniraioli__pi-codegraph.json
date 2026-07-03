@@ -1,0 +1,11 @@
+{
+  "name": "@viniraioli/pi-codegraph",
+  "path": "/packages/@viniraioli/pi-codegraph",
+  "url": "https://pi.dev/packages/@viniraioli/pi-codegraph",
+  "types": "",
+  "type_list": [],
+  "downloads": 778,
+  "date_ms": 1782108007302,
+  "description_en": "Pi coding agent extension that wires codegraph (tree-sitter knowledge graph) as an MCP sidecar and injects usage instructions into the system prompt",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

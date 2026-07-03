@@ -1,0 +1,13 @@
+{
+  "name": "pi-chucknorris",
+  "path": "/packages/pi-chucknorris",
+  "url": "https://pi.dev/packages/pi-chucknorris",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 52,
+  "date_ms": 1776743529546,
+  "description_en": "Latency-gated Chuck Norris jokes while pi is thinking (before the first token).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

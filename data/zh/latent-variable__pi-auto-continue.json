@@ -1,0 +1,6 @@
+{
+  "name": "@latent-variable/pi-auto-continue",
+  "description_en": "Pi extension that auto-sends a 'continue' message whenever the agent stops, so local agents can run autonomous overnight research loops (autoresearch-style) without babysitting.",
+  "description_zh": "Pi 扩展，当代理停止时自动发送 '继续' 消息，因此本地代理可以自主运行过夜研究循环（autoresearch 风格）而无需看管",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

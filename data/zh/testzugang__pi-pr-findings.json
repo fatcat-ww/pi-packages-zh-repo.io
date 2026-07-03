@@ -1,0 +1,6 @@
+{
+  "name": "@testzugang/pi-pr-findings",
+  "description_en": "Fetch and group GitHub PR review findings by severity in Pi",
+  "description_zh": "在 Pi 中获取 GitHub PR 审查结果并按严重性分组",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "subagent-isolation",
+  "path": "/packages/subagent-isolation",
+  "url": "https://pi.dev/packages/subagent-isolation",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782953260568,
+  "description_en": "A pi extension that delegates tasks to a specialized subagent in an isolated pi process.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

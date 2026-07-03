@@ -1,0 +1,11 @@
+{
+  "name": "@chaotic1988/pi-subagent",
+  "path": "/packages/@chaotic1988/pi-subagent",
+  "url": "https://pi.dev/packages/@chaotic1988/pi-subagent",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782979756700,
+  "description_en": "A [pi](https://github.com/mariozechner/pi) extension for delegating tasks to subagents. Each subagent runs as an in-process SDK session with its own isolated context window — ideal for parallel work, specialist prompts, or keeping noisy subtasks out of yo",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

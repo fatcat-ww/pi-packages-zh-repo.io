@@ -1,0 +1,6 @@
+{
+  "name": "pi-lazy-loader",
+  "description_en": "Lazy-load pi-coding-agent extensions on first slash-command use. Keeps slash commands discoverable while deferring heavy module loads until activation.",
+  "description_zh": "在首次使用斜杠命令时延迟加载 pi-coding-agent 扩展。保持斜杠命令的可发现性，同时将重模块加载推迟到激活时",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

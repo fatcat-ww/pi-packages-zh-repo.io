@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-extension-archwiki-local",
+  "description_en": "Local ArchWiki search and retrieval tools for Pi using the installed arch-wiki-docs package.",
+  "description_zh": "使用已安装的 arch-wiki-docs 包的本地 ArchWiki 搜索和检索工具，用于 Pi",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

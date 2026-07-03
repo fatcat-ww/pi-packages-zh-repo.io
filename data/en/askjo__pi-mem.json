@@ -1,0 +1,13 @@
+{
+  "name": "@askjo/pi-mem",
+  "path": "/packages/@askjo/pi-mem",
+  "url": "https://pi.dev/packages/@askjo/pi-mem",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 63,
+  "date_ms": 1771450260844,
+  "description_en": "Pi coding agent extension for plain-Markdown memory system — long-term memory, daily logs, and scratchpad checklist",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

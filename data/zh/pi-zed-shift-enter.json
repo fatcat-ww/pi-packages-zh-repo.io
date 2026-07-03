@@ -1,0 +1,6 @@
+{
+  "name": "pi-zed-shift-enter",
+  "description_en": "Fixes Shift+Enter not creating newlines in pi when running inside Zed's terminal",
+  "description_zh": "在 Zed 终端内运行时修复 Shift+Enter 不在 pi 中创建新行的问题",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-reload-self",
+  "description_en": "Pi extension development helper that lets agents reload Pi and continue in-session.",
+  "description_zh": "Pi 扩展开发助手，允许代理重新加载 Pi 并继续在会话中工作。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@felipefontoura/pi-strategy",
+  "path": "/packages/@felipefontoura/pi-strategy",
+  "url": "https://pi.dev/packages/@felipefontoura/pi-strategy",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 35,
+  "date_ms": 1778854379968,
+  "description_en": "Pi Strategy skills for Pi Agent: turn ideas into market, offer, MVP, proof, messaging, and acquisition strategy.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

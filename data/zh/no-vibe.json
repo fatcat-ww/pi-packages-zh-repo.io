@@ -1,0 +1,6 @@
+{
+  "name": "no-vibe",
+  "description_en": "Tutor mode for AI coding assistants. AI shows code in chat and reviews your work, but never writes to your project files. Ships across Claude Code, OpenCode, Codex, Gemini CLI, and Pi.",
+  "description_zh": "AI 编程助教的辅导模式。AI 在聊天中显示代码并审查您的工作，但不会写入您的项目文件。适用于 Claude Code、OpenCode、Codex、Gemini CLI 和 Pi",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

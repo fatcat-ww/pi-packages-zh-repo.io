@@ -1,0 +1,11 @@
+{
+  "name": "@the-librarian/pi-extension",
+  "path": "/packages/@the-librarian/pi-extension",
+  "url": "https://pi.dev/packages/@the-librarian/pi-extension",
+  "types": "",
+  "type_list": [],
+  "downloads": 167,
+  "date_ms": 1781379982608,
+  "description_en": "Pi coding-agent package for The Librarian: the 7 memory/handoff tools + primer injection, backed by a remote Librarian MCP server.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

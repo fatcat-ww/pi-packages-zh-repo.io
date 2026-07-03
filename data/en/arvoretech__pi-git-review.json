@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-git-review",
+  "path": "/packages/@arvoretech/pi-git-review",
+  "url": "https://pi.dev/packages/@arvoretech/pi-git-review",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 403,
+  "date_ms": 1782938083263,
+  "description_en": "PI extension that opens a browser-based git diff reviewer; selected code + comments are sent to the agent in real time",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

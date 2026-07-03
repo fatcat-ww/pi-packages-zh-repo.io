@@ -1,0 +1,11 @@
+{
+  "name": "omegon-pi",
+  "path": "/packages/omegon-pi",
+  "url": "https://pi.dev/packages/omegon-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 95,
+  "date_ms": 1774053366395,
+  "description_en": "Omegon — an opinionated distribution of pi (by Mario Zechner) with extensions for lifecycle management, memory, orchestration, and visualization",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

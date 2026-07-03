@@ -1,0 +1,11 @@
+{
+  "name": "@p8n.ai/pi-listens",
+  "path": "/packages/@p8n.ai/pi-listens",
+  "url": "https://pi.dev/packages/@p8n.ai/pi-listens",
+  "types": "",
+  "type_list": [],
+  "downloads": 175,
+  "date_ms": 1778503045880,
+  "description_en": "Pi package for speech-first interaction with pluggable STT/TTS providers, defaulting to Sarvam AI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

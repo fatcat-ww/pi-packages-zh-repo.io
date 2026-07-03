@@ -1,0 +1,6 @@
+{
+  "name": "pi-scratch",
+  "description_en": "Pi extension that opens an isolated /scratch session for side-questions, so quick asks don't pollute your main thread.",
+  "description_zh": "Pi 扩展，打开一个隔离的 /scratch 会话用于侧边问题，这样快速询问不会污染您的主线程",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

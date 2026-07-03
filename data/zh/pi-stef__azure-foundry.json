@@ -1,0 +1,6 @@
+{
+  "name": "@pi-stef/azure-foundry",
+  "description_en": "Azure Foundry and Azure OpenAI deployments as native Pi providers — config-driven, JSONC support, validation",
+  "description_zh": "作为原生 Pi 提供程序的 Azure Foundry 和 Azure OpenAI 部署 — 配置驱动，支持 JSONC，验证",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

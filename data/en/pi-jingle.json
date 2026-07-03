@@ -1,0 +1,11 @@
+{
+  "name": "pi-jingle",
+  "path": "/packages/pi-jingle",
+  "url": "https://pi.dev/packages/pi-jingle",
+  "types": "",
+  "type_list": [],
+  "downloads": 61,
+  "date_ms": 1777137469205,
+  "description_en": "Play sounds on pi events like agent_start and agent_end",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

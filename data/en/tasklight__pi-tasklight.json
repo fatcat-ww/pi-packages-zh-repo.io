@@ -1,0 +1,13 @@
+{
+  "name": "@tasklight/pi-tasklight",
+  "path": "/packages/@tasklight/pi-tasklight",
+  "url": "https://pi.dev/packages/@tasklight/pi-tasklight",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 75,
+  "date_ms": 1781832097761,
+  "description_en": "Pi extension for Tasklight notifications",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@quarkos/pi-fusion",
+  "path": "/packages/@quarkos/pi-fusion",
+  "url": "https://pi.dev/packages/@quarkos/pi-fusion",
+  "types": "",
+  "type_list": [],
+  "downloads": 624,
+  "date_ms": 1782671714287,
+  "description_en": "Multi-model deliberation harness (OpenRouter Fusion pattern) for OpenCode Go",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

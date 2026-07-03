@@ -1,0 +1,13 @@
+{
+  "name": "@zigai/pi-tree",
+  "path": "/packages/@zigai/pi-tree",
+  "url": "https://pi.dev/packages/@zigai/pi-tree",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 791,
+  "date_ms": 1782833521767,
+  "description_en": "Pi package that improves /tree with timestamps and preview behavior.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

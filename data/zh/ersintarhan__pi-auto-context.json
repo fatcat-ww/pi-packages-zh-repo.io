@@ -1,0 +1,6 @@
+{
+  "name": "@ersintarhan/pi-auto-context",
+  "description_en": "Automatic context management for pi sessions: anchors, pivots, and cross-session recall — with a status line and auto-truncation of stale tool results.",
+  "description_zh": "Pi 会话的自动上下文管理：锚点、枢轴和跨会话回忆 — 带状态行和过时工具结果的自动截断。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

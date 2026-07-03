@@ -1,0 +1,6 @@
+{
+  "name": "@cleepi/git",
+  "description_en": "Cleepi git conventions: conventional-commit + branch-naming + PR-shape skills, with /commit and /pr prompts. Monorepo-aware domain and ticket-id resolution. Subject-line-only commits; no body, no footers, no Co-authored-by ever. Small modular PRs; title d",
+  "description_zh": "Cleepi git 约定：conventional-commit + branch-naming + PR-shape 技能，带有 /commit 和 /pr 提示。Monorepo 感知域和工单 ID 解析。仅主题行提交；无正文，无页脚，无 Co-authored-by。小型模块化 PR；标题 d",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

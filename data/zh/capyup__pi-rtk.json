@@ -1,0 +1,6 @@
+{
+  "name": "@capyup/pi-rtk",
+  "description_en": "pi integration for rtk (Rust Token Killer) — transparently rewrites bash tool calls to rtk equivalents for 60-90% token savings.",
+  "description_zh": "pi 与 rtk (Rust Token Killer) 的集成 — 透明地将 bash 工具调用重写为 rtk 等效项，节省 60-90% 的 token",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

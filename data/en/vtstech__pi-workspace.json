@@ -1,0 +1,13 @@
+{
+  "name": "@vtstech/pi-workspace",
+  "path": "/packages/@vtstech/pi-workspace",
+  "url": "https://pi.dev/packages/@vtstech/pi-workspace",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 90,
+  "date_ms": 1781205294136,
+  "description_en": "Workspace management extension for Pi Coding Agent - Save, load, and manage workspace state",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

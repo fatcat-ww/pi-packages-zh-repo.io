@@ -1,0 +1,13 @@
+{
+  "name": "@tintinweb/pi-subagents",
+  "path": "/packages/@tintinweb/pi-subagents",
+  "url": "https://pi.dev/packages/@tintinweb/pi-subagents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 32333,
+  "date_ms": 1782850381848,
+  "description_en": "A pi extension extension that brings smart Claude Code-style autonomous sub-agents to pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

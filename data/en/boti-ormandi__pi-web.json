@@ -1,0 +1,13 @@
+{
+  "name": "@boti-ormandi/pi-web",
+  "path": "/packages/@boti-ormandi/pi-web",
+  "url": "https://pi.dev/packages/@boti-ormandi/pi-web",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 97,
+  "date_ms": 1779027952761,
+  "description_en": "web_search and web_fetch tools for the pi coding agent. Runs on your Anthropic Claude subscription, the way Claude Code does, with more freedom.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

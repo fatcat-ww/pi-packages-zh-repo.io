@@ -1,0 +1,11 @@
+{
+  "name": "@d3ara1n/pi-usage-block",
+  "path": "/packages/@d3ara1n/pi-usage-block",
+  "url": "https://pi.dev/packages/@d3ara1n/pi-usage-block",
+  "types": "",
+  "type_list": [],
+  "downloads": 453,
+  "date_ms": 1782825378748,
+  "description_en": "Usage quota status bar block for pi — polls registered UsageProviders and displays in powerline",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

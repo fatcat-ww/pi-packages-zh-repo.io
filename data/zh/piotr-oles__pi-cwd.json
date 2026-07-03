@@ -1,0 +1,6 @@
+{
+  "name": "@piotr-oles/pi-cwd",
+  "description_en": "Pi Agent extension: remind agent to use relative paths based on current working directory",
+  "description_zh": "Pi Agent 扩展：提醒代理基于当前工作目录使用相对路径",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

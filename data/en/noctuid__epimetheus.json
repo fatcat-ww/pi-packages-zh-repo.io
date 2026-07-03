@@ -1,0 +1,13 @@
+{
+  "name": "@noctuid/epimetheus",
+  "path": "/packages/@noctuid/epimetheus",
+  "url": "https://pi.dev/packages/@noctuid/epimetheus",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 69,
+  "date_ms": 1782437843549,
+  "description_en": "Pi extension integrating Hindsight AI memory with the pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

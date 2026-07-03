@@ -1,0 +1,6 @@
+{
+  "name": "@fingerskier/pi-micropython",
+  "description_en": "MicroPython device MCP plugin for Pi with a self-bootstrapping Python server",
+  "description_zh": "Pi 的 MicroPython 设备 MCP 插件，具有自引导 Python 服务器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

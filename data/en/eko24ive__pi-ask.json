@@ -1,0 +1,11 @@
+{
+  "name": "@eko24ive/pi-ask",
+  "path": "/packages/@eko24ive/pi-ask",
+  "url": "https://pi.dev/packages/@eko24ive/pi-ask",
+  "types": "",
+  "type_list": [],
+  "downloads": 1566,
+  "date_ms": 1782139415254,
+  "description_en": "Pi package that adds an interactive ask_user clarification tool.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

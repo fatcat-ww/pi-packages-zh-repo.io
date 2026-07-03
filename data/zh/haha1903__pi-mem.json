@@ -1,0 +1,6 @@
+{
+  "name": "@haha1903/pi-mem",
+  "description_en": "Pi coding agent extension for plain-Markdown memory system — long-term memory, daily logs, and scratchpad checklist (haha1903 fork with role: user injection fix for pi-coding-agent ≥ 0.75)",
+  "description_zh": "pi 编码代理的纯 Markdown 内存系统扩展 — 长期记忆、日常日志和草稿清单检查表（haha1903 分支，针对 pi-coding-agent ≥ 0.75 的用户角色注入修复）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

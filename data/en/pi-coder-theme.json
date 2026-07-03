@@ -1,0 +1,14 @@
+{
+  "name": "pi-coder-theme",
+  "path": "/packages/pi-coder-theme",
+  "url": "https://pi.dev/packages/pi-coder-theme",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 119,
+  "date_ms": 1779074700176,
+  "description_en": "Pi Coder Theme UI suite for Pi: theme, editor chrome, and compact tool display.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

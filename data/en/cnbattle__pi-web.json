@@ -1,0 +1,11 @@
+{
+  "name": "@cnbattle/pi-web",
+  "path": "/packages/@cnbattle/pi-web",
+  "url": "https://pi.dev/packages/@cnbattle/pi-web",
+  "types": "",
+  "type_list": [],
+  "downloads": 2257,
+  "date_ms": 1782265546129,
+  "description_en": "Web UI for the pi coding agent (fork with pinned directories, tools config, and more)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

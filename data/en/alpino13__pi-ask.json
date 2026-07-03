@@ -1,0 +1,14 @@
+{
+  "name": "@alpino13/pi-ask",
+  "path": "/packages/@alpino13/pi-ask",
+  "url": "https://pi.dev/packages/@alpino13/pi-ask",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 32,
+  "date_ms": 1776625382114,
+  "description_en": "Pi package for interactive multi-question clarification flows, with a model-callable ask_questions tool and tabbed questionnaire UI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lsp-pi",
+  "path": "/packages/lsp-pi",
+  "url": "https://pi.dev/packages/lsp-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 311,
+  "date_ms": 1778966989315,
+  "description_en": "LSP extension for pi-coding-agent - provides language server tool and diagnostics feedback for Dart/Flutter, TypeScript, Vue, Svelte, Python, Go, Kotlin, Swift, Rust",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

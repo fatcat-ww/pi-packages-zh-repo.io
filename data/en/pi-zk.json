@@ -1,0 +1,11 @@
+{
+  "name": "pi-zk",
+  "path": "/packages/pi-zk",
+  "url": "https://pi.dev/packages/pi-zk",
+  "types": "",
+  "type_list": [],
+  "downloads": 220,
+  "date_ms": 1780017179169,
+  "description_en": "Pi extension exposing the zk note-taking CLI as agent-native tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

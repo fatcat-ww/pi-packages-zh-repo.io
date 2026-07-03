@@ -1,0 +1,6 @@
+{
+  "name": "pi-prompt-stash",
+  "description_en": "Git-stash for your train of thought — save prompt drafts with ctrl+s, restore with ctrl+shift+s",
+  "description_zh": "思路的 Git-stash — 使用 ctrl+s 保存提示草稿，使用 ctrl+shift+s 恢复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

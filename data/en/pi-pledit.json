@@ -1,0 +1,13 @@
+{
+  "name": "pi-pledit",
+  "path": "/packages/pi-pledit",
+  "url": "https://pi.dev/packages/pi-pledit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 89,
+  "date_ms": 1777853962132,
+  "description_en": "Plan mode and Accept-Edits mode for Pi, inspired by Claude Code.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

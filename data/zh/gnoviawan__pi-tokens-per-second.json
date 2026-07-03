@@ -1,0 +1,6 @@
+{
+  "name": "@gnoviawan/pi-tokens-per-second",
+  "description_en": "Shows rolling tokens-per-second in the Pi status bar.",
+  "description_zh": "在 Pi 状态栏中显示滚动令牌/秒",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

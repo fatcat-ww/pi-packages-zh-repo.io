@@ -1,0 +1,6 @@
+{
+  "name": "pi-rtk-rewrite",
+  "description_en": "Automatic RTK rewrite integration for Pi bash tool calls (token-efficient command output)",
+  "description_zh": "Pi bash 工具调用的自动 RTK 重写集成（高效的令牌命令输出）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

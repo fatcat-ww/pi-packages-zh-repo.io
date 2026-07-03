@@ -1,0 +1,6 @@
+{
+  "name": "@e9n/pi-kysely",
+  "description_en": "Shared Kysely database registry for pi — multi-dialect SQL with table-level RBAC",
+  "description_zh": "pi 共享的 Kysely 数据库注册表 — 多方言 SQL 与表级 RBAC",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

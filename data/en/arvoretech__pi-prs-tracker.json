@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-prs-tracker",
+  "path": "/packages/@arvoretech/pi-prs-tracker",
+  "url": "https://pi.dev/packages/@arvoretech/pi-prs-tracker",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 780,
+  "date_ms": 1782411199341,
+  "description_en": "PI extension that keeps open/recently-merged PRs pinned in the chat as a persistent widget",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

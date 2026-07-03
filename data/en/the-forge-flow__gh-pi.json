@@ -1,0 +1,13 @@
+{
+  "name": "@the-forge-flow/gh-pi",
+  "path": "/packages/@the-forge-flow/gh-pi",
+  "url": "https://pi.dev/packages/@the-forge-flow/gh-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 108,
+  "date_ms": 1776627559226,
+  "description_en": "GH-PI — PI extension for native GitHub CLI (gh) integration",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

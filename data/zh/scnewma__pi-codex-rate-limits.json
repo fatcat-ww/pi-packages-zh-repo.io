@@ -1,0 +1,6 @@
+{
+  "name": "@scnewma/pi-codex-rate-limits",
+  "description_en": "Pi extension that shows OpenAI Codex rate limit usage via /codex-rate-limits",
+  "description_zh": "Pi 扩展，通过 /codex-rate-limits 显示 OpenAI Codex 速率限制使用情况",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

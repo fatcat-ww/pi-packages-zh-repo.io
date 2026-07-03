@@ -1,0 +1,6 @@
+{
+  "name": "pi-auto-reviewer",
+  "description_en": "Auto-review bash commands before your pi agent executes them — akin to Codex Auto-review and Claude Code auto mode.",
+  "description_zh": "在 pi 代理执行前自动审查 bash 命令 — 类似于 Codex 自动审查和 Claude Code 自动模式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

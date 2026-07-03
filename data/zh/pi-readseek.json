@@ -1,0 +1,6 @@
+{
+  "name": "pi-readseek",
+  "description_en": "Pi extension for readseek-backed hash-anchored read/edit/grep, structural code maps, structural search, and file exploration",
+  "description_zh": "Pi 扩展，提供基于 readseek 的哈希锚定读取/编辑/搜索、结构化代码映射、结构化搜索和文件探索功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@arvoretech/pi-element-inspector",
+  "description_en": "PI extension that receives inspected browser elements and pastes them into the editor",
+  "description_zh": "接收检查的浏览器元素并将其粘贴到编辑器中的 PI 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-http",
+  "path": "/packages/@artale/pi-http",
+  "url": "https://pi.dev/packages/@artale/pi-http",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 64,
+  "date_ms": 1776776857920,
+  "description_en": "Quick HTTP client for API testing. /http GET url | POST url -d body",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

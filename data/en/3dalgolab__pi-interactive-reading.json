@@ -1,0 +1,11 @@
+{
+  "name": "@3dalgolab/pi-interactive-reading",
+  "path": "/packages/@3dalgolab/pi-interactive-reading",
+  "url": "https://pi.dev/packages/@3dalgolab/pi-interactive-reading",
+  "types": "",
+  "type_list": [],
+  "downloads": 127,
+  "date_ms": 1781190688872,
+  "description_en": "Section-by-section guided reading skill for pi. Breaks documents into chunks, checks comprehension, clarifies concepts, and tracks progress.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

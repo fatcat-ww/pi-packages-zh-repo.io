@@ -1,0 +1,13 @@
+{
+  "name": "@oresk/tidy-bash",
+  "path": "/packages/@oresk/tidy-bash",
+  "url": "https://pi.dev/packages/@oresk/tidy-bash",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 259,
+  "date_ms": 1782287900105,
+  "description_en": "Tidy bash output for pi — splits multi-command chains (&&, ;, ||, |) into readable lines with clean status summaries",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

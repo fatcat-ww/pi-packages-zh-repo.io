@@ -1,0 +1,13 @@
+{
+  "name": "pi-status-bar",
+  "path": "/packages/pi-status-bar",
+  "url": "https://pi.dev/packages/pi-status-bar",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 46,
+  "date_ms": 1780316517050,
+  "description_en": "Customizable status bar (footer) for pi — widgets, colors, git tracking, session stats",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

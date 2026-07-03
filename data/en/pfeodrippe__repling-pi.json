@@ -1,0 +1,13 @@
+{
+  "name": "@pfeodrippe/repling-pi",
+  "path": "/packages/@pfeodrippe/repling-pi",
+  "url": "https://pi.dev/packages/@pfeodrippe/repling-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 124,
+  "date_ms": 1777229664088,
+  "description_en": "Pi extension that runs Repling as the agent runtime/tool loop.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

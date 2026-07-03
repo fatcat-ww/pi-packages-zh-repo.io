@@ -1,0 +1,11 @@
+{
+  "name": "@wissem_hajbi/pi-nointl",
+  "path": "/packages/@wissem_hajbi/pi-nointl",
+  "url": "https://pi.dev/packages/@wissem_hajbi/pi-nointl",
+  "types": "",
+  "type_list": [],
+  "downloads": 34,
+  "date_ms": 1778674888492,
+  "description_en": "pi package for scanning Next.js projects for untranslated strings with nointl",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-mdxml-context",
+  "description_en": "Pi extension that converts Markdown context to XML-like structure at model send time",
+  "description_zh": "Pi 扩展，在模型发送时将 Markdown 上下文转换为类 XML 结构",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

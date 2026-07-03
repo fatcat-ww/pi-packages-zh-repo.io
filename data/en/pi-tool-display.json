@@ -1,0 +1,13 @@
+{
+  "name": "pi-tool-display",
+  "path": "/packages/pi-tool-display",
+  "url": "https://pi.dev/packages/pi-tool-display",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3971,
+  "date_ms": 1783050280241,
+  "description_en": "Compact tool call rendering, diff visualization, and output truncation extension for Pi coding agent. Hides, collapses, and truncates verbose tool output for cleaner TUI display.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

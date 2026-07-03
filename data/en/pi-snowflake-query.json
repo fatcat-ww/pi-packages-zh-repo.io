@@ -1,0 +1,13 @@
+{
+  "name": "pi-snowflake-query",
+  "path": "/packages/pi-snowflake-query",
+  "url": "https://pi.dev/packages/pi-snowflake-query",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 38,
+  "date_ms": 1779288341966,
+  "description_en": "Pi extension for read-only Snowflake queries via the team `claude` connection, with a specialized snowflake-analyst agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

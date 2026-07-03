@@ -1,0 +1,6 @@
+{
+  "name": "pi-cloakpipe",
+  "description_en": "Pi package that masks sensitive prompt data with CloakPipe and rehydrates assistant responses before local use.",
+  "description_zh": "Pi 包，使用 CloakPipe 掩盖敏感提示数据，并在本地使用前重新构建助手响应",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

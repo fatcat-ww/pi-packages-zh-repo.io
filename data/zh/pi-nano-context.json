@@ -1,0 +1,6 @@
+{
+  "name": "pi-nano-context",
+  "description_en": "A tiny pi.dev extension. It replaces the default context meter with a compact segmented bar under the editor so you can see what is using the window.",
+  "description_zh": "一个微小的 pi.dev 扩展。它将默认的上下文计量器替换为编辑器下方的紧凑分段条，以便您可以查看使用了窗口的哪些部分",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

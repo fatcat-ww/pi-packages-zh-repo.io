@@ -1,0 +1,6 @@
+{
+  "name": "pi-tool-display",
+  "description_en": "Compact tool call rendering, diff visualization, and output truncation extension for Pi coding agent. Hides, collapses, and truncates verbose tool output for cleaner TUI display.",
+  "description_zh": "Pi编码代理的紧凑工具调用渲染、差异可视化和输出截断扩展。为更清晰的TUI显示而隐藏、折叠和截断冗长的工具输出。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

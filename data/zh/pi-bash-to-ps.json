@@ -1,0 +1,6 @@
+{
+  "name": "pi-bash-to-ps",
+  "description_en": "pi extension that transpiles LLM-generated bash commands to PowerShell on Windows",
+  "description_zh": "pi 扩展，将 LLM 生成的 bash 命令转换为 Windows 上的 PowerShell",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

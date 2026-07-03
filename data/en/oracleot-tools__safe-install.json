@@ -1,0 +1,13 @@
+{
+  "name": "@oracleot-tools/safe-install",
+  "path": "/packages/@oracleot-tools/safe-install",
+  "url": "https://pi.dev/packages/@oracleot-tools/safe-install",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 75,
+  "date_ms": 1782465590671,
+  "description_en": "Pi slash-command package that audits npm packages before installing them with --ignore-scripts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

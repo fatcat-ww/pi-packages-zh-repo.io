@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-archwiki-local",
+  "path": "/packages/@firstpick/pi-extension-archwiki-local",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-archwiki-local",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 523,
+  "date_ms": 1780954464300,
+  "description_en": "Local ArchWiki search and retrieval tools for Pi using the installed arch-wiki-docs package.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

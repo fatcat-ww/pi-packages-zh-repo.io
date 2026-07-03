@@ -1,0 +1,13 @@
+{
+  "name": "pi-greeter",
+  "path": "/packages/pi-greeter",
+  "url": "https://pi.dev/packages/pi-greeter",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 662,
+  "date_ms": 1781198999683,
+  "description_en": "A minimal startup greeter for the Pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

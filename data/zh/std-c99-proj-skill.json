@@ -1,0 +1,6 @@
+{
+  "name": "std-c99-proj-skill",
+  "description_en": "Pi skill for pure ANSI C99 projects with memory arena, containerized builds, Valgrind, and static analysis.",
+  "description_zh": "纯 ANSI C99 项目的 Pi 技能，具有内存区域、容器化构建、Valgrind 和静态分析",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

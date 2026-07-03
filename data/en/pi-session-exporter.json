@@ -1,0 +1,13 @@
+{
+  "name": "pi-session-exporter",
+  "path": "/packages/pi-session-exporter",
+  "url": "https://pi.dev/packages/pi-session-exporter",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 28,
+  "date_ms": 1779482671234,
+  "description_en": "Export Pi session history as clean Markdown for sharing in PRs, issues, docs, and Slack",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

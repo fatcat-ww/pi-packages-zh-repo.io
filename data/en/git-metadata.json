@@ -1,0 +1,11 @@
+{
+  "name": "git-metadata",
+  "path": "/packages/git-metadata",
+  "url": "https://pi.dev/packages/git-metadata",
+  "types": "",
+  "type_list": [],
+  "downloads": 37,
+  "date_ms": 1774356878176,
+  "description_en": "Pi extension that provides git repository metadata — branch, remotes, commits, tags, status, and contributors",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

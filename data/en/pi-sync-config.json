@@ -1,0 +1,13 @@
+{
+  "name": "pi-sync-config",
+  "path": "/packages/pi-sync-config",
+  "url": "https://pi.dev/packages/pi-sync-config",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 35,
+  "date_ms": 1775539504568,
+  "description_en": "Sync your pi config (settings, extensions, themes, skills, prompts) to a remote git repository",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

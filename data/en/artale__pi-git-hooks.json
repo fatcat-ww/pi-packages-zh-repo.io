@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-git-hooks",
+  "path": "/packages/@artale/pi-git-hooks",
+  "url": "https://pi.dev/packages/@artale/pi-git-hooks",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 26,
+  "date_ms": 1772992891911,
+  "description_en": "Git hook manager. Install pre-commit, commit-msg, pre-push hooks from templates.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

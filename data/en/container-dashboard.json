@@ -1,0 +1,13 @@
+{
+  "name": "container-dashboard",
+  "path": "/packages/container-dashboard",
+  "url": "https://pi.dev/packages/container-dashboard",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 65,
+  "date_ms": 1777895430076,
+  "description_en": "A pi coding agent extension for managing Docker, Podman, and Nerdctl containers — list, logs, prune, stats, inspect, and more.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

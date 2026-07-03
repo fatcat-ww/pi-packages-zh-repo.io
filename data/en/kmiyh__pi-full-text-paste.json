@@ -1,0 +1,13 @@
+{
+  "name": "@kmiyh/pi-full-text-paste",
+  "path": "/packages/@kmiyh/pi-full-text-paste",
+  "url": "https://pi.dev/packages/@kmiyh/pi-full-text-paste",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 30,
+  "date_ms": 1776432246985,
+  "description_en": "Pi extension that keeps large pasted text expanded instead of collapsing it into [paste #...] markers.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

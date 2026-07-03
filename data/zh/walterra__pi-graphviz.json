@@ -1,0 +1,6 @@
+{
+  "name": "@walterra/pi-graphviz",
+  "description_en": "Graphviz chart extension for pi coding agent - render DOT diagrams as inline images",
+  "description_zh": "Pi 的 Graphviz 图表扩展 — 将 DOT 图表渲染为内联图像",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

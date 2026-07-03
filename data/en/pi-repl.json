@@ -1,0 +1,13 @@
+{
+  "name": "pi-repl",
+  "path": "/packages/pi-repl",
+  "url": "https://pi.dev/packages/pi-repl",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 57,
+  "date_ms": 1778320289811,
+  "description_en": "Collaborative tmux-backed REPL sessions for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@jmcombs/pi-tavily-search",
+  "path": "/packages/@jmcombs/pi-tavily-search",
+  "url": "https://pi.dev/packages/@jmcombs/pi-tavily-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 141,
+  "date_ms": 1779320000781,
+  "description_en": "Pi extension that performs real-time web search via the Tavily API.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

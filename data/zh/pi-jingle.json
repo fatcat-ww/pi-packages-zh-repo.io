@@ -1,0 +1,6 @@
+{
+  "name": "pi-jingle",
+  "description_en": "Play sounds on pi events like agent_start and agent_end",
+  "description_zh": "在 agent_start 和 agent_end 等 pi 事件上播放声音。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

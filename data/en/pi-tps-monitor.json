@@ -1,0 +1,11 @@
+{
+  "name": "pi-tps-monitor",
+  "path": "/packages/pi-tps-monitor",
+  "url": "https://pi.dev/packages/pi-tps-monitor",
+  "types": "",
+  "type_list": [],
+  "downloads": 49,
+  "date_ms": 1776787750492,
+  "description_en": "Live tokens-per-second display next to the working indicator in pi-coding-agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

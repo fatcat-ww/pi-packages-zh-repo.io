@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-verify",
+  "description_en": "Auto-verify Pi agent output. Two-agent system: builder runs, verifier checks, auto-corrects.",
+  "description_zh": "自动验证 Pi 代理输出。双代理系统：构建器运行，验证器检查，自动纠正",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

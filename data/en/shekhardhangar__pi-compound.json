@@ -1,0 +1,11 @@
+{
+  "name": "@shekhardhangar/pi-compound",
+  "path": "/packages/@shekhardhangar/pi-compound",
+  "url": "https://pi.dev/packages/@shekhardhangar/pi-compound",
+  "types": "",
+  "type_list": [],
+  "downloads": 285,
+  "date_ms": 1783076734581,
+  "description_en": "A verifier-centered, prompt-driven engineering workflow for pi: set an executable target, then an unattended verify-fix loop runs against it — on a branch, fenced by a guardrail hook, with a deterministic verifier that can't be faked or weakened.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

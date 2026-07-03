@@ -1,0 +1,13 @@
+{
+  "name": "@bytetrue/pi-subagent",
+  "path": "/packages/@bytetrue/pi-subagent",
+  "url": "https://pi.dev/packages/@bytetrue/pi-subagent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 387,
+  "date_ms": 1782210652797,
+  "description_en": "Pi extension: Claude Code-style subagents. Delegate tasks to isolated, per-agent provider/model-configurable specialists (general-purpose, explore, plan) defined as Markdown files, driven entirely through tools (no TUI required).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

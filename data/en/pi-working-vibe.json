@@ -1,0 +1,13 @@
+{
+  "name": "pi-working-vibe",
+  "path": "/packages/pi-working-vibe",
+  "url": "https://pi.dev/packages/pi-working-vibe",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 70,
+  "date_ms": 1778729023874,
+  "description_en": "Custom Working… message + tool-aware spinner for pi. Vibe files with [default] and [tool:<name>] sections; ships with mafia, hacker, pirate, zen.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

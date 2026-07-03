@@ -1,0 +1,6 @@
+{
+  "name": "@estebanforge/pi-codegraph-enhanced",
+  "description_en": "Pi-native CodeGraph tools with startup auto-indexing. Fork of @vndv/pi-codegraph that adds automatic index init/resync on every session start: creates the index when missing, incrementally syncs drift, rebuilds on corruption, and skips cleanly when anothe",
+  "description_zh": "Pi 原生 CodeGraph 工具，具有启动自动索引。从 @vndv/pi-codegraph 分叉，添加每个会话启动时的自动索引初始化/重新同步：缺失时创建索引，增量同步漂移，损坏时重建，另一个进程干净跳过时跳过",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

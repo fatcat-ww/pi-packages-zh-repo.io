@@ -1,0 +1,6 @@
+{
+  "name": "pi-omp-session-sync",
+  "description_en": "Bidirectional session sync between vanilla Pi (@earendil-works/pi-coding-agent) and OMP (@oh-my-pi/pi-coding-agent)",
+  "description_zh": "在原生 Pi (@earendil-works/pi-coding-agent) 和 OMP (@oh-my-pi/pi-coding-agent) 之间进行双向会话同步",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

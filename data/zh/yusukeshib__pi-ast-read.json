@@ -1,0 +1,6 @@
+{
+  "name": "@yusukeshib/pi-ast-read",
+  "description_en": "Semantic, token-cheap reading of large source files: outline a file's symbols, then read just the one you need.",
+  "description_zh": "大型源文件的语义、token 经济型阅读：概述文件的符号，然后只读取您需要的部分",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@thinkscape/pi-status",
+  "path": "/packages/@thinkscape/pi-status",
+  "url": "https://pi.dev/packages/@thinkscape/pi-status",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 402,
+  "date_ms": 1780021901778,
+  "description_en": "Configurable, auto-updating terminal title and Ghostty native progress bar for pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

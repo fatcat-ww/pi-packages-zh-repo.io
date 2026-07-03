@@ -1,0 +1,13 @@
+{
+  "name": "pi-edit-last-message",
+  "path": "/packages/pi-edit-last-message",
+  "url": "https://pi.dev/packages/pi-edit-last-message",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 54,
+  "date_ms": 1777525759860,
+  "description_en": "Pi extension that adds /last to restore the most recent user message into the editor",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

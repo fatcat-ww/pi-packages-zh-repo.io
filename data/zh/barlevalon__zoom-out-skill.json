@@ -1,0 +1,6 @@
+{
+  "name": "@barlevalon/zoom-out-skill",
+  "description_en": "Tell the agent to zoom out and give broader context or a higher-level perspective. Use when you're unfamiliar with a section of code or need to understand how it fits into the bigger picture.",
+  "description_zh": "告诉代理扩大视野并提供更广泛的上下文或更高层次的视角。当您不熟悉代码的某一部分或需要了解它如何融入更大的图景时使用",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

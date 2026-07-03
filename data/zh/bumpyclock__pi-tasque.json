@@ -1,0 +1,6 @@
+{
+  "name": "@bumpyclock/pi-tasque",
+  "description_en": "Pi extension package for Tasque durable tasks plus in-session todos.",
+  "description_zh": "用于 Tasque 持久任务和会话内待办事项的 pi 扩展包。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

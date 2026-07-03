@@ -1,0 +1,6 @@
+{
+  "name": "pi-rewind",
+  "description_en": "Checkpoint/rewind extension for the Pi coding agent — per-tool snapshots, /rewind command, Esc+Esc shortcut, safe restore, redo stack",
+  "description_zh": "Pi coding agent 的检查点/回退扩展 — 每工具快照、/rewind 命令、Esc+Esc 快捷键、安全恢复和重做堆栈",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

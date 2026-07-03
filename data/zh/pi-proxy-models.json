@@ -1,0 +1,6 @@
+{
+  "name": "pi-proxy-models",
+  "description_en": "Pi coding-agent extension that exposes CLIProxyAPIPlus models (Claude, Gemini, OpenAI/Codex, Copilot, Kiro, GLM, Qwen, ...) to pi's model picker, routing each family through its native streaming API (anthropic-messages, openai-completions, google-generati",
+  "description_zh": "Pi编程代理扩展，将CLIProxyAPIPlus模型（Claude、Gemini、OpenAI/Codex、Copilot、Kiro、GLM、Qwen等）暴露给pi的模型选择器，通过其原生流式API（anthropic-messages、openai-completions、google-generati）路由每个系列",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

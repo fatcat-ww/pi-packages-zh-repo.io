@@ -1,0 +1,11 @@
+{
+  "name": "pi-opa-net",
+  "path": "/packages/pi-opa-net",
+  "url": "https://pi.dev/packages/pi-opa-net",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782863061940,
+  "description_en": "OPA-backed bash command guard for the pi ecosystem — structured decision-output.v1 JSON, fail-open default, Claude Code hook protocol compatible. Agent-agnostic engine + CLI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

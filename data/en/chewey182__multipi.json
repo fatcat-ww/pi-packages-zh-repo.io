@@ -1,0 +1,11 @@
+{
+  "name": "@chewey182/multipi",
+  "path": "/packages/@chewey182/multipi",
+  "url": "https://pi.dev/packages/@chewey182/multipi",
+  "types": "",
+  "type_list": [],
+  "downloads": 141,
+  "date_ms": 1777388882778,
+  "description_en": "Multi-agent orchestration system for pi-coding-agent with subagents, web search, and URL fetching",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

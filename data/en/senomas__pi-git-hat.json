@@ -1,0 +1,13 @@
+{
+  "name": "@senomas/pi-git-hat",
+  "path": "/packages/@senomas/pi-git-hat",
+  "url": "https://pi.dev/packages/@senomas/pi-git-hat",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3431,
+  "date_ms": 1783040377997,
+  "description_en": "Pi extension for role-based Git branch workflows — wear different hats by switching branches",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

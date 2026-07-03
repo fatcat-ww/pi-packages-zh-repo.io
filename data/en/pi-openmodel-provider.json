@@ -1,0 +1,13 @@
+{
+  "name": "pi-openmodel-provider",
+  "path": "/packages/pi-openmodel-provider",
+  "url": "https://pi.dev/packages/pi-openmodel-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2878,
+  "date_ms": 1782870538437,
+  "description_en": "pi custom provider for OpenModel.ai - Multi-model AI gateway",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

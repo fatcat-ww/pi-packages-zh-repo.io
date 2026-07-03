@@ -1,0 +1,11 @@
+{
+  "name": "pi-green-loop",
+  "path": "/packages/pi-green-loop",
+  "url": "https://pi.dev/packages/pi-green-loop",
+  "types": "",
+  "type_list": [],
+  "downloads": 471,
+  "date_ms": 1781943279462,
+  "description_en": "Keep the build green: a polyglot, affected-test-scoped feedback loop for AI coding agents (Node/Python/Go/Rust/Make). Use as a CLI, an MCP server, a Claude/Cursor skill, or a pi extension.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

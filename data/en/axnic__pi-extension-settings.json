@@ -1,0 +1,13 @@
+{
+  "name": "@axnic/pi-extension-settings",
+  "path": "/packages/@axnic/pi-extension-settings",
+  "url": "https://pi.dev/packages/@axnic/pi-extension-settings",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 234,
+  "date_ms": 1776985488667,
+  "description_en": "Centralized settings panel for pi extensions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

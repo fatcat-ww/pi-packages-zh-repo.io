@@ -1,0 +1,6 @@
+{
+  "name": "@nqbao/pi-json-schema",
+  "description_en": "Pi extension for validating and writing structured JSON output against a JSON Schema.",
+  "description_zh": "用于根据 JSON Schema 验证和编写结构化 JSON 输出的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

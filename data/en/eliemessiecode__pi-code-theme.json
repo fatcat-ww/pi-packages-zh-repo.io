@@ -1,0 +1,13 @@
+{
+  "name": "@eliemessiecode/pi-code-theme",
+  "path": "/packages/@eliemessiecode/pi-code-theme",
+  "url": "https://pi.dev/packages/@eliemessiecode/pi-code-theme",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 225,
+  "date_ms": 1773778757825,
+  "description_en": "A warm, earthy dark theme for Pi coding agent with burnt orange and gold accents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

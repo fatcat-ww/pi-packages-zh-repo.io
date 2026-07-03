@@ -1,0 +1,11 @@
+{
+  "name": "@nukcole-xinluo9510/pi-write-coach",
+  "path": "/packages/@nukcole-xinluo9510/pi-write-coach",
+  "url": "https://pi.dev/packages/@nukcole-xinluo9510/pi-write-coach",
+  "types": "",
+  "type_list": [],
+  "downloads": 84,
+  "date_ms": 1781772309515,
+  "description_en": "Pi extension — coach the model to build large files incrementally, prevent truncated broken files",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

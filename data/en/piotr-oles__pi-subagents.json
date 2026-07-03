@@ -1,0 +1,11 @@
+{
+  "name": "@piotr-oles/pi-subagents",
+  "path": "/packages/@piotr-oles/pi-subagents",
+  "url": "https://pi.dev/packages/@piotr-oles/pi-subagents",
+  "types": "",
+  "type_list": [],
+  "downloads": 397,
+  "date_ms": 1782233732842,
+  "description_en": "Pi Agent extension: spawn specialized subagents with isolated sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

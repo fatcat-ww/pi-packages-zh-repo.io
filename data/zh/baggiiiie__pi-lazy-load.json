@@ -1,0 +1,6 @@
+{
+  "name": "@baggiiiie/pi-lazy-load",
+  "description_en": "Lightweight Pi extension that registers stub slash commands and loads optional extensions on demand.",
+  "description_zh": "轻量级 Pi 扩展，注册存根斜杠命令并按需加载可选扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@kaiserlich-dev/pi-session-search",
+  "path": "/packages/@kaiserlich-dev/pi-session-search",
+  "url": "https://pi.dev/packages/@kaiserlich-dev/pi-session-search",
+  "types": "",
+  "type_list": [],
+  "downloads": 332,
+  "date_ms": 1777818943333,
+  "description_en": "Full-text search across pi sessions with FTS5 index and overlay UI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

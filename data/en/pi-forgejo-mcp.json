@@ -1,0 +1,13 @@
+{
+  "name": "pi-forgejo-mcp",
+  "path": "/packages/pi-forgejo-mcp",
+  "url": "https://pi.dev/packages/pi-forgejo-mcp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 172,
+  "date_ms": 1780072463467,
+  "description_en": "Pi extension that exposes Forgejo via the official forgejo-mcp CLI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@juliusbrussee/caveman-markdown-preview",
+  "path": "/packages/@juliusbrussee/caveman-markdown-preview",
+  "url": "https://pi.dev/packages/@juliusbrussee/caveman-markdown-preview",
+  "types": "",
+  "type_list": [],
+  "downloads": 38,
+  "date_ms": 1779104311937,
+  "description_en": "Rendered markdown + LaTeX preview for caveman-code, with terminal, browser, and PDF output",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

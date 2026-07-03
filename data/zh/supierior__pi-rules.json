@@ -1,0 +1,6 @@
+{
+  "name": "@supierior/pi-rules",
+  "description_en": "Pi package for generating, injecting, and maintaining path-scoped project rules in .pi/rules.",
+  "description_zh": "Pi包，用于在.pi/rules中生成、注入和维护路径范围的项目规则",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

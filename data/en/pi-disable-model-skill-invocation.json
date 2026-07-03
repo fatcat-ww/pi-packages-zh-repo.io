@@ -1,0 +1,14 @@
+{
+  "name": "pi-disable-model-skill-invocation",
+  "path": "/packages/pi-disable-model-skill-invocation",
+  "url": "https://pi.dev/packages/pi-disable-model-skill-invocation",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 98,
+  "date_ms": 1778206359722,
+  "description_en": "Pi extension that globally hides skills from the model while preserving /skill:name.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

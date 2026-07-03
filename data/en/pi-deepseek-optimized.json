@@ -1,0 +1,11 @@
+{
+  "name": "pi-deepseek-optimized",
+  "path": "/packages/pi-deepseek-optimized",
+  "url": "https://pi.dev/packages/pi-deepseek-optimized",
+  "types": "",
+  "type_list": [],
+  "downloads": 588,
+  "date_ms": 1782079846815,
+  "description_en": "Harness techniques for DeepSeek V4 Pro on the pi coding agent (cache stability, storm-breaker, hashline editing, plan mode, rewind).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

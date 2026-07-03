@@ -1,0 +1,13 @@
+{
+  "name": "pi-rlm",
+  "path": "/packages/pi-rlm",
+  "url": "https://pi.dev/packages/pi-rlm",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 71,
+  "date_ms": 1773434588690,
+  "description_en": "Recursive Language Model (RLM) extension for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

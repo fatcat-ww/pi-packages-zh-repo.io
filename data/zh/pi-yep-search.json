@@ -1,0 +1,6 @@
+{
+  "name": "pi-yep-search",
+  "description_en": "Yep Search API extension for pi — adds a web_search tool backed by https://platform.yep.com",
+  "description_zh": "Yep Search API 扩展 for pi — 添加一个由 https://platform.yep.com 支持的 web_search 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

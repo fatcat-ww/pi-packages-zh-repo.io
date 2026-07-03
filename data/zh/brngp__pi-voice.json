@@ -1,0 +1,6 @@
+{
+  "name": "@brngp/pi-voice",
+  "description_en": "Hold-Space voice dictation extension for Pi using ffmpeg and Whisper.",
+  "description_zh": "使用 ffmpeg 和 Whisper 的按住空格语音听写扩展，用于 Pi",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

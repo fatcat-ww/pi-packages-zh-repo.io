@@ -1,0 +1,6 @@
+{
+  "name": "@robhowley/pi-merge-ready",
+  "description_en": "PR merge-readiness for Pi: status bar and slash-command status, exact PR URL targeting, blocker context, and agent repair loops.",
+  "description_zh": "Pi 的 PR 合并就绪性：状态栏和斜杠命令状态、精确的 PR URL 定向、阻塞器上下文和代理修复循环",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

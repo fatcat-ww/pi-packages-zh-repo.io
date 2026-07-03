@@ -1,0 +1,13 @@
+{
+  "name": "pi-template-kit",
+  "path": "/packages/pi-template-kit",
+  "url": "https://pi.dev/packages/pi-template-kit",
+  "types": "prompt",
+  "type_list": [
+    "prompt"
+  ],
+  "downloads": 541,
+  "date_ms": 1780607453740,
+  "description_en": "Shared LiquidJS prompt-template engine, filters, XML tag, and file loader for Pi packages.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

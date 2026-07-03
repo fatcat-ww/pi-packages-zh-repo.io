@@ -1,0 +1,6 @@
+{
+  "name": "@datadog/pi-plugin",
+  "description_en": "Use Datadog directly in the Pi coding agent through a preconfigured Datadog MCP server. Query logs, metrics, traces, dashboards, and more through natural conversation. This plugin is in preview.",
+  "description_zh": "通过预配置的 Datadog MCP 服务器直接在 Pi 编码代理中使用 Datadog。通过自然对话查询日志、指标、追踪、仪表盘等。此插件处于预览阶段。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

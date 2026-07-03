@@ -1,0 +1,13 @@
+{
+  "name": "pi-agents-local",
+  "path": "/packages/pi-agents-local",
+  "url": "https://pi.dev/packages/pi-agents-local",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 29,
+  "date_ms": 1777758019871,
+  "description_en": "Pi extension that loads AGENTS.local.md as private project instructions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

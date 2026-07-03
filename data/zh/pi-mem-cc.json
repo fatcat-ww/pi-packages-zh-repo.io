@@ -1,0 +1,6 @@
+{
+  "name": "pi-mem-cc",
+  "description_en": "Automatic observer-based memory for pi — silently compresses every tool call into searchable structured observations, injects relevant past context at session start.",
+  "description_zh": "Pi 的基于观察器的自动内存 — 将每个工具调用静默压缩为可搜索的结构化观察，在会话开始时注入相关过去上下文。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

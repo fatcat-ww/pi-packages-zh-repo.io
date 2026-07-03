@@ -1,0 +1,6 @@
+{
+  "name": "@jayjnu/pi-auto-review",
+  "description_en": "Pi package that automatically queues a read-only code review after agent code changes.",
+  "description_zh": "Pi 包，在代理代码更改后自动排队只读代码审查",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

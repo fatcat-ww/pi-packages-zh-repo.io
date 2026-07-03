@@ -1,0 +1,6 @@
+{
+  "name": "pi-skill-deck",
+  "description_en": "Two-pane categorized skill browser for Pi with bookmarks, tags, frecency tracking, source attribution, and 8 group-by modes (category, source, framework, creator, location, tag, usage, flat)",
+  "description_zh": "Pi 的双面板分类技能浏览器，具有书签、标签、频率跟踪、来源归属和 8 种分组模式（类别、来源、框架、创建者、位置、标签、使用情况、平面）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

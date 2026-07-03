@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/caveman-help-skill",
+  "path": "/packages/@barlevalon/caveman-help-skill",
+  "url": "https://pi.dev/packages/@barlevalon/caveman-help-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 89,
+  "date_ms": 1780948718648,
+  "description_en": "Quick-reference card for all caveman modes, skills, and commands. One-shot display, not a persistent mode. Trigger: /caveman-help, \"caveman help\", \"what caveman commands\", \"how do I use caveman\".",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@furkanbilgin/pi-retry",
+  "path": "/packages/@furkanbilgin/pi-retry",
+  "url": "https://pi.dev/packages/@furkanbilgin/pi-retry",
+  "types": "",
+  "type_list": [],
+  "downloads": 485,
+  "date_ms": 1781383224048,
+  "description_en": "Auto-retry Pi extension — automatically recovers from transient provider errors (400, 5xx, rate limits, connection failures) mid-conversation by sending a continuation prompt with exponential backoff",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

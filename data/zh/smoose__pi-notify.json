@@ -1,0 +1,6 @@
+{
+  "name": "@smoose/pi-notify",
+  "description_en": "Native terminal notifications for Pi when the agent is ready for input.",
+  "description_zh": "当代理准备好输入时，Pi 的原生终端通知。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

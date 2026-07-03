@@ -1,0 +1,13 @@
+{
+  "name": "@2008muyu/pi-stats-insight",
+  "path": "/packages/@2008muyu/pi-stats-insight",
+  "url": "https://pi.dev/packages/@2008muyu/pi-stats-insight",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 420,
+  "date_ms": 1780897228801,
+  "description_en": "Observability extension for pi: token/cost/cache/tool/context stats in footer + /stats command",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

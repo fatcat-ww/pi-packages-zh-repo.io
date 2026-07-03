@@ -1,0 +1,13 @@
+{
+  "name": "pi-model-auto",
+  "path": "/packages/pi-model-auto",
+  "url": "https://pi.dev/packages/pi-model-auto",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 286,
+  "date_ms": 1782392504371,
+  "description_en": "Pi extension package that routes each turn to cheap or strong authenticated models.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-web-fetch",
+  "description_en": "Pi extension: fetch web pages via headless Chrome, extract content with trafilatura, and optionally process with an LLM",
+  "description_zh": "Pi 扩展：通过无头 Chrome 获取网页，使用 trafilatura 提取内容，并可选择通过 LLM 处理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

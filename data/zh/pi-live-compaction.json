@@ -1,0 +1,6 @@
+{
+  "name": "pi-live-compaction",
+  "description_en": "Live streaming compaction for Pi — structured summaries with preset routing, Liquid templates, files-touched manifests, and a full TUI settings panel.",
+  "description_zh": "Pi 的实时流式压缩 - 具有预设路由、Liquid 模板、文件触摸清单和完整 TUI 设置面板的结构化摘要",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

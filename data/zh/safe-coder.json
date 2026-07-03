@@ -1,0 +1,6 @@
+{
+  "name": "safe-coder",
+  "description_en": "Safe Coder is a configuration package for the [`pi` coding agent](https://www.npmjs.com/package/@mariozechner/pi-coding-agent) that adds **safety guardrails** and **project-specific** extensions to reduce risky operations while you code with an AI assista",
+  "description_zh": "Safe Coder 是 [`pi` coding agent](https://www.npmjs.com/package/@mariozechner/pi-coding-agent) 的配置包，添加 **安全护栏** 和 **项目特定** 扩展，以减少在 AI 辅助编码时的风险操作",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

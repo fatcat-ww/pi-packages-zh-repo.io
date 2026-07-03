@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-i18n",
+  "path": "/packages/@artale/pi-i18n",
+  "url": "https://pi.dev/packages/@artale/pi-i18n",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 26,
+  "date_ms": 1772983875557,
+  "description_en": "i18n/localization toolkit. Scan translations, find missing keys, validate formats, extract strings. Supports JSON, YAML, .po, .xliff, Android XML, iOS .strings.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

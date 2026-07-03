@@ -1,0 +1,13 @@
+{
+  "name": "pi-codex-limit",
+  "path": "/packages/pi-codex-limit",
+  "url": "https://pi.dev/packages/pi-codex-limit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 189,
+  "date_ms": 1778554029213,
+  "description_en": "Codex subscription usage footer widget for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

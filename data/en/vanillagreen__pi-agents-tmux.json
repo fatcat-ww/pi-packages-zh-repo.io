@@ -1,0 +1,11 @@
+{
+  "name": "@vanillagreen/pi-agents-tmux",
+  "path": "/packages/@vanillagreen/pi-agents-tmux",
+  "url": "https://pi.dev/packages/@vanillagreen/pi-agents-tmux",
+  "types": "",
+  "type_list": [],
+  "downloads": 1249,
+  "date_ms": 1782966523422,
+  "description_en": "Pi extension for delegating work to project or user agents, including persistent tmux agent panes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

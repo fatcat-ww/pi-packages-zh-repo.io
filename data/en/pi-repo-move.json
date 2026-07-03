@@ -1,0 +1,13 @@
+{
+  "name": "pi-repo-move",
+  "path": "/packages/pi-repo-move",
+  "url": "https://pi.dev/packages/pi-repo-move",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 457,
+  "date_ms": 1781982251866,
+  "description_en": "Move the current repo and keep its Pi session history connected.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

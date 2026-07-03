@@ -1,0 +1,13 @@
+{
+  "name": "@rwese/pi-hooks",
+  "path": "/packages/@rwese/pi-hooks",
+  "url": "https://pi.dev/packages/@rwese/pi-hooks",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 32,
+  "date_ms": 1776838290115,
+  "description_en": "Run user-defined hooks on pi events (input, agent_end)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

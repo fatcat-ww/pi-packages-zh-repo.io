@@ -1,0 +1,6 @@
+{
+  "name": "@mjakl/pi-ooc",
+  "description_en": "Pi extension that adds /ooc for out-of-context side questions using the current session context.",
+  "description_zh": "Pi 扩展，添加 /ooc 命令用于使用当前会话上下文进行上下文外的附带问题",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

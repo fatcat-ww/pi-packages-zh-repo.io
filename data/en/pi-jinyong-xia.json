@@ -1,0 +1,14 @@
+{
+  "name": "pi-jinyong-xia",
+  "path": "/packages/pi-jinyong-xia",
+  "url": "https://pi.dev/packages/pi-jinyong-xia",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 2248,
+  "date_ms": 1781924161171,
+  "description_en": "金庸武侠终端宠物 — 25位金庸角色、32门五行武功、50个Boss、227个江湖地点、10大门派、8种职业、24天赋、56成就、100任务、MBTI性格推导、排行榜",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

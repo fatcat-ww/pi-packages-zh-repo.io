@@ -1,0 +1,13 @@
+{
+  "name": "pi-opinionated-glm",
+  "path": "/packages/pi-opinionated-glm",
+  "url": "https://pi.dev/packages/pi-opinionated-glm",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 55,
+  "date_ms": 1776066422955,
+  "description_en": "Provider-only Pi package that registers a dedicated glm provider backed by OpenCode Zen.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

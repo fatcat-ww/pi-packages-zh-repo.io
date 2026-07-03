@@ -1,0 +1,6 @@
+{
+  "name": "@harms-haus/pi-subagents",
+  "description_en": "Pi extension for spawning parallel sub-agents with live TUI windows",
+  "description_zh": "Pi 扩展，用于生成具有活动 TUI 窗口的并行子代理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

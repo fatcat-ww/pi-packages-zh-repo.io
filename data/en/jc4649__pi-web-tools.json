@@ -1,0 +1,13 @@
+{
+  "name": "@jc4649/pi-web-tools",
+  "path": "/packages/@jc4649/pi-web-tools",
+  "url": "https://pi.dev/packages/@jc4649/pi-web-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782491770506,
+  "description_en": "Web search, URL fetching, GitHub repo cloning, PDF/YouTube/video extraction for the pi coding agent. Slimmed fork of pi-web-access by Nico Bailon.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

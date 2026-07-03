@@ -1,0 +1,6 @@
+{
+  "name": "@winds-ai/pi-native-codex-web-search",
+  "description_en": "Native web search for Pi using OpenAI's Responses API via Codex backend (same as Codex CLI)",
+  "description_zh": "使用 OpenAI 的 Responses API 通过 Codex 后端（与 Codex CLI 相同）进行 Pi 原生网页搜索",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

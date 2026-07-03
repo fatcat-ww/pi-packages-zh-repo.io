@@ -1,0 +1,13 @@
+{
+  "name": "pi-scoped-models-extra-info",
+  "path": "/packages/pi-scoped-models-extra-info",
+  "url": "https://pi.dev/packages/pi-scoped-models-extra-info",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 897,
+  "date_ms": 1782068153360,
+  "description_en": "Pi coding agent extension — interactive table of your scoped models with pricing, context window, thinking levels, modalities, and coding benchmarks",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

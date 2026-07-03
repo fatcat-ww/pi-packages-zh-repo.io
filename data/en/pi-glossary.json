@@ -1,0 +1,13 @@
+{
+  "name": "pi-glossary",
+  "path": "/packages/pi-glossary",
+  "url": "https://pi.dev/packages/pi-glossary",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 27,
+  "date_ms": 1777552739425,
+  "description_en": "Pi extension that lazy-loads glossary definitions into the system prompt when prompts mention matching terms",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@haphazarddev/pi-vim-quit",
+  "description_en": "A tiny pi extension that quits when you type :q, :qa, or :wq.",
+  "description_zh": "一个微小的 pi 扩展，当您输入 :q、:qa 或 :wq 时退出",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

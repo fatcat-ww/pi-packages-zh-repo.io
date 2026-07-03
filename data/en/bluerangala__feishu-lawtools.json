@@ -1,0 +1,13 @@
+{
+  "name": "@bluerangala/feishu-lawtools",
+  "path": "/packages/@bluerangala/feishu-lawtools",
+  "url": "https://pi.dev/packages/@bluerangala/feishu-lawtools",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 258,
+  "date_ms": 1781257625792,
+  "description_en": "飞书法律工具箱 — 导入法律法规、AI划重点、AI批注解读（基于lark-cli）",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

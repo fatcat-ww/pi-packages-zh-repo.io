@@ -1,0 +1,6 @@
+{
+  "name": "@sherif-fanous/pi-rtk",
+  "description_en": "Pi extension that routes bash commands through rtk (Rust Token Killer) for LLM token savings",
+  "description_zh": "Pi 扩展，通过 rtk (Rust Token Killer) 路由 bash 命令，以节省 LLM token",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

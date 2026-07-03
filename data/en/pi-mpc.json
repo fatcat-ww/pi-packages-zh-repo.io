@@ -1,0 +1,13 @@
+{
+  "name": "pi-mpc",
+  "path": "/packages/pi-mpc",
+  "url": "https://pi.dev/packages/pi-mpc",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 39,
+  "date_ms": 1776827144876,
+  "description_en": "MPC (Mental Preview & Correction) extension for pi coding agent — rehearse and verify before any code is written",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

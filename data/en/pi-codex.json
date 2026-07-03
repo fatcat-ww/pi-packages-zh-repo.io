@@ -1,0 +1,13 @@
+{
+  "name": "pi-codex",
+  "path": "/packages/pi-codex",
+  "url": "https://pi.dev/packages/pi-codex",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 181,
+  "date_ms": 1777591502089,
+  "description_en": "Use Codex from pi-coding-agent to review code or delegate tasks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

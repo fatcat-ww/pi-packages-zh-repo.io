@@ -1,0 +1,13 @@
+{
+  "name": "@adityaaria/spark",
+  "path": "/packages/@adityaaria/spark",
+  "url": "https://pi.dev/packages/@adityaaria/spark",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 0,
+  "date_ms": 1783043391718,
+  "description_en": "SPARK skills and runtime bootstrap for coding agents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

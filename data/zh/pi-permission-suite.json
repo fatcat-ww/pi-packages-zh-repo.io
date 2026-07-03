@@ -1,0 +1,6 @@
+{
+  "name": "pi-permission-suite",
+  "description_en": "Four approval modes + command-level security restrictions for the Pi coding agent. Act / Auto / Ask / Plan mode switching, rule engine, subagent auto-approval.",
+  "description_zh": "Pi 编码代理的四种批准模式 + 命令级安全限制。执行/自动/询问/计划模式切换、规则引擎、子代理自动批准。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

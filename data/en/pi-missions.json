@@ -1,0 +1,11 @@
+{
+  "name": "pi-missions",
+  "path": "/packages/pi-missions",
+  "url": "https://pi.dev/packages/pi-missions",
+  "types": "",
+  "type_list": [],
+  "downloads": 95,
+  "date_ms": 1775210875377,
+  "description_en": "Orchestrated multi-phase development missions for pi — architect, implement, test, audit, verify",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

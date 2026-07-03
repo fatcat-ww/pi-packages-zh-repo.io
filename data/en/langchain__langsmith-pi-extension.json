@@ -1,0 +1,11 @@
+{
+  "name": "@langchain/langsmith-pi-extension",
+  "path": "/packages/@langchain/langsmith-pi-extension",
+  "url": "https://pi.dev/packages/@langchain/langsmith-pi-extension",
+  "types": "",
+  "type_list": [],
+  "downloads": 336,
+  "date_ms": 1780976815573,
+  "description_en": "LangSmith extension for Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

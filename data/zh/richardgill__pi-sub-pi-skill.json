@@ -1,0 +1,6 @@
+{
+  "name": "@richardgill/pi-sub-pi-skill",
+  "description_en": "Route `/skill:` commands and skill file reads to the `sub-pi` tool when the skill frontmatter opts in.",
+  "description_zh": "当技能前言选择加入时，将 `/skill:` 命令和技能文件读取路由到 `sub-pi` 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@senad-d/commitme",
+  "description_en": "Pi extension that gathers git diff and project context to draft or create clear Conventional Commit messages.",
+  "description_zh": "Pi 扩展，收集 git diff 和项目上下文以草拟或创建清晰的约定式提交消息。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

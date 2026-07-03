@@ -1,0 +1,13 @@
+{
+  "name": "@xiaoso/pi-plugin-windows-notify",
+  "path": "/packages/@xiaoso/pi-plugin-windows-notify",
+  "url": "https://pi.dev/packages/@xiaoso/pi-plugin-windows-notify",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 64,
+  "date_ms": 1779453942464,
+  "description_en": "Pi Windows notification plugin - sends notifications on task completion and user confirmation needed, with AFK mode to notify only when away from window",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

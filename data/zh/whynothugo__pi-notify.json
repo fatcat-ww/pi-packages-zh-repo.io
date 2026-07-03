@@ -1,0 +1,6 @@
+{
+  "name": "@whynothugo/pi-notify",
+  "description_en": "Pi extension to emit a terminal bell when the agent ends its turn.",
+  "description_zh": "Pi 扩展，在代理完成其回合时发出终端铃声",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

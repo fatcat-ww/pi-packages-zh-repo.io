@@ -1,0 +1,6 @@
+{
+  "name": "@oleg_tarasov/pi-compaction-fix",
+  "description_en": "Pi extension that waits for overflow auto-compaction retry before headless prompt completion.",
+  "description_zh": "Pi 扩展，在无头提示完成之前等待溢出自动压缩重试",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

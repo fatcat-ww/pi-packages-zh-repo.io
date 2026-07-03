@@ -1,0 +1,14 @@
+{
+  "name": "pi-vault-mind",
+  "path": "/packages/pi-vault-mind",
+  "url": "https://pi.dev/packages/pi-vault-mind",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 4604,
+  "date_ms": 1782709573370,
+  "description_en": "Passive Obsidian vault extension for pi. Watches @agent markers, dispatches forked subagents (Miner, Broadcaster, Heavy-Lifter), stores in LanceDB with vector + FTS + graph. Multi-agent 'Drop & Forget' workflow for the pi agent ecosystem.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

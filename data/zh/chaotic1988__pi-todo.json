@@ -1,0 +1,6 @@
+{
+  "name": "@chaotic1988/pi-todo",
+  "description_en": "A [pi](https://github.com/mariozechner/pi) extension that gives the LLM persistent, file-based todo tracking. Create, update, list, and delete todos that survive across sessions, terminal windows, and reboots.",
+  "description_zh": "一个 [pi](https://github.com/mariozechner/pi) 扩展，为 LLM 提供持久化的基于文件的待办事项跟踪。创建、更新、列出和删除在会话、终端窗口和重启后仍然存在的待办事项。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

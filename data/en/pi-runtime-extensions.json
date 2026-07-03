@@ -1,0 +1,13 @@
+{
+  "name": "pi-runtime-extensions",
+  "path": "/packages/pi-runtime-extensions",
+  "url": "https://pi.dev/packages/pi-runtime-extensions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 87,
+  "date_ms": 1776049506429,
+  "description_en": "Dynamically load/unload extensions at runtime (inside session) for Pi Coding Agent with /ext:load, /ext:list, and /ext:unload commands.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

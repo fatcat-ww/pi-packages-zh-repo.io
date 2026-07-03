@@ -1,0 +1,13 @@
+{
+  "name": "@the-forge-flow/security-harness-pi",
+  "path": "/packages/@the-forge-flow/security-harness-pi",
+  "url": "https://pi.dev/packages/@the-forge-flow/security-harness-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 70,
+  "date_ms": 1778795076304,
+  "description_en": "Security harness for the PI coding agent — forbids dangerous commands and gates sensitive ones behind user approval",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

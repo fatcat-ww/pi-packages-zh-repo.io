@@ -1,0 +1,6 @@
+{
+  "name": "@pi-vault/pi-dcp",
+  "description_en": "Pi extension for dynamic context pruning — incremental tool output pruning and conversation compression",
+  "description_zh": "用于动态上下文修剪的 Pi 扩展 — 增量工具输出修剪和对话压缩",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

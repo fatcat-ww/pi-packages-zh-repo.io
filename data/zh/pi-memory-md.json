@@ -1,0 +1,6 @@
+{
+  "name": "pi-memory-md",
+  "description_en": "Letta-like memory management for pi using structured markdown files in a git repository",
+  "description_zh": "使用 git 仓库中的结构化 markdown 文件实现类似 Letta 的内存管理，用于 pi",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

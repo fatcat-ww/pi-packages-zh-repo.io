@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-spec-vs-impl-checker",
+  "description_en": "Agents should invoke this skill when a spec, plan, README, issue, or requirement must be verified against implementation. Traces requirements to code, checks interface contracts, and reports gaps or mismatches.",
+  "description_zh": "代理应在规范、计划、README、问题或需求必须与实现验证时调用此技能。将需求追踪到代码，检查接口契约，并报告差距或不匹配",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

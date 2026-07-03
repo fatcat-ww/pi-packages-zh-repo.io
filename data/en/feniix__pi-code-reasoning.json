@@ -1,0 +1,13 @@
+{
+  "name": "@feniix/pi-code-reasoning",
+  "path": "/packages/@feniix/pi-code-reasoning",
+  "url": "https://pi.dev/packages/@feniix/pi-code-reasoning",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 289,
+  "date_ms": 1779940550453,
+  "description_en": "Code Reasoning tools for pi and MCP — reflective sequential thinking with branching and revision support",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

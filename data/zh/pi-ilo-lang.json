@@ -1,0 +1,6 @@
+{
+  "name": "pi-ilo-lang",
+  "description_en": "Pi extension for the ilo programming language: run programs, hold an interactive ilo serv session, and load the ilo skill so the agent knows the syntax.",
+  "description_zh": "ilo 编程语言的 Pi 扩展：运行程序，保持交互式 ilo serv 会话，并加载 ilo 技能使代理了解语法。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-constell-tasks",
+  "path": "/packages/pi-constell-tasks",
+  "url": "https://pi.dev/packages/pi-constell-tasks",
+  "types": "",
+  "type_list": [],
+  "downloads": 27,
+  "date_ms": 1776143490162,
+  "description_en": "Companion pi extension for native workspace tasks, manual /tasks control, and cross-instance implementation pickup.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

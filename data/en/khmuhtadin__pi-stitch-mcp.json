@@ -1,0 +1,13 @@
+{
+  "name": "@khmuhtadin/pi-stitch-mcp",
+  "path": "/packages/@khmuhtadin/pi-stitch-mcp",
+  "url": "https://pi.dev/packages/@khmuhtadin/pi-stitch-mcp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 75,
+  "date_ms": 1782110662568,
+  "description_en": "Pi extension that bridges pi to the Google Stitch remote MCP server. Design-to-code: generate Flutter, React, SwiftUI components from Figma designs.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

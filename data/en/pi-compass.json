@@ -1,0 +1,13 @@
+{
+  "name": "pi-compass",
+  "path": "/packages/pi-compass",
+  "url": "https://pi.dev/packages/pi-compass",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 92,
+  "date_ms": 1778755209971,
+  "description_en": "A Pi extension that generates structured codebase maps and interactive code tours for agent onboarding.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

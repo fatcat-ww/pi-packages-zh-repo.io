@@ -1,0 +1,14 @@
+{
+  "name": "@kmiyh/pi-skills-menu",
+  "path": "/packages/@kmiyh/pi-skills-menu",
+  "url": "https://pi.dev/packages/@kmiyh/pi-skills-menu",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 111,
+  "date_ms": 1776251733284,
+  "description_en": "Pi extension that moves skills into a dedicated /skills menu with browsing, preview, editing, and AI-assisted creation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

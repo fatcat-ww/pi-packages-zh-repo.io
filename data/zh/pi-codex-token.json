@@ -1,0 +1,6 @@
+{
+  "name": "pi-codex-token",
+  "description_en": "pi provider plugin: use gpt-5.5 on the OpenAI Codex backend via a personal access token (PAT), non-interactively.",
+  "description_zh": "pi 提供程序插件：通过个人访问令牌 (PAT) 在 OpenAI Codex 后端上非交互式使用 gpt-5.5",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

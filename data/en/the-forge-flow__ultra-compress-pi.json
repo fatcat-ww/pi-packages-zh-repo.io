@@ -1,0 +1,13 @@
+{
+  "name": "@the-forge-flow/ultra-compress-pi",
+  "path": "/packages/@the-forge-flow/ultra-compress-pi",
+  "url": "https://pi.dev/packages/@the-forge-flow/ultra-compress-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 111,
+  "date_ms": 1778864274141,
+  "description_en": "PI extension for token-efficient prose — level-based runtime output compression and markdown file compression",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-plan-mode",
+  "path": "/packages/pi-plan-mode",
+  "url": "https://pi.dev/packages/pi-plan-mode",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 305,
+  "date_ms": 1775276827777,
+  "description_en": "Plan mode extension for pi - read-only exploration with plan file editing",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

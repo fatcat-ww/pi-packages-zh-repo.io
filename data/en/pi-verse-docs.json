@@ -1,0 +1,11 @@
+{
+  "name": "pi-verse-docs",
+  "path": "/packages/pi-verse-docs",
+  "url": "https://pi.dev/packages/pi-verse-docs",
+  "types": "",
+  "type_list": [],
+  "downloads": 230,
+  "date_ms": 1780622869795,
+  "description_en": "Pi extension for on-demand Verse / UEFN docs lookup via verse-mcp.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

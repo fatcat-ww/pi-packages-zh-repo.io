@@ -1,0 +1,13 @@
+{
+  "name": "@pi-unipi/milestone",
+  "path": "/packages/@pi-unipi/milestone",
+  "url": "https://pi.dev/packages/@pi-unipi/milestone",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1203,
+  "date_ms": 1782924711673,
+  "description_en": "Lifecycle layer for project-level goals — MILESTONES.md tracking, session hooks, auto-sync",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

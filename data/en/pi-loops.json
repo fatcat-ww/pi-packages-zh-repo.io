@@ -1,0 +1,11 @@
+{
+  "name": "pi-loops",
+  "path": "/packages/pi-loops",
+  "url": "https://pi.dev/packages/pi-loops",
+  "types": "",
+  "type_list": [],
+  "downloads": 122,
+  "date_ms": 1782433797478,
+  "description_en": "Repeat-send a prompt to the pi agent on a fixed interval. Each repeat arrives as a user message with a Loop header (created time / repeat count / user task). Adds /loop commands and a loop tool.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-scaffold",
+  "description_en": "Generate new pi extension projects from a template. /scaffold my-extension 'Description here'",
+  "description_zh": "从模板生成新的 pi 扩展项目。/scaffold my-extension '描述在这里'",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

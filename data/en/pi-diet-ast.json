@@ -1,0 +1,13 @@
+{
+  "name": "pi-diet-ast",
+  "path": "/packages/pi-diet-ast",
+  "url": "https://pi.dev/packages/pi-diet-ast",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 598,
+  "date_ms": 1781982232225,
+  "description_en": "On-demand ast-grep structural search and replacement tools for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

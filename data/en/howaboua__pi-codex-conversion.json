@@ -1,0 +1,13 @@
+{
+  "name": "@howaboua/pi-codex-conversion",
+  "path": "/packages/@howaboua/pi-codex-conversion",
+  "url": "https://pi.dev/packages/@howaboua/pi-codex-conversion",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 5577,
+  "date_ms": 1782247895503,
+  "description_en": "Codex-oriented tool and prompt adapter for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

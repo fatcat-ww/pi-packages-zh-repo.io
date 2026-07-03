@@ -1,0 +1,13 @@
+{
+  "name": "pi-spec",
+  "path": "/packages/pi-spec",
+  "url": "https://pi.dev/packages/pi-spec",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 14,
+  "date_ms": 1777309171052,
+  "description_en": "Spec-driven development extension and resource package for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

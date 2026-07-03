@@ -1,0 +1,6 @@
+{
+  "name": "@gtheys/pi-per-commit-spend",
+  "description_en": "Pi extension that tracks AI spend per git commit across sessions",
+  "description_zh": "Pi 扩展，跟踪跨会话的每次 git 提交的 AI 花费",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

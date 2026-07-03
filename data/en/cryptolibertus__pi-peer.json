@@ -1,0 +1,13 @@
+{
+  "name": "@cryptolibertus/pi-peer",
+  "path": "/packages/@cryptolibertus/pi-peer",
+  "url": "https://pi.dev/packages/@cryptolibertus/pi-peer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 738,
+  "date_ms": 1780010097486,
+  "description_en": "Pi package for local Pi-to-Pi peer messaging, slash commands, tools, and runtime transport.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

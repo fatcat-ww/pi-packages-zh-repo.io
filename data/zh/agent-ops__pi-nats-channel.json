@@ -1,0 +1,6 @@
+{
+  "name": "@agent-ops/pi-nats-channel",
+  "description_en": "Synadia Agent Protocol for NATS channel for PI Agent. Makes every PI session a discoverable, spec-compliant agent on NATS.",
+  "description_zh": "PI Agent 的 NATS 通道的 Synadia Agent Protocol。使每个 PI 会话成为 NATS 上可发现、符合规范的代理。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

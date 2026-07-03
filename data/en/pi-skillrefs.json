@@ -1,0 +1,14 @@
+{
+  "name": "pi-skillrefs",
+  "path": "/packages/pi-skillrefs",
+  "url": "https://pi.dev/packages/pi-skillrefs",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 75,
+  "date_ms": 1778941730443,
+  "description_en": "Pi extension package that autocompletes $skill refs and injects referenced skill bodies as visible environment context.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

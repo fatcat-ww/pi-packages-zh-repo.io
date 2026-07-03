@@ -1,0 +1,13 @@
+{
+  "name": "@tanvesh01/pierre-diffs",
+  "path": "/packages/@tanvesh01/pierre-diffs",
+  "url": "https://pi.dev/packages/@tanvesh01/pierre-diffs",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 66,
+  "date_ms": 1775565153558,
+  "description_en": "Pierre-themed inline diff renderer for Pi edit and write tool results.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-codegraph-fix",
+  "description_en": "Pi coding agent extension that wires codegraph as an MCP sidecar — with ctx.cwd fix for cross-project sessions",
+  "description_zh": "Pi 编码代理扩展，将 codegraph 作为 MCP sidecar 连接 — 包含跨项目会话的 ctx.cwd 修复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "@tarmo-randma/pi-ephemeral",
+  "path": "/packages/@tarmo-randma/pi-ephemeral",
+  "url": "https://pi.dev/packages/@tarmo-randma/pi-ephemeral",
+  "types": "extension skill theme prompt",
+  "type_list": [
+    "extension",
+    "skill",
+    "theme",
+    "prompt"
+  ],
+  "downloads": 102,
+  "date_ms": 1781370739135,
+  "description_en": "Make Pi resources optional and context-activated",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

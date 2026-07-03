@@ -1,0 +1,6 @@
+{
+  "name": "@richardgill/pi-extra-context-files",
+  "description_en": "pi extension for loading extra context files into the system prompt.",
+  "description_zh": "pi 扩展，用于将额外上下文文件加载到系统提示中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-omni-compact",
+  "path": "/packages/pi-omni-compact",
+  "url": "https://pi.dev/packages/pi-omni-compact",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 29,
+  "date_ms": 1772518259433,
+  "description_en": "Pi extension that delegates compaction to a large-context model subprocess",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

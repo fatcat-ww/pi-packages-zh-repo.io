@@ -1,0 +1,11 @@
+{
+  "name": "@fingerskier/pi-mozart",
+  "path": "/packages/@fingerskier/pi-mozart",
+  "url": "https://pi.dev/packages/@fingerskier/pi-mozart",
+  "types": "",
+  "type_list": [],
+  "downloads": 57,
+  "date_ms": 1778191304263,
+  "description_en": "Mozart MIDI plugin for Pi, bridged from mozart-claude-plugin MCP",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

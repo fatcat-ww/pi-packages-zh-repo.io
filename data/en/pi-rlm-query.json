@@ -1,0 +1,11 @@
+{
+  "name": "pi-rlm-query",
+  "path": "/packages/pi-rlm-query",
+  "url": "https://pi.dev/packages/pi-rlm-query",
+  "types": "",
+  "type_list": [],
+  "downloads": 54,
+  "date_ms": 1774257385067,
+  "description_en": "Recursive LLM Query extension for pi - enables agent-to-agent delegation with guardrails",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

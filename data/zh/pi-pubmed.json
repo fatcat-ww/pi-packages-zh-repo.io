@@ -1,0 +1,6 @@
+{
+  "name": "pi-pubmed",
+  "description_en": "Search PubMed and fetch article abstracts directly from Pi using NCBI E-utilities",
+  "description_zh": "使用 NCBI E-utilities 直接从 Pi 搜索 PubMed 并获取文章摘要",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

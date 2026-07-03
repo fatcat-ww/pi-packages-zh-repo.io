@@ -1,0 +1,11 @@
+{
+  "name": "pi-editor",
+  "path": "/packages/pi-editor",
+  "url": "https://pi.dev/packages/pi-editor",
+  "types": "",
+  "type_list": [],
+  "downloads": 25,
+  "date_ms": 1772817478275,
+  "description_en": "Pi extension to open files in your preferred editor ($VISUAL / $EDITOR)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

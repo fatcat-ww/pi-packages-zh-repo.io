@@ -1,0 +1,13 @@
+{
+  "name": "pi-permission-layers",
+  "path": "/packages/pi-permission-layers",
+  "url": "https://pi.dev/packages/pi-permission-layers",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 674,
+  "date_ms": 1781325215065,
+  "description_en": "Pi extension to handle permissions using a layered approach",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@d3ara1n/pi-subagent",
+  "path": "/packages/@d3ara1n/pi-subagent",
+  "url": "https://pi.dev/packages/@d3ara1n/pi-subagent",
+  "types": "",
+  "type_list": [],
+  "downloads": 1339,
+  "date_ms": 1783080821489,
+  "description_en": "Role-based subagent orchestration for pi — delegates tasks to specialized pi child processes with configurable model roles",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

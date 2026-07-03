@@ -1,0 +1,6 @@
+{
+  "name": "@howaboua/pi-glm-via-anthropic",
+  "description_en": "Use Z.ai GLM models in pi through Z.ai's Anthropic-compatible endpoint.",
+  "description_zh": "通过 Z.ai 的 Anthropic 兼容端点在 pi 中使用 Z.ai GLM 模型。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

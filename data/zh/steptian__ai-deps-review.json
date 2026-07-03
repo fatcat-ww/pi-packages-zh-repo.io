@@ -1,0 +1,6 @@
+{
+  "name": "@steptian/ai-deps-review",
+  "description_en": "AI agent toolchain dependency version checker for Pi. Scans Pi Coding Agent, Claude Code, Codex, Pi Packages and extensions for updates, compares versions, and evaluates update necessity. Trigger: check deps, dependency update, version check, review deps.",
+  "description_zh": "Pi 的 AI 代理工具链依赖版本检查器。扫描 Pi 编码代理、Claude Code、Codex、Pi 包和扩展的更新，比较版本并评估更新必要性。触发器：检查依赖项、依赖更新、版本检查、审查依赖项。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

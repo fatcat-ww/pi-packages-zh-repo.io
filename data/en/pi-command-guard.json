@@ -1,0 +1,13 @@
+{
+  "name": "pi-command-guard",
+  "path": "/packages/pi-command-guard",
+  "url": "https://pi.dev/packages/pi-command-guard",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 316,
+  "date_ms": 1781369484718,
+  "description_en": "A pi extension that intercepts potentially dangerous bash commands and prompts for confirmation before execution",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

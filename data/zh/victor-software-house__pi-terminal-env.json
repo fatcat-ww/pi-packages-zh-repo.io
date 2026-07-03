@@ -1,0 +1,6 @@
+{
+  "name": "@victor-software-house/pi-terminal-env",
+  "description_en": "Tiny zero-dep helpers to detect the terminal emulator pi is running in (iTerm2, tmux, etc.). Pure env-var probes, no I/O.",
+  "description_zh": "检测 pi 正在运行的终端模拟器（iTerm2、tmux 等）的零依赖微型助手。纯环境变量探测，无 I/O",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

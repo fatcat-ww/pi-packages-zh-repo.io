@@ -1,0 +1,6 @@
+{
+  "name": "@bytesbrains/pi-textbrowser",
+  "description_en": "Headless browser for Pi — browse the web with DOM + OCR text maps. No image tokens, 10-50x cheaper than screenshot-based browsing.",
+  "description_zh": "Pi 的无头浏览器 - 使用 DOM + OCR 文本地图浏览网页。无需图像 token，比基于截图的浏览便宜 10-50 倍",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@danchamorro/pi-subagents",
+  "description_en": "In-process background sub-agents for Pi with role prompts, feedback handoff, and compact status visibility",
+  "description_zh": "Pi 的进程内后台子代理，具有角色提示、反馈交接和紧凑状态可见性",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

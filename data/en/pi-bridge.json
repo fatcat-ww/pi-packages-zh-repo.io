@@ -1,0 +1,11 @@
+{
+  "name": "pi-bridge",
+  "path": "/packages/pi-bridge",
+  "url": "https://pi.dev/packages/pi-bridge",
+  "types": "",
+  "type_list": [],
+  "downloads": 167,
+  "date_ms": 1782858159895,
+  "description_en": "Transparent filesystem bridge that makes pi run natively on a remote machine over SSH",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

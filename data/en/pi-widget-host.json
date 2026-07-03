@@ -1,0 +1,13 @@
+{
+  "name": "pi-widget-host",
+  "path": "/packages/pi-widget-host",
+  "url": "https://pi.dev/packages/pi-widget-host",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 334,
+  "date_ms": 1782418516503,
+  "description_en": "Host package for managing one shared Pi widget slot across multiple providers with preset policies and a built-in demo provider.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

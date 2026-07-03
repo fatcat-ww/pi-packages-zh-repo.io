@@ -1,0 +1,13 @@
+{
+  "name": "pi-multi-auth",
+  "path": "/packages/pi-multi-auth",
+  "url": "https://pi.dev/packages/pi-multi-auth",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 399,
+  "date_ms": 1780310901809,
+  "description_en": "Pi extension for multi-provider credential management, OAuth login, and account rotation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-gemini-oauth-apikey",
+  "description_en": "Multi-account Google Gemini (Cloud Code Assist OAuth) rotation pool for pi — register N accounts, auto-rotate on 429. Depends on @qraxiss/pi-gemini-auth for the OAuth/provider implementation.",
+  "description_zh": "pi 的多账户 Google Gemini（Cloud Code Assist OAuth）轮换池 — 注册 N 个账户，在 429 时自动轮换。依赖于 @qraxiss/pi-gemini-auth 进行 OAuth/提供者实现。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

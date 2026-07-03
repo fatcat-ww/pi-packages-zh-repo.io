@@ -1,0 +1,11 @@
+{
+  "name": "pi-agent-switcher",
+  "path": "/packages/pi-agent-switcher",
+  "url": "https://pi.dev/packages/pi-agent-switcher",
+  "types": "",
+  "type_list": [],
+  "downloads": 645,
+  "date_ms": 1782283513532,
+  "description_en": "Pi extension for user-controlled agent role switching with markdown-defined agents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

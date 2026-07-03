@@ -1,0 +1,13 @@
+{
+  "name": "pi-thinking-box",
+  "path": "/packages/pi-thinking-box",
+  "url": "https://pi.dev/packages/pi-thinking-box",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 478,
+  "date_ms": 1782306495479,
+  "description_en": "Wrap Pi agent thinking blocks in a styled background box.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

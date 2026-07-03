@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-extension-workflows",
+  "path": "/packages/@firstpick/pi-extension-workflows",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-workflows",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 635,
+  "date_ms": 1782597432744,
+  "description_en": "Minimal modular workflow runtime extension for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

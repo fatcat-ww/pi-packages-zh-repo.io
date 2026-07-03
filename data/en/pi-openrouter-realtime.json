@@ -1,0 +1,13 @@
+{
+  "name": "pi-openrouter-realtime",
+  "path": "/packages/pi-openrouter-realtime",
+  "url": "https://pi.dev/packages/pi-openrouter-realtime",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 317,
+  "date_ms": 1779296072681,
+  "description_en": "OpenRouter extension for pi — real-time model sync, provider/quantization enrichment, endpoint health, credit balance, and interactive model picker",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

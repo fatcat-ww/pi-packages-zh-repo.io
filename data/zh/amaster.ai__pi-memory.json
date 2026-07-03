@@ -1,0 +1,6 @@
+{
+  "name": "@amaster.ai/pi-memory",
+  "description_en": "Pi extension providing persistent curated memory (MEMORY.md + USER.md) injected into the system prompt as a frozen snapshot.",
+  "description_zh": "Pi扩展，提供持久性精选记忆（MEMORY.md + USER.md），作为冻结快照注入系统提示。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

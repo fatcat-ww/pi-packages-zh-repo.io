@@ -1,0 +1,13 @@
+{
+  "name": "pi-factory-gate",
+  "path": "/packages/pi-factory-gate",
+  "url": "https://pi.dev/packages/pi-factory-gate",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 52,
+  "date_ms": 1778856810744,
+  "description_en": "AI Factory gateway for pi agents — dispatch jobs, manage environments, list agents/workers/workflows, stream results from a wrok.in orchestrator.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

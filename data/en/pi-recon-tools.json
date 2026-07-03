@@ -1,0 +1,13 @@
+{
+  "name": "pi-recon-tools",
+  "path": "/packages/pi-recon-tools",
+  "url": "https://pi.dev/packages/pi-recon-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 93,
+  "date_ms": 1772890123240,
+  "description_en": "Security reconnaissance toolkit. Headers audit, SSL check, DNS, port scan, tech fingerprinting, path discovery.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

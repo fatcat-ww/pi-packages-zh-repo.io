@@ -1,0 +1,6 @@
+{
+  "name": "max-context",
+  "description_en": "Pi extension to keep context usage near a configurable soft limit",
+  "description_zh": "保持上下文使用接近可配置软限制的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

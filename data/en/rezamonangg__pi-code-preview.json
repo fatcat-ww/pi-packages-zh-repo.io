@@ -1,0 +1,11 @@
+{
+  "name": "@rezamonangg/pi-code-preview",
+  "path": "/packages/@rezamonangg/pi-code-preview",
+  "url": "https://pi.dev/packages/@rezamonangg/pi-code-preview",
+  "types": "",
+  "type_list": [],
+  "downloads": 904,
+  "date_ms": 1780444903088,
+  "description_en": "Markdown + code preview for pi TUI using native theme-aware syntax highlighting.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

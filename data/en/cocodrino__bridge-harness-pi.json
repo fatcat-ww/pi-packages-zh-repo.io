@@ -1,0 +1,11 @@
+{
+  "name": "@cocodrino/bridge-harness-pi",
+  "path": "/packages/@cocodrino/bridge-harness-pi",
+  "url": "https://pi.dev/packages/@cocodrino/bridge-harness-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 859,
+  "date_ms": 1782146869938,
+  "description_en": "Pi coding agent extension for bridge-harness — real-time NATS communication with Claude Code",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

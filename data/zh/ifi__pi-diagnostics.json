@@ -1,0 +1,6 @@
+{
+  "name": "@ifi/pi-diagnostics",
+  "description_en": "Prompt-completion diagnostics extension for pi with timestamps, durations, per-turn timing, and a live widget.",
+  "description_zh": "带有时间戳、持续时间、每轮时间和实时小部件的 pi 提示-完成诊断扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

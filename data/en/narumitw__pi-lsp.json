@@ -1,0 +1,13 @@
+{
+  "name": "@narumitw/pi-lsp",
+  "path": "/packages/@narumitw/pi-lsp",
+  "url": "https://pi.dev/packages/@narumitw/pi-lsp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3079,
+  "date_ms": 1782712257142,
+  "description_en": "Pi extension that exposes configurable, language-agnostic LSP tools through a shared runner.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

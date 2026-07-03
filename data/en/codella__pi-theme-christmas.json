@@ -1,0 +1,13 @@
+{
+  "name": "@codella/pi-theme-christmas",
+  "path": "/packages/@codella/pi-theme-christmas",
+  "url": "https://pi.dev/packages/@codella/pi-theme-christmas",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 45,
+  "date_ms": 1779829849931,
+  "description_en": "🎄 Festive Christmas theme for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

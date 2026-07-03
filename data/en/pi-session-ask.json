@@ -1,0 +1,11 @@
+{
+  "name": "pi-session-ask",
+  "path": "/packages/pi-session-ask",
+  "url": "https://pi.dev/packages/pi-session-ask",
+  "types": "",
+  "type_list": [],
+  "downloads": 256,
+  "date_ms": 1778173590119,
+  "description_en": "Allows the agent or user to ask questions about the current session's pre-compaction history, parent (if forked) sessions' histories, or any other sessions' histories, via a subagent (keeping current context clean).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

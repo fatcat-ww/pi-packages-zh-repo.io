@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-ci-watch",
+  "path": "/packages/@arvoretech/pi-ci-watch",
+  "url": "https://pi.dev/packages/@arvoretech/pi-ci-watch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 282,
+  "date_ms": 1781723945478,
+  "description_en": "PI extension that monitors CI status on a PR and auto-fixes failures",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

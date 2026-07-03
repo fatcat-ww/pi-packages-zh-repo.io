@@ -1,0 +1,11 @@
+{
+  "name": "safe-coder",
+  "path": "/packages/safe-coder",
+  "url": "https://pi.dev/packages/safe-coder",
+  "types": "",
+  "type_list": [],
+  "downloads": 301,
+  "date_ms": 1780923786853,
+  "description_en": "Safe Coder is a configuration package for the [`pi` coding agent](https://www.npmjs.com/package/@mariozechner/pi-coding-agent) that adds **safety guardrails** and **project-specific** extensions to reduce risky operations while you code with an AI assista",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

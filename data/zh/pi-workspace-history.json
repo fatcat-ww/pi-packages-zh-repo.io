@@ -1,0 +1,6 @@
+{
+  "name": "pi-workspace-history",
+  "description_en": "Real workspace undo/redo for Pi. Bring Claude Code style /rewind and OpenCode /undo safety to @mariozechner/pi-coding-agent.",
+  "description_zh": "Pi 的实时工作区撤销/重做。将 Claude Code 风格的 /rewind 和 OpenCode /undo 安全性带到 @mariozechner/pi-coding-agent",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

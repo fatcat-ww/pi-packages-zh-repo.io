@@ -1,0 +1,13 @@
+{
+  "name": "pi-supergrok",
+  "path": "/packages/pi-supergrok",
+  "url": "https://pi.dev/packages/pi-supergrok",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 412,
+  "date_ms": 1782628589223,
+  "description_en": "Pi extension that adds SuperGrok/xAI OAuth for Grok models.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@the-forge-flow/pi-verifier",
+  "description_en": "PI extension that runs a verifier subagent to observe and correct builder sessions",
+  "description_zh": "运行验证器子代理来观察和纠正构建器会话的 PI 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

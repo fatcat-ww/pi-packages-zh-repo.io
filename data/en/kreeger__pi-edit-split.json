@@ -1,0 +1,13 @@
+{
+  "name": "@kreeger/pi-edit-split",
+  "path": "/packages/@kreeger/pi-edit-split",
+  "url": "https://pi.dev/packages/@kreeger/pi-edit-split",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 77,
+  "date_ms": 1781812763541,
+  "description_en": "A side-by-side diff preview for the pi-coding-agent edit tool.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

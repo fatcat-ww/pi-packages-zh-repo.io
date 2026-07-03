@@ -1,0 +1,13 @@
+{
+  "name": "yoke-pi",
+  "path": "/packages/yoke-pi",
+  "url": "https://pi.dev/packages/yoke-pi",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 161,
+  "date_ms": 1780076272303,
+  "description_en": "Workflow skills for pi.dev — grill, handoff, smart git commits, and the yoke development loop",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

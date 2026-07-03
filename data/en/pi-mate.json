@@ -1,0 +1,11 @@
+{
+  "name": "pi-mate",
+  "path": "/packages/pi-mate",
+  "url": "https://pi.dev/packages/pi-mate",
+  "types": "",
+  "type_list": [],
+  "downloads": 180,
+  "date_ms": 1780750814312,
+  "description_en": "Peer-to-peer collaboration for pi coding agents. Multiple independent agents talk through a shared message bus.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

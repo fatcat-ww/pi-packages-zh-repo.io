@@ -1,0 +1,13 @@
+{
+  "name": "@jc4649/telegram-remote",
+  "path": "/packages/@jc4649/telegram-remote",
+  "url": "https://pi.dev/packages/@jc4649/telegram-remote",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782491773415,
+  "description_en": "pi coding-agent extension: lightweight Telegram remote control — configure a bot token and drive a session from anywhere. Pure outbound HTTPS, no inbound port.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

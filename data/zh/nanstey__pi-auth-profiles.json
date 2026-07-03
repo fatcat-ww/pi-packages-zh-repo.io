@@ -1,0 +1,6 @@
+{
+  "name": "@nanstey/pi-auth-profiles",
+  "description_en": "Per-project auth profiles for pi — keep separate OAuth/API-key credentials per account and switch with /profile",
+  "description_zh": "Pi 的按项目配置文件 — 为每个账户保留独立的 OAuth/API 密钥凭证，并通过 /profile 命令切换",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

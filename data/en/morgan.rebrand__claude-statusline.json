@@ -1,0 +1,13 @@
+{
+  "name": "@morgan.rebrand/claude-statusline",
+  "path": "/packages/@morgan.rebrand/claude-statusline",
+  "url": "https://pi.dev/packages/@morgan.rebrand/claude-statusline",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1775,
+  "date_ms": 1782148773075,
+  "description_en": "Statusline renderer for Claude Code, Antigravity CLI, and Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

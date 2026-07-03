@@ -1,0 +1,13 @@
+{
+  "name": "@hk_net/pi-timestamp",
+  "path": "/packages/@hk_net/pi-timestamp",
+  "url": "https://pi.dev/packages/@hk_net/pi-timestamp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 662,
+  "date_ms": 1782254728171,
+  "description_en": "Pi extension that shows timestamps for user input and agent completion timing",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

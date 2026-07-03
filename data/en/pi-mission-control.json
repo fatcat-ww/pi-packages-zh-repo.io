@@ -1,0 +1,11 @@
+{
+  "name": "pi-mission-control",
+  "path": "/packages/pi-mission-control",
+  "url": "https://pi.dev/packages/pi-mission-control",
+  "types": "",
+  "type_list": [],
+  "downloads": 129,
+  "date_ms": 1776012140207,
+  "description_en": "Visual mission orchestration extension for pi with agent hierarchy and durable state",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

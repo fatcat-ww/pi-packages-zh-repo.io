@@ -1,0 +1,13 @@
+{
+  "name": "@chendpoc/pi-memory",
+  "path": "/packages/@chendpoc/pi-memory",
+  "url": "https://pi.dev/packages/@chendpoc/pi-memory",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783011529892,
+  "description_en": "Local episodic memory for Pi coding agent — knowledge graph + memory_recall tool + implicit preflight",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

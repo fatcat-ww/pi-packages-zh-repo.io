@@ -1,0 +1,11 @@
+{
+  "name": "oncrawl-mcp-pi-extension",
+  "path": "/packages/oncrawl-mcp-pi-extension",
+  "url": "https://pi.dev/packages/oncrawl-mcp-pi-extension",
+  "types": "",
+  "type_list": [],
+  "downloads": 23,
+  "date_ms": 1774948074362,
+  "description_en": "Pi Agent extension that bridges the Oncrawl MCP Server directly into Pi – no Claude Code or Claude Desktop required.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-agent-bus",
+  "path": "/packages/pi-agent-bus",
+  "url": "https://pi.dev/packages/pi-agent-bus",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 234,
+  "date_ms": 1780685374673,
+  "description_en": "Pi Extension bridging pi-agent-bus-node agents with pi.tools and pi-link. Includes the core MessageBus, Agent, and TaskQueue runtime.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

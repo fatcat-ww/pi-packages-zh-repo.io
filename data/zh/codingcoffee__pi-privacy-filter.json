@@ -1,0 +1,6 @@
+{
+  "name": "@codingcoffee/pi-privacy-filter",
+  "description_en": "pi extension that redacts PII/secrets before sending to the LLM and restores them in responses",
+  "description_zh": "pi 扩展，在发送给 LLM 前删除 PII/敏感信息，并在响应中恢复它们",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@klutometis/pi-provider-vertex-anthropic",
+  "description_en": "Pi agent extension for Claude models via Google Cloud Vertex AI",
+  "description_zh": "通过 Google Cloud Vertex AI 使用 Claude 模型的 Pi 代理扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

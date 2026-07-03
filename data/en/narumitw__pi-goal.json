@@ -1,0 +1,13 @@
+{
+  "name": "@narumitw/pi-goal",
+  "path": "/packages/@narumitw/pi-goal",
+  "url": "https://pi.dev/packages/@narumitw/pi-goal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 9497,
+  "date_ms": 1782712252295,
+  "description_en": "Pi extension that keeps working on a /goal until the agent marks it complete.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

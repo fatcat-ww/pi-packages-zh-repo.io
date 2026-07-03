@@ -1,0 +1,6 @@
+{
+  "name": "@amaster.ai/pi-computer-use",
+  "description_en": "Pi extension for desktop automation via cua-driver-rs with computer_use_ prefixed tools",
+  "description_zh": "Pi 的桌面自动化扩展，通过 cua-driver-rs 使用 computer_use_ 前缀的工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-blackbytes",
+  "description_en": "Pi coding-agent extension that provides local search tools, locally-managed HTTP clients for the websearch / context7 / grep.app surfaces (replacing Pi's MCP-plugin dependency for these services), hashline-based editing, and delegated sub-agents for explo",
+  "description_zh": "Pi coding-agent 扩展，提供本地搜索工具、本地管理的 HTTP 客户端用于 websearch / context7 / grep.app 服务（替换 Pi 的 MCP 插件依赖）、基于 hashline 的编辑和用于 explo 的委托子代理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

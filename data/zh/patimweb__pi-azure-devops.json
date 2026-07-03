@@ -1,0 +1,6 @@
+{
+  "name": "@patimweb/pi-azure-devops",
+  "description_en": "Azure DevOps integration for pi coding agent — work items, boards, repos, pull requests, pipelines, and test plans",
+  "description_zh": "pi coding agent 的 Azure DevOps 集成 — 工作项、面板、仓库、拉取请求、管道和测试计划",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

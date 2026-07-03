@@ -1,0 +1,13 @@
+{
+  "name": "pi-pattern-retry",
+  "path": "/packages/pi-pattern-retry",
+  "url": "https://pi.dev/packages/pi-pattern-retry",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 33,
+  "date_ms": 1779305594054,
+  "description_en": "Pi extension: keep agent sessions alive across provider rate-limits, quota exhaustion, and transient auth failures by re-injecting continuation messages on an escalating retry schedule.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

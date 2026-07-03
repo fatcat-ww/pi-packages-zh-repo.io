@@ -1,0 +1,11 @@
+{
+  "name": "@ifi/pi-extension-adaptive-routing",
+  "path": "/packages/@ifi/pi-extension-adaptive-routing",
+  "url": "https://pi.dev/packages/@ifi/pi-extension-adaptive-routing",
+  "types": "",
+  "type_list": [],
+  "downloads": 47,
+  "date_ms": 1777355433314,
+  "description_en": "Optional adaptive and delegated routing extension for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

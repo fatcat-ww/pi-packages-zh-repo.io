@@ -1,0 +1,13 @@
+{
+  "name": "@saburto/pi-colorful-footer",
+  "path": "/packages/@saburto/pi-colorful-footer",
+  "url": "https://pi.dev/packages/@saburto/pi-colorful-footer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 651,
+  "date_ms": 1782670459199,
+  "description_en": "Replaces the default pi footer with a vibrant, icon-rich status bar using emoji icons and theme-colored backgrounds. No Nerd Fonts required.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

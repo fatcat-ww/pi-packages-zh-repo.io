@@ -1,0 +1,11 @@
+{
+  "name": "pi-relay",
+  "path": "/packages/pi-relay",
+  "url": "https://pi.dev/packages/pi-relay",
+  "types": "",
+  "type_list": [],
+  "downloads": 32,
+  "date_ms": 1773672590943,
+  "description_en": "Discord bridge extension for pi — route messages, spawn sessions, stream output",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

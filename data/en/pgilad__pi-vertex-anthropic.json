@@ -1,0 +1,13 @@
+{
+  "name": "@pgilad/pi-vertex-anthropic",
+  "path": "/packages/@pgilad/pi-vertex-anthropic",
+  "url": "https://pi.dev/packages/@pgilad/pi-vertex-anthropic",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 685,
+  "date_ms": 1781762937226,
+  "description_en": "Pi extension: Claude on Google Cloud Vertex AI via ADC. Uses the official @anthropic-ai/vertex-sdk for real Application Default Credentials (gcloud user creds, service account JSON, GCE/GKE metadata server, workload identity).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

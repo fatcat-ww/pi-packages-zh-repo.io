@@ -1,0 +1,6 @@
+{
+  "name": "@estebanforge/pi-mixture-of-agents",
+  "description_en": "Mixture of Agents for Pi. Registers a virtual `moa` provider (presets selectable in /model) and a `/moa` command that runs one-shot passes plus a drill-down preset menu. Each preset fans out N reference models in parallel over a trimmed transcript, an agg",
+  "description_zh": "Pi 的代理混合。注册一个虚拟 `moa` 提供商（可在 /model 中选择预设）和一个 `/moa` 命令，该命令运行一次性传递和向下钻取预设菜单。每个预设在修剪后的转录文本上并行扩展 N 个参考模型，然后聚合",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

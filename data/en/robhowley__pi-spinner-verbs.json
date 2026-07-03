@@ -1,0 +1,13 @@
+{
+  "name": "@robhowley/pi-spinner-verbs",
+  "path": "/packages/@robhowley/pi-spinner-verbs",
+  "url": "https://pi.dev/packages/@robhowley/pi-spinner-verbs",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 402,
+  "date_ms": 1781815217152,
+  "description_en": "Themed thinking text for Pi: built-in spinner verb packs, random per-session themes, and custom verb files.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

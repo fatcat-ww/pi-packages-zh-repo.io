@@ -1,0 +1,6 @@
+{
+  "name": "@robhowley/pi-openrouter",
+  "description_en": "Live OpenRouter spend/account TUI overlays, user-scoped or free-only model sync, api key management, and session tagging for Pi.",
+  "description_zh": "实时的 OpenRouter 消耗/账户 TUI 覆盖层、用户范围的或仅限免费模型的同步、api 密钥管理和 Pi 的会话标记",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

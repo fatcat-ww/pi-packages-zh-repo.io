@@ -1,0 +1,13 @@
+{
+  "name": "pi-plan-build",
+  "path": "/packages/pi-plan-build",
+  "url": "https://pi.dev/packages/pi-plan-build",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 263,
+  "date_ms": 1780219804047,
+  "description_en": "Plan/Build mode toggle for pi CLI — opencode-style read-only plan ↔ full build",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

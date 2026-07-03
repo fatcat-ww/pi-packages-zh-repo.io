@@ -1,0 +1,13 @@
+{
+  "name": "@chantraio/pi-plugin",
+  "path": "/packages/@chantraio/pi-plugin",
+  "url": "https://pi.dev/packages/@chantraio/pi-plugin",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 84,
+  "date_ms": 1781643628738,
+  "description_en": "Connect Pi agents through Chantra channels: create event feeds, publish workflow messages, and build distributed agent pipelines.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-super-curl",
+  "description_en": "HTTP request extension for pi shitty coding agent with auto-config, JWT generation, and named endpoints",
+  "description_zh": "为 Pi 编码代理提供的 HTTP 请求扩展，具有自动配置、JWT 生成和命名端点功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

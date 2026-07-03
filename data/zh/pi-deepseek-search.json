@@ -1,0 +1,6 @@
+{
+  "name": "pi-deepseek-search",
+  "description_en": "Web search for Pi using DeepSeek's server side search. Only works with DeepSeek models.",
+  "description_zh": "使用 DeepSeek 服务器端搜索为 Pi 提供网页搜索。仅适用于 DeepSeek 模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

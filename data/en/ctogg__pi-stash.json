@@ -1,0 +1,14 @@
+{
+  "name": "@ctogg/pi-stash",
+  "path": "/packages/@ctogg/pi-stash",
+  "url": "https://pi.dev/packages/@ctogg/pi-stash",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 61,
+  "date_ms": 1778232106370,
+  "description_en": "Git-style prompt stashing for pi — save what you're typing, clear the editor, and come back to it later.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

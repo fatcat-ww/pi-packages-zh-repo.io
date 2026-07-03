@@ -1,0 +1,11 @@
+{
+  "name": "pi-file-watcher",
+  "path": "/packages/pi-file-watcher",
+  "url": "https://pi.dev/packages/pi-file-watcher",
+  "types": "",
+  "type_list": [],
+  "downloads": 233,
+  "date_ms": 1781713120439,
+  "description_en": "Watch folders for #pi! comments in source files and send them as prompts to the LLM — aider-style watch mode for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

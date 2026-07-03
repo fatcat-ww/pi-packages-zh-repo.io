@@ -1,0 +1,13 @@
+{
+  "name": "pi-copy-all",
+  "path": "/packages/pi-copy-all",
+  "url": "https://pi.dev/packages/pi-copy-all",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 160,
+  "date_ms": 1780890279950,
+  "description_en": "Pi extension: copy current thread user and assistant messages to clipboard.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

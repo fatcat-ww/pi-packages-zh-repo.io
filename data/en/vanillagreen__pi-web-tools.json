@@ -1,0 +1,11 @@
+{
+  "name": "@vanillagreen/pi-web-tools",
+  "path": "/packages/@vanillagreen/pi-web-tools",
+  "url": "https://pi.dev/packages/@vanillagreen/pi-web-tools",
+  "types": "",
+  "type_list": [],
+  "downloads": 537,
+  "date_ms": 1781280415475,
+  "description_en": "First-party Pi web tools: provider-toggled web search, Exa deep research, content retrieval, and OpenAI native web_search integration.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

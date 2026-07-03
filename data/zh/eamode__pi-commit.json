@@ -1,0 +1,6 @@
+{
+  "name": "@eamode/pi-commit",
+  "description_en": "pi extension for automatic changelog-friendly Conventional Commits with submodule support.",
+  "description_zh": "用于自动生成兼容变更日志的 Conventional Commits 并支持子模块的 pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

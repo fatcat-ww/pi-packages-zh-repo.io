@@ -1,0 +1,11 @@
+{
+  "name": "@kkskcs/pi-diff-inline",
+  "path": "/packages/@kkskcs/pi-diff-inline",
+  "url": "https://pi.dev/packages/@kkskcs/pi-diff-inline",
+  "types": "",
+  "type_list": [],
+  "downloads": 794,
+  "date_ms": 1781938091974,
+  "description_en": "Render diffs inline in the pi conversation stream",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

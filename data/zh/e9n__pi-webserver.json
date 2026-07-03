@@ -1,0 +1,6 @@
+{
+  "name": "@e9n/pi-webserver",
+  "description_en": "Shared HTTP server for pi — authenticated web host with extension mount points",
+  "description_zh": "pi 的共享 HTTP 服务器 — 具有扩展挂载点的经过身份验证的 Web 主机",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

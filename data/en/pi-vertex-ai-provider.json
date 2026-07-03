@@ -1,0 +1,13 @@
+{
+  "name": "pi-vertex-ai-provider",
+  "path": "/packages/pi-vertex-ai-provider",
+  "url": "https://pi.dev/packages/pi-vertex-ai-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 21,
+  "date_ms": 1779288873791,
+  "description_en": "Pi package that enables Google Vertex AI ADC auth and adds latest Gemini Vertex models.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

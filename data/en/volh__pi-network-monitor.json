@@ -1,0 +1,11 @@
+{
+  "name": "@volh/pi-network-monitor",
+  "path": "/packages/@volh/pi-network-monitor",
+  "url": "https://pi.dev/packages/@volh/pi-network-monitor",
+  "types": "",
+  "type_list": [],
+  "downloads": 33,
+  "date_ms": 1772468012823,
+  "description_en": "Network request monitor for pi agent — live overlay showing all HTTP traffic",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

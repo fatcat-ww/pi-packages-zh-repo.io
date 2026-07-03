@@ -1,0 +1,13 @@
+{
+  "name": "pi-provider-headers",
+  "path": "/packages/pi-provider-headers",
+  "url": "https://pi.dev/packages/pi-provider-headers",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 321,
+  "date_ms": 1782227837900,
+  "description_en": "Pi extension package that injects provider-specific default headers based on each provider API type.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

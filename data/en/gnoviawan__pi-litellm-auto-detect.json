@@ -1,0 +1,11 @@
+{
+  "name": "@gnoviawan/pi-litellm-auto-detect",
+  "path": "/packages/@gnoviawan/pi-litellm-auto-detect",
+  "url": "https://pi.dev/packages/@gnoviawan/pi-litellm-auto-detect",
+  "types": "",
+  "type_list": [],
+  "downloads": 30,
+  "date_ms": 1777535243521,
+  "description_en": "Loads LiteLLM models from a remote /model/info endpoint on startup.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

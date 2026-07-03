@@ -1,0 +1,13 @@
+{
+  "name": "pi-mcp-bridge",
+  "path": "/packages/pi-mcp-bridge",
+  "url": "https://pi.dev/packages/pi-mcp-bridge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 43,
+  "date_ms": 1779297088311,
+  "description_en": "A minimal pi extension that exposes MCP server tools to pi via stdio transport.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

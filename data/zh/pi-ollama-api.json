@@ -1,0 +1,6 @@
+{
+  "name": "pi-ollama-api",
+  "description_en": "Ollama Cloud provider extension for Pi — connect to Ollama Cloud models via the OpenAI-compatible API",
+  "description_zh": "Pi 的 Ollama Cloud 提供商扩展 — 通过 OpenAI 兼容 API 连接到 Ollama Cloud 模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

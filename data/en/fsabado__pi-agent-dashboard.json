@@ -1,0 +1,11 @@
+{
+  "name": "@fsabado/pi-agent-dashboard",
+  "path": "/packages/@fsabado/pi-agent-dashboard",
+  "url": "https://pi.dev/packages/@fsabado/pi-agent-dashboard",
+  "types": "",
+  "type_list": [],
+  "downloads": 118,
+  "date_ms": 1782255768067,
+  "description_en": "Web dashboard for monitoring and interacting with pi agent sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

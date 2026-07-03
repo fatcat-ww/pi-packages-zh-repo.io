@@ -1,0 +1,13 @@
+{
+  "name": "pi-system-prompt",
+  "path": "/packages/pi-system-prompt",
+  "url": "https://pi.dev/packages/pi-system-prompt",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 617,
+  "date_ms": 1780172960573,
+  "description_en": "Display the full pi coding agent system prompt with injected tools, guidelines, context files, and skills in a scrollable overlay",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-prior",
+  "path": "/packages/pi-prior",
+  "url": "https://pi.dev/packages/pi-prior",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 44,
+  "date_ms": 1779947931286,
+  "description_en": "Pi extension for project-local learned context priors.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

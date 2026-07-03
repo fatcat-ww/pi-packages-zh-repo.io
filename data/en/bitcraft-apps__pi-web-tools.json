@@ -1,0 +1,13 @@
+{
+  "name": "@bitcraft-apps/pi-web-tools",
+  "path": "/packages/@bitcraft-apps/pi-web-tools",
+  "url": "https://pi.dev/packages/@bitcraft-apps/pi-web-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 228,
+  "date_ms": 1778780181247,
+  "description_en": "Shell-only web search and fetch tools for pi.dev. No API keys.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

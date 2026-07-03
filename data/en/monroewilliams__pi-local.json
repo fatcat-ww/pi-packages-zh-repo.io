@@ -1,0 +1,11 @@
+{
+  "name": "@monroewilliams/pi-local",
+  "path": "/packages/@monroewilliams/pi-local",
+  "url": "https://pi.dev/packages/@monroewilliams/pi-local",
+  "types": "",
+  "type_list": [],
+  "downloads": 591,
+  "date_ms": 1781135177292,
+  "description_en": "Pi extension for configuring multiple local LLM inference engine connections.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-crofai",
+  "description_en": "CrofAI provider for Pi — self-contained, auto-discovers models, supports env var or /login paste",
+  "description_zh": "Pi 的 CrofAI 提供程序 — 自包含，自动发现模型，支持环境变量或 /login 粘贴",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

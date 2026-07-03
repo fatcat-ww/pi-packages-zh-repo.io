@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/diagnose-skill",
+  "path": "/packages/@barlevalon/diagnose-skill",
+  "url": "https://pi.dev/packages/@barlevalon/diagnose-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 92,
+  "date_ms": 1780948725317,
+  "description_en": "Disciplined diagnosis loop for hard bugs and performance regressions. Reproduce → minimise → hypothesise → instrument → fix → regression-test. Use when user says \"diagnose this\" / \"debug this\", reports a bug, says som...",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-glossary",
+  "description_en": "Pi extension that lazy-loads glossary definitions into the system prompt when prompts mention matching terms",
+  "description_zh": "Pi 扩展，当提示中提及匹配术语时，延迟加载术语表定义到系统提示中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-conversation-retro",
+  "path": "/packages/pi-conversation-retro",
+  "url": "https://pi.dev/packages/pi-conversation-retro",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 70,
+  "date_ms": 1770550127047,
+  "description_en": "Pi extension for session review, conversation analysis, and agent mistake detection. Runs automated postmortem reviews on coding agent conversations to surface failure patterns and generate improvement reports for your AGENTS.md and workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

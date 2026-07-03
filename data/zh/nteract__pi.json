@@ -1,0 +1,6 @@
+{
+  "name": "@nteract/pi",
+  "description_en": "Persistent notebook-backed Python REPL for Pi coding agents. Stateful execution, hot dependency sync, zero cold starts.",
+  "description_zh": "Pi 编码代理的持久笔记本支持的 Python REPL。有状态执行，热依赖同步，零冷启动",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

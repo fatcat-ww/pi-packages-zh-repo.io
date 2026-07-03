@@ -1,0 +1,6 @@
+{
+  "name": "@alexleekt/pi-bump",
+  "description_en": "Invisible continuation for the Pi agent. Double-tap Enter on empty chat to resume the agentic loop without sending the LLM a single token.",
+  "description_zh": "Pi 代理的无缝继续。在空聊天上双击 Enter 以恢复代理循环，而不向 LLM 发送任何令牌",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@trq/pi-colgrep",
+  "path": "/packages/@trq/pi-colgrep",
+  "url": "https://pi.dev/packages/@trq/pi-colgrep",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 64,
+  "date_ms": 1773120111942,
+  "description_en": "pi extension that adds a colgrep tool and prioritizes semantic/hybrid ColGrep search",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@zigai/pi-response-renderer",
+  "path": "/packages/@zigai/pi-response-renderer",
+  "url": "https://pi.dev/packages/@zigai/pi-response-renderer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 961,
+  "date_ms": 1782833522522,
+  "description_en": "Pi package that makes assistant responses more compact.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@e9n/pi-heartbeat",
+  "description_en": "Periodic health check extension for pi — runs a heartbeat prompt as an isolated subprocess",
+  "description_zh": "pi 的定期健康检查扩展 — 将心跳提示作为隔离子进程运行",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@bumpyclock/pi-statusbar",
+  "path": "/packages/@bumpyclock/pi-statusbar",
+  "url": "https://pi.dev/packages/@bumpyclock/pi-statusbar",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 49,
+  "date_ms": 1779123467088,
+  "description_en": "Status bar extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

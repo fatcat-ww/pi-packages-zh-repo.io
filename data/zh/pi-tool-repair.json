@@ -1,0 +1,6 @@
+{
+  "name": "pi-tool-repair",
+  "description_en": "Validate-then-repair extension for pi — fixes common LLM tool-call mistakes (null fields, stringified arrays, wrong field names, anchor bleed) before tools execute",
+  "description_zh": "Pi 的验证后修复扩展 — 在工具执行前修复常见的 LLM 工具调用错误（null 字段、字符串化数组、错误字段名、锚点溢出）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

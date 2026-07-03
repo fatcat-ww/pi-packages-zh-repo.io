@@ -1,0 +1,6 @@
+{
+  "name": "pi-baton",
+  "description_en": "Pi-native workflow baton runner with per-step model switching and isolated step context.",
+  "description_zh": "Pi 原生工作流接力运行器，支持每步模型切换和隔离步骤上下文",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

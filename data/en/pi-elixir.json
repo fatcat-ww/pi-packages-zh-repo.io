@@ -1,0 +1,11 @@
+{
+  "name": "pi-elixir",
+  "path": "/packages/pi-elixir",
+  "url": "https://pi.dev/packages/pi-elixir",
+  "types": "",
+  "type_list": [],
+  "downloads": 4325,
+  "date_ms": 1782400931777,
+  "description_en": "BEAM runtime tools for pi — connects to the running Elixir app for live introspection",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

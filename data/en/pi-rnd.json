@@ -1,0 +1,13 @@
+{
+  "name": "pi-rnd",
+  "path": "/packages/pi-rnd",
+  "url": "https://pi.dev/packages/pi-rnd",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 195,
+  "date_ms": 1779107333908,
+  "description_en": "Scientific-method R&D orchestration for PI Coding Agent — methodology skills, subagent definitions, /rnd-start pipeline, /rnd-doctor, and a composable tool_call gate registry",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

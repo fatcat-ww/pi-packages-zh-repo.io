@@ -1,0 +1,6 @@
+{
+  "name": "pi-contrib-gate",
+  "description_en": "Contribution gateway for AI agents — enforce branch naming, conventional commits, pre-commit quality gates, and PR automation.",
+  "description_zh": "AI 代理的贡献网关 — 强制分支命名、约定提交、预提交质量门和 PR 自动化",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

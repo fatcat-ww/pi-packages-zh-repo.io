@@ -1,0 +1,13 @@
+{
+  "name": "pi-theme-flexoki",
+  "path": "/packages/pi-theme-flexoki",
+  "url": "https://pi.dev/packages/pi-theme-flexoki",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 46,
+  "date_ms": 1775425474018,
+  "description_en": "Flexoki theme for Pi coding agent - an inky color scheme for prose and code",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

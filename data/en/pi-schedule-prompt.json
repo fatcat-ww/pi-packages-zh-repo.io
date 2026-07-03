@@ -1,0 +1,14 @@
+{
+  "name": "pi-schedule-prompt",
+  "path": "/packages/pi-schedule-prompt",
+  "url": "https://pi.dev/packages/pi-schedule-prompt",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 3095,
+  "date_ms": 1782211328979,
+  "description_en": "Pi's Heartbeat - A pi extension for scheduling recurring and one-shot main agent or background prompts with cron-like functionality",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

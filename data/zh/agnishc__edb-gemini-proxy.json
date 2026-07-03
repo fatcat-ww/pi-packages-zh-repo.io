@@ -1,0 +1,6 @@
+{
+  "name": "@agnishc/edb-gemini-proxy",
+  "description_en": "Pi extension: gemini_proxy tool — delegate tasks to Google Gemini CLI from within pi",
+  "description_zh": "Pi 扩展：gemini_proxy 工具 — 在 pi 内部将任务委托给 Google Gemini CLI",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@fingerskier/pi-cron",
+  "path": "/packages/@fingerskier/pi-cron",
+  "url": "https://pi.dev/packages/@fingerskier/pi-cron",
+  "types": "",
+  "type_list": [],
+  "downloads": 64,
+  "date_ms": 1778191271576,
+  "description_en": "Cron scheduler plugin for Pi, bridged from the legacy dex-claude-plugin MCP server",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-multi-account",
+  "description_en": "Automatic multi-account failover & rotation for Pi Agent across Anthropic (Claude), OpenAI/ChatGPT Codex, Qwen/Alibaba, and Ollama. Auto-discovers authenticated accounts, grows the rotation on login, and drops accounts on logout, expiry, or quota/rate-lim",
+  "description_zh": "Pi Agent 在 Anthropic（Claude）、OpenAI/ChatGPT Codex、Qwen/Alibaba 和 Ollama 之间的自动多账户故障转移和轮换。自动发现已验证账户，在登录时扩展轮换，并在登出、过期或配额/速率限制时删除账户",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

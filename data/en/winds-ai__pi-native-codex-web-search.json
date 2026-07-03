@@ -1,0 +1,13 @@
+{
+  "name": "@winds-ai/pi-native-codex-web-search",
+  "path": "/packages/@winds-ai/pi-native-codex-web-search",
+  "url": "https://pi.dev/packages/@winds-ai/pi-native-codex-web-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 64,
+  "date_ms": 1775350950570,
+  "description_en": "Native web search for Pi using OpenAI's Responses API via Codex backend (same as Codex CLI)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

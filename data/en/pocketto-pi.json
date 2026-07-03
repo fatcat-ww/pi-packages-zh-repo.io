@@ -1,0 +1,13 @@
+{
+  "name": "pocketto-pi",
+  "path": "/packages/pocketto-pi",
+  "url": "https://pi.dev/packages/pocketto-pi",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 2571,
+  "date_ms": 1783044902256,
+  "description_en": "Pocket-driven development skills: structured subagent delegation, bug hunting, iterative planning, and code review workflows for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

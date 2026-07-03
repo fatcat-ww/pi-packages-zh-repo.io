@@ -1,0 +1,6 @@
+{
+  "name": "@jay-zod/speak",
+  "description_en": "Convert text to speech using Chatterbox TTS on Apple Silicon",
+  "description_zh": "使用 Apple Silicon 上的 Chatterbox TTS 将文本转换为语音",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

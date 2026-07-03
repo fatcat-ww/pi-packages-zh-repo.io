@@ -1,0 +1,6 @@
+{
+  "name": "pi-export-config",
+  "description_en": "Pi extension to export, import, SSH-transfer, and GitHub-sync pi configuration including extension secrets.",
+  "description_zh": "Pi 扩展，用于导出、导入、SSH 传输和 GitHub 同步 pi 配置，包括扩展密钥。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

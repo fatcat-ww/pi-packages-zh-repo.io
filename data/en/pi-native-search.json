@@ -1,0 +1,13 @@
+{
+  "name": "pi-native-search",
+  "path": "/packages/pi-native-search",
+  "url": "https://pi.dev/packages/pi-native-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 422,
+  "date_ms": 1777718069101,
+  "description_en": "Pi extension that adds web_search and web_fetch tools using each provider's native search backend (ZAI MCP, Anthropic, Google, OpenAI, xAI, Claude Code subscription via claude-bridge), with DuckDuckGo as a universal fallback.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@amaster.ai/pi-image-gen",
+  "description_en": "Pi extension for image generation via OpenAI gpt-image, Google Nano Banana (Gemini), Alibaba Qwen-Image, OpenRouter, and custom providers.",
+  "description_zh": "Pi扩展，通过OpenAI gpt-image、Google Nano Banana (Gemini)、阿里云Qwen-Image、OpenRouter和自定义提供商进行图像生成。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

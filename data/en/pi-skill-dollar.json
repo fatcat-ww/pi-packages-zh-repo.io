@@ -1,0 +1,14 @@
+{
+  "name": "pi-skill-dollar",
+  "path": "/packages/pi-skill-dollar",
+  "url": "https://pi.dev/packages/pi-skill-dollar",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 24,
+  "date_ms": 1778190287518,
+  "description_en": "Dollar-sign autocomplete shortcut for pi Agent Skills",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

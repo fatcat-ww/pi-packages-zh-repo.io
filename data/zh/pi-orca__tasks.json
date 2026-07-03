@@ -1,0 +1,6 @@
+{
+  "name": "@pi-orca/tasks",
+  "description_en": "File-backed task DAG with locking",
+  "description_zh": "基于文件的带锁定任务 DAG",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

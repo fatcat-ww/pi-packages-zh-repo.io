@@ -1,0 +1,11 @@
+{
+  "name": "@cemoody/pi-crust-ext-todoist",
+  "path": "/packages/@cemoody/pi-crust-ext-todoist",
+  "url": "https://pi.dev/packages/@cemoody/pi-crust-ext-todoist",
+  "types": "",
+  "type_list": [],
+  "downloads": 274,
+  "date_ms": 1781889816552,
+  "description_en": "Interactive, mobile-friendly Todoist widget for pi-crust — the LLM drives your task list via tools while you edit/complete tasks inline in the sidebar.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

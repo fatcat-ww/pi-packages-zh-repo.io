@@ -1,0 +1,13 @@
+{
+  "name": "@victorhsb/pi-auto-context-files",
+  "path": "/packages/@victorhsb/pi-auto-context-files",
+  "url": "https://pi.dev/packages/@victorhsb/pi-auto-context-files",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 29,
+  "date_ms": 1778646589767,
+  "description_en": "Auto-inject AGENTS.md and CLAUDE.md context files into pi read tool results",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

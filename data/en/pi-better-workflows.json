@@ -1,0 +1,11 @@
+{
+  "name": "pi-better-workflows",
+  "path": "/packages/pi-better-workflows",
+  "url": "https://pi.dev/packages/pi-better-workflows",
+  "types": "",
+  "type_list": [],
+  "downloads": 139,
+  "date_ms": 1781756099579,
+  "description_en": "pi-better-workflows — deterministic multi-agent orchestration for Pi. Faithful port of Claude Code's Workflow tool (agent/pipeline/parallel/phase/log) with background runs, resume-from-runId journaling, worktree isolation, and an extra rule teaching the L",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-opensync-plugin",
+  "path": "/packages/pi-opensync-plugin",
+  "url": "https://pi.dev/packages/pi-opensync-plugin",
+  "types": "",
+  "type_list": [],
+  "downloads": 78,
+  "date_ms": 1775317462805,
+  "description_en": "Pi extension to sync sessions to OpenSync dashboards",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

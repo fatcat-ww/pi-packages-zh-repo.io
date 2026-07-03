@@ -1,0 +1,6 @@
+{
+  "name": "@zerodawn/pi-litellm-discovery",
+  "description_en": "Pi extension that discovers models from a LiteLLM gateway and registers them as a provider.",
+  "description_zh": "Pi 扩展，从 LiteLLM 网关发现模型并将其注册为提供者",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

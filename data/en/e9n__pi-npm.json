@@ -1,0 +1,11 @@
+{
+  "name": "@e9n/pi-npm",
+  "path": "/packages/@e9n/pi-npm",
+  "url": "https://pi.dev/packages/@e9n/pi-npm",
+  "types": "",
+  "type_list": [],
+  "downloads": 26,
+  "date_ms": 1771319504235,
+  "description_en": "NPM workflow extension for pi — run common npm commands including publish",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

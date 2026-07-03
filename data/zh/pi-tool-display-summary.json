@@ -1,0 +1,6 @@
+{
+  "name": "pi-tool-display-summary",
+  "description_en": "Pi extension that adds model-written user-facing display summaries to tool calls.",
+  "description_zh": "Pi 扩展，为工具调用添加模型编写的面向用户的显示摘要。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

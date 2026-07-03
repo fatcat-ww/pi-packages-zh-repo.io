@@ -1,0 +1,6 @@
+{
+  "name": "@estebanforge/pi-agentmemory",
+  "description_en": "Pi-native agent-memory.dev tools — cross-session memory via REST, no MCP dependency",
+  "description_zh": "Pi 原生 agent-memory.dev 工具 — 通过 REST 的跨会话记忆，无需 MCP 依赖",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

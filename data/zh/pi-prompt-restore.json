@@ -1,0 +1,6 @@
+{
+  "name": "pi-prompt-restore",
+  "description_en": "Pi extension that saves discarded prompts when Ctrl+C clears the editor - recover with the Up arrow",
+  "description_zh": "Pi 扩展，在 Ctrl+C 清除编辑器时保存丢弃的提示 — 使用向上箭头恢复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

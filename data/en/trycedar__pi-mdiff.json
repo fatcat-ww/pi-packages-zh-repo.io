@@ -1,0 +1,11 @@
+{
+  "name": "@trycedar/pi-mdiff",
+  "path": "/packages/@trycedar/pi-mdiff",
+  "url": "https://pi.dev/packages/@trycedar/pi-mdiff",
+  "types": "",
+  "type_list": [],
+  "downloads": 78,
+  "date_ms": 1779909705058,
+  "description_en": "Markdown-aware edit tools for pi coding agent — normalized SEARCH matching and block-level anchored editing for .md files",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@testzugang/pi-commit",
+  "path": "/packages/@testzugang/pi-commit",
+  "url": "https://pi.dev/packages/@testzugang/pi-commit",
+  "types": "",
+  "type_list": [],
+  "downloads": 32,
+  "date_ms": 1779441605846,
+  "description_en": "Interactive gitmoji-based commit skill with staged review for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

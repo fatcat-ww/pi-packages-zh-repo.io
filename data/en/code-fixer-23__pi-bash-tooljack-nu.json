@@ -1,0 +1,11 @@
+{
+  "name": "@code-fixer-23/pi-bash-tooljack-nu",
+  "path": "/packages/@code-fixer-23/pi-bash-tooljack-nu",
+  "url": "https://pi.dev/packages/@code-fixer-23/pi-bash-tooljack-nu",
+  "types": "",
+  "type_list": [],
+  "downloads": 1705,
+  "date_ms": 1782338103074,
+  "description_en": "Pi extension that hijacks the bash tool and routes it through Nushell",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

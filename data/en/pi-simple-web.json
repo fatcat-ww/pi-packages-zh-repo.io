@@ -1,0 +1,13 @@
+{
+  "name": "pi-simple-web",
+  "path": "/packages/pi-simple-web",
+  "url": "https://pi.dev/packages/pi-simple-web",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 137,
+  "date_ms": 1782038601543,
+  "description_en": "Strict separation-of-concerns web, GitHub, PDF, search, and YouTube tools for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

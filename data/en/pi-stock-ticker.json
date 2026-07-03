@@ -1,0 +1,11 @@
+{
+  "name": "pi-stock-ticker",
+  "path": "/packages/pi-stock-ticker",
+  "url": "https://pi.dev/packages/pi-stock-ticker",
+  "types": "",
+  "type_list": [],
+  "downloads": 41,
+  "date_ms": 1772274393557,
+  "description_en": "Real-time stock watchlist & scrolling ticker for pi coding agent. Supports US stocks and A-shares.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

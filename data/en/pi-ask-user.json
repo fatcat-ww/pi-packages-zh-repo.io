@@ -1,0 +1,13 @@
+{
+  "name": "pi-ask-user",
+  "path": "/packages/pi-ask-user",
+  "url": "https://pi.dev/packages/pi-ask-user",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 6590,
+  "date_ms": 1780503979416,
+  "description_en": "Interactive ask_user tool for pi-coding-agent with searchable split-pane selection UI, multi-select, and freeform input",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

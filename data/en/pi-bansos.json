@@ -1,0 +1,13 @@
+{
+  "name": "pi-bansos",
+  "path": "/packages/pi-bansos",
+  "url": "https://pi.dev/packages/pi-bansos",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1018,
+  "date_ms": 1782219815818,
+  "description_en": "Free OpenAI-compatible model provider for pi via OpenCode Zen and MiMo Free",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

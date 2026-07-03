@@ -1,0 +1,13 @@
+{
+  "name": "pine-of-glass",
+  "path": "/packages/pine-of-glass",
+  "url": "https://pi.dev/packages/pine-of-glass",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 651,
+  "date_ms": 1783006996252,
+  "description_en": "Observability extensions for the Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

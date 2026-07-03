@@ -1,0 +1,13 @@
+{
+  "name": "@amaster.ai/pi-security",
+  "path": "/packages/@amaster.ai/pi-security",
+  "url": "https://pi.dev/packages/@amaster.ai/pi-security",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 4104,
+  "date_ms": 1782723783769,
+  "description_en": "Pi extension for resource-aware security policy engine and tool authorization",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

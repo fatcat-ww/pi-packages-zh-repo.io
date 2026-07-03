@@ -1,0 +1,13 @@
+{
+  "name": "@llttlltt/poimandres-pi",
+  "path": "/packages/@llttlltt/poimandres-pi",
+  "url": "https://pi.dev/packages/@llttlltt/poimandres-pi",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 372,
+  "date_ms": 1781796546419,
+  "description_en": "pi coding agent theme based on the poimandres VSCode theme",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

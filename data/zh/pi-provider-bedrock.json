@@ -1,0 +1,6 @@
+{
+  "name": "pi-provider-bedrock",
+  "description_en": "Bedrock provider for pi — routes to AWS Bedrock models via AWS profile auth",
+  "description_zh": "pi 的 Bedrock 提供者 — 通过 AWS 配置文件身份验证路由到 AWS Bedrock 模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

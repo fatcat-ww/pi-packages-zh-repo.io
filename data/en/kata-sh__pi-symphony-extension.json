@@ -1,0 +1,11 @@
+{
+  "name": "@kata-sh/pi-symphony-extension",
+  "path": "/packages/@kata-sh/pi-symphony-extension",
+  "url": "https://pi.dev/packages/@kata-sh/pi-symphony-extension",
+  "types": "",
+  "type_list": [],
+  "downloads": 74,
+  "date_ms": 1779117086862,
+  "description_en": "Pi extension for launching, attaching to, and monitoring Kata Symphony",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

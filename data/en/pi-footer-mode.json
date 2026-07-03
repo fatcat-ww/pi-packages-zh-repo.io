@@ -1,0 +1,13 @@
+{
+  "name": "pi-footer-mode",
+  "path": "/packages/pi-footer-mode",
+  "url": "https://pi.dev/packages/pi-footer-mode",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 93,
+  "date_ms": 1779145341401,
+  "description_en": "Zen/dev footer mode extension for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

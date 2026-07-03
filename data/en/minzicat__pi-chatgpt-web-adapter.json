@@ -1,0 +1,13 @@
+{
+  "name": "@minzicat/pi-chatgpt-web-adapter",
+  "path": "/packages/@minzicat/pi-chatgpt-web-adapter",
+  "url": "https://pi.dev/packages/@minzicat/pi-chatgpt-web-adapter",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 253,
+  "date_ms": 1781761712559,
+  "description_en": "Use ChatGPT web's gpt-5.5-pro inside Pi via a managed-browser OpenAI-compatible adapter.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-crof",
+  "path": "/packages/pi-crof",
+  "url": "https://pi.dev/packages/pi-crof",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 69,
+  "date_ms": 1779303680732,
+  "description_en": "CrofAI provider extension for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

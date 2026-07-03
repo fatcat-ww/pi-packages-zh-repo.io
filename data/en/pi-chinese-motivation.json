@@ -1,0 +1,11 @@
+{
+  "name": "pi-chinese-motivation",
+  "path": "/packages/pi-chinese-motivation",
+  "url": "https://pi.dev/packages/pi-chinese-motivation",
+  "types": "",
+  "type_list": [],
+  "downloads": 57,
+  "date_ms": 1779976821875,
+  "description_en": "Plays motivational music while Chinese-origin models (DeepSeek, MiMo, Kimi, etc.) are thinking — with dynamic volume ramp and bit-crusher distortion that gets worse the longer the model thinks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

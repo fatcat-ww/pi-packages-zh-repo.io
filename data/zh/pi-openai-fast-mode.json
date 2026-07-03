@@ -1,0 +1,6 @@
+{
+  "name": "pi-openai-fast-mode",
+  "description_en": "Pi extension package for toggling OpenAI Fast Mode priority inference",
+  "description_zh": "用于切换 OpenAI 快速模式优先推理的 Pi 扩展包。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

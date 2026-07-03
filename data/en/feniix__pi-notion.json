@@ -1,0 +1,13 @@
+{
+  "name": "@feniix/pi-notion",
+  "path": "/packages/@feniix/pi-notion",
+  "url": "https://pi.dev/packages/@feniix/pi-notion",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 418,
+  "date_ms": 1778865787151,
+  "description_en": "Notion API extension for pi — read, search, and manage Notion pages, databases, and content",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

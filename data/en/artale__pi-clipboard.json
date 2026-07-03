@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-clipboard",
+  "path": "/packages/@artale/pi-clipboard",
+  "url": "https://pi.dev/packages/@artale/pi-clipboard",
+  "types": "",
+  "type_list": [],
+  "downloads": 50,
+  "date_ms": 1773504054291,
+  "description_en": "Clipboard manager for Pi. Copy/paste with persistent history, search, pin, and GitHub gist creation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

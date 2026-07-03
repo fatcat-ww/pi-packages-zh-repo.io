@@ -1,0 +1,11 @@
+{
+  "name": "pi-env-guard",
+  "path": "/packages/pi-env-guard",
+  "url": "https://pi.dev/packages/pi-env-guard",
+  "types": "",
+  "type_list": [],
+  "downloads": 399,
+  "date_ms": 1782359784160,
+  "description_en": "Environment variable validation, secret leak detection, and drift analysis for pi.dev projects",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

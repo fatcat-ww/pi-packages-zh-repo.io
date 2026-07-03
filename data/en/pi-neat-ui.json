@@ -1,0 +1,14 @@
+{
+  "name": "pi-neat-ui",
+  "path": "/packages/pi-neat-ui",
+  "url": "https://pi.dev/packages/pi-neat-ui",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 133,
+  "date_ms": 1779785028430,
+  "description_en": "Pi extension package: UI beautification, compact tool rendering, and theme presets",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

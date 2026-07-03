@@ -1,0 +1,6 @@
+{
+  "name": "pi-handoff-clipboard",
+  "description_en": "Clipboard-first Pi extension that turns the current conversation into a next-session handoff prompt.",
+  "description_zh": "基于剪贴板的 Pi 扩展，将当前对话转换为下一会话交接提示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

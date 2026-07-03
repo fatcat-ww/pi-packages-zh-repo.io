@@ -1,0 +1,13 @@
+{
+  "name": "@ramarivera/pi-goal",
+  "path": "/packages/@ramarivera/pi-goal",
+  "url": "https://pi.dev/packages/@ramarivera/pi-goal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1173,
+  "date_ms": 1780967647475,
+  "description_en": "Pi extension that adds Codex-style persisted goals and hidden continuation pressure.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

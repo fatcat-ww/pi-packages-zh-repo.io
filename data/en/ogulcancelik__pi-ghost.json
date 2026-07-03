@@ -1,0 +1,13 @@
+{
+  "name": "@ogulcancelik/pi-ghost",
+  "path": "/packages/@ogulcancelik/pi-ghost",
+  "url": "https://pi.dev/packages/@ogulcancelik/pi-ghost",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 125,
+  "date_ms": 1778341451347,
+  "description_en": "Like /btw, but as a native ghost overlay for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

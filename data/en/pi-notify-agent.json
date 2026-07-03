@@ -1,0 +1,11 @@
+{
+  "name": "pi-notify-agent",
+  "path": "/packages/pi-notify-agent",
+  "url": "https://pi.dev/packages/pi-notify-agent",
+  "types": "",
+  "type_list": [],
+  "downloads": 74,
+  "date_ms": 1776414936088,
+  "description_en": "Cross-platform desktop notifications and sounds for pi-coding-agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

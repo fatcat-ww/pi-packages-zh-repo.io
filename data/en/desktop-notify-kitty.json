@@ -1,0 +1,13 @@
+{
+  "name": "desktop-notify-kitty",
+  "path": "/packages/desktop-notify-kitty",
+  "url": "https://pi.dev/packages/desktop-notify-kitty",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 73,
+  "date_ms": 1777474219546,
+  "description_en": "Pi extension that sends desktop notifications via kitten notify (kitty) or notify-send when a kitty terminal session needs attention.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-inspect",
+  "description_en": "Introspection dashboard for the pi coding agent — tools, slash commands, skills, and the system prompt injected on init.",
+  "description_zh": "pi 编码代理的内省仪表板 — 工具、斜杠命令、技能和初始化时注入的系统提示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

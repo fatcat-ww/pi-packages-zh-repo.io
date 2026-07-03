@@ -1,0 +1,13 @@
+{
+  "name": "@ravan08/pi-langfuse",
+  "path": "/packages/@ravan08/pi-langfuse",
+  "url": "https://pi.dev/packages/@ravan08/pi-langfuse",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 79,
+  "date_ms": 1777266943209,
+  "description_en": "Langfuse observability extension for Pi coding agent. Sends traces to Langfuse for monitoring tokens, costs, latency, and tool calls.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

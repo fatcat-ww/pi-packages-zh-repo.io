@@ -1,0 +1,6 @@
+{
+  "name": "@rezamonangg/pi-worktree",
+  "description_en": "Pi package that routes agent file and shell work into an isolated git worktree.",
+  "description_zh": "将代理文件和 shell 工作路由到隔离的 git worktree 的 Pi 包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

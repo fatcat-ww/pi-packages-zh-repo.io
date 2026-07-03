@@ -1,0 +1,13 @@
+{
+  "name": "pi-fetch-markdown",
+  "path": "/packages/pi-fetch-markdown",
+  "url": "https://pi.dev/packages/pi-fetch-markdown",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 47,
+  "date_ms": 1777554207566,
+  "description_en": "Pi skill: fetch any web page as clean markdown via Cloudflare content negotiation or Jina Reader",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

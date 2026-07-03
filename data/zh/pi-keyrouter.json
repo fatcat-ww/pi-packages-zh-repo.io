@@ -1,0 +1,6 @@
+{
+  "name": "pi-keyrouter",
+  "description_en": "API key rotation for pi-coding-agent. Multiple keys per provider, automatic 429/401 fallback, max-retries guard.",
+  "description_zh": "pi-coding-agent 的 API 密钥轮换。每个提供商多个密钥，自动 429/401 降级，最大重试保护",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

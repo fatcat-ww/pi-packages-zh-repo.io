@@ -1,0 +1,13 @@
+{
+  "name": "pi-mono-sentinel",
+  "path": "/packages/pi-mono-sentinel",
+  "url": "https://pi.dev/packages/pi-mono-sentinel",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 194,
+  "date_ms": 1779889561883,
+  "description_en": "Pi extension that guards against content-based secret leaks and indirect script execution",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-webmcp",
+  "path": "/packages/pi-webmcp",
+  "url": "https://pi.dev/packages/pi-webmcp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 558,
+  "date_ms": 1782182161367,
+  "description_en": "A Pi extension that connects Pi to webpages that register WebMCP tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

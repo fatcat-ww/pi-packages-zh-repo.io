@@ -1,0 +1,13 @@
+{
+  "name": "pi-fusion",
+  "path": "/packages/pi-fusion",
+  "url": "https://pi.dev/packages/pi-fusion",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1584,
+  "date_ms": 1782875950798,
+  "description_en": "Multi-model deliberation for pi, inspired by OpenRouter Fusion",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

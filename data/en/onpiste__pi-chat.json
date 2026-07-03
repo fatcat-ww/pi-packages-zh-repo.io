@@ -1,0 +1,13 @@
+{
+  "name": "@onpiste/pi-chat",
+  "path": "/packages/@onpiste/pi-chat",
+  "url": "https://pi.dev/packages/@onpiste/pi-chat",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782800487656,
+  "description_en": "Multi-service chat bridge extension for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

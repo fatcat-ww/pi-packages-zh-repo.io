@@ -1,0 +1,14 @@
+{
+  "name": "@haispeed/pi-deck",
+  "path": "/packages/@haispeed/pi-deck",
+  "url": "https://pi.dev/packages/@haispeed/pi-deck",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 102,
+  "date_ms": 1774491904483,
+  "description_en": "A theme and footer enhancement pack for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

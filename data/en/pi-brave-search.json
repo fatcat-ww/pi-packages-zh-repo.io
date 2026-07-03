@@ -1,0 +1,11 @@
+{
+  "name": "pi-brave-search",
+  "path": "/packages/pi-brave-search",
+  "url": "https://pi.dev/packages/pi-brave-search",
+  "types": "",
+  "type_list": [],
+  "downloads": 94,
+  "date_ms": 1778174506275,
+  "description_en": "Token-efficient Brave web search + AI grounding extension for Pi, with optional full-page Markdown content extraction",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

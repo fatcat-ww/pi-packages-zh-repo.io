@@ -1,0 +1,11 @@
+{
+  "name": "pi-llm-wiki",
+  "path": "/packages/pi-llm-wiki",
+  "url": "https://pi.dev/packages/pi-llm-wiki",
+  "types": "",
+  "type_list": [],
+  "downloads": 114,
+  "date_ms": 1775340176339,
+  "description_en": "A Pi package for persistent markdown wikis with source capture, generated metadata, linting, and an LLM wiki-maintainer skill.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-refactoring-advisor",
+  "description_en": "Agents should invoke this skill for refactors, code smells, migrations, duplication removal, module splitting, API cleanup, or restructuring plans. Emphasizes small safe steps, behavior preservation, and verification after each change.",
+  "description_zh": "代理应在重构、代码异味、迁移、重复删除、模块拆分、API 清理或重组计划时调用此技能。强调小的安全步骤、行为保持和每次更改后的验证。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

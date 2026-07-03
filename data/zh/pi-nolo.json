@@ -1,0 +1,6 @@
+{
+  "name": "pi-nolo",
+  "description_en": "No-YOLO mode for pi — gates write, edit, and bash tool calls behind user confirmation with configurable safe-command allowlists and YOLO override modes.",
+  "description_zh": "pi 的非 YOLO 模式 — 将写入、编辑和 bash 工具调用置于用户确认之后，具有可配置的安全命令允许列表和 YOLO 覆盖模式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

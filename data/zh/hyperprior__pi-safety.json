@@ -1,0 +1,6 @@
+{
+  "name": "@hyperprior/pi-safety",
+  "description_en": "Confirmation and protection layer for dangerous git/bash/edit/write actions",
+  "description_zh": "危险 git/bash/edit/write 操作的确认和保护层",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

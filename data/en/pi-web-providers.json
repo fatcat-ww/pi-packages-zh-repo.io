@@ -1,0 +1,13 @@
+{
+  "name": "pi-web-providers",
+  "path": "/packages/pi-web-providers",
+  "url": "https://pi.dev/packages/pi-web-providers",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1363,
+  "date_ms": 1782064551048,
+  "description_en": "Configurable web access extension for pi with per-tool provider routing and explicit provider option schemas for search, contents, quick grounded answers, and research.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

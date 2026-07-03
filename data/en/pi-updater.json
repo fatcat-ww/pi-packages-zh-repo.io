@@ -1,0 +1,13 @@
+{
+  "name": "pi-updater",
+  "path": "/packages/pi-updater",
+  "url": "https://pi.dev/packages/pi-updater",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 194,
+  "date_ms": 1779449758329,
+  "description_en": "Codex-style auto-updater for pi. Checks for new versions on startup and prompts to install.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

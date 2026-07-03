@@ -1,0 +1,11 @@
+{
+  "name": "@code-fixer-23/create-pi-package",
+  "path": "/packages/@code-fixer-23/create-pi-package",
+  "url": "https://pi.dev/packages/@code-fixer-23/create-pi-package",
+  "types": "",
+  "type_list": [],
+  "downloads": 151,
+  "date_ms": 1779294618651,
+  "description_en": "Scaffold PI packages with prompts, skills, and extensions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

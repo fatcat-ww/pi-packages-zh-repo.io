@@ -1,0 +1,6 @@
+{
+  "name": "@vanillagreen/pi-codex-minimal-tools",
+  "description_en": "Minimal Codex/OpenAI native tools for Pi: Codex image_generation, view_image, apply_patch",
+  "description_zh": "Pi 的极简 Codex/OpenAI 原生工具：Codex image_generation、view_image、apply_patch",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

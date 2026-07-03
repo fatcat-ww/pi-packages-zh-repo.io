@@ -1,0 +1,13 @@
+{
+  "name": "@tifan/pi-rename",
+  "path": "/packages/@tifan/pi-rename",
+  "url": "https://pi.dev/packages/@tifan/pi-rename",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 482,
+  "date_ms": 1781963395502,
+  "description_en": "Generate pi session names and rename the current Herdr tab.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

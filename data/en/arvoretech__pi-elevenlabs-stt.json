@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-elevenlabs-stt",
+  "path": "/packages/@arvoretech/pi-elevenlabs-stt",
+  "url": "https://pi.dev/packages/@arvoretech/pi-elevenlabs-stt",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 763,
+  "date_ms": 1782217852161,
+  "description_en": "PI extension for push-to-talk speech-to-text using the ElevenLabs Scribe API",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

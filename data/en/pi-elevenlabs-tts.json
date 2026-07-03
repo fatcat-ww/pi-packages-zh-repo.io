@@ -1,0 +1,13 @@
+{
+  "name": "pi-elevenlabs-tts",
+  "path": "/packages/pi-elevenlabs-tts",
+  "url": "https://pi.dev/packages/pi-elevenlabs-tts",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 79,
+  "date_ms": 1777394411738,
+  "description_en": "Pi extension that reads assistant text responses aloud with ElevenLabs text-to-speech.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

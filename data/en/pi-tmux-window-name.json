@@ -1,0 +1,13 @@
+{
+  "name": "pi-tmux-window-name",
+  "path": "/packages/pi-tmux-window-name",
+  "url": "https://pi.dev/packages/pi-tmux-window-name",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 132,
+  "date_ms": 1778172615123,
+  "description_en": "Automatically name tmux windows for pi coding sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

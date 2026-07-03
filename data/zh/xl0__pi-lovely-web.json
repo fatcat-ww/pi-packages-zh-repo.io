@@ -1,0 +1,6 @@
+{
+  "name": "@xl0/pi-lovely-web",
+  "description_en": "Pi extension package for web_search, web_fetch, and web_image via Firecrawl, Exa, Tavily, and Brave.",
+  "description_zh": "Pi 扩展包，通过 Firecrawl、Exa、Tavily 和 Brave 提供 web_search、web_fetch 和 web_image。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

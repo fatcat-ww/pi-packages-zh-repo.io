@@ -1,0 +1,13 @@
+{
+  "name": "henyo-pi-web",
+  "path": "/packages/henyo-pi-web",
+  "url": "https://pi.dev/packages/henyo-pi-web",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 0,
+  "date_ms": 1783066021030,
+  "description_en": "Web search and fetch tools for Pi — DDG, Stack Overflow, Wikipedia, Defuddle extraction, and more.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

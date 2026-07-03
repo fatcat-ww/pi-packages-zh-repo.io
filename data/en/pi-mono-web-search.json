@@ -1,0 +1,14 @@
+{
+  "name": "pi-mono-web-search",
+  "path": "/packages/pi-mono-web-search",
+  "url": "https://pi.dev/packages/pi-mono-web-search",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 70,
+  "date_ms": 1778426445212,
+  "description_en": "Pi extension for web search and page reading using DuckDuckGo and readability extraction",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

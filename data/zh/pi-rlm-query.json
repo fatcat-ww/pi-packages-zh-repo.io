@@ -1,0 +1,6 @@
+{
+  "name": "pi-rlm-query",
+  "description_en": "Recursive LLM Query extension for pi - enables agent-to-agent delegation with guardrails",
+  "description_zh": "pi的递归LLM查询扩展 — 启带护栏的代理到代理委派",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

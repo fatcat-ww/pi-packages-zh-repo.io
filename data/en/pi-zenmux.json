@@ -1,0 +1,13 @@
+{
+  "name": "pi-zenmux",
+  "path": "/packages/pi-zenmux",
+  "url": "https://pi.dev/packages/pi-zenmux",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 112,
+  "date_ms": 1778566354378,
+  "description_en": "ZenMux provider extension for pi-mono",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

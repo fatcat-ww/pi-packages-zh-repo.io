@@ -1,0 +1,13 @@
+{
+  "name": "pi-web-suite",
+  "path": "/packages/pi-web-suite",
+  "url": "https://pi.dev/packages/pi-web-suite",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782978934055,
+  "description_en": "Web search, URL fetching, PDF extraction, and content extraction tools for the Pi coding agent. Cascading providers: Exa, AnySearch, Tavily.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

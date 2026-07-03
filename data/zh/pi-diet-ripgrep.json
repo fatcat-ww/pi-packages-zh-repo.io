@@ -1,0 +1,6 @@
+{
+  "name": "pi-diet-ripgrep",
+  "description_en": "Minimal Pi extension exposing ripgrep as a first-class exact-search tool.",
+  "description_zh": "将 ripgrep 作为一流精确搜索工具暴露的最小 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

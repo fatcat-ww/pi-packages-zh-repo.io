@@ -1,0 +1,11 @@
+{
+  "name": "pi-refactor-loop",
+  "path": "/packages/pi-refactor-loop",
+  "url": "https://pi.dev/packages/pi-refactor-loop",
+  "types": "",
+  "type_list": [],
+  "downloads": 31,
+  "date_ms": 1773417481761,
+  "description_en": "Iterative refactoring pipeline for pi. Runs analyze → refactor → verify cycles with a TUI progress widget, git commit-and-push per pass, and a bundled SKILL.md guide.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

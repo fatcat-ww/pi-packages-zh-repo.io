@@ -1,0 +1,13 @@
+{
+  "name": "@0xkahi/pi-vim-keys",
+  "path": "/packages/@0xkahi/pi-vim-keys",
+  "url": "https://pi.dev/packages/@0xkahi/pi-vim-keys",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 911,
+  "date_ms": 1781303554864,
+  "description_en": "Vim style input editor for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

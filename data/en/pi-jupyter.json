@@ -1,0 +1,13 @@
+{
+  "name": "pi-jupyter",
+  "path": "/packages/pi-jupyter",
+  "url": "https://pi.dev/packages/pi-jupyter",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 37,
+  "date_ms": 1778004765086,
+  "description_en": "Pi extension: right-side Jupyter notebook preview while editing .ipynb files.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

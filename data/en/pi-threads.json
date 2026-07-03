@@ -1,0 +1,11 @@
+{
+  "name": "pi-threads",
+  "path": "/packages/pi-threads",
+  "url": "https://pi.dev/packages/pi-threads",
+  "types": "",
+  "type_list": [],
+  "downloads": 131,
+  "date_ms": 1769590989258,
+  "description_en": "Pi extension for searching and reading past conversation threads with ripgrep-powered search",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

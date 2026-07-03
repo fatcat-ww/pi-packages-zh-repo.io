@@ -1,0 +1,13 @@
+{
+  "name": "@anson-no-bug/pi-pet-plus",
+  "path": "/packages/@anson-no-bug/pi-pet-plus",
+  "url": "https://pi.dev/packages/@anson-no-bug/pi-pet-plus",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 42,
+  "date_ms": 1775639041468,
+  "description_en": "A real-time pet companion for pi with progression, localization, and optional news delivery",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

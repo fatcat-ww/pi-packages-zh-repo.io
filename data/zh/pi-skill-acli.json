@@ -1,0 +1,6 @@
+{
+  "name": "pi-skill-acli",
+  "description_en": "Pi skill for interacting with Atlassian Cloud (Jira & Confluence) via the acli CLI",
+  "description_zh": "Pi 技能，用于通过 acli CLI 与 Atlassian Cloud (Jira & Confluence) 交互",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

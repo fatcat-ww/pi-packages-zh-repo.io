@@ -1,0 +1,13 @@
+{
+  "name": "@ocodista/pi-token-bloat",
+  "path": "/packages/@ocodista/pi-token-bloat",
+  "url": "https://pi.dev/packages/@ocodista/pi-token-bloat",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 105,
+  "date_ms": 1777160959109,
+  "description_en": "Pi extension that estimates model-facing context footprint by resource.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

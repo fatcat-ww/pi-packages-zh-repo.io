@@ -1,0 +1,6 @@
+{
+  "name": "@fyeeme/pi-hooks",
+  "description_en": "Claude Code-compatible hooks runner for pi. Reads .pi/hooks.json and maps SessionStart, PreToolUse, and Stop events to pi lifecycle events.",
+  "description_zh": "pi 的 Claude Code 兼容的 hooks 运行器。读取 .pi/hooks.json 并将 SessionStart、PreToolUse 和 Stop 事件映射到 pi 生命周期事件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

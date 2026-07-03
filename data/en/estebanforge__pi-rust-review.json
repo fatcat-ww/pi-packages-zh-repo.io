@@ -1,0 +1,13 @@
+{
+  "name": "@estebanforge/pi-rust-review",
+  "path": "/packages/@estebanforge/pi-rust-review",
+  "url": "https://pi.dev/packages/@estebanforge/pi-rust-review",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 440,
+  "date_ms": 1782832960577,
+  "description_en": "Rust code-review tool for Pi. Grades your git diffs against a curated code-smells rubric (each entry: anti-pattern plus idiomatic fix) and returns categorized findings (Bug / Suggestion / Nit / Good pattern) with an Approve or Request-Changes verdict. Not",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

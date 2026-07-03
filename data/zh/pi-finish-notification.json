@@ -1,0 +1,6 @@
+{
+  "name": "pi-finish-notification",
+  "description_en": "Sends native macOS/terminal notifications with sound when pi coding agent finishes and your terminal isn't active. No config, no frills — just works.",
+  "description_zh": "当 Pi 编码代理完成且终端未激活时，发送带有声音的原生 macOS/终端通知。无需配置，直接可用",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

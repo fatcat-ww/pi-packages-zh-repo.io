@@ -1,0 +1,11 @@
+{
+  "name": "pi-mem",
+  "path": "/packages/pi-mem",
+  "url": "https://pi.dev/packages/pi-mem",
+  "types": "",
+  "type_list": [],
+  "downloads": 47,
+  "date_ms": 1771030099338,
+  "description_en": "Persistent memory extension for pi — captures observations, compresses them into searchable memories, and injects context into future sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

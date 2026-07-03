@@ -1,0 +1,6 @@
+{
+  "name": "pi-jj-auto",
+  "description_en": "Automatic jj revision management — guards file edits to keep Jujutsu revisions focused",
+  "description_zh": "自动 jj 版本管理 - 保护文件编辑以保持 Jujutsu 版本专注",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

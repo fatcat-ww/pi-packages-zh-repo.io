@@ -1,0 +1,13 @@
+{
+  "name": "@the-forge-flow/fff-pi",
+  "path": "/packages/@the-forge-flow/fff-pi",
+  "url": "https://pi.dev/packages/@the-forge-flow/fff-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 89,
+  "date_ms": 1776256978754,
+  "description_en": "PI extension for fff",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

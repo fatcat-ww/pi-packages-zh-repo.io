@@ -1,0 +1,11 @@
+{
+  "name": "pi-repoprompt-cli",
+  "path": "/packages/pi-repoprompt-cli",
+  "url": "https://pi.dev/packages/pi-repoprompt-cli",
+  "types": "",
+  "type_list": [],
+  "downloads": 93,
+  "date_ms": 1778174470810,
+  "description_en": "Integrates RepoPrompt with Pi via RepoPrompt's `rp-cli` executable",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

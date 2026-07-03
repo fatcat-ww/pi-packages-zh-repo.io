@@ -1,0 +1,6 @@
+{
+  "name": "@sentixx/pi-info",
+  "description_en": "Fully customizable statusline for pi — pluggable segments, priority ordering, per-segment colors, and an open registry API so any extension can contribute its own widgets.",
+  "description_zh": "Pi 的完全可自定义状态行 — 可插拔段、优先级排序、每段颜色以及开放注册 API，任何扩展都可以贡献自己的小部件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

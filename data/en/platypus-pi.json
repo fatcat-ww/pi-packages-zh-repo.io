@@ -1,0 +1,11 @@
+{
+  "name": "platypus-pi",
+  "path": "/packages/platypus-pi",
+  "url": "https://pi.dev/packages/platypus-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 106,
+  "date_ms": 1779547468844,
+  "description_en": "Pi package for first-class Platypus MCP project-management integration",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@sloppykebap/pi-provider-cc-sdk",
+  "path": "/packages/@sloppykebap/pi-provider-cc-sdk",
+  "url": "https://pi.dev/packages/@sloppykebap/pi-provider-cc-sdk",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 103,
+  "date_ms": 1780435216633,
+  "description_en": "Use your Claude subscription with pi using their official Claude Code SDK.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

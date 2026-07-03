@@ -1,0 +1,13 @@
+{
+  "name": "pi-ask-lite",
+  "path": "/packages/pi-ask-lite",
+  "url": "https://pi.dev/packages/pi-ask-lite",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 93,
+  "date_ms": 1779137427486,
+  "description_en": "A tiny, pleasant Markdown ask tool for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

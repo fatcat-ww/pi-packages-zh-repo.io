@@ -1,0 +1,13 @@
+{
+  "name": "pi-loopsmith",
+  "path": "/packages/pi-loopsmith",
+  "url": "https://pi.dev/packages/pi-loopsmith",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 44,
+  "date_ms": 1779457421088,
+  "description_en": "A pi extension that reviews coding-agent sessions and suggests workflow improvements.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

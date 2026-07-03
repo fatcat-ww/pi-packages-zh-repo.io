@@ -1,0 +1,6 @@
+{
+  "name": "@awsljx/pi-hermes-memory",
+  "description_en": "🧠 Persistent memory + 🔍 session search + 🛡️ secret scanning for Pi. Token-aware policy-only memory by default, SQLite FTS5 search, auto-consolidation, procedural skills. 368 tests. Ported from Hermes agent.",
+  "description_zh": "🧠 持久记忆 + 🔍 会话搜索 + 🛡️ Pi 的秘密扫描。默认为 token 感知的仅策略记忆，SQLite FTS5 搜索，自动合并，过程技能。368 个测试。从 Hermes 代理移植",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

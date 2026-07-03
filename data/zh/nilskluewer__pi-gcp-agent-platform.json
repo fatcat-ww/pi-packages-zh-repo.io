@@ -1,0 +1,6 @@
+{
+  "name": "@nilskluewer/pi-gcp-agent-platform",
+  "description_en": "Connect Pi to Google Cloud Agent Platform / Vertex AI with OAuth transport and EU/US multi-region endpoint support.",
+  "description_zh": "使用 OAuth 传输和 EU/US 多区域端点支持将 Pi 连接到 Google Cloud Agent Platform / Vertex AI。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

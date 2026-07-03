@@ -1,0 +1,13 @@
+{
+  "name": "@dougbots/pi-agents",
+  "path": "/packages/@dougbots/pi-agents",
+  "url": "https://pi.dev/packages/@dougbots/pi-agents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 167,
+  "date_ms": 1782007248662,
+  "description_en": "Agent profiles for pi — preconfigured model, system prompt, tool restrictions, and permission gates",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

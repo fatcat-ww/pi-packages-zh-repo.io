@@ -1,0 +1,6 @@
+{
+  "name": "pi-telemetry-otel",
+  "description_en": "OpenTelemetry (OTLP/HTTP) telemetry extension + helper APIs for pi",
+  "description_zh": "pi的OpenTelemetry (OTLP/HTTP)遥测扩展 + 辅助API",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

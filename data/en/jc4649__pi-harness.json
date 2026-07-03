@@ -1,0 +1,11 @@
+{
+  "name": "@jc4649/pi-harness",
+  "path": "/packages/@jc4649/pi-harness",
+  "url": "https://pi.dev/packages/@jc4649/pi-harness",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782491782659,
+  "description_en": "1-click umbrella for the pich harness: pulls all 12 @jc4649/* pi extensions, bundles the personal glue + code-vocab tooling, and ships an `init` bin that wires them into ~/.pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@seqyuan/pi-kernel-plot",
+  "path": "/packages/@seqyuan/pi-kernel-plot",
+  "url": "https://pi.dev/packages/@seqyuan/pi-kernel-plot",
+  "types": "",
+  "type_list": [],
+  "downloads": 692,
+  "date_ms": 1780146451270,
+  "description_en": "Pi package adapter for warm R/Python kernel plotting artifacts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

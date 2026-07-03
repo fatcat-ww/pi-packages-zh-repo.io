@@ -1,0 +1,13 @@
+{
+  "name": "@hjanuschka/pi-nanny",
+  "path": "/packages/@hjanuschka/pi-nanny",
+  "url": "https://pi.dev/packages/@hjanuschka/pi-nanny",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 161,
+  "date_ms": 1770805040598,
+  "description_en": "Parental control extension for Pi - helps you go to bed instead of having 47 creative ideas at 3 AM",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

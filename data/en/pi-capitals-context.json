@@ -1,0 +1,11 @@
+{
+  "name": "pi-capitals-context",
+  "path": "/packages/pi-capitals-context",
+  "url": "https://pi.dev/packages/pi-capitals-context",
+  "types": "",
+  "type_list": [],
+  "downloads": 143,
+  "date_ms": 1779244552948,
+  "description_en": "Auto-inject ALL_CAPS context files into pi's system prompt — per-file toggles, folder collapse, global ~/.pi/CAPS, search, sort, preview, file watcher",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

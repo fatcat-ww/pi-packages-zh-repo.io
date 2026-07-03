@@ -1,0 +1,13 @@
+{
+  "name": "@arvoretech/pi-bee-context",
+  "path": "/packages/@arvoretech/pi-bee-context",
+  "url": "https://pi.dev/packages/@arvoretech/pi-bee-context",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 386,
+  "date_ms": 1782217127505,
+  "description_en": "PI extension that injects confirmed personal facts from the Bee wearable assistant into the system prompt for personalized responses",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

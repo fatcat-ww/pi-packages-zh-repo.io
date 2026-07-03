@@ -1,0 +1,11 @@
+{
+  "name": "pi-openapi-tools",
+  "path": "/packages/pi-openapi-tools",
+  "url": "https://pi.dev/packages/pi-openapi-tools",
+  "types": "",
+  "type_list": [],
+  "downloads": 53,
+  "date_ms": 1778719060176,
+  "description_en": "Pi extension that generates LLM tools from any OpenAPI/Swagger URL.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

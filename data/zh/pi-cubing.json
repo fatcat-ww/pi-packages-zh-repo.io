@@ -1,0 +1,6 @@
+{
+  "name": "pi-cubing",
+  "description_en": "A cstimer-style Rubik's Cube timer overlay for Pi, with scrambles, averages, ratings, and local solve persistence.",
+  "description_zh": "Pi的cstimer风格魔方计时器叠加层，包含打乱公式、平均值、评分和本地求解持久化。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

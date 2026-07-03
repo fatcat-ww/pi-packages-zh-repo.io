@@ -1,0 +1,6 @@
+{
+  "name": "pi-auto-agents",
+  "description_en": "Pi skill that automatically routes complex coding/development tasks to the sub-agents for multi-agent execution with testing and verification",
+  "description_zh": "Pi 技能，自动将复杂的编码/开发任务路由到子代理，进行多代理执行，包含测试和验证",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

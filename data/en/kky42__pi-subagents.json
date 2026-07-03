@@ -1,0 +1,13 @@
+{
+  "name": "@kky42/pi-subagents",
+  "path": "/packages/@kky42/pi-subagents",
+  "url": "https://pi.dev/packages/@kky42/pi-subagents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1332,
+  "date_ms": 1781291625320,
+  "description_en": "Claude Code-style subagents for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

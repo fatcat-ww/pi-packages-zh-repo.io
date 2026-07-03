@@ -1,0 +1,13 @@
+{
+  "name": "awto-pi-lot",
+  "path": "/packages/awto-pi-lot",
+  "url": "https://pi.dev/packages/awto-pi-lot",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 548,
+  "date_ms": 1779785526358,
+  "description_en": "pi-coding-agent extension that adds PPQ.ai provider and their AutoClaw model",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-gitlab-duo",
+  "path": "/packages/pi-gitlab-duo",
+  "url": "https://pi.dev/packages/pi-gitlab-duo",
+  "types": "",
+  "type_list": [],
+  "downloads": 101,
+  "date_ms": 1769301214845,
+  "description_en": "GitLab Duo provider extension for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

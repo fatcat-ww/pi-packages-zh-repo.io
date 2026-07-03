@@ -1,0 +1,13 @@
+{
+  "name": "@bacnh85/pi-review",
+  "path": "/packages/@bacnh85/pi-review",
+  "url": "https://pi.dev/packages/@bacnh85/pi-review",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 335,
+  "date_ms": 1782445625245,
+  "description_en": "Pi extension adding local code review mode and /review.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

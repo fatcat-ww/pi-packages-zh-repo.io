@@ -1,0 +1,13 @@
+{
+  "name": "@shelken/pi-defender",
+  "path": "/packages/@shelken/pi-defender",
+  "url": "https://pi.dev/packages/@shelken/pi-defender",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782732915006,
+  "description_en": "Defense-in-depth protection for Pi coding agent. Blocks dangerous commands and protects sensitive files — fork of Serhioromano/pi-defender with defaultMode support.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

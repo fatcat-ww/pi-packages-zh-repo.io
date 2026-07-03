@@ -1,0 +1,11 @@
+{
+  "name": "pi-sec",
+  "path": "/packages/pi-sec",
+  "url": "https://pi.dev/packages/pi-sec",
+  "types": "",
+  "type_list": [],
+  "downloads": 78,
+  "date_ms": 1776594686108,
+  "description_en": "A one-stop shop for Pi Agent security mitigations — prompt injection, malicious commands and packages, credential leaks, and more",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

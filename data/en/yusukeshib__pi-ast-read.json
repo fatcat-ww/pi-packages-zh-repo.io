@@ -1,0 +1,13 @@
+{
+  "name": "@yusukeshib/pi-ast-read",
+  "path": "/packages/@yusukeshib/pi-ast-read",
+  "url": "https://pi.dev/packages/@yusukeshib/pi-ast-read",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 173,
+  "date_ms": 1780862798333,
+  "description_en": "Semantic, token-cheap reading of large source files: outline a file's symbols, then read just the one you need.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

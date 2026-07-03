@@ -1,0 +1,13 @@
+{
+  "name": "@jerryan/pi-todo-lite",
+  "path": "/packages/@jerryan/pi-todo-lite",
+  "url": "https://pi.dev/packages/@jerryan/pi-todo-lite",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 92,
+  "date_ms": 1779869465276,
+  "description_en": "A lightweight task tracker extension for the pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

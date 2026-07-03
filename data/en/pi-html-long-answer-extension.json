@@ -1,0 +1,13 @@
+{
+  "name": "pi-html-long-answer-extension",
+  "path": "/packages/pi-html-long-answer-extension",
+  "url": "https://pi.dev/packages/pi-html-long-answer-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 31,
+  "date_ms": 1777188479728,
+  "description_en": "Long-answer HTML export extension for Oh My Pi and Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

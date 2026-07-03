@@ -1,0 +1,13 @@
+{
+  "name": "pi-read-before-write",
+  "path": "/packages/pi-read-before-write",
+  "url": "https://pi.dev/packages/pi-read-before-write",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 67,
+  "date_ms": 1779575685156,
+  "description_en": "Pi extension that blocks stale edit/write operations when files changed since the agent last read them.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-ghostty",
+  "path": "/packages/pi-ghostty",
+  "url": "https://pi.dev/packages/pi-ghostty",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 129,
+  "date_ms": 1771111141835,
+  "description_en": "Ghostty terminal integration for Pi — dynamic title bar, progress indicators, and error states",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

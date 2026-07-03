@@ -1,0 +1,13 @@
+{
+  "name": "pi-bangla-news",
+  "path": "/packages/pi-bangla-news",
+  "url": "https://pi.dev/packages/pi-bangla-news",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 35,
+  "date_ms": 1777840791837,
+  "description_en": "Pi extension for scraping latest Bangladeshi news headlines via Scrapling MCP server",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

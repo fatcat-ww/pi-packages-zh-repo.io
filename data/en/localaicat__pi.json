@@ -1,0 +1,13 @@
+{
+  "name": "@localaicat/pi",
+  "path": "/packages/@localaicat/pi",
+  "url": "https://pi.dev/packages/@localaicat/pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 582,
+  "date_ms": 1781639673317,
+  "description_en": "pi extension that warms/cools the Local AI Cat resident model over the Local API",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

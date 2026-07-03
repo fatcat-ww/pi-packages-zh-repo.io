@@ -1,0 +1,6 @@
+{
+  "name": "pi-init",
+  "description_en": "A pi agent skill to initialize or update AGENTS.md context files.",
+  "description_zh": "用于初始化或更新 AGENTS.md 上下文文件的 pi 代理技能。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

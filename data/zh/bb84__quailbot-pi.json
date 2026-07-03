@@ -1,0 +1,6 @@
+{
+  "name": "@bb84/quailbot-pi",
+  "description_en": "Quailbot Pi -- a Pi agent extension that turns a quantum instrument workspace into a measurement-readback action loop, with experiment logging and a workspace calibrator.",
+  "description_zh": "Quailbot Pi -- 一个将量子仪器工作空间转换为测量读回操作循环的 Pi 代理扩展，包含实验记录和工作空间校准器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

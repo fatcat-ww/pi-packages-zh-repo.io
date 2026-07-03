@@ -1,0 +1,6 @@
+{
+  "name": "@shog-lab/pi-memory",
+  "description_en": "Persistent, inspectable memory for pi-coding-agent: explicit writes, hybrid retrieval (vector + FTS5 + KG), markdown storage, and ask-first skill authoring.",
+  "description_zh": "pi-coding-agent 的持久、可检查的内存：显式写入、混合检索（向量 + FTS5 + KG）、markdown 存储，以及先询问的技能编写。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

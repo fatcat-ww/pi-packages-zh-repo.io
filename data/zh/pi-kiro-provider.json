@@ -1,0 +1,6 @@
+{
+  "name": "pi-kiro-provider",
+  "description_en": "Pi extension provider for Kiro's AWS CodeWhisperer streaming API.",
+  "description_zh": "Kiro 的 AWS CodeWhisperer 流式 API 的 Pi 扩展提供者",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

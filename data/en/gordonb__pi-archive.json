@@ -1,0 +1,11 @@
+{
+  "name": "@gordonb/pi-archive",
+  "path": "/packages/@gordonb/pi-archive",
+  "url": "https://pi.dev/packages/@gordonb/pi-archive",
+  "types": "",
+  "type_list": [],
+  "downloads": 34,
+  "date_ms": 1772960710276,
+  "description_en": "SQLite searchable archive of every conversation with Pi agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

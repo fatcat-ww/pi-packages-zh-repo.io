@@ -1,0 +1,11 @@
+{
+  "name": "@samfp/pi-meeting-copilot",
+  "path": "/packages/@samfp/pi-meeting-copilot",
+  "url": "https://pi.dev/packages/@samfp/pi-meeting-copilot",
+  "types": "",
+  "type_list": [],
+  "downloads": 32,
+  "date_ms": 1776970091759,
+  "description_en": "Live meeting transcription copilot for pi — captures audio via whisper-cpp on Mac, streams transcripts to your dev machine, and gives pi real-time meeting context.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

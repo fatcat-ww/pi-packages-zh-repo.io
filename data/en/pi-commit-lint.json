@@ -1,0 +1,11 @@
+{
+  "name": "pi-commit-lint",
+  "path": "/packages/pi-commit-lint",
+  "url": "https://pi.dev/packages/pi-commit-lint",
+  "types": "",
+  "type_list": [],
+  "downloads": 126,
+  "date_ms": 1782387374331,
+  "description_en": "Validate commit messages against Conventional Commits format with configurable rules",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

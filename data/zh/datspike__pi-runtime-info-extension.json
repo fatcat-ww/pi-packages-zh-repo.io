@@ -1,0 +1,6 @@
+{
+  "name": "@datspike/pi-runtime-info-extension",
+  "description_en": "Pi extension exposing verified runtime model, thinking level, and artifact metadata to agents.",
+  "description_zh": "Pi 扩展，向代理公开经过验证的运行时模型、思维级别和工件元数据",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

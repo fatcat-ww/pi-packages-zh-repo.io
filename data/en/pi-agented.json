@@ -1,0 +1,13 @@
+{
+  "name": "pi-agented",
+  "path": "/packages/pi-agented",
+  "url": "https://pi.dev/packages/pi-agented",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 289,
+  "date_ms": 1781558398686,
+  "description_en": "Generic subagent switcher for pi. Header bar above chat, Ctrl+Shift+S to cycle, /agent slash command. Works with any agent in ~/.pi/agent/agents/.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-git-guard",
+  "path": "/packages/@artale/pi-git-guard",
+  "url": "https://pi.dev/packages/@artale/pi-git-guard",
+  "types": "",
+  "type_list": [],
+  "downloads": 42,
+  "date_ms": 1776788808862,
+  "description_en": "Git safety guard: protect branches, scan secrets, prevent mistakes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

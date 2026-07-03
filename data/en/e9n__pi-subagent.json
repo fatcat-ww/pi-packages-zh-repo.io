@@ -1,0 +1,11 @@
+{
+  "name": "@e9n/pi-subagent",
+  "path": "/packages/@e9n/pi-subagent",
+  "url": "https://pi.dev/packages/@e9n/pi-subagent",
+  "types": "",
+  "type_list": [],
+  "downloads": 37,
+  "date_ms": 1771319511983,
+  "description_en": "Parallel task delegation for pi — spawn isolated subagents for single, parallel, and chain execution",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

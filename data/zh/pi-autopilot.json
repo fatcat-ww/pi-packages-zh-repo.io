@@ -1,0 +1,6 @@
+{
+  "name": "pi-autopilot",
+  "description_en": "Autopilot orchestration package for Pi: /autopilot, /autopilot-onboard, /autopilot-handoff, context budget activation, and child runner wiring.",
+  "description_zh": "Pi 的自动驾驶编排包：/autopilot、/autopilot-onboard、/autopilot-handoff、上下文预算激活和子运行器连接。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

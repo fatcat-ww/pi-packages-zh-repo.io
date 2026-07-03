@@ -1,0 +1,6 @@
+{
+  "name": "@ryukin-dev/pi-featherless-kali",
+  "description_en": "Featherless Provider for Pi with accurate tokenization and concurrency tracking.",
+  "description_zh": "Pi 的 Featherless Provider，具有准确的令牌化和并发跟踪功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

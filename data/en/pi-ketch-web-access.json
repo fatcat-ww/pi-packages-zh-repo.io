@@ -1,0 +1,13 @@
+{
+  "name": "pi-ketch-web-access",
+  "path": "/packages/pi-ketch-web-access",
+  "url": "https://pi.dev/packages/pi-ketch-web-access",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 443,
+  "date_ms": 1782367665700,
+  "description_en": "Unlimited web search for your AI agent with ketch. No API keys. No rate limits with SearXNG. No MCP server.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

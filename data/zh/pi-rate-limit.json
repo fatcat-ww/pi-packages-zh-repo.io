@@ -1,0 +1,6 @@
+{
+  "name": "pi-rate-limit",
+  "description_en": "Pi-native runtime resilience toolkit — rate limiting, retry/backoff planning, and circuit-breaker state tracking for pi.dev extensions",
+  "description_zh": "Pi 原生运行时弹性工具包 — 速率限制、重试/退避计划和 pi.dev 扩展的断路器状态跟踪",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

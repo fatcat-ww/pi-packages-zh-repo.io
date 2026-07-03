@@ -1,0 +1,6 @@
+{
+  "name": "@monotykamary/pi-retry",
+  "description_en": "Extension suite for pi coding agent that handles 400/413 errors and connection errors with automatic retry",
+  "description_zh": "pi 编码代理的扩展套件，处理 400/413 错误和连接错误，具有自动重试功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

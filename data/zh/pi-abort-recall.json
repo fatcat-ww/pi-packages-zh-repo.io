@@ -1,0 +1,6 @@
+{
+  "name": "pi-abort-recall",
+  "description_en": "Recall your last prompt back to the editor after aborting (Esc)",
+  "description_zh": "中止后（Esc）将您的最后提示恢复到编辑器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-fixit",
+  "description_en": "Bug-fix delivery pipeline — ClickUp ticket in, worktrees + MR out",
+  "description_zh": "错误修复交付流程 — ClickUp 票据进入，worktrees + MR 输出",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

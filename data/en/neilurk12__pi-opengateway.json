@@ -1,0 +1,13 @@
+{
+  "name": "@neilurk12/pi-opengateway",
+  "path": "/packages/@neilurk12/pi-opengateway",
+  "url": "https://pi.dev/packages/@neilurk12/pi-opengateway",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 31,
+  "date_ms": 1779465899254,
+  "description_en": "pi extension — OpenGateway provider (OpenAI-compatible)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

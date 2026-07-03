@@ -1,0 +1,13 @@
+{
+  "name": "@tintinweb/pi-tasks",
+  "path": "/packages/@tintinweb/pi-tasks",
+  "url": "https://pi.dev/packages/@tintinweb/pi-tasks",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3313,
+  "date_ms": 1782314432670,
+  "description_en": "A pi extension that brings Claude Code-style task tracking and coordination to pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

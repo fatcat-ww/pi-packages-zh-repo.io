@@ -1,0 +1,11 @@
+{
+  "name": "@cleepi/git",
+  "path": "/packages/@cleepi/git",
+  "url": "https://pi.dev/packages/@cleepi/git",
+  "types": "",
+  "type_list": [],
+  "downloads": 595,
+  "date_ms": 1780432127633,
+  "description_en": "Cleepi git conventions: conventional-commit + branch-naming + PR-shape skills, with /commit and /pr prompts. Monorepo-aware domain and ticket-id resolution. Subject-line-only commits; no body, no footers, no Co-authored-by ever. Small modular PRs; title d",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

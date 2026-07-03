@@ -1,0 +1,6 @@
+{
+  "name": "pi-llm-wiki",
+  "description_en": "A Pi package for persistent markdown wikis with source capture, generated metadata, linting, and an LLM wiki-maintainer skill.",
+  "description_zh": "Pi 包，用于具有源捕获、生成元数据、代码检查和 LLM 维护技能的持久化 Markdown 维基",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

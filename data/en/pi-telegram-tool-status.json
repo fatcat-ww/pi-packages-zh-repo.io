@@ -1,0 +1,13 @@
+{
+  "name": "pi-telegram-tool-status",
+  "path": "/packages/pi-telegram-tool-status",
+  "url": "https://pi.dev/packages/pi-telegram-tool-status",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 111,
+  "date_ms": 1778745257390,
+  "description_en": "Companion extension for pi-telegram (by llblab) — posts a compact live-updating service message listing tools used by the agent during Telegram-originated turns only.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "ypi",
+  "description_en": "ypi — a recursive coding agent. Pi that can call itself via rlm_query.",
+  "description_zh": "ypi — 一个递归编码代理。可以通过 rlm_query 调用自己的 Pi。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

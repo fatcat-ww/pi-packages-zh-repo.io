@@ -1,0 +1,6 @@
+{
+  "name": "@gonrocca/skillautoforge-pi",
+  "description_en": "skillautoforge-pi — an installable pi (pi.dev) package that adds the skill auto-learning loop pi is missing. pi already stores, surfaces (progressive disclosure), and loads skills; this package adds the behavioral loop: a skill_save tool plus prompt guide",
+  "description_zh": "skillautoforge-pi — 一个可安装的 pi (pi.dev) 包，添加了 pi 缺少的技能自动学习循环。pi 已经存储、展示（渐进式披露）和加载技能；此包添加了行为循环：一个 skill_save 工具和提示指南。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

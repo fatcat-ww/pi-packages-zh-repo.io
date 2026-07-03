@@ -1,0 +1,11 @@
+{
+  "name": "pi-parallel-agents",
+  "path": "/packages/pi-parallel-agents",
+  "url": "https://pi.dev/packages/pi-parallel-agents",
+  "types": "",
+  "type_list": [],
+  "downloads": 64,
+  "date_ms": 1770337531392,
+  "description_en": "Dynamic parallel agent execution for pi - run multiple agents with different models without pre-defining configurations",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

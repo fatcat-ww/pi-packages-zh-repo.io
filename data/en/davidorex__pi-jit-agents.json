@@ -1,0 +1,11 @@
+{
+  "name": "@davidorex/pi-jit-agents",
+  "path": "/packages/@davidorex/pi-jit-agents",
+  "url": "https://pi.dev/packages/@davidorex/pi-jit-agents",
+  "types": "",
+  "type_list": [],
+  "downloads": 724,
+  "date_ms": 1781394951846,
+  "description_en": "Agent spec compilation and in-process dispatch runtime — the package that owns everything between 'I have a spec' and 'I have a typed result'",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

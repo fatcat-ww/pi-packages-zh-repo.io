@@ -1,0 +1,13 @@
+{
+  "name": "@agnishc/edb-claude-proxy",
+  "path": "/packages/@agnishc/edb-claude-proxy",
+  "url": "https://pi.dev/packages/@agnishc/edb-claude-proxy",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 626,
+  "date_ms": 1782119165965,
+  "description_en": "Pi extension: claude_proxy tool — delegate tasks to Claude Code CLI from within pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

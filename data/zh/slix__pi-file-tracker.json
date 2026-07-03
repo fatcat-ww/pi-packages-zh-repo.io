@@ -1,0 +1,6 @@
+{
+  "name": "@slix/pi-file-tracker",
+  "description_en": "Widget that tracks files edited by the agent and shows per-file diff stats above the input",
+  "description_zh": "跟踪代理编辑的文件并在输入上方显示每个文件的差异统计信息的组件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

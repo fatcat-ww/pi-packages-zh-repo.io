@@ -1,0 +1,11 @@
+{
+  "name": "@jademind/pi-telemetry",
+  "path": "/packages/@jademind/pi-telemetry",
+  "url": "https://pi.dev/packages/@jademind/pi-telemetry",
+  "types": "",
+  "type_list": [],
+  "downloads": 56,
+  "date_ms": 1771946959213,
+  "description_en": "Structured runtime telemetry for pi-coding-agent, optimized for external services and observability pipelines.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

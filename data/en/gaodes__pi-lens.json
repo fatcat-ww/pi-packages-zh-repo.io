@@ -1,0 +1,13 @@
+{
+  "name": "@gaodes/pi-lens",
+  "path": "/packages/@gaodes/pi-lens",
+  "url": "https://pi.dev/packages/@gaodes/pi-lens",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 175,
+  "date_ms": 1778712095233,
+  "description_en": "Real-time code feedback for pi — LSP, linters, formatters, type-checking, structural analysis & booboo",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

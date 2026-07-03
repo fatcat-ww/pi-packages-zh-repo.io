@@ -1,0 +1,6 @@
+{
+  "name": "pi-github-identity",
+  "description_en": "Run selected GitHub CLI actions from Pi through a separate bot identity.",
+  "description_zh": "通过独立的机器人身份从 Pi 运行选定的 GitHub CLI 操作。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

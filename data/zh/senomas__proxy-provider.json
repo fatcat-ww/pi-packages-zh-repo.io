@@ -1,0 +1,6 @@
+{
+  "name": "@senomas/proxy-provider",
+  "description_en": "A [pi-coding-agent](https://github.com/earendil-works/pi-coding-agent) extension that registers a **deepseek** provider via a configurable AI proxy.",
+  "description_zh": "一个 [pi-coding-agent](https://github.com/earendil-works/pi-coding-agent) 扩展，通过可配置的 AI 代理注册 **deepseek** 提供者",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

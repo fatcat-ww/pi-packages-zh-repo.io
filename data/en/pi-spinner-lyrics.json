@@ -1,0 +1,13 @@
+{
+  "name": "pi-spinner-lyrics",
+  "path": "/packages/pi-spinner-lyrics",
+  "url": "https://pi.dev/packages/pi-spinner-lyrics",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 25,
+  "date_ms": 1778874841220,
+  "description_en": "Replaces pi's spinner verb with rotating Phish-lyric verbs.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

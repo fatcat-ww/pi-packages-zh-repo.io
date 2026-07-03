@@ -1,0 +1,13 @@
+{
+  "name": "pi-openai-codex-device-login",
+  "path": "/packages/pi-openai-codex-device-login",
+  "url": "https://pi.dev/packages/pi-openai-codex-device-login",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 88,
+  "date_ms": 1779705024146,
+  "description_en": "Pi extension that adds ChatGPT Plus/Pro device-code login for the OpenAI Codex provider.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

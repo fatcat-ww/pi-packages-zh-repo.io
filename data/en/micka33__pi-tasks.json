@@ -1,0 +1,14 @@
+{
+  "name": "@micka33/pi-tasks",
+  "path": "/packages/@micka33/pi-tasks",
+  "url": "https://pi.dev/packages/@micka33/pi-tasks",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 203,
+  "date_ms": 1779366095099,
+  "description_en": "Persistent shared task lists for Pi agents and MCP clients.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

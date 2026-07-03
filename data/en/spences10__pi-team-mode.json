@@ -1,0 +1,11 @@
+{
+  "name": "@spences10/pi-team-mode",
+  "path": "/packages/@spences10/pi-team-mode",
+  "url": "https://pi.dev/packages/@spences10/pi-team-mode",
+  "types": "",
+  "type_list": [],
+  "downloads": 1395,
+  "date_ms": 1783028701042,
+  "description_en": "Local peer-session coordination for Pi with RPC teammates, task tracking, and mailboxes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

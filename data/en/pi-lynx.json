@@ -1,0 +1,13 @@
+{
+  "name": "pi-lynx",
+  "path": "/packages/pi-lynx",
+  "url": "https://pi.dev/packages/pi-lynx",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 597,
+  "date_ms": 1782886577823,
+  "description_en": "Pi extension for web search and page fetch via lynx + DuckDuckGo Lite. Terminal browser, web scrape, and search tools with zero API keys.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@narumitw/pi-btw",
+  "path": "/packages/@narumitw/pi-btw",
+  "url": "https://pi.dev/packages/@narumitw/pi-btw",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3748,
+  "date_ms": 1782712224611,
+  "description_en": "Pi extension that adds a /btw side-question command.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-kiro",
+  "path": "/packages/pi-kiro",
+  "url": "https://pi.dev/packages/pi-kiro",
+  "types": "",
+  "type_list": [],
+  "downloads": 102,
+  "date_ms": 1777755129255,
+  "description_en": "[Kiro](https://kiro.dev) provider for [pi](https://github.com/badlogic/pi-mono).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

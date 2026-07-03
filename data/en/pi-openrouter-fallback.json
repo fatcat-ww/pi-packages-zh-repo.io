@@ -1,0 +1,13 @@
+{
+  "name": "pi-openrouter-fallback",
+  "path": "/packages/pi-openrouter-fallback",
+  "url": "https://pi.dev/packages/pi-openrouter-fallback",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 70,
+  "date_ms": 1777574830481,
+  "description_en": "Pi extension for OpenRouter model scoping and automatic switch to openrouter/free on HTTP 403 with auto-resubmit",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

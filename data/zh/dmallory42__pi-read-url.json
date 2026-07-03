@@ -1,0 +1,6 @@
+{
+  "name": "@dmallory42/pi-read-url",
+  "description_en": "Pi extension for extracting public HTML page URLs into clean markdown via system curl.",
+  "description_zh": "通过系统curl将公共HTML页面URL提取为干净markdown的Pi扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

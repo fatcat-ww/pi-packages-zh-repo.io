@@ -1,0 +1,13 @@
+{
+  "name": "pi-observational-memory",
+  "path": "/packages/pi-observational-memory",
+  "url": "https://pi.dev/packages/pi-observational-memory",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2637,
+  "date_ms": 1780342086483,
+  "description_en": "Observational memory extension for pi — cache-friendly tiered compaction with observations and reflections.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

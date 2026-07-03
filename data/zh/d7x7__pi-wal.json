@@ -1,0 +1,6 @@
+{
+  "name": "@d7x7/pi-wal",
+  "description_en": "WAL workflow extension for pi — record and replay agent interactions as .wal scripts",
+  "description_zh": "pi 的 WAL 工作流扩展 — 将代理交互记录为 .wal 脚本并回放",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

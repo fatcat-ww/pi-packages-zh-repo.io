@@ -1,0 +1,13 @@
+{
+  "name": "pi-interactive-shell",
+  "path": "/packages/pi-interactive-shell",
+  "url": "https://pi.dev/packages/pi-interactive-shell",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1652,
+  "date_ms": 1776972145995,
+  "description_en": "Run AI coding agents in pi TUI overlays with interactive, hands-free, and dispatch supervision",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

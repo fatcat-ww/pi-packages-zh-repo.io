@@ -1,0 +1,6 @@
+{
+  "name": "pi-semantic-memory",
+  "description_en": "Local-first semantic memory for Pi coding agent. Powered by LogosDB MCP server — vector search, zero cloud, stdio-only.",
+  "description_zh": "Pi 编码代理的本地优先语义记忆。由 LogosDB MCP 服务器驱动 — 向量搜索，零云服务，仅 stdio。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

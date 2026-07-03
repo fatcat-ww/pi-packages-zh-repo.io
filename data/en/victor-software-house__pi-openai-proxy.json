@@ -1,0 +1,11 @@
+{
+  "name": "@victor-software-house/pi-openai-proxy",
+  "path": "/packages/@victor-software-house/pi-openai-proxy",
+  "url": "https://pi.dev/packages/@victor-software-house/pi-openai-proxy",
+  "types": "",
+  "type_list": [],
+  "downloads": 497,
+  "date_ms": 1778109455198,
+  "description_en": "OpenAI-compatible HTTP proxy for pi's multi-provider model registry",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

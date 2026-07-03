@@ -1,0 +1,13 @@
+{
+  "name": "@vigolium/piolium",
+  "path": "/packages/@vigolium/piolium",
+  "url": "https://pi.dev/packages/@vigolium/piolium",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 8082,
+  "date_ms": 1782391688693,
+  "description_en": "Multi-phase security audits with specialist sub-agents, isolated context windows, capped concurrency, and resumable state — packaged as a Pi extension.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

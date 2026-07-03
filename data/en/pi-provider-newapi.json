@@ -1,0 +1,11 @@
+{
+  "name": "pi-provider-newapi",
+  "path": "/packages/pi-provider-newapi",
+  "url": "https://pi.dev/packages/pi-provider-newapi",
+  "types": "",
+  "type_list": [],
+  "downloads": 509,
+  "date_ms": 1780630948649,
+  "description_en": "pi provider extension for self-hosted NewAPI AI gateway — dynamic model discovery with cost calculation from ratio_config",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

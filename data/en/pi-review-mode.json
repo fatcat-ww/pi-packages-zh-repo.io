@@ -1,0 +1,11 @@
+{
+  "name": "pi-review-mode",
+  "path": "/packages/pi-review-mode",
+  "url": "https://pi.dev/packages/pi-review-mode",
+  "types": "",
+  "type_list": [],
+  "downloads": 87,
+  "date_ms": 1779348546562,
+  "description_en": "Pi extension that opens a native review surface for frozen Git diffs.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

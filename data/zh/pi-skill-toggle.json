@@ -1,0 +1,6 @@
+{
+  "name": "pi-skill-toggle",
+  "description_en": "Enable/disable skills from loading into pi context at startup",
+  "description_zh": "在启动时启用/禁用技能加载到 pi 上下文",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

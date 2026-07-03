@@ -1,0 +1,13 @@
+{
+  "name": "pi-reread-instructions",
+  "path": "/packages/pi-reread-instructions",
+  "url": "https://pi.dev/packages/pi-reread-instructions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 28,
+  "date_ms": 1775510646550,
+  "description_en": "Pi extension that re-inserts AGENTS.md / CLAUDE.md every N completed final assistant replies",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

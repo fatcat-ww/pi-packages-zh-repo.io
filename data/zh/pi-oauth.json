@@ -1,0 +1,6 @@
+{
+  "name": "pi-oauth",
+  "description_en": "Installable pi package for OAuth/subscription-backed model providers not yet built into pi.",
+  "description_zh": "可安装的 pi 包，用于尚未内置到 pi 中的 OAuth/订阅支持的模型提供商。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@monotykamary/pi-tps",
+  "path": "/packages/@monotykamary/pi-tps",
+  "url": "https://pi.dev/packages/@monotykamary/pi-tps",
+  "types": "",
+  "type_list": [],
+  "downloads": 983,
+  "date_ms": 1781973301203,
+  "description_en": "Tokens-per-second tracker for pi — see your LLM generation speed after every agent turn",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-loop-police",
+  "description_en": "Pi extension: detects and interrupts infinite thinking-block and tool-call loops in real time before they exhaust your context window.",
+  "description_zh": "Pi 扩展：实时检测并中断无限思维块和工具调用循环，防止它们耗尽您的上下文窗口",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

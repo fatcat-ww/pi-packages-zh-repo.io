@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-statusbar",
+  "path": "/packages/@artale/pi-statusbar",
+  "url": "https://pi.dev/packages/@artale/pi-statusbar",
+  "types": "",
+  "type_list": [],
+  "downloads": 23,
+  "date_ms": 1773503515475,
+  "description_en": "Custom status bar for Pi. Shows context %, tokens, cost estimate, git branch, and uptime in the footer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

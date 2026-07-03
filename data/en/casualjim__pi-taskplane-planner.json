@@ -1,0 +1,13 @@
+{
+  "name": "@casualjim/pi-taskplane-planner",
+  "path": "/packages/@casualjim/pi-taskplane-planner",
+  "url": "https://pi.dev/packages/@casualjim/pi-taskplane-planner",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 92,
+  "date_ms": 1776281095722,
+  "description_en": "Planner-native pi extension and CLI companion to Taskplane",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

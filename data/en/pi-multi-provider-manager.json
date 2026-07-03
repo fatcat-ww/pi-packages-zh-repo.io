@@ -1,0 +1,13 @@
+{
+  "name": "pi-multi-provider-manager",
+  "path": "/packages/pi-multi-provider-manager",
+  "url": "https://pi.dev/packages/pi-multi-provider-manager",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 45,
+  "date_ms": 1778627788048,
+  "description_en": "Multi-account ChatGPT/Codex OAuth plus Fireworks and Z.ai API-key providers for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-sync-suite",
+  "path": "/packages/pi-sync-suite",
+  "url": "https://pi.dev/packages/pi-sync-suite",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 53,
+  "date_ms": 1777419272915,
+  "description_en": "Cross-platform Pi extension for config sync, chat exports, safe cleanup, and native TUI controls.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

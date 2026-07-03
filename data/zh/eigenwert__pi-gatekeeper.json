@@ -1,0 +1,6 @@
+{
+  "name": "@eigenwert/pi-gatekeeper",
+  "description_en": "Pi extension that gates file-mutating tool calls behind user approval with AST-based bash command analysis",
+  "description_zh": "Pi 扩展，使用基于 AST 的 bash 命令分析，将文件更改工具调用置于用户批准之后。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

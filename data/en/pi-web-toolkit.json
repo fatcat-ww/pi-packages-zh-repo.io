@@ -1,0 +1,13 @@
+{
+  "name": "pi-web-toolkit",
+  "path": "/packages/pi-web-toolkit",
+  "url": "https://pi.dev/packages/pi-web-toolkit",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1057,
+  "date_ms": 1782801051215,
+  "description_en": "Web research toolkit for the pi coding agent. Search via SearXNG, fetch pages with scrapling, browse interactively via agent-browser, batch-read sources in parallel, and optionally fall back to Firecrawl Keyless (no API key) when a local backend fails.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

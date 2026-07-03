@@ -1,0 +1,11 @@
+{
+  "name": "pi-terminal",
+  "path": "/packages/pi-terminal",
+  "url": "https://pi.dev/packages/pi-terminal",
+  "types": "",
+  "type_list": [],
+  "downloads": 79,
+  "date_ms": 1773417478248,
+  "description_en": "Adds /terminal and /t commands to run shell commands in the current working directory and display output inline — with smart truncation and TUI notifications.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

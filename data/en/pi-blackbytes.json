@@ -1,0 +1,11 @@
+{
+  "name": "pi-blackbytes",
+  "path": "/packages/pi-blackbytes",
+  "url": "https://pi.dev/packages/pi-blackbytes",
+  "types": "",
+  "type_list": [],
+  "downloads": 1673,
+  "date_ms": 1780973507961,
+  "description_en": "Pi coding-agent extension that provides local search tools, locally-managed HTTP clients for the websearch / context7 / grep.app surfaces (replacing Pi's MCP-plugin dependency for these services), hashline-based editing, and delegated sub-agents for explo",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

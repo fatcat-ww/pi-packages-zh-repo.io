@@ -1,0 +1,13 @@
+{
+  "name": "@cltec/pi-ollama-web-search",
+  "path": "/packages/@cltec/pi-ollama-web-search",
+  "url": "https://pi.dev/packages/@cltec/pi-ollama-web-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 91,
+  "date_ms": 1778586396236,
+  "description_en": "A local-first, context-safe pi extension package for Ollama web search and fetch.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

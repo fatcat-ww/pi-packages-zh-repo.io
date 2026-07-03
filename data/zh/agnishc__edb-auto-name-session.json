@@ -1,0 +1,6 @@
+{
+  "name": "@agnishc/edb-auto-name-session",
+  "description_en": "Pi extension: replace Pi's first-message session label with a generated title",
+  "description_zh": "Pi 扩展：用生成的标题替换 Pi 的首条消息会话标签",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

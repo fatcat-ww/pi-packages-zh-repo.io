@@ -1,0 +1,6 @@
+{
+  "name": "@the-librarian/pi-extension",
+  "description_en": "Pi coding-agent package for The Librarian: the 7 memory/handoff tools + primer injection, backed by a remote Librarian MCP server.",
+  "description_zh": "The Librarian 的 Pi 编码代理包：7 个记忆/交接工具 + 预注入，由远程 Librarian MCP 服务器支持",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

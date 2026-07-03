@@ -1,0 +1,14 @@
+{
+  "name": "pi-trust-defer",
+  "path": "/packages/pi-trust-defer",
+  "url": "https://pi.dev/packages/pi-trust-defer",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 800,
+  "date_ms": 1781881306103,
+  "description_en": "Skip the startup trust prompt in pi — auto-decline project trust so you're immediately interactive, then /trust + /reload when ready",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

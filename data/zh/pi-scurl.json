@@ -1,0 +1,6 @@
+{
+  "name": "pi-scurl",
+  "description_en": "Secure web fetch for pi – HTML-to-markdown via mdream, secret scanning, prompt injection detection",
+  "description_zh": "pi 的安全网页获取 — 通过 mdream 进行 HTML 到 markdown 转换，密钥扫描，提示注入检测",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

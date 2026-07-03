@@ -1,0 +1,13 @@
+{
+  "name": "pi-quick-perms",
+  "path": "/packages/pi-quick-perms",
+  "url": "https://pi.dev/packages/pi-quick-perms",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 104,
+  "date_ms": 1778862747040,
+  "description_en": "Permission enforcement and quick policy commands for the Pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

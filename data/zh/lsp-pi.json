@@ -1,0 +1,6 @@
+{
+  "name": "lsp-pi",
+  "description_en": "LSP extension for pi-coding-agent - provides language server tool and diagnostics feedback for Dart/Flutter, TypeScript, Vue, Svelte, Python, Go, Kotlin, Swift, Rust",
+  "description_zh": "pi-coding-agent 的 LSP 扩展 — 为 Dart/Flutter、TypeScript、Vue、Svelte、Python、Go、Kotlin、Swift、Rust 提供语言服务器工具和诊断反馈",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

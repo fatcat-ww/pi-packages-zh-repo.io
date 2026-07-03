@@ -1,0 +1,6 @@
+{
+  "name": "@jmcombs/pi-prompt-enhancer",
+  "description_en": "Codebase-aware prompt enhancer for the Pi coding agent — rewrites rough prompts into precise ones, with project tree, git context, and referenced file contents, before they reach the model.",
+  "description_zh": "Pi coding agent 的代码库感知提示增强器 — 将粗略提示重写为精确提示，包含项目树、git 上下文和引用文件内容，在提示到达模型之前进行处理。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

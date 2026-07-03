@@ -1,0 +1,13 @@
+{
+  "name": "pi-timestamps",
+  "path": "/packages/pi-timestamps",
+  "url": "https://pi.dev/packages/pi-timestamps",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 100,
+  "date_ms": 1773445256678,
+  "description_en": "Timestamps extension for pi coding agent — message timing widget, elapsed timer, and interactive timeline browser",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

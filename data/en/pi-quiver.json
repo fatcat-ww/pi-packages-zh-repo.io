@@ -1,0 +1,11 @@
+{
+  "name": "pi-quiver",
+  "path": "/packages/pi-quiver",
+  "url": "https://pi.dev/packages/pi-quiver",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1783003387070,
+  "description_en": "Personal pack of Pi coding-agent extensions. First-party-quality tools that keep context clean. Ships a context-safe fetch tool and a doc_to_md PDF/DOCX/PPTX-to-Markdown converter.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

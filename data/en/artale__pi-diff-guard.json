@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-diff-guard",
+  "path": "/packages/@artale/pi-diff-guard",
+  "url": "https://pi.dev/packages/@artale/pi-diff-guard",
+  "types": "",
+  "type_list": [],
+  "downloads": 46,
+  "date_ms": 1773504225665,
+  "description_en": "Edit awareness for Pi. Tracks file changes, warns on large deletions, shows edit heatmap. /diffguard report for hotspot analysis.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

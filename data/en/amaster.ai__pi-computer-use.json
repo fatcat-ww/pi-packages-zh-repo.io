@@ -1,0 +1,13 @@
+{
+  "name": "@amaster.ai/pi-computer-use",
+  "path": "/packages/@amaster.ai/pi-computer-use",
+  "url": "https://pi.dev/packages/@amaster.ai/pi-computer-use",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 4596,
+  "date_ms": 1782723709042,
+  "description_en": "Pi extension for desktop automation via cua-driver-rs with computer_use_ prefixed tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

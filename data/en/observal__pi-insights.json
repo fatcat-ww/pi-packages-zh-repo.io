@@ -1,0 +1,13 @@
+{
+  "name": "@observal/pi-insights",
+  "path": "/packages/@observal/pi-insights",
+  "url": "https://pi.dev/packages/@observal/pi-insights",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 315,
+  "date_ms": 1779891556905,
+  "description_en": "Pi Insights extension — generates a personal usage insights report from your Pi session history",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

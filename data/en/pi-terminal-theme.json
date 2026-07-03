@@ -1,0 +1,13 @@
+{
+  "name": "pi-terminal-theme",
+  "path": "/packages/pi-terminal-theme",
+  "url": "https://pi.dev/packages/pi-terminal-theme",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 1042,
+  "date_ms": 1779208822121,
+  "description_en": "Pi terminal themes using ANSI 0..15, with an optional tinted variant for custom palette slots.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@gonrocca/skillautoforge-pi",
+  "path": "/packages/@gonrocca/skillautoforge-pi",
+  "url": "https://pi.dev/packages/@gonrocca/skillautoforge-pi",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 73,
+  "date_ms": 1779311060135,
+  "description_en": "skillautoforge-pi — an installable pi (pi.dev) package that adds the skill auto-learning loop pi is missing. pi already stores, surfaces (progressive disclosure), and loads skills; this package adds the behavioral loop: a skill_save tool plus prompt guide",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

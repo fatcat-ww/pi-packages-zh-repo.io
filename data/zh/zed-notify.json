@@ -1,0 +1,6 @@
+{
+  "name": "zed-notify",
+  "description_en": "Pi extension that emits a terminal bell so Zed Terminal Threads can show completion notifications",
+  "description_zh": "Pi extension that emits a terminal bell so Zed Terminal Threads can show completion notifications",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

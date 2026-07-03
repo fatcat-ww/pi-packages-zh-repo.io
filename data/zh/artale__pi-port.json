@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-port",
+  "description_en": "Find what's using a port, kill it. /port 3000",
+  "description_zh": "查找端口使用情况，终止进程。/port 3000",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

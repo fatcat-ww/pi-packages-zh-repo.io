@@ -1,0 +1,6 @@
+{
+  "name": "@arcanemachine/pi-notify-marker",
+  "description_en": "Marker file plugin for Pi coding agent - create files when events occur",
+  "description_zh": "Pi 编码代理的标记文件插件 - 在事件发生时创建文件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

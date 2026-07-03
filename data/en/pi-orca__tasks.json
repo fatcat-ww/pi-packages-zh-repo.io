@@ -1,0 +1,13 @@
+{
+  "name": "@pi-orca/tasks",
+  "path": "/packages/@pi-orca/tasks",
+  "url": "https://pi.dev/packages/@pi-orca/tasks",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 207,
+  "date_ms": 1779854968976,
+  "description_en": "File-backed task DAG with locking",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

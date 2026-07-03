@@ -1,0 +1,13 @@
+{
+  "name": "@pithings/voipi-pi",
+  "path": "/packages/@pithings/voipi-pi",
+  "url": "https://pi.dev/packages/@pithings/voipi-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 70,
+  "date_ms": 1777196693759,
+  "description_en": "Pi extension that adds text-to-speech tools and commands powered by VoiPi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

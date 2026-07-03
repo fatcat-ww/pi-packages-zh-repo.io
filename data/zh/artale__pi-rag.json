@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-rag",
+  "description_en": "Local RAG pipeline. BM25 keyword search over indexed files. Zero cloud, zero deps, fully offline.",
+  "description_zh": "本地 RAG 管道。对索引文件的 BM25 关键字搜索。零云、零依赖，完全离线",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

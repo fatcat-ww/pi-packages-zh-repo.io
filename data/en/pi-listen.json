@@ -1,0 +1,13 @@
+{
+  "name": "pi-listen",
+  "path": "/packages/pi-listen",
+  "url": "https://pi.dev/packages/pi-listen",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 79,
+  "date_ms": 1773284753116,
+  "description_en": "Voice input, first-run onboarding, and side-channel BTW conversations for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

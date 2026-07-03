@@ -1,0 +1,13 @@
+{
+  "name": "pi-mom",
+  "path": "/packages/pi-mom",
+  "url": "https://pi.dev/packages/pi-mom",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 508,
+  "date_ms": 1781143926355,
+  "description_en": "MOM skills for Pi — installs MOM's user-invocable memory skills into the Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

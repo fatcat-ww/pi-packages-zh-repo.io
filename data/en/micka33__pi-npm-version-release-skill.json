@@ -1,0 +1,13 @@
+{
+  "name": "@micka33/pi-npm-version-release-skill",
+  "path": "/packages/@micka33/pi-npm-version-release-skill",
+  "url": "https://pi.dev/packages/@micka33/pi-npm-version-release-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 68,
+  "date_ms": 1779007180887,
+  "description_en": "Pi package providing skills and scripts for versioned GitHub release workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

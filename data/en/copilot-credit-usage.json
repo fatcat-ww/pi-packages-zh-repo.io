@@ -1,0 +1,13 @@
+{
+  "name": "copilot-credit-usage",
+  "path": "/packages/copilot-credit-usage",
+  "url": "https://pi.dev/packages/copilot-credit-usage",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 196,
+  "date_ms": 1780538873182,
+  "description_en": "Pi extension that tracks GitHub Copilot AI credit usage by session and project.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

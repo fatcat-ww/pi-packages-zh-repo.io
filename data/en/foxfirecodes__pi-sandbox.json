@@ -1,0 +1,13 @@
+{
+  "name": "@foxfirecodes/pi-sandbox",
+  "path": "/packages/@foxfirecodes/pi-sandbox",
+  "url": "https://pi.dev/packages/@foxfirecodes/pi-sandbox",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 410,
+  "date_ms": 1780349999997,
+  "description_en": "OS-level sandboxing for pi with interactive permission prompts (fork)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

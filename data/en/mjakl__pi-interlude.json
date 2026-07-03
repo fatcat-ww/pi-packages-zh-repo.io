@@ -1,0 +1,13 @@
+{
+  "name": "@mjakl/pi-interlude",
+  "path": "/packages/@mjakl/pi-interlude",
+  "url": "https://pi.dev/packages/@mjakl/pi-interlude",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 78,
+  "date_ms": 1779476678817,
+  "description_en": "Pi extension for stashing the current draft, sending an interlude message, and restoring the draft.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

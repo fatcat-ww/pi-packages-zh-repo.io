@@ -1,0 +1,14 @@
+{
+  "name": "@sttronn/pi-sheets",
+  "path": "/packages/@sttronn/pi-sheets",
+  "url": "https://pi.dev/packages/@sttronn/pi-sheets",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 116,
+  "date_ms": 1778792376854,
+  "description_en": "Spreadsheet-editing skill for agentic coding hosts (Claude Code, Codex, Pi). openpyxl + formualizer + a unified CLI; works as a portable skill bundle or as a pi extension.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

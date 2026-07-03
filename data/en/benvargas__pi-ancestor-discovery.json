@@ -1,0 +1,16 @@
+{
+  "name": "@benvargas/pi-ancestor-discovery",
+  "path": "/packages/@benvargas/pi-ancestor-discovery",
+  "url": "https://pi.dev/packages/@benvargas/pi-ancestor-discovery",
+  "types": "extension skill theme prompt",
+  "type_list": [
+    "extension",
+    "skill",
+    "theme",
+    "prompt"
+  ],
+  "downloads": 71,
+  "date_ms": 1779738041870,
+  "description_en": "Recursive ancestor discovery for pi resources (skills, prompts, themes)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

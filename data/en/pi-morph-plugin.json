@@ -1,0 +1,11 @@
+{
+  "name": "pi-morph-plugin",
+  "path": "/packages/pi-morph-plugin",
+  "url": "https://pi.dev/packages/pi-morph-plugin",
+  "types": "",
+  "type_list": [],
+  "downloads": 180,
+  "date_ms": 1781553398121,
+  "description_en": "Pi extension for Morph SDK — Fast Apply, WarpGrep, Public Repo Context, and Compaction",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

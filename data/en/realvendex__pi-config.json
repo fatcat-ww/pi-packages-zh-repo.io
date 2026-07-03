@@ -1,0 +1,11 @@
+{
+  "name": "@realvendex/pi-config",
+  "path": "/packages/@realvendex/pi-config",
+  "url": "https://pi.dev/packages/@realvendex/pi-config",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782512505304,
+  "description_en": "Configuration management and schema validation for pi.dev extensions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

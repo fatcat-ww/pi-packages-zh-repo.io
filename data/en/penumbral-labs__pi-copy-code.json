@@ -1,0 +1,13 @@
+{
+  "name": "@penumbral-labs/pi-copy-code",
+  "path": "/packages/@penumbral-labs/pi-copy-code",
+  "url": "https://pi.dev/packages/@penumbral-labs/pi-copy-code",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 67,
+  "date_ms": 1778829941175,
+  "description_en": "A pi extension for ergonomic copying of assistant code blocks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "todo-enforcer",
+  "description_en": "Todo continuation enforcer for pi-coding-agent — monitors todo state and injects prompts to keep agents working until all tasks complete",
+  "description_zh": "pi-coding-agent 的待办事项延续执行器 — 监控待办事项状态并注入提示，确保代理持续工作直到所有任务完成",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

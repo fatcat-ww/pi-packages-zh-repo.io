@@ -1,0 +1,6 @@
+{
+  "name": "@workweave/router",
+  "description_en": "One-command installer that points Claude Code, Codex, opencode, or pi at the Weave Router. For pi it also ships the routing extension, loaded via pi.extensions.",
+  "description_zh": "一键安装程序，将 Claude Code、Codex、opencode 或 pi 指向 Weave Router。对于 pi，它还通过 pi.extensions 发送路由扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

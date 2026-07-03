@@ -1,0 +1,6 @@
+{
+  "name": "pi-unified-exec",
+  "description_en": "Codex-style unified_exec for pi: long-lived shell sessions the LLM polls and drives with write_stdin (Ctrl-C, arrow keys, PTY, REPLs, ssh, dev servers). Full output logged to disk.",
+  "description_zh": "pi 的 Codex 风格 unified_exec — LLM 通过 write_stdin（Ctrl-C、箭头键、PTY、REPL、ssh、开发服务器）轮询和驱动的持久 shell 会话。完整输出记录到磁盘",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

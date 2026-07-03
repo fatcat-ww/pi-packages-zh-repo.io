@@ -1,0 +1,13 @@
+{
+  "name": "pi-double-paste",
+  "path": "/packages/pi-double-paste",
+  "url": "https://pi.dev/packages/pi-double-paste",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 96,
+  "date_ms": 1778601987463,
+  "description_en": "Paste a long block once to collapse it, paste it again to expand it in the editor.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

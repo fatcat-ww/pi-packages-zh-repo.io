@@ -1,0 +1,13 @@
+{
+  "name": "@ayulab/pi-rewind",
+  "path": "/packages/@ayulab/pi-rewind",
+  "url": "https://pi.dev/packages/@ayulab/pi-rewind",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 32192,
+  "date_ms": 1782307248658,
+  "description_en": "Pi extension providing /rewind checkpoint navigation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@ghoseb/pi-damage-control",
+  "path": "/packages/@ghoseb/pi-damage-control",
+  "url": "https://pi.dev/packages/@ghoseb/pi-damage-control",
+  "types": "",
+  "type_list": [],
+  "downloads": 168,
+  "date_ms": 1780032199700,
+  "description_en": "AST-based Damage Control extension for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

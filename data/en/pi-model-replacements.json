@@ -1,0 +1,13 @@
+{
+  "name": "pi-model-replacements",
+  "path": "/packages/pi-model-replacements",
+  "url": "https://pi.dev/packages/pi-model-replacements",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 573,
+  "date_ms": 1781007920889,
+  "description_en": "Model alias/tier (low/medium/high) replacement extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

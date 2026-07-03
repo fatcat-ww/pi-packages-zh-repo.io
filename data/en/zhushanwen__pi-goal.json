@@ -1,0 +1,13 @@
+{
+  "name": "@zhushanwen/pi-goal",
+  "path": "/packages/@zhushanwen/pi-goal",
+  "url": "https://pi.dev/packages/@zhushanwen/pi-goal",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1287,
+  "date_ms": 1782533050022,
+  "description_en": "Codex-style /goal command for Pi — persistent goal-driven autonomous loop with evidence-based completion, token/time budgets, blocked detection, and steering templates.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

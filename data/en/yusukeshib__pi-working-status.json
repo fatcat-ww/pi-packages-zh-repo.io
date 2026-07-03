@@ -1,0 +1,13 @@
+{
+  "name": "@yusukeshib/pi-working-status",
+  "path": "/packages/@yusukeshib/pi-working-status",
+  "url": "https://pi.dev/packages/@yusukeshib/pi-working-status",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 342,
+  "date_ms": 1780712578509,
+  "description_en": "Replace pi's plain \"Working...\" loader with a live, detailed status line that tracks the agent through every phase of a turn.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-sophnet",
+  "path": "/packages/pi-sophnet",
+  "url": "https://pi.dev/packages/pi-sophnet",
+  "types": "",
+  "type_list": [],
+  "downloads": 396,
+  "date_ms": 1780641677324,
+  "description_en": "Sophnet provider extension for pi — register Sophnet models, display billing info in the status bar",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

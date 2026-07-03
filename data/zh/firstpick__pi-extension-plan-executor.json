@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-extension-plan-executor",
+  "description_en": "Autonomous PLAN.md execution loop for Pi that continues until all checklist items are complete.",
+  "description_zh": "Pi 的自主 PLAN.md 执行循环，持续运行直到所有清单项完成",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

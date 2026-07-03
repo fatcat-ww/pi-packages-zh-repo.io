@@ -1,0 +1,13 @@
+{
+  "name": "pi-compact-before-switch",
+  "path": "/packages/pi-compact-before-switch",
+  "url": "https://pi.dev/packages/pi-compact-before-switch",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 149,
+  "date_ms": 1781554882608,
+  "description_en": "Compact context with the outgoing model before switching to a smaller-window model.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

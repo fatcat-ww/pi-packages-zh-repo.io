@@ -1,0 +1,6 @@
+{
+  "name": "pi-multirepo",
+  "description_en": "Pi extension for multi-repo tasks — worktrees, MRs, and tracker integration in one command",
+  "description_zh": "多仓库任务的 Pi 扩展 — 在一个命令中集成工作树、MR 和跟踪器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

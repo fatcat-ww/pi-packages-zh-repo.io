@@ -1,0 +1,6 @@
+{
+  "name": "omni-pi",
+  "description_en": "Single-agent Pi package that interviews the user, documents the spec, and implements work in bounded slices.",
+  "description_zh": "单代理 Pi 包，通过有界切片的方式采访用户、记录规范并实现工作。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

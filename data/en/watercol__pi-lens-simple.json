@@ -1,0 +1,13 @@
+{
+  "name": "@watercol/pi-lens-simple",
+  "path": "/packages/@watercol/pi-lens-simple",
+  "url": "https://pi.dev/packages/@watercol/pi-lens-simple",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 103,
+  "date_ms": 1781543027021,
+  "description_en": "Unofficial simplified fork of pi-lens for AST tools, LSP tools, and post-write LSP diagnostics",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

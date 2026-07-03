@@ -1,0 +1,13 @@
+{
+  "name": "pi-pam",
+  "path": "/packages/pi-pam",
+  "url": "https://pi.dev/packages/pi-pam",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 28,
+  "date_ms": 1779470823955,
+  "description_en": "Project Architectural Maps — living, multi-layer cartography for monorepos. A Pi skill that maintains visual maps, significance ratings, dependency graphs, and third-party repo evaluation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

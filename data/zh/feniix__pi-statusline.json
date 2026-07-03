@@ -1,0 +1,6 @@
+{
+  "name": "@feniix/pi-statusline",
+  "description_en": "Fixed two-line status footer for pi with model, thinking, context, git, token, worktree, and skill indicators",
+  "description_zh": "pi的固定两行状态页脚，带有模型、思考、上下文、git、令牌、工作区和技能指示器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

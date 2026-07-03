@@ -1,0 +1,13 @@
+{
+  "name": "@tungthedev/pi-extensions",
+  "path": "/packages/@tungthedev/pi-extensions",
+  "url": "https://pi.dev/packages/@tungthedev/pi-extensions",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 863,
+  "date_ms": 1779942032320,
+  "description_en": "A Pi package containing editor, mermaid, workspace, web, skill, boomerang, goal, pi-modes, and ext-manager extensions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

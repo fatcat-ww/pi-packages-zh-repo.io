@@ -1,0 +1,11 @@
+{
+  "name": "@pi-stef/agent-workflows",
+  "path": "/packages/@pi-stef/agent-workflows",
+  "url": "https://pi.dev/packages/@pi-stef/agent-workflows",
+  "types": "",
+  "type_list": [],
+  "downloads": 1972,
+  "date_ms": 1781667268908,
+  "description_en": "Reusable workflow engine primitives for agent extensions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

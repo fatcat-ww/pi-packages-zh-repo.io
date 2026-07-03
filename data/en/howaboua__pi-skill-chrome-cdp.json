@@ -1,0 +1,13 @@
+{
+  "name": "@howaboua/pi-skill-chrome-cdp",
+  "path": "/packages/@howaboua/pi-skill-chrome-cdp",
+  "url": "https://pi.dev/packages/@howaboua/pi-skill-chrome-cdp",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 196,
+  "date_ms": 1779991777060,
+  "description_en": "Pi skill package for chrome-cdp.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

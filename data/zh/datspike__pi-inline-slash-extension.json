@@ -1,0 +1,6 @@
+{
+  "name": "@datspike/pi-inline-slash-extension",
+  "description_en": "Pi extension that adds inline slash autocomplete and absolute-path submit bypass without forking core.",
+  "description_zh": "Pi扩展，添加内联斜杠自动补全和绝对路径提交绕过，无需分叉核心",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@mammothb/pi-mermaid",
+  "path": "/packages/@mammothb/pi-mermaid",
+  "url": "https://pi.dev/packages/@mammothb/pi-mermaid",
+  "types": "",
+  "type_list": [],
+  "downloads": 273,
+  "date_ms": 1782023841890,
+  "description_en": "Pi skill that teaches the LLM to write Mermaid diagram syntax",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

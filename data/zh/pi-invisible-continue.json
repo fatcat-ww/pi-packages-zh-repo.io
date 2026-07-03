@@ -1,0 +1,6 @@
+{
+  "name": "pi-invisible-continue",
+  "description_en": "Invisible session continuation for pi — resume the agentic loop without sending ANY prompt the LLM can see",
+  "description_zh": "Pi 的不可见会话继续 - 在不向 LLM 发送任何可见提示的情况下恢复代理循环",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "simple-subs",
+  "path": "/packages/simple-subs",
+  "url": "https://pi.dev/packages/simple-subs",
+  "types": "",
+  "type_list": [],
+  "downloads": 24,
+  "date_ms": 1778541236103,
+  "description_en": "Lightweight subagent dispatch for Pi — single, parallel, async with peer messaging",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

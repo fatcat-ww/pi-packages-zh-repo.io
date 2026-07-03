@@ -1,0 +1,6 @@
+{
+  "name": "@samfp/pi-telegram-bot",
+  "description_en": "Telegram bot exposing pi as a conversational coding agent. Chat with pi in Telegram with streaming responses, tool execution, threaded sessions, and model switching.",
+  "description_zh": "将pi作为对话式编码代理暴露的Telegram机器人。在Telegram中与pi聊天，支持流式响应、工具执行、线程会话和模型切换",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@zgltyq/pi-provider-claude",
+  "description_en": "Claude (Anthropic OAuth/subscription) compatibility layer for pi-coding-agent — keeps ALL extension tools usable under the Claude subscription by mapping unknown flat tool names to mcp__pi__<name> on the wire instead of dropping them, plus optional multi-",
+  "description_zh": "pi-coding-agent 的 Claude (Anthropic OAuth/订阅) 兼容层 — 通过将未知的平面工具名称映射为线上的 mcp__pi__<name> 而不是丢弃它们，使所有扩展工具在 Claude 订阅下可用，并可选支持多-",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

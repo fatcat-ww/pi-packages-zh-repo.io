@@ -1,0 +1,13 @@
+{
+  "name": "@yusukeshib/pi-datetime",
+  "path": "/packages/@yusukeshib/pi-datetime",
+  "url": "https://pi.dev/packages/@yusukeshib/pi-datetime",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 141,
+  "date_ms": 1781119732021,
+  "description_en": "Stamp the local time into the pi buffer after prompts, tool runs, and responses.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

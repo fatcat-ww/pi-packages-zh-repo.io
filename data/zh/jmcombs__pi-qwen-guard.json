@@ -1,0 +1,6 @@
+{
+  "name": "@jmcombs/pi-qwen-guard",
+  "description_en": "Auto-enables strict incremental mode for Qwen 3.6 (Ollama) to prevent 'terminated' and streaming errors.",
+  "description_zh": "为 Qwen 3.6 (Ollama) 自动启用严格增量模式，以防止 'terminated' 和流式错误",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

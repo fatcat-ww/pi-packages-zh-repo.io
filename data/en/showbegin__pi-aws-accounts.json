@@ -1,0 +1,13 @@
+{
+  "name": "@showbegin/pi-aws-accounts",
+  "path": "/packages/@showbegin/pi-aws-accounts",
+  "url": "https://pi.dev/packages/@showbegin/pi-aws-accounts",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 164,
+  "date_ms": 1780571128707,
+  "description_en": "Pi extension: safe multi-account AWS + EKS context switching with a fail-honest prod guardrail and a visible active-account indicator.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

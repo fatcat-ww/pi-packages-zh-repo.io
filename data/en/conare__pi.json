@@ -1,0 +1,13 @@
+{
+  "name": "@conare/pi",
+  "path": "/packages/@conare/pi",
+  "url": "https://pi.dev/packages/@conare/pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 79,
+  "date_ms": 1782312149767,
+  "description_en": "Persistent, cross-session memory for the Pi coding agent — powered by Conare.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-go-review",
+  "description_en": "Review Go code changes against the '100 Go Mistakes and How to Avoid Them' checklist (https://100go.co/). Registers a go_review tool that analyzes git diffs against all 101 common Go mistakes.",
+  "description_zh": "根据《100 Go Mistakes and How to Avoid Them》清单审查 Go 代码更改（https://100go.co/）。注册一个 go_review 工具，分析 git diff 与所有 101 个常见 Go 错误",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

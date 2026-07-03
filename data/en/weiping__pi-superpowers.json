@@ -1,0 +1,13 @@
+{
+  "name": "@weiping/pi-superpowers",
+  "path": "/packages/@weiping/pi-superpowers",
+  "url": "https://pi.dev/packages/@weiping/pi-superpowers",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 350,
+  "date_ms": 1779937990150,
+  "description_en": "Superpowers skills library for Pi: TDD, debugging, collaboration workflows with Chinese trigger support",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@estebanforge/pi-ts-review",
+  "description_en": "TypeScript / React code-review tool for Pi. Grades your git diffs against a focused TS + React rubric (2 sections, 14 entries: TypeScript type-system + React/JSX semantic mistakes). Targets .ts/.mts/.cts/.tsx. Each entry has a bad/good pair; the LLM propo",
+  "description_zh": "用于 Pi 的 TypeScript / React 代码审查工具。根据专注的 TS + React 评分标准（2 个部分，14 个条目：TypeScript 类型系统 + React/JSX 语义错误）评估您的 git 差异。目标文件为 .ts/.mts/.cts/.tsx。每个条目都有好坏对比；LLM 提...",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

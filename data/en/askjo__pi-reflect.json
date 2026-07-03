@@ -1,0 +1,13 @@
+{
+  "name": "@askjo/pi-reflect",
+  "path": "/packages/@askjo/pi-reflect",
+  "url": "https://pi.dev/packages/@askjo/pi-reflect",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 48,
+  "date_ms": 1771870181955,
+  "description_en": "Self-improving behavioral files for pi coding agents. Analyzes session transcripts for correction patterns and makes surgical edits to prevent recurrence.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

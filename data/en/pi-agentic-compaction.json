@@ -1,0 +1,11 @@
+{
+  "name": "pi-agentic-compaction",
+  "path": "/packages/pi-agentic-compaction",
+  "url": "https://pi.dev/packages/pi-agentic-compaction",
+  "types": "",
+  "type_list": [],
+  "downloads": 169,
+  "date_ms": 1774210581096,
+  "description_en": "Pi extension for agentic conversation compaction using a virtual filesystem and tool-driven exploration",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

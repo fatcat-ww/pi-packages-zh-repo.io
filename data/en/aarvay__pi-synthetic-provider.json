@@ -1,0 +1,13 @@
+{
+  "name": "@aarvay/pi-synthetic-provider",
+  "path": "/packages/@aarvay/pi-synthetic-provider",
+  "url": "https://pi.dev/packages/@aarvay/pi-synthetic-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 96,
+  "date_ms": 1780681266216,
+  "description_en": "pi extension for the Synthetic model provider",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

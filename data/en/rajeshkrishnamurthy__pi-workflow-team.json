@@ -1,0 +1,14 @@
+{
+  "name": "@rajeshkrishnamurthy/pi-workflow-team",
+  "path": "/packages/@rajeshkrishnamurthy/pi-workflow-team",
+  "url": "https://pi.dev/packages/@rajeshkrishnamurthy/pi-workflow-team",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 101,
+  "date_ms": 1779883076194,
+  "description_en": "Shared Pi workflow bundle for todos/routing/execution lanes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

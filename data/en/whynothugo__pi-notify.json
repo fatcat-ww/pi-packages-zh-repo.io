@@ -1,0 +1,11 @@
+{
+  "name": "@whynothugo/pi-notify",
+  "path": "/packages/@whynothugo/pi-notify",
+  "url": "https://pi.dev/packages/@whynothugo/pi-notify",
+  "types": "",
+  "type_list": [],
+  "downloads": 51,
+  "date_ms": 1778450367662,
+  "description_en": "Pi extension to emit a terminal bell when the agent ends its turn.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

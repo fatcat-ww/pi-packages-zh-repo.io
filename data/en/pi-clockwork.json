@@ -1,0 +1,11 @@
+{
+  "name": "pi-clockwork",
+  "path": "/packages/pi-clockwork",
+  "url": "https://pi.dev/packages/pi-clockwork",
+  "types": "",
+  "type_list": [],
+  "downloads": 196,
+  "date_ms": 1780841433909,
+  "description_en": "Durable recurring task scheduler extension for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

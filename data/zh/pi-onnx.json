@@ -1,0 +1,6 @@
+{
+  "name": "pi-onnx",
+  "description_en": "Run Hugging Face onnx-community models locally inside pi: registers a chat provider for ONNX text-generation models and a set of tools (embeddings, classification, ASR) backed by @huggingface/transformers and onnxruntime-node.",
+  "description_zh": "在 pi 内部本地运行 Hugging Face onnx-community 模型：为 ONNX 文本生成模型注册聊天提供者，并提供一组由 @huggingface/transformers 和 onnxruntime-node 支持的工具（嵌入、分类、ASR）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@estebanforge/pi-go-review",
+  "path": "/packages/@estebanforge/pi-go-review",
+  "url": "https://pi.dev/packages/@estebanforge/pi-go-review",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 410,
+  "date_ms": 1782832926234,
+  "description_en": "Go code-review tool for Pi. Grades your git diffs against the 100 Go Mistakes rubric (https://100go.co/) and returns categorized findings (Bug / Suggestion / Nit / Good pattern) with an Approve or Request-Changes verdict. Not a linter; pairs with go vet a",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

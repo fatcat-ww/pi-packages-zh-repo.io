@@ -1,0 +1,11 @@
+{
+  "name": "pi-lsp",
+  "path": "/packages/pi-lsp",
+  "url": "https://pi.dev/packages/pi-lsp",
+  "types": "",
+  "type_list": [],
+  "downloads": 399,
+  "date_ms": 1778529560369,
+  "description_en": "Declarative Pi extension for LSP diagnostics and language-server navigation tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

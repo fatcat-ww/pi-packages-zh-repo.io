@@ -1,0 +1,13 @@
+{
+  "name": "@jessenguyen22/pi-tool-router",
+  "path": "/packages/@jessenguyen22/pi-tool-router",
+  "url": "https://pi.dev/packages/@jessenguyen22/pi-tool-router",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 147,
+  "date_ms": 1777272747976,
+  "description_en": "Intelligent tool routing extension for pi coding agent - automatically selects the best tool stack for each task",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

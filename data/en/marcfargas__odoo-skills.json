@@ -1,0 +1,13 @@
+{
+  "name": "@marcfargas/odoo-skills",
+  "path": "/packages/@marcfargas/odoo-skills",
+  "url": "https://pi.dev/packages/@marcfargas/odoo-skills",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 200,
+  "date_ms": 1773437125328,
+  "description_en": "Battle-tested Odoo knowledge modules for AI agents — 5,200+ lines validated against Odoo v17 in CI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

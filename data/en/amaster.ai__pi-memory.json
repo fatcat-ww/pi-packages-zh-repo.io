@@ -1,0 +1,13 @@
+{
+  "name": "@amaster.ai/pi-memory",
+  "path": "/packages/@amaster.ai/pi-memory",
+  "url": "https://pi.dev/packages/@amaster.ai/pi-memory",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 3886,
+  "date_ms": 1782723884177,
+  "description_en": "Pi extension providing persistent curated memory (MEMORY.md + USER.md) injected into the system prompt as a frozen snapshot.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

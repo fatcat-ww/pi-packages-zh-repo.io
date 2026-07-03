@@ -1,0 +1,6 @@
+{
+  "name": "pi-ghcp-headers",
+  "description_en": "Pi extension to customize GitHub Copilot X-Initiator header behavior",
+  "description_zh": "自定义 GitHub Copilot X-Initiator 标头行为的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@pi-vault/pi-subagents",
+  "path": "/packages/@pi-vault/pi-subagents",
+  "url": "https://pi.dev/packages/@pi-vault/pi-subagents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 526,
+  "date_ms": 1781490690114,
+  "description_en": "Pi extension for delegating tasks to isolated and specialized subagents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

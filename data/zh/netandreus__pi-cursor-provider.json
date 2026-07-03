@@ -1,0 +1,6 @@
+{
+  "name": "@netandreus/pi-cursor-provider",
+  "description_en": "Pi Coding Agent custom provider that routes requests through the Cursor Agent CLI — use your Cursor subscription models (Claude, GPT, Gemini, Grok…) inside Pi.",
+  "description_zh": "Pi Coding Agent 自定义提供商，通过 Cursor Agent CLI 路由请求 — 在 Pi 中使用您的 Cursor 订阅模型（Claude、GPT、Gemini、Grok…）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-wc3-sounds",
+  "path": "/packages/pi-wc3-sounds",
+  "url": "https://pi.dev/packages/pi-wc3-sounds",
+  "types": "",
+  "type_list": [],
+  "downloads": 40,
+  "date_ms": 1770816067670,
+  "description_en": "Warcraft III voice lines for pi agent events. Orc Peon for Claude, Human Peasant for Codex.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

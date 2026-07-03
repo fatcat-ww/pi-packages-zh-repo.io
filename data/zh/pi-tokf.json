@@ -1,0 +1,6 @@
+{
+  "name": "pi-tokf",
+  "description_en": "pi extension that wraps commands through tokf for compressed output.",
+  "description_zh": "pi 扩展，通过 tokf 包装命令以实现压缩输出。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

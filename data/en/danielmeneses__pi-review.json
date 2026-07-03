@@ -1,0 +1,13 @@
+{
+  "name": "@danielmeneses/pi-review",
+  "path": "/packages/@danielmeneses/pi-review",
+  "url": "https://pi.dev/packages/@danielmeneses/pi-review",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 86,
+  "date_ms": 1779967613970,
+  "description_en": "PI extension to review, accept, and revert agent code changes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

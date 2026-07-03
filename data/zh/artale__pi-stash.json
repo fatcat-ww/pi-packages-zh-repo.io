@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-stash",
+  "description_en": "Prompt stash for Pi. Save, list, and restore prompt drafts. Like git stash for your prompts.",
+  "description_zh": "Pi 的提示词暂存库。保存、列出和恢复提示词草稿。就像你的提示词的 git stash。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

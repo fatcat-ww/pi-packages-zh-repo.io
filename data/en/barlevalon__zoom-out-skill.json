@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/zoom-out-skill",
+  "path": "/packages/@barlevalon/zoom-out-skill",
+  "url": "https://pi.dev/packages/@barlevalon/zoom-out-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 32,
+  "date_ms": 1780948740249,
+  "description_en": "Tell the agent to zoom out and give broader context or a higher-level perspective. Use when you're unfamiliar with a section of code or need to understand how it fits into the bigger picture.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@0xkobold/pi-whitelist",
+  "path": "/packages/@0xkobold/pi-whitelist",
+  "url": "https://pi.dev/packages/@0xkobold/pi-whitelist",
+  "types": "",
+  "type_list": [],
+  "downloads": 174,
+  "date_ms": 1778791697131,
+  "description_en": "Tri-state tool permission system (allow/deny/ask) for AI agent tool invocations",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

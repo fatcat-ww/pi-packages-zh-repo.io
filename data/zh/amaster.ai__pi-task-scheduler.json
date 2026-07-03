@@ -1,0 +1,6 @@
+{
+  "name": "@amaster.ai/pi-task-scheduler",
+  "description_en": "Pi extension for cron-based scheduled task management with LLM-callable tools",
+  "description_zh": "Pi 的基于 cron 的计划任务管理扩展，具有 LLM 可调用工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-extension-raptor-mini",
+  "description_en": "pi extension that adds GitHub Copilot's Raptor Mini (oswe-vscode-prime) model to pi's github-copilot provider.",
+  "description_zh": "pi 扩展，将 GitHub Copilot 的 Raptor Mini (oswe-vscode-prime) 模型添加到 pi 的 github-copilot 提供者",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

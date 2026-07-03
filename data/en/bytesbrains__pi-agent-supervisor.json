@@ -1,0 +1,13 @@
+{
+  "name": "@bytesbrains/pi-agent-supervisor",
+  "path": "/packages/@bytesbrains/pi-agent-supervisor",
+  "url": "https://pi.dev/packages/@bytesbrains/pi-agent-supervisor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 77,
+  "date_ms": 1778881813166,
+  "description_en": "Runtime safety net for AI agents — blocks dangerous commands, protects files, enforces rate limits, and records sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

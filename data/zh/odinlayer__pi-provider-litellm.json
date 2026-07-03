@@ -1,0 +1,6 @@
+{
+  "name": "@odinlayer/pi-provider-litellm",
+  "description_en": "LiteLLM proxy provider extension for Pi",
+  "description_zh": "Pi 的 LiteLLM 代理提供者扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

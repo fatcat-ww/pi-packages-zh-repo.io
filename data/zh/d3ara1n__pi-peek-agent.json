@@ -1,0 +1,6 @@
+{
+  "name": "@d3ara1n/pi-peek-agent",
+  "description_en": "LLM tool for pi-peek — lets the main agent peek at another pi instance or ask it a question, without disturbing it",
+  "description_zh": "pi-peek 的 LLM 工具 — 让主代理可以查看另一个 pi 实例或向其提问，而不干扰它",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

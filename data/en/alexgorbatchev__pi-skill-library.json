@@ -1,0 +1,14 @@
+{
+  "name": "@alexgorbatchev/pi-skill-library",
+  "path": "/packages/@alexgorbatchev/pi-skill-library",
+  "url": "https://pi.dev/packages/@alexgorbatchev/pi-skill-library",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 78,
+  "date_ms": 1775776755683,
+  "description_en": "Pi extension that exposes skills-library roots through /library:<skill-name> commands.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

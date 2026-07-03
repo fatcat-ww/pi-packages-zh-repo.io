@@ -1,0 +1,13 @@
+{
+  "name": "msco-pi-lot",
+  "path": "/packages/msco-pi-lot",
+  "url": "https://pi.dev/packages/msco-pi-lot",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 44,
+  "date_ms": 1774246545633,
+  "description_en": "Microsoft Copilot provider extension for pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

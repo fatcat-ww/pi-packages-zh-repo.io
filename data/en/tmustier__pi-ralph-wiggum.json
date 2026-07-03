@@ -1,0 +1,11 @@
+{
+  "name": "@tmustier/pi-ralph-wiggum",
+  "path": "/packages/@tmustier/pi-ralph-wiggum",
+  "url": "https://pi.dev/packages/@tmustier/pi-ralph-wiggum",
+  "types": "",
+  "type_list": [],
+  "downloads": 2090,
+  "date_ms": 1778170632668,
+  "description_en": "Long-running agent loops for iterative development in Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

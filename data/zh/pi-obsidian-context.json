@@ -1,0 +1,6 @@
+{
+  "name": "pi-obsidian-context",
+  "description_en": "Pi extension that surfaces Obsidian vault context (active file and open tabs) as an editor widget and injects it as hidden LLM context",
+  "description_zh": "Pi 扩展，将 Obsidian 保管库上下文（活动文件和打开的标签页）作为编辑器小部件展示，并将其作为隐藏的 LLM 上下文注入",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

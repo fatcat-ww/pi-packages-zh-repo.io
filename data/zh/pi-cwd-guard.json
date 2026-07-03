@@ -1,0 +1,6 @@
+{
+  "name": "pi-cwd-guard",
+  "description_en": "Small Pi safety extension for cwd access, protected paths, runtime config confirmation, and common destructive bash commands.",
+  "description_zh": "小型 Pi 安全扩展，用于 cwd 访问、受保护路径、运行时配置确认和常见破坏性 bash 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-opensrc",
+  "description_en": "Unofficial Pi package for vercel-labs/opensrc: installs the opensrc CLI and Pi skill.",
+  "description_zh": "非官方 Pi package for vercel-labs/opensrc：安装 opensrc CLI 和 Pi 技能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

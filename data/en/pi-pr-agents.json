@@ -1,0 +1,13 @@
+{
+  "name": "pi-pr-agents",
+  "path": "/packages/pi-pr-agents",
+  "url": "https://pi.dev/packages/pi-pr-agents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 207,
+  "date_ms": 1781120856344,
+  "description_en": "Graphite/PR-stack orchestration for pi: a main agent that splits work into PRs, dispatches a dedicated worktree subagent per PR, and lays them out as labelled tmux panes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

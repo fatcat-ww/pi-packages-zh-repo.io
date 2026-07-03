@@ -1,0 +1,6 @@
+{
+  "name": "pi-disable-model-skill-invocation",
+  "description_en": "Pi extension that globally hides skills from the model while preserving /skill:name.",
+  "description_zh": "Pi 扩展，全局隐藏模型技能，同时保留 /skill:name",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-lsp",
+  "description_en": "Declarative Pi extension for LSP diagnostics and language-server navigation tools.",
+  "description_zh": "用于 LSP 诊断和语言服务器导航工具的声明式 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

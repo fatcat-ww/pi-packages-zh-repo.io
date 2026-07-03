@@ -1,0 +1,6 @@
+{
+  "name": "@tangle-network/tcloud-agent",
+  "description_en": "Agent run-loop primitive over Tangle sandbox transports — runs an AgentProfile against a brief with criterion gates, budget caps, and streaming events. Includes TangleToolProvider for Pi tool integration.",
+  "description_zh": "Tangle 沙盒传输上的代理运行循环原语 — 针对 brief 运行 AgentProfile，具有标准门、预算上限和流式事件。包括用于 Pi 工具集成的 TangleToolProvider。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-model-sort",
+  "description_en": "Sort models in pi's /model selector by last usage — most recently used models appear first",
+  "description_zh": "按上次使用时间对 pi 的 /model 选择器中的模型进行排序 — 最近使用的模型显示在最前面",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

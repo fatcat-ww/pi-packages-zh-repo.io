@@ -1,0 +1,13 @@
+{
+  "name": "pi-code-index",
+  "path": "/packages/pi-code-index",
+  "url": "https://pi.dev/packages/pi-code-index",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 190,
+  "date_ms": 1781733986736,
+  "description_en": "Fast, precise codebase exploration via universal-ctags — symbol search, outlines, exact code retrieval, global index storage, and cross-project search",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

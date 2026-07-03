@@ -1,0 +1,13 @@
+{
+  "name": "@zigai/pi-prompt-history",
+  "path": "/packages/@zigai/pi-prompt-history",
+  "url": "https://pi.dev/packages/@zigai/pi-prompt-history",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 796,
+  "date_ms": 1782833521388,
+  "description_en": "Pi package that adds cross-session prompt history to the prompt editor.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

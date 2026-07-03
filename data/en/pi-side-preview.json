@@ -1,0 +1,13 @@
+{
+  "name": "pi-side-preview",
+  "path": "/packages/pi-side-preview",
+  "url": "https://pi.dev/packages/pi-side-preview",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 38,
+  "date_ms": 1778006103251,
+  "description_en": "Right-side file and image preview extension for pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

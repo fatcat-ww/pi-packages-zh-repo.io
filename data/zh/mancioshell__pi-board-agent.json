@@ -1,0 +1,6 @@
+{
+  "name": "@mancioshell/pi-board-agent",
+  "description_en": "Autonomous GitHub Project (v2) board executor for Pi — picks Ready cards, implements them in parallel git worktrees via pi-dynamic-workflows, and opens one PR per plan.",
+  "description_zh": "Pi 的 GitHub 项目(v2)看板自主执行器 — 选取 Ready 卡片，通过 pi-dynamic-workflows 在并行 git worktrees 中实现，并为每个计划打开一个 PR。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

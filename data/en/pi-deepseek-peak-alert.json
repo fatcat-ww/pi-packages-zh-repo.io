@@ -1,0 +1,13 @@
+{
+  "name": "pi-deepseek-peak-alert",
+  "path": "/packages/pi-deepseek-peak-alert",
+  "url": "https://pi.dev/packages/pi-deepseek-peak-alert",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782843126623,
+  "description_en": "Pi extension that warns you with desktop notifications when using DeepSeek during peak pricing hours (2× rates)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

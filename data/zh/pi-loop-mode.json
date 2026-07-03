@@ -1,0 +1,6 @@
+{
+  "name": "pi-loop-mode",
+  "description_en": "Unattended loop mode for pi — separate goal/prepare/run phases with per-phase model selection, endless by default, objective goal function (--check) with score/regression tracking, error retry with backoff, layered anti-repetition defenses (near-duplicate",
+  "description_zh": "pi 的无人值守循环模式 — 分离目标/准备/运行阶段，每阶段可选择模型，默认无限循环，带分数/回归跟踪的目标目标函数（--check），带退避的错误重试，分层防重复机制（近似重复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-flow-skills",
+  "description_en": "BMAD-inspired sprint workflow for Pi with parent + parallel sub-agent orchestration and long-term memory. Story/dev/review phases fan out ephemeral Pi sub-agents (research, prior-art, coupling, tests, adversarial reviewers) and synthesize. Epic closeout c",
+  "description_zh": "Pi 的 BMAD 启发式冲刺工作流，具有父代理 + 并行子代理编排和长期记忆。故事/开发/审查阶段生成临时 Pi 子代理（研究、先例、耦合、测试、对抗性审查者）并综合。史诗收尾 c",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

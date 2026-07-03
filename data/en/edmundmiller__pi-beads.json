@@ -1,0 +1,13 @@
+{
+  "name": "@edmundmiller/pi-beads",
+  "path": "/packages/@edmundmiller/pi-beads",
+  "url": "https://pi.dev/packages/@edmundmiller/pi-beads",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 34,
+  "date_ms": 1771908841515,
+  "description_en": "pi extension for beads (bd) task management",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

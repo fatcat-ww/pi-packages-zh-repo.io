@@ -1,0 +1,11 @@
+{
+  "name": "@workweave/router",
+  "path": "/packages/@workweave/router",
+  "url": "https://pi.dev/packages/@workweave/router",
+  "types": "",
+  "type_list": [],
+  "downloads": 1492,
+  "date_ms": 1782228613135,
+  "description_en": "One-command installer that points Claude Code, Codex, opencode, or pi at the Weave Router. For pi it also ships the routing extension, loaded via pi.extensions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

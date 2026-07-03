@@ -1,0 +1,6 @@
+{
+  "name": "@asm3r96/pi-loops",
+  "description_en": "A reusable Pi extension that adds a supervised loop harness around the normal Pi coding agent. Supports bounded LLM nodes, deterministic gates, steering, evidence collection, and composable workflow definitions.",
+  "description_zh": "可重用的 Pi 扩展，在普通 Pi 编码代理周围添加受监督的循环框架。支持有界的 LLM 节点、确定性门、转向、证据收集和可组合工作流定义。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

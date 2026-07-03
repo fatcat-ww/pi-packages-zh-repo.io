@@ -1,0 +1,6 @@
+{
+  "name": "pi-memora",
+  "description_en": "Memora-backed persistent memory for Pi and Codex via MCP.",
+  "description_zh": "通过 MCP 为 Pi 和 Codex 提供 Memora 支持的持久内存。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

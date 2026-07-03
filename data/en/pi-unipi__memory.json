@@ -1,0 +1,13 @@
+{
+  "name": "@pi-unipi/memory",
+  "path": "/packages/@pi-unipi/memory",
+  "url": "https://pi.dev/packages/@pi-unipi/memory",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1204,
+  "date_ms": 1782924709471,
+  "description_en": "Persistent cross-session memory with MemPalace backend (auto-installed) and SQLite fallback for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

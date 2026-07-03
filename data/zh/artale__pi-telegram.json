@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-telegram",
+  "description_en": "Control Pi from Telegram. Run commands, check status, get notifications remotely.",
+  "description_zh": "从 Telegram 控制 Pi。远程运行命令、检查状态、获取通知",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

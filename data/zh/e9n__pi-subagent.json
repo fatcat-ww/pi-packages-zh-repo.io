@@ -1,0 +1,6 @@
+{
+  "name": "@e9n/pi-subagent",
+  "description_en": "Parallel task delegation for pi — spawn isolated subagents for single, parallel, and chain execution",
+  "description_zh": "pi 的并行任务委托 — 生成隔离的子代理用于单任务、并行和链式执行",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

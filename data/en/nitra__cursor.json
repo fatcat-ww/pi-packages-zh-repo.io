@@ -1,0 +1,11 @@
+{
+  "name": "@nitra/cursor",
+  "path": "/packages/@nitra/cursor",
+  "url": "https://pi.dev/packages/@nitra/cursor",
+  "types": "",
+  "type_list": [],
+  "downloads": 31395,
+  "date_ms": 1783068296797,
+  "description_en": "CLI для завантаження cursor-правил (префікс n-) у локальний репозиторій",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

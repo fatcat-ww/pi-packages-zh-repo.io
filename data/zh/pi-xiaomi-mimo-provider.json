@@ -1,0 +1,6 @@
+{
+  "name": "pi-xiaomi-mimo-provider",
+  "description_en": "Xiaomi Mimo provider extension for pi coding agent — registers mimo-v2-pro, mimo-v2-omni, and mimo-v2-tts models",
+  "description_zh": "pi coding agent 的小米 Mimo 提供商扩展 — 注册 mimo-v2-pro、mimo-v2-omni 和 mimo-v2-tts 模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

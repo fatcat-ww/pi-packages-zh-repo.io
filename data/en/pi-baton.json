@@ -1,0 +1,13 @@
+{
+  "name": "pi-baton",
+  "path": "/packages/pi-baton",
+  "url": "https://pi.dev/packages/pi-baton",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 692,
+  "date_ms": 1782526908817,
+  "description_en": "Pi-native workflow baton runner with per-step model switching and isolated step context.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

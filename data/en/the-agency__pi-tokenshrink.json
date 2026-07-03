@@ -1,0 +1,11 @@
+{
+  "name": "@the-agency/pi-tokenshrink",
+  "path": "/packages/@the-agency/pi-tokenshrink",
+  "url": "https://pi.dev/packages/@the-agency/pi-tokenshrink",
+  "types": "",
+  "type_list": [],
+  "downloads": 57,
+  "date_ms": 1776381932672,
+  "description_en": "Reduce token usage of a Pi agent's conversation context using TokenShrink.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

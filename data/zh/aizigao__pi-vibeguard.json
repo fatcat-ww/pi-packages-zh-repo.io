@@ -1,0 +1,6 @@
+{
+  "name": "@aizigao/pi-vibeguard",
+  "description_en": "Pi extension that replaces sensitive strings with placeholders before LLM requests (inspired by VibeGuard).",
+  "description_zh": "在 LLM 请求前用占位符替换敏感字符串的 Pi 扩展（灵感来自 VibeGuard）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@jc4649/pi-web-tools",
+  "description_en": "Web search, URL fetching, GitHub repo cloning, PDF/YouTube/video extraction for the pi coding agent. Slimmed fork of pi-web-access by Nico Bailon.",
+  "description_zh": "pi coding agent 的网络搜索、URL 获取、GitHub 仓库克隆、PDF/YouTube/视频提取工具。Nico Bailon 的 pi-web-access 的精简分支。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

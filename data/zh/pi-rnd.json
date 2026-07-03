@@ -1,0 +1,6 @@
+{
+  "name": "pi-rnd",
+  "description_en": "Scientific-method R&D orchestration for PI Coding Agent — methodology skills, subagent definitions, /rnd-start pipeline, /rnd-doctor, and a composable tool_call gate registry",
+  "description_zh": "PI 编码代理的科学方法 R&D 编排 — 方法论技能、子代理定义、/rnd-start 管道、/rnd-doctor 和可组合的 tool_call 门注册表",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

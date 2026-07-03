@@ -1,0 +1,13 @@
+{
+  "name": "pi-provider-vertex-anthropic",
+  "path": "/packages/pi-provider-vertex-anthropic",
+  "url": "https://pi.dev/packages/pi-provider-vertex-anthropic",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 90,
+  "date_ms": 1776839624016,
+  "description_en": "Pi agent extension for Claude models via Google Cloud Vertex AI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

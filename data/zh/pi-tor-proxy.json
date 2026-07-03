@@ -1,0 +1,6 @@
+{
+  "name": "pi-tor-proxy",
+  "description_en": "Self-contained Pi extension to route all requests through Tor - auto-downloads and manages Tor binary",
+  "description_zh": "自包含的 Pi 扩展，用于将所有请求通过 Tor 路由 — 自动下载并管理 Tor 二进制文件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-bg-run",
+  "description_en": "Background process management for Pi coding agent — spawn, monitor, and get notified when long-running commands complete.",
+  "description_zh": "Pi 编码代理的后台进程管理 — 生成、监控，并在长时间运行的命令完成时获得通知",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

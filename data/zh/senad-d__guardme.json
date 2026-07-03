@@ -1,0 +1,6 @@
+{
+  "name": "@senad-d/guardme",
+  "description_en": "Deny-first Pi guardrails that keep LLM shell and file access safe, transparent, and user-approved.",
+  "description_zh": "拒绝优先的 Pi 防护栏，保持 LLM shell 和文件访问的安全、透明和用户批准",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

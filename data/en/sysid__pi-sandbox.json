@@ -1,0 +1,13 @@
+{
+  "name": "@sysid/pi-sandbox",
+  "path": "/packages/@sysid/pi-sandbox",
+  "url": "https://pi.dev/packages/@sysid/pi-sandbox",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 108,
+  "date_ms": 1774796600986,
+  "description_en": "OS + app sandboxing extension for the pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

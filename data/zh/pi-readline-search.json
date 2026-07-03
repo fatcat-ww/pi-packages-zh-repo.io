@@ -1,0 +1,6 @@
+{
+  "name": "pi-readline-search",
+  "description_en": "Pi extension for GNU Readline-style reverse search on Ctrl+R",
+  "description_zh": "Pi 扩展，支持 GNU Readline 风格的反向搜索（Ctrl+R）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

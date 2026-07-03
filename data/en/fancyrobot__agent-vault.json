@@ -1,0 +1,11 @@
+{
+  "name": "@fancyrobot/agent-vault",
+  "path": "/packages/@fancyrobot/agent-vault",
+  "url": "https://pi.dev/packages/@fancyrobot/agent-vault",
+  "types": "",
+  "type_list": [],
+  "downloads": 128,
+  "date_ms": 1777264014382,
+  "description_en": "Durable project memory for coding agents. Obsidian-compatible vault with MCP server, pi package, and workflow support for Claude Code, OpenCode, pi, and Codex.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

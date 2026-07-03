@@ -1,0 +1,6 @@
+{
+  "name": "@tifan/pi-titlebar-spinner",
+  "description_en": "Show a spinner in the pi titlebar while the agent runs.",
+  "description_zh": "代理运行时在 pi 标题栏显示旋转指示器。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

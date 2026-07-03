@@ -1,0 +1,11 @@
+{
+  "name": "@linimin/pi-letscook",
+  "path": "/packages/@linimin/pi-letscook",
+  "url": "https://pi.dev/packages/@linimin/pi-letscook",
+  "types": "",
+  "type_list": [],
+  "downloads": 1496,
+  "date_ms": 1782448031465,
+  "description_en": "Pi package for long-running completion workflows with canonical .agent state, role-based subagents, continuity, and verification helpers.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

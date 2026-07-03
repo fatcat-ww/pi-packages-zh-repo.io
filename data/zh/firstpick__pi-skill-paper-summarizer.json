@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-paper-summarizer",
+  "description_en": "Agents should invoke this skill for academic or technical papers, arXiv/PubMed/IEEE/ACM links, PDFs, methodology review, limitations, practical implications, or extracting findings for engineering decisions.",
+  "description_zh": "代理应在学术论文或技术论文、arXiv/PubMed/IEEE/ACM 链接、PDF、方法论审查、局限性、实际含义或为工程决策提取发现时调用此技能。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

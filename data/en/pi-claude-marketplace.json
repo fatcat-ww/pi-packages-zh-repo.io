@@ -1,0 +1,13 @@
+{
+  "name": "pi-claude-marketplace",
+  "path": "/packages/pi-claude-marketplace",
+  "url": "https://pi.dev/packages/pi-claude-marketplace",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2586,
+  "date_ms": 1782960933630,
+  "description_en": "Access Claude plugin marketplaces from Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

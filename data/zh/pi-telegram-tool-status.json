@@ -1,0 +1,6 @@
+{
+  "name": "pi-telegram-tool-status",
+  "description_en": "Companion extension for pi-telegram (by llblab) — posts a compact live-updating service message listing tools used by the agent during Telegram-originated turns only.",
+  "description_zh": "pi-telegram (by llblab) 的配套扩展 — 仅在来自 Telegram 的回合期间，发布一个包含代理使用的工具的紧凑实时更新服务消息",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

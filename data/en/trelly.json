@@ -1,0 +1,11 @@
+{
+  "name": "trelly",
+  "path": "/packages/trelly",
+  "url": "https://pi.dev/packages/trelly",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1783083379694,
+  "description_en": "trelly — fast Trello CLI with multi-profile auth, MCP server, and kanban TUI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

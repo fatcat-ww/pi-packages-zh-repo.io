@@ -1,0 +1,13 @@
+{
+  "name": "pi-canary",
+  "path": "/packages/pi-canary",
+  "url": "https://pi.dev/packages/pi-canary",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1580,
+  "date_ms": 1782965767242,
+  "description_en": "Pi extension: silently verifies agent context awareness every turn using hidden canary tokens. KV-cache friendly.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

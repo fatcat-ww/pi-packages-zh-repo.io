@@ -1,0 +1,13 @@
+{
+  "name": "pi-skills-sh",
+  "path": "/packages/pi-skills-sh",
+  "url": "https://pi.dev/packages/pi-skills-sh",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 134,
+  "date_ms": 1773422928891,
+  "description_en": "Browse, install & manage skills.sh skills from inside pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

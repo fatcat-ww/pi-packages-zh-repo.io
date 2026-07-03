@@ -1,0 +1,11 @@
+{
+  "name": "pi-warp-kitty-images",
+  "path": "/packages/pi-warp-kitty-images",
+  "url": "https://pi.dev/packages/pi-warp-kitty-images",
+  "types": "",
+  "type_list": [],
+  "downloads": 193,
+  "date_ms": 1781484079234,
+  "description_en": "Enable Kitty image protocol for Warp terminal in pi's TUI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

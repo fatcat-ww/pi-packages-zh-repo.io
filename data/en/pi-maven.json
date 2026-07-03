@@ -1,0 +1,11 @@
+{
+  "name": "pi-maven",
+  "path": "/packages/pi-maven",
+  "url": "https://pi.dev/packages/pi-maven",
+  "types": "",
+  "type_list": [],
+  "downloads": 83,
+  "date_ms": 1779605879750,
+  "description_en": "Maven extension for pi — structured test execution, project info, and version lookup",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

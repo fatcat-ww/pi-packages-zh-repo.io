@@ -1,0 +1,11 @@
+{
+  "name": "pi-kota",
+  "path": "/packages/pi-kota",
+  "url": "https://pi.dev/packages/pi-kota",
+  "types": "",
+  "type_list": [],
+  "downloads": 38,
+  "date_ms": 1770946476519,
+  "description_en": "KotaDB thin wrapper + context pruning extension for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

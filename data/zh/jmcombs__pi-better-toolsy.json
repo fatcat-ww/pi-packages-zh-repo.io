@@ -1,0 +1,6 @@
+{
+  "name": "@jmcombs/pi-better-toolsy",
+  "description_en": "Drop-in replacements for Pi's built-in ls, read, grep, find, edit, and write tools — adds .gitignore awareness, path-traversal protection, and $ injection-safe edits.",
+  "description_zh": "Pi 内置 ls、read、grep、find、edit 和 write 工具的替代品 — 添加 .gitignore 感知、路径遍历保护和 $ 注入安全编辑",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

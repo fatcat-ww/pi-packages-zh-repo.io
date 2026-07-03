@@ -1,0 +1,6 @@
+{
+  "name": "pi-powershell",
+  "description_en": "Robust PowerShell extension for pi on Windows — token-based bash-to-PS translation, background jobs, diagnostics",
+  "description_zh": "Windows 上 pi 的健壮 PowerShell 扩展 — 基于令牌的 bash 到 PS 翻译、后台任务、诊断",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

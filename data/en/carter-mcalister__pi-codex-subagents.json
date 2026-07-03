@@ -1,0 +1,13 @@
+{
+  "name": "@carter-mcalister/pi-codex-subagents",
+  "path": "/packages/@carter-mcalister/pi-codex-subagents",
+  "url": "https://pi.dev/packages/@carter-mcalister/pi-codex-subagents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 37,
+  "date_ms": 1778371224340,
+  "description_en": "Codex-compatible MultiAgentV2 subagent tools for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

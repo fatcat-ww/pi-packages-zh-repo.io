@@ -1,0 +1,6 @@
+{
+  "name": "@agnishc/edb-agent-steer",
+  "description_en": "Pi extension: intercepts mid-turn messages with a steer / queue / discard / edit prompt",
+  "description_zh": "Pi 扩展：使用转向/排队/丢弃/编辑提示拦截中途消息",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

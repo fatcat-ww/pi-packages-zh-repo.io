@@ -1,0 +1,11 @@
+{
+  "name": "pi-yandex-bridge",
+  "path": "/packages/pi-yandex-bridge",
+  "url": "https://pi.dev/packages/pi-yandex-bridge",
+  "types": "",
+  "type_list": [],
+  "downloads": 125,
+  "date_ms": 1778326093764,
+  "description_en": "Pi Coding Agent provider bridge for Yandex Cloud AI (YandexGPT)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@saber7ooth/pi-archon",
+  "path": "/packages/@saber7ooth/pi-archon",
+  "url": "https://pi.dev/packages/@saber7ooth/pi-archon",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 130,
+  "date_ms": 1777893527267,
+  "description_en": "Archon workflow extension package for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

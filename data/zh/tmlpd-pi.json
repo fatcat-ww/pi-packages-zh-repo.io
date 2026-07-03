@@ -1,0 +1,6 @@
+{
+  "name": "tmlpd-pi",
+  "description_en": "Research-backed Multi-LLM Router with parallel execution, learned routing (RouteLLM), prefix caching (RadixAttention), speculative decoding (Medusa/EAGLE), token compression (ISON), local LLM support (Ollama/vLLM/LM Studio), batch processing. Python bindi",
+  "description_zh": "基于研究的多 LLM 路由器，具有并行执行、学习路由（RouteLLM）、前缀缓存（RadixAttention）、推测解码（Medusa/EAGLE）、令牌压缩（ISON）、本地 LLM 支持（Ollama/vLLM/LM Studio）、批处理。Python 绑定",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

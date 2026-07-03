@@ -1,0 +1,13 @@
+{
+  "name": "pi-processes-git-bash",
+  "path": "/packages/pi-processes-git-bash",
+  "url": "https://pi.dev/packages/pi-processes-git-bash",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 28,
+  "date_ms": 1779030777636,
+  "description_en": "![banner](https://assets.aliou.me/pi-extensions/banners/pi-processes.png)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

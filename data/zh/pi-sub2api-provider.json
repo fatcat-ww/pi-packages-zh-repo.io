@@ -1,0 +1,6 @@
+{
+  "name": "pi-sub2api-provider",
+  "description_en": "Pi extension that auto-registers sub2api/OpenAI-compatible providers and displays quota usage.",
+  "description_zh": "Pi 扩展，自动注册 sub2api/OpenAI 兼容提供商并显示配额使用情况。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

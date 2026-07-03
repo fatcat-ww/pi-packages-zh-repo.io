@@ -1,0 +1,6 @@
+{
+  "name": "@agentcom/pi-agentcom",
+  "description_en": "Remote Pi session communication over an AgentCom WebSocket server.",
+  "description_zh": "通过 AgentCom WebSocket 服务器进行远程 Pi 会话通信",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

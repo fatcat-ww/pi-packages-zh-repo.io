@@ -1,0 +1,6 @@
+{
+  "name": "pi-safety-destructive-commands",
+  "description_en": "Intercepts dangerous bash commands (dd, mkfs, rm -rf /, fork bombs, iptables flush, shutdown…) and hard-blocks or prompts for confirmation before execution.",
+  "description_zh": "拦截危险的 bash 命令（dd、mkfs、rm -rf /、fork 炸弹、iptables 刷新、关机等），并在执行前硬阻止或要求确认",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

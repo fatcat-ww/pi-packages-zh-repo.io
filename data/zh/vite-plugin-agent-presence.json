@@ -1,0 +1,6 @@
+{
+  "name": "vite-plugin-agent-presence",
+  "description_en": "Vite dev overlay for Pi agent presence",
+  "description_zh": "面向 Pi 代理存在的 Vite 开发覆盖层",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

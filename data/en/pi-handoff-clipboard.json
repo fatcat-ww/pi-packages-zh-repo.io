@@ -1,0 +1,11 @@
+{
+  "name": "pi-handoff-clipboard",
+  "path": "/packages/pi-handoff-clipboard",
+  "url": "https://pi.dev/packages/pi-handoff-clipboard",
+  "types": "",
+  "type_list": [],
+  "downloads": 446,
+  "date_ms": 1781822690750,
+  "description_en": "Clipboard-first Pi extension that turns the current conversation into a next-session handoff prompt.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

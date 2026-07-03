@@ -1,0 +1,13 @@
+{
+  "name": "@howaboua/pi-skill-omarchy-help",
+  "path": "/packages/@howaboua/pi-skill-omarchy-help",
+  "url": "https://pi.dev/packages/@howaboua/pi-skill-omarchy-help",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 40,
+  "date_ms": 1779991780084,
+  "description_en": "Pi skill package for omarchy-help.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

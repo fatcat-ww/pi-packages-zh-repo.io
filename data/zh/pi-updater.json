@@ -1,0 +1,6 @@
+{
+  "name": "pi-updater",
+  "description_en": "Codex-style auto-updater for pi. Checks for new versions on startup and prompts to install.",
+  "description_zh": "pi 的 Codex 风格自动更新器。启动时检查新版本并提示安装",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

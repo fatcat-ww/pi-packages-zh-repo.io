@@ -1,0 +1,6 @@
+{
+  "name": "@pi-unipi/notify",
+  "description_en": "Cross-platform notification extension for Pi — native OS, Gotify, and Telegram notifications for agent lifecycle events",
+  "description_zh": "Pi 的跨平台通知扩展 - 用于代理生命周期事件的本地操作系统、Gotify 和 Telegram 通知",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

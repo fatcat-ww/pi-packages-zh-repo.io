@@ -1,0 +1,6 @@
+{
+  "name": "@eggmasonvalue/pi-subagent",
+  "description_en": "Observable, steerable, isolated-context subagents for pi — resume any child mid-task, flush partial results on interrupt/timeout, lean machine-facing envelope, optional model allowlist.",
+  "description_zh": "面向 pi 的可观察、可操控、隔离上下文的子代理 — 可在任务中途恢复任何子代理，在中断/超时时刷新部分结果，轻量级机器端信封，可选模型允许列表。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

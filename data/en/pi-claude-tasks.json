@@ -1,0 +1,13 @@
+{
+  "name": "pi-claude-tasks",
+  "path": "/packages/pi-claude-tasks",
+  "url": "https://pi.dev/packages/pi-claude-tasks",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 37,
+  "date_ms": 1776850043311,
+  "description_en": "Browse and manage Claude Code tasks from Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

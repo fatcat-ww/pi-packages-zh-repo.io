@@ -1,0 +1,6 @@
+{
+  "name": "@fodx/codelens",
+  "description_en": "Local, branch-aware code search & relation graph. SQLite FTS5 + tree-sitter symbols + source-graph edges, exposed as an MCP server and CLI. No chat LLM required.",
+  "description_zh": "本地、分支感知的代码搜索和关系图。SQLite FTS5 + tree-sitter 符号 + 源图边，作为 MCP 服务器和 CLI 公开。无需聊天 LLM。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

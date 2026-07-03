@@ -1,0 +1,13 @@
+{
+  "name": "pi-exit-command",
+  "path": "/packages/pi-exit-command",
+  "url": "https://pi.dev/packages/pi-exit-command",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 63,
+  "date_ms": 1779874376337,
+  "description_en": "Adds /exit as an alias for /quit in pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

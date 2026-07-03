@@ -1,0 +1,11 @@
+{
+  "name": "vendure-pi",
+  "path": "/packages/vendure-pi",
+  "url": "https://pi.dev/packages/vendure-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 60,
+  "date_ms": 1777999106748,
+  "description_en": "Pi agent extension for Vendure e-commerce management. Connect to your Vendure instance and manage products, orders, customers, and more through natural language. Requires vendure-mcp-graphql.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

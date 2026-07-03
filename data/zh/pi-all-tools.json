@@ -1,0 +1,6 @@
+{
+  "name": "pi-all-tools",
+  "description_en": "Enable all 7 built-in Pi tools by default (read, bash, edit, write, grep, find, ls)",
+  "description_zh": "默认启用所有 7 个内置 Pi 工具（read、bash、edit、write、grep、find、ls）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-file-permissions",
+  "description_en": "Pi extension that enforces file-level permissions via a YAML config. Controls which paths each tool (read, write, edit, find, grep, ls) can access.",
+  "description_zh": "通过 YAML 配置强制执行文件级权限的 Pi 扩展。控制每个工具（读取、写入、编辑、查找、grep、ls）可以访问的路径",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

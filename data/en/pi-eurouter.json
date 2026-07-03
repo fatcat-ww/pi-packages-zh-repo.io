@@ -1,0 +1,13 @@
+{
+  "name": "pi-eurouter",
+  "path": "/packages/pi-eurouter",
+  "url": "https://pi.dev/packages/pi-eurouter",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 55,
+  "date_ms": 1779356970148,
+  "description_en": "EUrouter provider for pi. 127 models via API, fallback if offline.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

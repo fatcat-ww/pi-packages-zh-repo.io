@@ -1,0 +1,11 @@
+{
+  "name": "pi-sdd-stack",
+  "path": "/packages/pi-sdd-stack",
+  "url": "https://pi.dev/packages/pi-sdd-stack",
+  "types": "",
+  "type_list": [],
+  "downloads": 514,
+  "date_ms": 1780694989526,
+  "description_en": "PRD-first SDD stack for Pi Agent with OpenSpec and strict Engram memory policy.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

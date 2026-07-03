@@ -1,0 +1,14 @@
+{
+  "name": "@wishx127/pi-tokyo-night",
+  "path": "/packages/@wishx127/pi-tokyo-night",
+  "url": "https://pi.dev/packages/@wishx127/pi-tokyo-night",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 375,
+  "date_ms": 1782058335644,
+  "description_en": "Pi theme + extension bringing Tokyo Night color scheme with a Powerline-style status bar",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

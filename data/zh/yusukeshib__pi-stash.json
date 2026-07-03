@@ -1,0 +1,6 @@
+{
+  "name": "@yusukeshib/pi-stash",
+  "description_en": "A personal stash of reusable prompt fragments for the Pi coding agent. Push prompts you think of mid-task, then pop them into the editor when you need them.",
+  "description_zh": "Pi 编码代理的个人可重用提示片段库。在任务中想到提示时推入，需要时弹出至编辑器。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

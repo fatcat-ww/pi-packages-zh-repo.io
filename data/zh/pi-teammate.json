@@ -1,0 +1,6 @@
+{
+  "name": "pi-teammate",
+  "description_en": "Pi agent-to-agent team communication via shared SQLite message bus with MAMORU guardian",
+  "description_zh": "Pi 代理间团队通信，通过共享 SQLite 消息总线和 MAMORU 守护进程",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

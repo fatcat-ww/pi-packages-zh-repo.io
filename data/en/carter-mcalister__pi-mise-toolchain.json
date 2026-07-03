@@ -1,0 +1,13 @@
+{
+  "name": "@carter-mcalister/pi-mise-toolchain",
+  "path": "/packages/@carter-mcalister/pi-mise-toolchain",
+  "url": "https://pi.dev/packages/@carter-mcalister/pi-mise-toolchain",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 32,
+  "date_ms": 1775993113833,
+  "description_en": "Mise-driven toolchain enforcement for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

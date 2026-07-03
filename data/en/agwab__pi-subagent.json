@@ -1,0 +1,11 @@
+{
+  "name": "@agwab/pi-subagent",
+  "path": "/packages/@agwab/pi-subagent",
+  "url": "https://pi.dev/packages/@agwab/pi-subagent",
+  "types": "",
+  "type_list": [],
+  "downloads": 1434,
+  "date_ms": 1783026659265,
+  "description_en": "Minimal subagent runtime for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

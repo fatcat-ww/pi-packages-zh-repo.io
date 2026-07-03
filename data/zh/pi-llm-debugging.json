@@ -1,0 +1,6 @@
+{
+  "name": "pi-llm-debugging",
+  "description_en": "Saves LLM provider request payloads to the project's .pi folder for per-project debugging",
+  "description_zh": "将 LLM 提供商请求负载保存到项目的 .pi 文件夹中，用于项目级调试",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

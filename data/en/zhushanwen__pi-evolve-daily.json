@@ -1,0 +1,11 @@
+{
+  "name": "@zhushanwen/pi-evolve-daily",
+  "path": "/packages/@zhushanwen/pi-evolve-daily",
+  "url": "https://pi.dev/packages/@zhushanwen/pi-evolve-daily",
+  "types": "",
+  "type_list": [],
+  "downloads": 1782,
+  "date_ms": 1781513237511,
+  "description_en": "Daily evolution data collector — runs Python analyzer on first session of the day.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

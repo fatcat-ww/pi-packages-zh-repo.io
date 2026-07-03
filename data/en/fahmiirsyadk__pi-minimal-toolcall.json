@@ -1,0 +1,13 @@
+{
+  "name": "@fahmiirsyadk/pi-minimal-toolcall",
+  "path": "/packages/@fahmiirsyadk/pi-minimal-toolcall",
+  "url": "https://pi.dev/packages/@fahmiirsyadk/pi-minimal-toolcall",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 106,
+  "date_ms": 1781982621907,
+  "description_en": "Minimalist & less noisy tool-call rendering for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

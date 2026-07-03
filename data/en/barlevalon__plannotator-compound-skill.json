@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/plannotator-compound-skill",
+  "path": "/packages/@barlevalon/plannotator-compound-skill",
+  "url": "https://pi.dev/packages/@barlevalon/plannotator-compound-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 93,
+  "date_ms": 1780948747811,
+  "description_en": "Analyze a user's Plannotator plan archive to extract denial patterns, feedback taxonomy, evolution over time, and actionable prompt improvements — then produce a polished HTML dashboard report. Falls back to Claude Co...",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@haphazarddev/pi-interactive-code-review",
+  "description_en": "A pi extension for interactive code review against your default branch, including uncommitted changes, with line or hunk comments, batching, and inline agent responses.",
+  "description_zh": "Pi 扩展，用于与默认分支进行交互式代码审查，包括未提交的更改，支持行或块注释、批处理和内联代理响应。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

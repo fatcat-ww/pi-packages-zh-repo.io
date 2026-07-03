@@ -1,0 +1,6 @@
+{
+  "name": "@diegopetrucci/pi-annotate-git-diff",
+  "description_en": "A standalone pi extension that adds /annotate-git-diff, a native Glimpse UI for annotating git diffs and sending feedback to the editor.",
+  "description_zh": "一个独立的 pi 扩展，添加 /annotate-git-diff，用于注释 git diff 并将反馈发送到编辑器的原生 Glimpse UI",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

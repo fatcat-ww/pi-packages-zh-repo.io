@@ -1,0 +1,11 @@
+{
+  "name": "pi-context-manager",
+  "path": "/packages/pi-context-manager",
+  "url": "https://pi.dev/packages/pi-context-manager",
+  "types": "",
+  "type_list": [],
+  "downloads": 394,
+  "date_ms": 1780405507167,
+  "description_en": "Tool result processing, distillation, and context management for pi-coding-agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

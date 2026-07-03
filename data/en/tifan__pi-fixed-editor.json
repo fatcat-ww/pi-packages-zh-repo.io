@@ -1,0 +1,13 @@
+{
+  "name": "@tifan/pi-fixed-editor",
+  "path": "/packages/@tifan/pi-fixed-editor",
+  "url": "https://pi.dev/packages/@tifan/pi-fixed-editor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 457,
+  "date_ms": 1781963395859,
+  "description_en": "Keep the pi editor and footer fixed while the transcript scrolls.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

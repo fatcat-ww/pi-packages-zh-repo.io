@@ -1,0 +1,13 @@
+{
+  "name": "@walterra/pi-graphviz",
+  "path": "/packages/@walterra/pi-graphviz",
+  "url": "https://pi.dev/packages/@walterra/pi-graphviz",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 79,
+  "date_ms": 1774304894821,
+  "description_en": "Graphviz chart extension for pi coding agent - render DOT diagrams as inline images",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-minimax-usage",
+  "description_en": "Minimax M3 token usage, cost, prompt-cache savings, and 5h/weekly subscription quota in the Pi status line",
+  "description_zh": "Pi 状态行中的 Minimax M3 token 使用情况、成本、提示缓存节省和 5 小时/周订阅配额",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@diegopetrucci/pi-annotate-last-message",
+  "path": "/packages/@diegopetrucci/pi-annotate-last-message",
+  "url": "https://pi.dev/packages/@diegopetrucci/pi-annotate-last-message",
+  "types": "",
+  "type_list": [],
+  "downloads": 242,
+  "date_ms": 1782197104834,
+  "description_en": "A standalone pi extension that adds /annotate-last-message, a native Glimpse UI for annotating the latest assistant reply.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

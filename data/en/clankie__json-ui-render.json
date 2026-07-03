@@ -1,0 +1,11 @@
+{
+  "name": "@clankie/json-ui-render",
+  "path": "/packages/@clankie/json-ui-render",
+  "url": "https://pi.dev/packages/@clankie/json-ui-render",
+  "types": "",
+  "type_list": [],
+  "downloads": 48,
+  "date_ms": 1773234876675,
+  "description_en": "Render structured chat UI in clankie via details.renderHint and details.uiSpec",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

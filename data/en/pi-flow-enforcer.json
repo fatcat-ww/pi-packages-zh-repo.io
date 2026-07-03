@@ -1,0 +1,11 @@
+{
+  "name": "pi-flow-enforcer",
+  "path": "/packages/pi-flow-enforcer",
+  "url": "https://pi.dev/packages/pi-flow-enforcer",
+  "types": "",
+  "type_list": [],
+  "downloads": 22,
+  "date_ms": 1770617067205,
+  "description_en": "Enforces a strict workflow in pi.dev sessions:",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

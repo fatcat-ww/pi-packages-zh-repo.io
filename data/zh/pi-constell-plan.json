@@ -1,0 +1,6 @@
+{
+  "name": "pi-constell-plan",
+  "description_en": "Claude Code-style plan mode for pi: explicit --plan / /plan entry, askUserQuestion gating, and Constellagent-compatible plan exports.",
+  "description_zh": "pi 的 Claude Code 风格计划模式：明确的 --plan / /plan 入口、askUserQuestion 门控和 Constellagent 兼容的计划导出",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

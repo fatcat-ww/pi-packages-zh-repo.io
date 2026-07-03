@@ -1,0 +1,6 @@
+{
+  "name": "@raindrop-ai/pi-agent",
+  "description_en": "Raindrop observability for Pi Agent — automatic tracing via subscriber or pi-coding-agent extension",
+  "description_zh": "Pi Agent 的 Raindrop 可观测性 — 通过订阅器或 pi-coding-agent 扩展实现自动跟踪",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

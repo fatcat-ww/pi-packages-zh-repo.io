@@ -1,0 +1,13 @@
+{
+  "name": "pi-telegram-group-topic",
+  "path": "/packages/pi-telegram-group-topic",
+  "url": "https://pi.dev/packages/pi-telegram-group-topic",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 34,
+  "date_ms": 1778013322648,
+  "description_en": "Control multiple pi sessions from Telegram forum topics",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

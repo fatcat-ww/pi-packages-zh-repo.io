@@ -1,0 +1,14 @@
+{
+  "name": "pi-auto-system-theme",
+  "path": "/packages/pi-auto-system-theme",
+  "url": "https://pi.dev/packages/pi-auto-system-theme",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 294,
+  "date_ms": 1781679904625,
+  "description_en": "A pi extension that follows system light/dark appearance on macOS, Windows, and Linux.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

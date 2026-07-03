@@ -1,0 +1,11 @@
+{
+  "name": "@vanillagreen/pi-task-panel",
+  "path": "/packages/@vanillagreen/pi-task-panel",
+  "url": "https://pi.dev/packages/@vanillagreen/pi-task-panel",
+  "types": "",
+  "type_list": [],
+  "downloads": 451,
+  "date_ms": 1781280409687,
+  "description_en": "Persistent Claude-style tasks panel for Pi with slash commands and a structured tasks_write tool.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

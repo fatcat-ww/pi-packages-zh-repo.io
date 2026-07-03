@@ -1,0 +1,13 @@
+{
+  "name": "pi-model-cycler",
+  "path": "/packages/pi-model-cycler",
+  "url": "https://pi.dev/packages/pi-model-cycler",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 56,
+  "date_ms": 1777570769276,
+  "description_en": "Interactive model switcher for Pi coding agent — browse, search, favorite, and cycle models from the TUI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

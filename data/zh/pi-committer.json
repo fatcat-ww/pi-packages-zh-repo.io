@@ -1,0 +1,6 @@
+{
+  "name": "pi-committer",
+  "description_en": "Conventional commit automation for the pi coding agent — auto-commits on goal completion with intelligent, subagent-generated messages",
+  "description_zh": "Pi 编码代理的常规提交自动化 — 在目标完成时自动提交，使用智能的子代理生成的消息",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

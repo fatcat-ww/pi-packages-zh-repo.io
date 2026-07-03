@@ -1,0 +1,13 @@
+{
+  "name": "@alexanderfortin/pi-usage-lib",
+  "path": "/packages/@alexanderfortin/pi-usage-lib",
+  "url": "https://pi.dev/packages/@alexanderfortin/pi-usage-lib",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2489,
+  "date_ms": 1782363984988,
+  "description_en": "Shared library for Pi usage monitoring extensions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

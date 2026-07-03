@@ -1,0 +1,13 @@
+{
+  "name": "pi-status",
+  "path": "/packages/pi-status",
+  "url": "https://pi.dev/packages/pi-status",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 31,
+  "date_ms": 1777218875969,
+  "description_en": "Pi extension that shows a terminal tab title spinner while pi is working.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

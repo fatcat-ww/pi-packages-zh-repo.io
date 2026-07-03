@@ -1,0 +1,13 @@
+{
+  "name": "superpowers-zh",
+  "path": "/packages/superpowers-zh",
+  "url": "https://pi.dev/packages/superpowers-zh",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 11360,
+  "date_ms": 1781921957031,
+  "description_en": "AI 编程超能力中文增强版 — superpowers（159k+ ⭐）完整汉化 + 4 个中国原创 skills，支持 Claude Code / Copilot CLI / Hermes Agent / Cursor / Claw Code / Windsurf / Kiro / Gemini CLI / Qoder 等 18 款工具",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

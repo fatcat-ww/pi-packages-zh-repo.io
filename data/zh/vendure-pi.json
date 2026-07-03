@@ -1,0 +1,6 @@
+{
+  "name": "vendure-pi",
+  "description_en": "Pi agent extension for Vendure e-commerce management. Connect to your Vendure instance and manage products, orders, customers, and more through natural language. Requires vendure-mcp-graphql.",
+  "description_zh": "Vendure 电商管理的 Pi 代理扩展。连接到您的 Vendure 实例，并通过自然语言管理产品、订单、客户等。需要 vendure-mcp-graphql。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

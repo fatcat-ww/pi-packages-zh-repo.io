@@ -1,0 +1,6 @@
+{
+  "name": "pi-codex-image",
+  "description_en": "Pi extension that exposes Codex CLI image generation as a smoother codex_image tool.",
+  "description_zh": "Pi 扩展，将 Codex CLI 图像生成为更平滑的 codex_image 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

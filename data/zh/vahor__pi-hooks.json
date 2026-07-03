@@ -1,0 +1,6 @@
+{
+  "name": "@vahor/pi-hooks",
+  "description_en": "Run shell commands on pi lifecycle events.",
+  "description_zh": "在 pi 生命周期事件上运行 shell 命令。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "pi-ui-workflow",
+  "path": "/packages/pi-ui-workflow",
+  "url": "https://pi.dev/packages/pi-ui-workflow",
+  "types": "extension skill prompt",
+  "type_list": [
+    "extension",
+    "skill",
+    "prompt"
+  ],
+  "downloads": 1723,
+  "date_ms": 1781076336314,
+  "description_en": "UI design workflow extension for pi coding agent — one command to go from idea to UI design spec.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

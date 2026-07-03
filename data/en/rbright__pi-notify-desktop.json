@@ -1,0 +1,11 @@
+{
+  "name": "@rbright/pi-notify-desktop",
+  "path": "/packages/@rbright/pi-notify-desktop",
+  "url": "https://pi.dev/packages/@rbright/pi-notify-desktop",
+  "types": "",
+  "type_list": [],
+  "downloads": 37,
+  "date_ms": 1771397116387,
+  "description_en": "OSC desktop notifications for Pi agent turn completion.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

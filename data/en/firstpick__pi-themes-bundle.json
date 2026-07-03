@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-themes-bundle",
+  "path": "/packages/@firstpick/pi-themes-bundle",
+  "url": "https://pi.dev/packages/@firstpick/pi-themes-bundle",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 1853,
+  "date_ms": 1780954560347,
+  "description_en": "Firstpick's custom Pi coding agent themes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@gwynnnplaine/pi-github",
+  "path": "/packages/@gwynnnplaine/pi-github",
+  "url": "https://pi.dev/packages/@gwynnnplaine/pi-github",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 672,
+  "date_ms": 1781355942658,
+  "description_en": "Read GitHub issues, PRs, diffs, checks & code from inside Pi — via the gh CLI. Chronological markdown, image extraction, PR review workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

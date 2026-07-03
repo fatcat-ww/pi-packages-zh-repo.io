@@ -1,0 +1,6 @@
+{
+  "name": "@baryonlabs/pi-agent-harness",
+  "description_en": "Team-architecture factory for the pi coding agent — turns one domain sentence into a multi-agent team: specialist agents (.pi/agents), their skills (.pi/skills), and orchestration prompts (.pi/prompts), with six team patterns and a bundled subagent (singl",
+  "description_zh": "pi 编码代理的团队架构工厂 — 将一个领域句子转换为多代理团队：专业代理 (.pi/agents)、它们的技能 (.pi/skills) 和编排提示 (.pi/prompts)，包含六种团队模式和一个捆绑的子代理（singl",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

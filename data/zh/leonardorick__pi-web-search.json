@@ -1,0 +1,6 @@
+{
+  "name": "@leonardorick/pi-web-search",
+  "description_en": "Web search tool for pi — Exa MCP search with DuckDuckGo fallback via wreq-js.",
+  "description_zh": "Pi 的网络搜索工具 — Exa MCP 搜索，通过 wreq-js 提供 DuckDuckGo 备用方案",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

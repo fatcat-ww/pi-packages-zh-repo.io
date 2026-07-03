@@ -1,0 +1,13 @@
+{
+  "name": "@aslamplr/pi-safe-shell",
+  "path": "/packages/@aslamplr/pi-safe-shell",
+  "url": "https://pi.dev/packages/@aslamplr/pi-safe-shell",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 971,
+  "date_ms": 1781182892882,
+  "description_en": "Protect your production assets from dangerous bash commands. Default no-bash mode with user approval gates and whitelist support.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

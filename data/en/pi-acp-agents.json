@@ -1,0 +1,13 @@
+{
+  "name": "pi-acp-agents",
+  "path": "/packages/pi-acp-agents",
+  "url": "https://pi.dev/packages/pi-acp-agents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 381,
+  "date_ms": 1780646448169,
+  "description_en": "Pi extension: ACP agent client — spawn and control ACP-compatible agents (Gemini CLI, etc.) from within pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

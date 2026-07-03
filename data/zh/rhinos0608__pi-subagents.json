@@ -1,0 +1,6 @@
+{
+  "name": "@rhinos0608/pi-subagents",
+  "description_en": "A pi extension that brings Claude Code-style autonomous sub-agents to pi. Fork of @tintinweb/pi-subagents.",
+  "description_zh": "一个 pi 扩展，将 Claude Code 风格的自主子代理带到 pi。@tintinweb/pi-subagents 的分支",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

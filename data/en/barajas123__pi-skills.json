@@ -1,0 +1,11 @@
+{
+  "name": "@barajas123/pi-skills",
+  "path": "/packages/@barajas123/pi-skills",
+  "url": "https://pi.dev/packages/@barajas123/pi-skills",
+  "types": "",
+  "type_list": [],
+  "downloads": 249,
+  "date_ms": 1781837719856,
+  "description_en": "Pi agent skills bundle — starts with skill-create, a meta-skill for designing and writing new agent skills following the agentskills.io specification.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

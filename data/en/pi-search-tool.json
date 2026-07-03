@@ -1,0 +1,13 @@
+{
+  "name": "pi-search-tool",
+  "path": "/packages/pi-search-tool",
+  "url": "https://pi.dev/packages/pi-search-tool",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 50,
+  "date_ms": 1780171974604,
+  "description_en": "A pi extension that provides web search and content fetch tools using search-headless",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

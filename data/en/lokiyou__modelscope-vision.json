@@ -1,0 +1,13 @@
+{
+  "name": "@lokiyou/modelscope-vision",
+  "path": "/packages/@lokiyou/modelscope-vision",
+  "url": "https://pi.dev/packages/@lokiyou/modelscope-vision",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 356,
+  "date_ms": 1780539614794,
+  "description_en": "Simple image understanding for Pi Coding Agent. Install it, set your API key, and ask normal questions about images.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

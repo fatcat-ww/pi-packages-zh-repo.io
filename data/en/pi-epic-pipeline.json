@@ -1,0 +1,11 @@
+{
+  "name": "pi-epic-pipeline",
+  "path": "/packages/pi-epic-pipeline",
+  "url": "https://pi.dev/packages/pi-epic-pipeline",
+  "types": "",
+  "type_list": [],
+  "downloads": 38,
+  "date_ms": 1777561015743,
+  "description_en": "BMAD Epic Pipeline orchestrator for pi — autonomous story execution through create, dev, review, and gate phases",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

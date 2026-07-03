@@ -1,0 +1,6 @@
+{
+  "name": "pi-agent-goal",
+  "description_en": "Pi extension that gives coding agents persistent /goal workflows with branch-aware state, source imports, progress tools, and explicit start handoffs.",
+  "description_zh": "为编码代理提供具有分支感知状态、源导入、进度工具和显式开始交接的持久 /goal 工作流的 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

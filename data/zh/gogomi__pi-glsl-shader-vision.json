@@ -1,0 +1,6 @@
+{
+  "name": "@gogomi/pi-glsl-shader-vision",
+  "description_en": "GLSL fragment shader viewer for Pi Agent — live WebGL preview, Tweakpane uniform controls, presets, probe sheets & video export",
+  "description_zh": "Pi Agent 的 GLSL 片段着色器查看器 — 实时 WebGL 预览、Tweakpane 均匀控制、预设、探测表和视频导出",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

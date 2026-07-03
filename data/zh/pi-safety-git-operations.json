@@ -1,0 +1,6 @@
+{
+  "name": "pi-safety-git-operations",
+  "description_en": "Guards destructive git and GitHub/GitLab CLI operations with severity-based confirmation dialogs and session memory. Covers force-push, reset --hard, branch deletion, gh/glab repo operations, and more.",
+  "description_zh": "通过基于严重性的确认对话框和会话内存保护破坏性 git 和 GitHub/GitLab CLI 操作。涵盖强制推送、reset --hard、分支删除、gh/glab 仓库操作等。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

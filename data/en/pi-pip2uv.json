@@ -1,0 +1,13 @@
+{
+  "name": "pi-pip2uv",
+  "path": "/packages/pi-pip2uv",
+  "url": "https://pi.dev/packages/pi-pip2uv",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 274,
+  "date_ms": 1781710011028,
+  "description_en": "A pi extension that blocks pip install-style Python dependency changes and guides agents to use uv.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

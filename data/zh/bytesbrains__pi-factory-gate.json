@@ -1,0 +1,6 @@
+{
+  "name": "@bytesbrains/pi-factory-gate",
+  "description_en": "AI Factory gateway for pi agents — dispatch jobs, manage environments, list agents/workers/workflows, stream results from a wrok.in orchestrator.",
+  "description_zh": "pi 代理的 AI 工厂网关 — 分发任务，管理环境，列出代理/工作器/工作流，从 wrok.in 编排器流式传输结果。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

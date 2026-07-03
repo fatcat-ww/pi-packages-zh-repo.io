@@ -1,0 +1,13 @@
+{
+  "name": "@prinova/pi-github-tools",
+  "path": "/packages/@prinova/pi-github-tools",
+  "url": "https://pi.dev/packages/@prinova/pi-github-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 47,
+  "date_ms": 1770715878835,
+  "description_en": "GitHub repository tools extension for pi-coding-agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

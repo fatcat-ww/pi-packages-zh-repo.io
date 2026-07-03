@@ -1,0 +1,13 @@
+{
+  "name": "@zhaopengme/pi-notify",
+  "path": "/packages/@zhaopengme/pi-notify",
+  "url": "https://pi.dev/packages/@zhaopengme/pi-notify",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 49,
+  "date_ms": 1777448951095,
+  "description_en": "Native macOS notifications when Pi completes tasks",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

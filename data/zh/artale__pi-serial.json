@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-serial",
+  "description_en": "Hardware/IoT interface. List serial ports, identify devices (Arduino, ESP32, 3D printers), send/receive data, monitor sessions.",
+  "description_zh": "硬件/物联网接口。列出串行端口、识别设备（Arduino、ESP32、3D 打印机）、发送/接收数据、监控会话",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

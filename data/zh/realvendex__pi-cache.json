@@ -1,0 +1,6 @@
+{
+  "name": "@realvendex/pi-cache",
+  "description_en": "Pi-native runtime cache and memoization toolkit for pi.dev extension tools: deterministic cache keys, TTL/SWR policies, tag/namespace invalidation, optional local persistence.",
+  "description_zh": "pi.dev 扩展工具的 Pi 原生运行时缓存和记忆化工具包：确定性缓存键、TTL/SWR 策略、标签/命名空间失效、可选本地持久化",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-proof",
+  "description_en": "Proof-first Pi extension that uses a red-green-refactor cycle when behavior should be specified in tests first, with built-in parsing for popular test frameworks.",
+  "description_zh": "优先证明的 Pi 扩展，当行为应在测试中首先指定时使用红-绿-重构周期，内置流行测试框架的解析器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

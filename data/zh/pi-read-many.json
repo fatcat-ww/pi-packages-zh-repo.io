@@ -1,0 +1,6 @@
+{
+  "name": "pi-read-many",
+  "description_en": "Batch file reads for Pi via read_many with adaptive packing under output limits",
+  "description_zh": "通过 read_many 进行批量文件读取，在输出限制下自适应打包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

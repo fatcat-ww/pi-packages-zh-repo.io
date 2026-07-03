@@ -1,0 +1,11 @@
+{
+  "name": "@eissar/pi-openrouter-session",
+  "path": "/packages/@eissar/pi-openrouter-session",
+  "url": "https://pi.dev/packages/@eissar/pi-openrouter-session",
+  "types": "",
+  "type_list": [],
+  "downloads": 287,
+  "date_ms": 1780086813714,
+  "description_en": "highly minimal extension to send pi agent session ID to OpenRouter",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

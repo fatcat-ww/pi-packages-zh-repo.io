@@ -1,0 +1,13 @@
+{
+  "name": "@nilskluewer/pi-simple-todo",
+  "path": "/packages/@nilskluewer/pi-simple-todo",
+  "url": "https://pi.dev/packages/@nilskluewer/pi-simple-todo",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783001524714,
+  "description_en": "Minimal Claude Code / opencode style todo-list tracking for the Pi coding agent: one tool, one active task at a time.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

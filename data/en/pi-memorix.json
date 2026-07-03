@@ -1,0 +1,13 @@
+{
+  "name": "pi-memorix",
+  "path": "/packages/pi-memorix",
+  "url": "https://pi.dev/packages/pi-memorix",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 242,
+  "date_ms": 1780066877921,
+  "description_en": "Pi extension that bridges Memorix memory hooks into Pi's session lifecycle",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

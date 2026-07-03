@@ -1,0 +1,13 @@
+{
+  "name": "pi-code-reviewer",
+  "path": "/packages/pi-code-reviewer",
+  "url": "https://pi.dev/packages/pi-code-reviewer",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 52,
+  "date_ms": 1776786735209,
+  "description_en": "Pi-installable code review skill package.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

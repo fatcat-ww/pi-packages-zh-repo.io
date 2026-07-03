@@ -1,0 +1,13 @@
+{
+  "name": "rezero",
+  "path": "/packages/rezero",
+  "url": "https://pi.dev/packages/rezero",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 1752,
+  "date_ms": 1780940996804,
+  "description_en": "Re:ZERO-style implementation loop for pi coding agent: Subaru implements, seven witches review, Return by Death retries.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

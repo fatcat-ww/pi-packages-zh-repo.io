@@ -1,0 +1,13 @@
+{
+  "name": "@barlevalon/handoff-skill",
+  "path": "/packages/@barlevalon/handoff-skill",
+  "url": "https://pi.dev/packages/@barlevalon/handoff-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 98,
+  "date_ms": 1780948744600,
+  "description_en": "Compact the current conversation into a handoff document for another agent to pick up.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

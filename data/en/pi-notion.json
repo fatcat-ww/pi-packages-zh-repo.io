@@ -1,0 +1,11 @@
+{
+  "name": "pi-notion",
+  "path": "/packages/pi-notion",
+  "url": "https://pi.dev/packages/pi-notion",
+  "types": "",
+  "type_list": [],
+  "downloads": 58,
+  "date_ms": 1774364828232,
+  "description_en": "Notion integration for Pi Coding Agent — search, fetch, create, and update Notion pages as Markdown with a TUI config editor",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

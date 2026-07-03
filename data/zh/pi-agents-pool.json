@@ -1,0 +1,6 @@
+{
+  "name": "pi-agents-pool",
+  "description_en": "Codex-style multi-agent orchestration for pi — spawn, communicate with, and coordinate sub-agents via LLM tool calls",
+  "description_zh": "Codex 风格的 pi 多智能体编排 — 通过 LLM 工具调用生成、通信和协调子智能体",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

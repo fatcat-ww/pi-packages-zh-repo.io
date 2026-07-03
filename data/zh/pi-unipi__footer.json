@@ -1,0 +1,6 @@
+{
+  "name": "@pi-unipi/footer",
+  "description_en": "Persistent status bar for Unipi — subscribes to UNIPI_EVENTS and renders key stats from all unipi packages",
+  "description_zh": "Unipi 的持久状态栏 — 订阅 UNIPI_EVENTS 并渲染所有 unipi 包的关键统计信息",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

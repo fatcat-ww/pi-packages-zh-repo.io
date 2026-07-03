@@ -1,0 +1,6 @@
+{
+  "name": "@the-forge-flow/sub-agents-pi",
+  "description_en": "PI extension for spawning isolated sub-agents with live TUI spying",
+  "description_zh": "用于生成具有实时 TUI 监视的隔离子代理的 Pi 扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

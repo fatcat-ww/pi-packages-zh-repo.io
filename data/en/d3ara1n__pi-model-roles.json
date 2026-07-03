@@ -1,0 +1,11 @@
+{
+  "name": "@d3ara1n/pi-model-roles",
+  "path": "/packages/@d3ara1n/pi-model-roles",
+  "url": "https://pi.dev/packages/@d3ara1n/pi-model-roles",
+  "types": "",
+  "type_list": [],
+  "downloads": 1152,
+  "date_ms": 1783080812887,
+  "description_en": "Model role configuration library for pi extensions — defines named model roles and resolves them to Model instances",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

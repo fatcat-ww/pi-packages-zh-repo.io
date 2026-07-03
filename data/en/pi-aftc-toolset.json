@@ -1,0 +1,13 @@
+{
+  "name": "pi-aftc-toolset",
+  "path": "/packages/pi-aftc-toolset",
+  "url": "https://pi.dev/packages/pi-aftc-toolset",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 303,
+  "date_ms": 1783080335551,
+  "description_en": "AFTC productivity toolset for pi — footer diagnostics, SQLite model usage reports, cache analysis, input shortcuts, cache-audit skill, theme, and SSH tools backed by a PyQt6 GUI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

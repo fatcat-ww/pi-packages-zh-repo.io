@@ -1,0 +1,6 @@
+{
+  "name": "@zhushanwen/pi-context-engineering",
+  "description_en": "Progressive context compression for Pi — L0 zero-cost cleanup, L1 rule-based condensation, L2 emergency truncation, with recall mechanism.",
+  "description_zh": "Pi 的渐进式上下文压缩 — L0 零成本清理、L1 基于规则的压缩、L2 紧急截断，带有回忆机制",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

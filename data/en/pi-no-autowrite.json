@@ -1,0 +1,13 @@
+{
+  "name": "pi-no-autowrite",
+  "path": "/packages/pi-no-autowrite",
+  "url": "https://pi.dev/packages/pi-no-autowrite",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 334,
+  "date_ms": 1780749937383,
+  "description_en": "Pi extension: intercept auto-write/edit, education & supervisor modes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@mikefreno/ralpi",
+  "path": "/packages/@mikefreno/ralpi",
+  "url": "https://pi.dev/packages/@mikefreno/ralpi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2090,
+  "date_ms": 1782063055636,
+  "description_en": "Execute tasks from task files/PRD's using DAG-based dependency resolution with persistent progress tracking",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

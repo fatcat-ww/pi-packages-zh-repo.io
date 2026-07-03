@@ -1,0 +1,13 @@
+{
+  "name": "@rhinos0608/pi-subagents",
+  "path": "/packages/@rhinos0608/pi-subagents",
+  "url": "https://pi.dev/packages/@rhinos0608/pi-subagents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 77,
+  "date_ms": 1778584942952,
+  "description_en": "A pi extension that brings Claude Code-style autonomous sub-agents to pi. Fork of @tintinweb/pi-subagents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

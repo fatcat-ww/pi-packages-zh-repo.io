@@ -1,0 +1,13 @@
+{
+  "name": "pi-discord-bridge",
+  "path": "/packages/pi-discord-bridge",
+  "url": "https://pi.dev/packages/pi-discord-bridge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 73,
+  "date_ms": 1783082182239,
+  "description_en": "Bridge Pi coding sessions to Discord — per-project channels, session threads, two-way control",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

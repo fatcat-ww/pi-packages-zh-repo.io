@@ -1,0 +1,6 @@
+{
+  "name": "@pandi-coding-agent/clear",
+  "description_en": "Pi extension that adds a Claude-style /clear command as an alias for the native /new (start a fresh session).",
+  "description_zh": "Pi 扩展，添加 Claude 风格的 /clear 命令作为原生 /new（开始新会话）的别名。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

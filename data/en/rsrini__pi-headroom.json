@@ -1,0 +1,13 @@
+{
+  "name": "@rsrini/pi-headroom",
+  "path": "/packages/@rsrini/pi-headroom",
+  "url": "https://pi.dev/packages/@rsrini/pi-headroom",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782627625537,
+  "description_en": "Headroom proxy extension for pi-coding-agent - routes requests through local Headroom compression proxy for 30-60% token savings, with CCR retrieval support",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

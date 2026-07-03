@@ -1,0 +1,13 @@
+{
+  "name": "model-debugger",
+  "path": "/packages/model-debugger",
+  "url": "https://pi.dev/packages/model-debugger",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 275,
+  "date_ms": 1781865519323,
+  "description_en": "Debug Pi model interactions: log requests, detect silent failures, track model selection",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

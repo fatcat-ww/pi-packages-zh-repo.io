@@ -1,0 +1,6 @@
+{
+  "name": "@brushes/opencv-extract",
+  "description_en": "【图片提取】从截图中拆解出独立的图片素材——裁剪卡片、抠出头像、分割缩略图并上传 OSS。输出裁剪后的图片文件和 URL，与 zai-mcp-server（看图分析）互补。",
+  "description_zh": "【图片提取】从截图中拆解出独立的图片素材——裁剪卡片、抠出头像、分割缩略图并上传 OSS。输出裁剪后的图片文件和 URL，与 zai-mcp-server（看图分析）互补。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-zai-agents",
+  "path": "/packages/pi-zai-agents",
+  "url": "https://pi.dev/packages/pi-zai-agents",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 736,
+  "date_ms": 1782320797200,
+  "description_en": "Unofficial pi package exposing Z.AI Agent API tools for Slide/Poster, Translation, and Video Effect Template agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@neilurk12/pi-9router",
+  "path": "/packages/@neilurk12/pi-9router",
+  "url": "https://pi.dev/packages/@neilurk12/pi-9router",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 362,
+  "date_ms": 1782265654737,
+  "description_en": "9Router AI model provider extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

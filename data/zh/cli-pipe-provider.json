@@ -1,0 +1,6 @@
+{
+  "name": "cli-pipe-provider",
+  "description_en": "pi-ai provider for CLI tools that speak the stream-json format, with MCP tool bridge support",
+  "description_zh": "面向使用 stream-json 格式的 CLI 工具的 pi-ai 提供商，支持 MCP 工具桥接",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

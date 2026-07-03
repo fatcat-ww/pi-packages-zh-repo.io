@@ -1,0 +1,13 @@
+{
+  "name": "@capyup/pi-jobs",
+  "path": "/packages/@capyup/pi-jobs",
+  "url": "https://pi.dev/packages/@capyup/pi-jobs",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 47,
+  "date_ms": 1778832071201,
+  "description_en": "Supervised job runtime extension for pi with isolated workers, audit artifacts, and retry-aware orchestration.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

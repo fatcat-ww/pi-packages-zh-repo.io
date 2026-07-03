@@ -1,0 +1,6 @@
+{
+  "name": "ping-a-human-pi",
+  "description_en": "Human-in-the-loop and notifications for the pi coding agent, powered by ping-a-human. One command: npx ping-a-human-pi.",
+  "description_zh": "由 ping-a-human 驱动的 pi 编码代理的人机交互和通知功能。一条命令即可：npx ping-a-human-pi",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

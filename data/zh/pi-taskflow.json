@@ -1,0 +1,6 @@
+{
+  "name": "pi-taskflow",
+  "description_en": "A declarative, verifiable graph of task nodes for the Pi coding agent — statically verified before it runs, with dynamic fan-out, gates, isolated subagent context, resumable runs, and saveable commands.",
+  "description_zh": "Pi 编码代理的任务节点的声明式、可验证图 — 运行前静态验证，具有动态扇出、门、隔离的子代理上下文、可恢复运行和可保存命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

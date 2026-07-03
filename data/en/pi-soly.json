@@ -1,0 +1,13 @@
+{
+  "name": "pi-soly",
+  "path": "/packages/pi-soly",
+  "url": "https://pi.dev/packages/pi-soly",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 7074,
+  "date_ms": 1782892724381,
+  "description_en": "Project management + workflow framework for pi-coding-agent. Plans, state, MANDATORY rules, self-review, multi-question picker, native footer + welcome chrome — one npm install, zero config. The LLM drives execution and delegates to a worker subagent when",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@rotart/pi-ex-command",
+  "description_en": "Pi extension — /order command for prompt template management with system prompt injection.",
+  "description_zh": "Pi 扩展 — 用于提示模板管理的 /order 命令，具有系统提示注入功能。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

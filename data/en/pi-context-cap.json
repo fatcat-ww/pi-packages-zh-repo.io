@@ -1,0 +1,13 @@
+{
+  "name": "pi-context-cap",
+  "path": "/packages/pi-context-cap",
+  "url": "https://pi.dev/packages/pi-context-cap",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 92,
+  "date_ms": 1777034414962,
+  "description_en": "Cap model context windows so pi's built-in auto-compaction fires earlier. Zero-config 200k default for long-context Claude models; configurable for anything else.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

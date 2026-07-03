@@ -1,0 +1,13 @@
+{
+  "name": "@pandi-coding-agent/loop",
+  "path": "/packages/@pandi-coding-agent/loop",
+  "url": "https://pi.dev/packages/@pandi-coding-agent/loop",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783061695391,
+  "description_en": "Pi extension for iterative /loop tasks with dynamic or fixed cadence and safety gates.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

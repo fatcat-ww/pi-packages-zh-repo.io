@@ -1,0 +1,6 @@
+{
+  "name": "@aprimediet/git-workflow",
+  "description_en": "Branching strategy enforcer + safe git commands (/git:init, /git:commit, /git:worktree, /git:push, +11 extras) for the pi coding agent.",
+  "description_zh": "分支策略执行器 + pi 编码代理的安全 git 命令 (/git:init, /git:commit, /git:worktree, /git:push, +11 个额外命令)",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

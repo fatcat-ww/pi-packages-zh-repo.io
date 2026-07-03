@@ -1,0 +1,13 @@
+{
+  "name": "@pandi-coding-agent/pandi",
+  "path": "/packages/@pandi-coding-agent/pandi",
+  "url": "https://pi.dev/packages/@pandi-coding-agent/pandi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783061701702,
+  "description_en": "Pi extension that adds Pandi, a panda mascot: a startup splash header, an animated working indicator, and a /pandi command.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

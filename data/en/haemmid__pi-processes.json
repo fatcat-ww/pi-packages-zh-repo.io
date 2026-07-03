@@ -1,0 +1,13 @@
+{
+  "name": "@haemmid/pi-processes",
+  "path": "/packages/@haemmid/pi-processes",
+  "url": "https://pi.dev/packages/@haemmid/pi-processes",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783018471769,
+  "description_en": "Agent-facing background process manager for Pi and pi-web automation workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

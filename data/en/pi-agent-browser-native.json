@@ -1,0 +1,13 @@
+{
+  "name": "pi-agent-browser-native",
+  "path": "/packages/pi-agent-browser-native",
+  "url": "https://pi.dev/packages/pi-agent-browser-native",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 12309,
+  "date_ms": 1782931547067,
+  "description_en": "pi extension that exposes agent-browser as a native tool for browser automation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

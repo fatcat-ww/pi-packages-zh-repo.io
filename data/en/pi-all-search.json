@@ -1,0 +1,13 @@
+{
+  "name": "pi-all-search",
+  "path": "/packages/pi-all-search",
+  "url": "https://pi.dev/packages/pi-all-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2046,
+  "date_ms": 1782901413242,
+  "description_en": "All-in-one web search extension for Pi — exa, tavily, anysearch, firecrawl, context7",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

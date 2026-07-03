@@ -1,0 +1,13 @@
+{
+  "name": "@entelligentsia/pi-ollama-cloud-usage-tracker",
+  "path": "/packages/@entelligentsia/pi-ollama-cloud-usage-tracker",
+  "url": "https://pi.dev/packages/@entelligentsia/pi-ollama-cloud-usage-tracker",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 136,
+  "date_ms": 1779871058465,
+  "description_en": "Pi extension: live Ollama Cloud usage tracker in the footer with Claude-style quota bars",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

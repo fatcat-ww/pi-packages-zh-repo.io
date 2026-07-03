@@ -1,0 +1,11 @@
+{
+  "name": "pi-grounded-compaction",
+  "path": "/packages/pi-grounded-compaction",
+  "url": "https://pi.dev/packages/pi-grounded-compaction",
+  "types": "",
+  "type_list": [],
+  "downloads": 75,
+  "date_ms": 1778173571064,
+  "description_en": "Compaction and branch summarizer for Pi with model presets, custom prompts, and deterministic files-touched tracking for native tools, RepoPrompt, and bash",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

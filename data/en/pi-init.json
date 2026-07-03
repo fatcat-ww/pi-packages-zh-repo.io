@@ -1,0 +1,13 @@
+{
+  "name": "pi-init",
+  "path": "/packages/pi-init",
+  "url": "https://pi.dev/packages/pi-init",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 155,
+  "date_ms": 1770966495378,
+  "description_en": "A pi agent skill to initialize or update AGENTS.md context files.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

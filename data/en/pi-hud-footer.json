@@ -1,0 +1,13 @@
+{
+  "name": "pi-hud-footer",
+  "path": "/packages/pi-hud-footer",
+  "url": "https://pi.dev/packages/pi-hud-footer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 320,
+  "date_ms": 1782827214268,
+  "description_en": "Claude HUD style custom footer for pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

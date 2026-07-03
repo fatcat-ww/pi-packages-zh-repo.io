@@ -1,0 +1,11 @@
+{
+  "name": "@odradekk/vera-search-tools",
+  "path": "/packages/@odradekk/vera-search-tools",
+  "url": "https://pi.dev/packages/@odradekk/vera-search-tools",
+  "types": "",
+  "type_list": [],
+  "downloads": 239,
+  "date_ms": 1781265925552,
+  "description_en": "Cross-platform rg/fd search tools for Vera agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-wordle",
+  "description_en": "Daily Wordle in the terminal. 6 guesses, color-coded feedback, stats tracking.",
+  "description_zh": "终端中的每日 Wordle。6 次猜测，带颜色编码反馈，统计跟踪",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-subprocess",
+  "description_en": "Minimal subprocess isolation for Pi agents. Spawns isolated Pi subprocesses and returns curated results.",
+  "description_zh": "Pi 代理的最小进程隔离。生成隔离的 Pi 子进程并返回精选的结果。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

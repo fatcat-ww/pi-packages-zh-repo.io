@@ -1,0 +1,15 @@
+{
+  "name": "pjlee-pi-package",
+  "path": "/packages/pjlee-pi-package",
+  "url": "https://pi.dev/packages/pjlee-pi-package",
+  "types": "extension skill theme",
+  "type_list": [
+    "extension",
+    "skill",
+    "theme"
+  ],
+  "downloads": 118,
+  "date_ms": 1772650661431,
+  "description_en": "Peter's pi coding agent commands, skills, extensions, and themes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

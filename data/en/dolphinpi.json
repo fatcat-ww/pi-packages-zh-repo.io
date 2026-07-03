@@ -1,0 +1,11 @@
+{
+  "name": "dolphinpi",
+  "path": "/packages/dolphinpi",
+  "url": "https://pi.dev/packages/dolphinpi",
+  "types": "",
+  "type_list": [],
+  "downloads": 324,
+  "date_ms": 1780293362664,
+  "description_en": "DolphinDB 智能编程助手 — 集成 RAG 文档检索与脚本执行。一条命令安装，无需额外配置。",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

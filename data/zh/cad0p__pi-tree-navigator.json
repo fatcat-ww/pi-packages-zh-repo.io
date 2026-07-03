@@ -1,0 +1,6 @@
+{
+  "name": "@cad0p/pi-tree-navigator",
+  "description_en": "agent-callable session tree navigation for pi: anchor named milestones, rewind work into a branch summary, free up context for long autonomous sessions",
+  "description_zh": "pi 的代理可调用会话树导航：锚定命名里程碑，将工作回退到分支摘要，为长时间自主会话释放上下文",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

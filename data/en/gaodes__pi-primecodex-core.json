@@ -1,0 +1,11 @@
+{
+  "name": "@gaodes/pi-primecodex-core",
+  "path": "/packages/@gaodes/pi-primecodex-core",
+  "url": "https://pi.dev/packages/@gaodes/pi-primecodex-core",
+  "types": "",
+  "type_list": [],
+  "downloads": 30,
+  "date_ms": 1779327437451,
+  "description_en": "NoxPrime infrastructure utilities for PrimeCodex — settings engine, types, validators, scaffold templates, and shared constants. Zero Pi runtime dependencies.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

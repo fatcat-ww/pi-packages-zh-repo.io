@@ -1,0 +1,6 @@
+{
+  "name": "pi-powerpoint",
+  "description_en": "Pi skill for creating and editing PowerPoint files via CLI, wrapping office-powerpoint-mcp-server",
+  "description_zh": "通过 CLI 创建和编辑 PowerPoint 文件的 Pi 技能，封装了 office-powerpoint-mcp-server",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

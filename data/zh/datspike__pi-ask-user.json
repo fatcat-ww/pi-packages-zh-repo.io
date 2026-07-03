@@ -1,0 +1,6 @@
+{
+  "name": "@datspike/pi-ask-user",
+  "description_en": "Interactive ask_user tool for pi-coding-agent with wrapped selection UI, batch clarifications, and freeform input",
+  "description_zh": "pi-coding-agent的交互式ask_user工具，具有包装的选择UI、批量澄清和自由输入",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

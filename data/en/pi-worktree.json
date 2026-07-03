@@ -1,0 +1,11 @@
+{
+  "name": "pi-worktree",
+  "path": "/packages/pi-worktree",
+  "url": "https://pi.dev/packages/pi-worktree",
+  "types": "",
+  "type_list": [],
+  "downloads": 145,
+  "date_ms": 1773458296199,
+  "description_en": "Git worktree management for Pi — create isolated workspaces with one command, optionally launch in cmux/tmux.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

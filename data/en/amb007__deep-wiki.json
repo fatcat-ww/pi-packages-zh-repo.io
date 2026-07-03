@@ -1,0 +1,13 @@
+{
+  "name": "@amb007/deep-wiki",
+  "path": "/packages/@amb007/deep-wiki",
+  "url": "https://pi.dev/packages/@amb007/deep-wiki",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 171,
+  "date_ms": 1779741766047,
+  "description_en": "AI-powered wiki generator for code repositories - Pi Coding Agent skill",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

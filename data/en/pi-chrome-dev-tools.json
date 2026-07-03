@@ -1,0 +1,13 @@
+{
+  "name": "pi-chrome-dev-tools",
+  "path": "/packages/pi-chrome-dev-tools",
+  "url": "https://pi.dev/packages/pi-chrome-dev-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 107,
+  "date_ms": 1778179189774,
+  "description_en": "Pi extension — lazy-launch Chrome with Playwright, persistent profile, stealth patches, simple browser tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

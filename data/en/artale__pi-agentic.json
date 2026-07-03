@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-agentic",
+  "path": "/packages/@artale/pi-agentic",
+  "url": "https://pi.dev/packages/@artale/pi-agentic",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 46,
+  "date_ms": 1776789390263,
+  "description_en": "Portable agent patterns from agentic-stack: memory, skills, protocols",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

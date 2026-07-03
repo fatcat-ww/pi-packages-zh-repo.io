@@ -1,0 +1,11 @@
+{
+  "name": "@claaslange/pi-context-budget",
+  "path": "/packages/@claaslange/pi-context-budget",
+  "url": "https://pi.dev/packages/@claaslange/pi-context-budget",
+  "types": "",
+  "type_list": [],
+  "downloads": 24,
+  "date_ms": 1774962440231,
+  "description_en": "Pi extension that warns when conversation context usage crosses configured thresholds.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

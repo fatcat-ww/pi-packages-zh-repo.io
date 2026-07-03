@@ -1,0 +1,13 @@
+{
+  "name": "@alchemiststudios/pi-harness-skills",
+  "path": "/packages/@alchemiststudios/pi-harness-skills",
+  "url": "https://pi.dev/packages/@alchemiststudios/pi-harness-skills",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 99,
+  "date_ms": 1773788073527,
+  "description_en": "Harness engineering skills package for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-all-notification",
+  "path": "/packages/pi-all-notification",
+  "url": "https://pi.dev/packages/pi-all-notification",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782903480702,
+  "description_en": "Multi-channel notification for pi: macOS desktop, Bark push, custom webhook",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@xynogen/pix-bash",
+  "path": "/packages/@xynogen/pix-bash",
+  "url": "https://pi.dev/packages/@xynogen/pix-bash",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1099,
+  "date_ms": 1783045276758,
+  "description_en": "Pi tool — bash shell execution with pretty output",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

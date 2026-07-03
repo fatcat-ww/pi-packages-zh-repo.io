@@ -1,0 +1,13 @@
+{
+  "name": "@ssweens/pi-dynamic-models",
+  "path": "/packages/@ssweens/pi-dynamic-models",
+  "url": "https://pi.dev/packages/@ssweens/pi-dynamic-models",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 64,
+  "date_ms": 1772319572022,
+  "description_en": "Dynamic model discovery for Pi coding agent — fetches models from any configured API server at startup",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

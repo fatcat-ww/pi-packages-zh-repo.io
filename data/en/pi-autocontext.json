@@ -1,0 +1,13 @@
+{
+  "name": "pi-autocontext",
+  "path": "/packages/pi-autocontext",
+  "url": "https://pi.dev/packages/pi-autocontext",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 515,
+  "date_ms": 1783026966727,
+  "description_en": "autocontext extension for Pi coding agent — iterative strategy generation, LLM judging, and evaluation tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

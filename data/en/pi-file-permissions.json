@@ -1,0 +1,11 @@
+{
+  "name": "pi-file-permissions",
+  "path": "/packages/pi-file-permissions",
+  "url": "https://pi.dev/packages/pi-file-permissions",
+  "types": "",
+  "type_list": [],
+  "downloads": 115,
+  "date_ms": 1775603824234,
+  "description_en": "Pi extension that enforces file-level permissions via a YAML config. Controls which paths each tool (read, write, edit, find, grep, ls) can access.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

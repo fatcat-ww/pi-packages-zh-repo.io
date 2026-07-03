@@ -1,0 +1,11 @@
+{
+  "name": "@diegopetrucci/pi-dirty-repo-guard",
+  "path": "/packages/@diegopetrucci/pi-dirty-repo-guard",
+  "url": "https://pi.dev/packages/@diegopetrucci/pi-dirty-repo-guard",
+  "types": "",
+  "type_list": [],
+  "downloads": 399,
+  "date_ms": 1782197126968,
+  "description_en": "A pi extension that prompts before session changes when the current git repo has uncommitted changes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

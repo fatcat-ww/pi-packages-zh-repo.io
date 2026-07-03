@@ -1,0 +1,6 @@
+{
+  "name": "pi-subagents-lite",
+  "description_en": "Lightweight sub-agents for pi — spawn specialized agents with isolated sessions, tools, and models.",
+  "description_zh": "pi 的轻量级子代理 - 生成具有隔离会话、工具和模型的专业代理。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

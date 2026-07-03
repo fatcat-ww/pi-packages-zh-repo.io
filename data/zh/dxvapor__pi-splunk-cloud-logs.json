@@ -1,0 +1,6 @@
+{
+  "name": "@dxvapor/pi-splunk-cloud-logs",
+  "description_en": "Pi coding agent extension for querying Splunk Cloud logs via REST API. Supports OAuth2 client credentials and bearer token auth.",
+  "description_zh": "通过 REST API 查询 Splunk Cloud 日志的 Pi 编码代理扩展。支持 OAuth2 客户端凭据和持有者令牌认证",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

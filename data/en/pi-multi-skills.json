@@ -1,0 +1,13 @@
+{
+  "name": "pi-multi-skills",
+  "path": "/packages/pi-multi-skills",
+  "url": "https://pi.dev/packages/pi-multi-skills",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783007773385,
+  "description_en": "Reference any installed pi skill from anywhere in your prompt using $skill_name syntax. Expands inline to <skill> XML (same format as Pi's native /skill:xxx) — no system prompt injection.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

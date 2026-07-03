@@ -1,0 +1,11 @@
+{
+  "name": "@indiekitai/pi-skills",
+  "path": "/packages/@indiekitai/pi-skills",
+  "url": "https://pi.dev/packages/@indiekitai/pi-skills",
+  "types": "",
+  "type_list": [],
+  "downloads": 91,
+  "date_ms": 1772270763688,
+  "description_en": "IndieKit developer tools as Pi/Claude Code/Codex skills — PostgreSQL health, schema diff, type generation, rate limiting, terminal styling, and more",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-kiro-api",
+  "description_en": "Kiro API-key provider for pi using KIRO_API_KEY. Vendors pi-kiro's streaming core (MIT) with no runtime dependencies.",
+  "description_zh": "使用 KIRO_API_KEY 为 pi 提供 Kiro API 密钥提供商。将 pi-kiro 的流式核心（MIT）与供应商捆绑，无运行时依赖。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

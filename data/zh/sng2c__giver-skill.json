@@ -1,0 +1,6 @@
+{
+  "name": "@sng2c/giver-skill",
+  "description_en": "The Giver v3 — Pipeline orchestration skill for Pi coding agent. Planner→Workers chain with results.md, completionGuard chain break, [CHAIN COMPLETED] signal.",
+  "description_zh": "The Giver v3 — Pi 编码代理的流水线编排技能。规划者→工作者链，带有 results.md、completionGuard 链中断和 [CHAIN COMPLETED] 信号。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

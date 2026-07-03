@@ -1,0 +1,6 @@
+{
+  "name": "@k3_2o/pi-read-image",
+  "description_en": "OCR image-to-text tool for Pi — extracts text from screenshots, terminal output, and code images using Tesseract + ImageMagick",
+  "description_zh": "Pi 的 OCR 图像到文本工具 — 使用 Tesseract + ImageMagick 从屏幕截图、终端输出和代码图像中提取文本",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

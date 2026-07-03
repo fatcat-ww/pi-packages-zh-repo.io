@@ -1,0 +1,6 @@
+{
+  "name": "@burneikis/pi-vim",
+  "description_en": "Vim motions extension for pi – normal, insert, visual, and replace modes with operators, motions, text objects, registers, search, and repeat",
+  "description_zh": "pi 的 Vim 动作扩展 — 普通、插入、可视和替换模式，带有操作符、动作、文本对象、寄存器、搜索和重复",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

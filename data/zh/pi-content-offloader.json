@@ -1,0 +1,6 @@
+{
+  "name": "pi-content-offloader",
+  "description_en": "Auto-offloads large user inputs in pi to a temporary directory — explicit $offload markers and auto-detect for paste content >2KB",
+  "description_zh": "自动将 pi 中的大用户输入卸载到临时目录 — 显式的 $offload 标记和自动检测粘贴内容 >2KB",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

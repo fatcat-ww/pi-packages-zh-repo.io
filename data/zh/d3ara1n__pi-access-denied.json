@@ -1,0 +1,6 @@
+{
+  "name": "@d3ara1n/pi-access-denied",
+  "description_en": "Sandbox write/edit/bash to the project dir — prompt / deny / allow modes, configurable deny-with-redirect rules, per-session allow-deny memory",
+  "description_zh": "对项目目录进行沙盒写入/编辑/bash 操作 — 提示/拒绝/允许模式，可配置的拒绝并重定向规则，每会话允许拒绝记忆",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

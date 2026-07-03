@@ -1,0 +1,14 @@
+{
+  "name": "@danchamorro/pi-prompt-enhancer",
+  "path": "/packages/@danchamorro/pi-prompt-enhancer",
+  "url": "https://pi.dev/packages/@danchamorro/pi-prompt-enhancer",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 131,
+  "date_ms": 1776912779036,
+  "description_en": "Enhance prompts to be clearer, more specific, and more actionable before sending",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

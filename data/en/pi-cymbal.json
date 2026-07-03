@@ -1,0 +1,11 @@
+{
+  "name": "pi-cymbal",
+  "path": "/packages/pi-cymbal",
+  "url": "https://pi.dev/packages/pi-cymbal",
+  "types": "",
+  "type_list": [],
+  "downloads": 335,
+  "date_ms": 1782748563385,
+  "description_en": "Pi extension exposing Cymbal as an agent-native code navigation layer.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

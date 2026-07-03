@@ -1,0 +1,13 @@
+{
+  "name": "@samfp/pi-rose-pine",
+  "path": "/packages/@samfp/pi-rose-pine",
+  "url": "https://pi.dev/packages/@samfp/pi-rose-pine",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 110,
+  "date_ms": 1773528845758,
+  "description_en": "Rosé Pine theme for pi. Soho vibes for your coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

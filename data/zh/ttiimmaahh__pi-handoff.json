@@ -1,0 +1,6 @@
+{
+  "name": "@ttiimmaahh/pi-handoff",
+  "description_en": "Proactive context-handoff for the pi coding agent: at a context-usage threshold, auto-write a structured session handoff doc and offer to reload it in a new session.",
+  "description_zh": "pi 编码代理的主动上下文交接：在上下文使用阈值处，自动编写结构化的会话交接文档，并在新会话中提供重新加载选项",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

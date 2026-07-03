@@ -1,0 +1,11 @@
+{
+  "name": "caveman-pi",
+  "path": "/packages/caveman-pi",
+  "url": "https://pi.dev/packages/caveman-pi",
+  "types": "",
+  "type_list": [],
+  "downloads": 51,
+  "date_ms": 1776129576299,
+  "description_en": "Caveman mode for pi — terse, no-fluff LLM responses with a /caveman toggle",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

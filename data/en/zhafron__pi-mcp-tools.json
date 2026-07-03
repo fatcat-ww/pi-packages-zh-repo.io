@@ -1,0 +1,13 @@
+{
+  "name": "@zhafron/pi-mcp-tools",
+  "path": "/packages/@zhafron/pi-mcp-tools",
+  "url": "https://pi.dev/packages/@zhafron/pi-mcp-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 108,
+  "date_ms": 1771421551131,
+  "description_en": "Universal MCP tools extension for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-branch-ask",
+  "path": "/packages/pi-branch-ask",
+  "url": "https://pi.dev/packages/pi-branch-ask",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 21,
+  "date_ms": 1772224279087,
+  "description_en": "Interactive ask tool for pi with branching questionnaire support",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

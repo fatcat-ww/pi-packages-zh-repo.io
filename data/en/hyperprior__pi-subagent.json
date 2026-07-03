@@ -1,0 +1,13 @@
+{
+  "name": "@hyperprior/pi-subagent",
+  "path": "/packages/@hyperprior/pi-subagent",
+  "url": "https://pi.dev/packages/@hyperprior/pi-subagent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 36,
+  "date_ms": 1771219078678,
+  "description_en": "Delegate tasks to isolated sub-agents (pi subprocesses)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

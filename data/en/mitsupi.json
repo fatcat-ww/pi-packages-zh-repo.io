@@ -1,0 +1,15 @@
+{
+  "name": "mitsupi",
+  "path": "/packages/mitsupi",
+  "url": "https://pi.dev/packages/mitsupi",
+  "types": "extension skill theme",
+  "type_list": [
+    "extension",
+    "skill",
+    "theme"
+  ],
+  "downloads": 3743,
+  "date_ms": 1776451377476,
+  "description_en": "Armin's pi coding agent commands, skills, extensions, and themes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

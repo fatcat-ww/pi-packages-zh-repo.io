@@ -1,0 +1,13 @@
+{
+  "name": "pi-blindtest",
+  "path": "/packages/pi-blindtest",
+  "url": "https://pi.dev/packages/pi-blindtest",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 36,
+  "date_ms": 1782653684549,
+  "description_en": "Pi extension for blind model testing: hide model in UI and aggregate ratings across sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@jay-zod/speakturbo",
+  "path": "/packages/@jay-zod/speakturbo",
+  "url": "https://pi.dev/packages/@jay-zod/speakturbo",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 82,
+  "date_ms": 1771674126565,
+  "description_en": "Ultra-fast TTS with ~90ms latency. Local text-to-speech for AI agents with 8 built-in voices.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

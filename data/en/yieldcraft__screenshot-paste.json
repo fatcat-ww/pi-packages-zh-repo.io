@@ -1,0 +1,11 @@
+{
+  "name": "@yieldcraft/screenshot-paste",
+  "path": "/packages/@yieldcraft/screenshot-paste",
+  "url": "https://pi.dev/packages/@yieldcraft/screenshot-paste",
+  "types": "",
+  "type_list": [],
+  "downloads": 1111,
+  "date_ms": 1782290763428,
+  "description_en": "pi-web plugin that browses and previews screenshots saved by pi-web into .pi-web/paste/ — gallery panel, lightbox, and chat-inline previews for folder-mode attachments.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

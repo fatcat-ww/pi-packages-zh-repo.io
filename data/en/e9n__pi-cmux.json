@@ -1,0 +1,11 @@
+{
+  "name": "@e9n/pi-cmux",
+  "path": "/packages/@e9n/pi-cmux",
+  "url": "https://pi.dev/packages/@e9n/pi-cmux",
+  "types": "",
+  "type_list": [],
+  "downloads": 41,
+  "date_ms": 1777233152596,
+  "description_en": "cmux terminal app integration for pi — notifications, pane management, screen reading, and browser automation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

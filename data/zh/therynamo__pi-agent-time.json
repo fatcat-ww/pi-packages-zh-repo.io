@@ -1,0 +1,6 @@
+{
+  "name": "@therynamo/pi-agent-time",
+  "description_en": "Pi extension showing per-turn and cumulative LLM response times in the status bar",
+  "description_zh": "pi 扩展，在状态栏中显示每个回合和累计的 LLM 响应时间",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

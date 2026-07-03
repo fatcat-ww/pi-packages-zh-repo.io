@@ -1,0 +1,6 @@
+{
+  "name": "@zhushanwen/pi-subagents",
+  "description_en": "In-process agent execution runtime for Pi — unified execute entry, isolated state, sync/background modes",
+  "description_zh": "Pi 的进程内代理执行运行时 — 统一执行入口、隔离状态、同步/后台模式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

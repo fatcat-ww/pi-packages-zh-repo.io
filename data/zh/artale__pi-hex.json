@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-hex",
+  "description_en": "Hex viewer, binary inspector, magic byte detection, string extraction.",
+  "description_zh": "十六进制查看器、二进制检查器、魔术字节检测、字符串提取。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

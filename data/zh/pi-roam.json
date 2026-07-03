@@ -1,0 +1,6 @@
+{
+  "name": "pi-roam",
+  "description_en": "Post-hoc handoff of a live Pi session into tmux for remote continuation, with optional Tailscale account switching",
+  "description_zh": "将活动的 Pi 会话事后交接给 tmux 进行远程继续，可选择切换 Tailscale 账户",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

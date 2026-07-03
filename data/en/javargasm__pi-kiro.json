@@ -1,0 +1,13 @@
+{
+  "name": "@javargasm/pi-kiro",
+  "path": "/packages/@javargasm/pi-kiro",
+  "url": "https://pi.dev/packages/@javargasm/pi-kiro",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2195,
+  "date_ms": 1782301945438,
+  "description_en": "Kiro provider for the pi coding agent: AWS Builder ID / IAM Identity Center login and the CodeWhisperer streaming API, exposing the Kiro Claude model family.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

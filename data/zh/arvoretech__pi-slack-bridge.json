@@ -1,0 +1,6 @@
+{
+  "name": "@arvoretech/pi-slack-bridge",
+  "description_en": "PI extension that bridges the active Pi session to a Slack thread: mirrors messages both ways, one Slack thread per Pi session",
+  "description_zh": "PI 扩展，将活动的 Pi 会话桥接到 Slack 线程：双向镜像消息，每个 Pi 会话对应一个 Slack 线程",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@seqyuan/pimodel",
+  "path": "/packages/@seqyuan/pimodel",
+  "url": "https://pi.dev/packages/@seqyuan/pimodel",
+  "types": "",
+  "type_list": [],
+  "downloads": 158,
+  "date_ms": 1779961830833,
+  "description_en": "Import OpenAI-compatible model providers into PI models.json",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

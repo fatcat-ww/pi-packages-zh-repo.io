@@ -1,0 +1,13 @@
+{
+  "name": "@john95ac/pi-sound-notify-custom",
+  "path": "/packages/@john95ac/pi-sound-notify-custom",
+  "url": "https://pi.dev/packages/@john95ac/pi-sound-notify-custom",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 68,
+  "date_ms": 1779678888261,
+  "description_en": "Sound notifications for Pi Coding Agent — play .wav on events with random/sequential modes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

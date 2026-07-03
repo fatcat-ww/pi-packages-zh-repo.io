@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-package-skill-lifecycle",
+  "path": "/packages/@firstpick/pi-package-skill-lifecycle",
+  "url": "https://pi.dev/packages/@firstpick/pi-package-skill-lifecycle",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 498,
+  "date_ms": 1782924800655,
+  "description_en": "Self-contained Pi package for skill lifecycle management: memory, skill-bank audit, evaluation, creation, and refinement tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

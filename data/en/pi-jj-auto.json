@@ -1,0 +1,11 @@
+{
+  "name": "pi-jj-auto",
+  "path": "/packages/pi-jj-auto",
+  "url": "https://pi.dev/packages/pi-jj-auto",
+  "types": "",
+  "type_list": [],
+  "downloads": 88,
+  "date_ms": 1778008583684,
+  "description_en": "Automatic jj revision management — guards file edits to keep Jujutsu revisions focused",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

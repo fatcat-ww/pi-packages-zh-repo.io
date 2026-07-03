@@ -1,0 +1,13 @@
+{
+  "name": "@bramgeron/pi-kagi",
+  "path": "/packages/@bramgeron/pi-kagi",
+  "url": "https://pi.dev/packages/@bramgeron/pi-kagi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 36,
+  "date_ms": 1779750255906,
+  "description_en": "Pi extension for Kagi web search and URL extraction",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

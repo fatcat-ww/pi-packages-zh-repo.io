@@ -1,0 +1,6 @@
+{
+  "name": "pi-openresolve",
+  "description_en": "Openresolve extension for pi (currently lists merge conflicts in TypeScript code)",
+  "description_zh": "pi 的 Openresolve 扩展（当前列出 TypeScript 代码中的合并冲突）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

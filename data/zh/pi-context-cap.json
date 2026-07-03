@@ -1,0 +1,6 @@
+{
+  "name": "pi-context-cap",
+  "description_en": "Cap model context windows so pi's built-in auto-compaction fires earlier. Zero-config 200k default for long-context Claude models; configurable for anything else.",
+  "description_zh": "限制模型上下文窗口，使 Pi 内置的自动压缩更早触发。长上下文 Claude 模型的零配置 200k 默认值；其他配置可自定义。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

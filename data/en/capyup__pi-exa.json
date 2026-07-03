@@ -1,0 +1,14 @@
+{
+  "name": "@capyup/pi-exa",
+  "path": "/packages/@capyup/pi-exa",
+  "url": "https://pi.dev/packages/@capyup/pi-exa",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 93,
+  "date_ms": 1778473800595,
+  "description_en": "Exa web research for pi via five first-class tools + skill + local CLI. Uses the official exa-js SDK directly — no MCP server, no adapter. Tools: exa_search, exa_similar, exa_fetch, exa_answer, exa_research. Supports real-time livecrawl, subpage extractio",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

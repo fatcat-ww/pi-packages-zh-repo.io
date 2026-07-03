@@ -1,0 +1,6 @@
+{
+  "name": "@jasonish/pi-prompt-history",
+  "description_en": "Pi extension: search user prompt history across all sessions with Ctrl+Alt+R",
+  "description_zh": "Pi 扩展：使用 Ctrl+Alt+R 在所有会话中搜索用户提示历史",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

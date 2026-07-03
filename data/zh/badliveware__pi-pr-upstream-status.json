@@ -1,0 +1,6 @@
+{
+  "name": "@badliveware/pi-pr-upstream-status",
+  "description_en": "Show upstream pull request status for the current branch in Pi.",
+  "description_zh": "在 Pi 中显示当前分支的上游拉取请求状态",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

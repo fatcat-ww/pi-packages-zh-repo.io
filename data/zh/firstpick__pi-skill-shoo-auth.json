@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-shoo-auth",
+  "description_en": "Use when evaluating, implementing, reviewing, or debugging Shoo auth (shoo.dev) Google sign-in in browser apps, including @shoojs/react, @shoojs/auth, hosted shoo.js, Convex custom JWT integration, PKCE callbacks, session checks, and server-side id_token",
+  "description_zh": "在浏览器应用中评估、实现、审查或调试 Shoo auth (shoo.dev) Google 登录时使用，包括 @shoojs/react、@shoojs/auth、托管的 shoo.js、Convex 自定义 JWT 集成、PKCE 回调、会话检查和服务器端 id_token",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

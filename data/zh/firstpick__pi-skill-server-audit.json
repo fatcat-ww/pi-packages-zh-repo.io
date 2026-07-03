@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-server-audit",
+  "description_en": "Agents should invoke this skill for Linux server security reviews, SSH hardening, firewall/open-port audits, user/permission checks, exposed services, or host hardening requests. Produces severity-rated findings and practical remediation steps.",
+  "description_zh": "代理应调用此技能进行 Linux 服务器安全审查、SSH 强化、防火墙/开放端口审计、用户/权限检查、暴露服务或主机强化请求。生成严重性评级的结果和实用的修复步骤",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

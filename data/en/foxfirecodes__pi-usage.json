@@ -1,0 +1,13 @@
+{
+  "name": "@foxfirecodes/pi-usage",
+  "path": "/packages/@foxfirecodes/pi-usage",
+  "url": "https://pi.dev/packages/@foxfirecodes/pi-usage",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 97,
+  "date_ms": 1782358737030,
+  "description_en": "Pi extension that reports token usage and cost for the current session or all persisted sessions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

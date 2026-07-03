@@ -1,0 +1,13 @@
+{
+  "name": "@tryinget/pi-editor-registry",
+  "path": "/packages/@tryinget/pi-editor-registry",
+  "url": "https://pi.dev/packages/@tryinget/pi-editor-registry",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 23,
+  "date_ms": 1773232326730,
+  "description_en": "Editor ownership and mount primitives for pi-interaction runtime",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

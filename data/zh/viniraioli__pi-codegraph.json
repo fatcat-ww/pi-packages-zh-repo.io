@@ -1,0 +1,6 @@
+{
+  "name": "@viniraioli/pi-codegraph",
+  "description_en": "Pi coding agent extension that wires codegraph (tree-sitter knowledge graph) as an MCP sidecar and injects usage instructions into the system prompt",
+  "description_zh": "Pi coding agent 扩展，将 codegraph（tree-sitter 知识图）作为 MCP sidecar 连接，并将使用说明注入系统提示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "pi-per-model-prompt",
+  "path": "/packages/pi-per-model-prompt",
+  "url": "https://pi.dev/packages/pi-per-model-prompt",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 58,
+  "date_ms": 1776439344305,
+  "description_en": "Model-scoped system prompt correction layers for pi-coding-agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

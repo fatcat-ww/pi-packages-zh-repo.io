@@ -1,0 +1,13 @@
+{
+  "name": "pi-extension-manager",
+  "path": "/packages/pi-extension-manager",
+  "url": "https://pi.dev/packages/pi-extension-manager",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 387,
+  "date_ms": 1774933939870,
+  "description_en": "Interactive extension and package manager for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

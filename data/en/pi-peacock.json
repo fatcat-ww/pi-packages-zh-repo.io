@@ -1,0 +1,13 @@
+{
+  "name": "pi-peacock",
+  "path": "/packages/pi-peacock",
+  "url": "https://pi.dev/packages/pi-peacock",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 31,
+  "date_ms": 1774380406183,
+  "description_en": "Peacock-style workspace coloring, repo badges, and terminal titles for pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

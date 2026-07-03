@@ -1,0 +1,6 @@
+{
+  "name": "@ratel-factory/pi-extension",
+  "description_en": "Ratel Factory — native Pi Coding Agent extension. Runs the Ratel orchestrator in-process (no HTTP service, no `ratel --serve`) and registers Pi commands, tools, lifecycle hooks, and a bundled skill so Pi users can run Ratel missions directly inside Pi.",
+  "description_zh": "Ratel Factory — 原生 Pi Coding Agent 扩展。在进程中运行 Ratel 编排器（无 HTTP 服务，无 `ratel --serve`），并注册 Pi 命令、工具、生命周期钩子和捆绑的技能，因此 Pi 用户可以在 Pi 内直接运行 Ratel 任务",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-cache-ttl-config",
+  "path": "/packages/pi-cache-ttl-config",
+  "url": "https://pi.dev/packages/pi-cache-ttl-config",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 59,
+  "date_ms": 1776912235456,
+  "description_en": "Dynamically switch the Anthropic prompt-cache TTL between 5m and 1h mid-conversation in the pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

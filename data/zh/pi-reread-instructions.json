@@ -1,0 +1,6 @@
+{
+  "name": "pi-reread-instructions",
+  "description_en": "Pi extension that re-inserts AGENTS.md / CLAUDE.md every N completed final assistant replies",
+  "description_zh": "Pi 扩展，每 N 个完成的最终助手回复后重新插入 AGENTS.md / CLAUDE.md",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

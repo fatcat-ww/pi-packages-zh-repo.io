@@ -1,0 +1,13 @@
+{
+  "name": "@cad0p/pi-timestamps",
+  "path": "/packages/@cad0p/pi-timestamps",
+  "url": "https://pi.dev/packages/@cad0p/pi-timestamps",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 840,
+  "date_ms": 1780706756721,
+  "description_en": "Inline UTC timestamps for every message in pi coding agent — dim-styled, LLM-safe, zero-config",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

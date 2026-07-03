@@ -1,0 +1,6 @@
+{
+  "name": "@adamjen/pi-compact-fast",
+  "description_en": "/compact-fast command for Pi — compacts sessions with a fast local model instead of your main conversation model.",
+  "description_zh": "Pi 的 /compact-fast 命令 — 使用快速本地模型压缩会话，而不是您的主对话模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

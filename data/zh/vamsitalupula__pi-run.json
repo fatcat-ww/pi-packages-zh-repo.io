@@ -1,0 +1,6 @@
+{
+  "name": "@vamsitalupula/pi-run",
+  "description_en": "Run Typescript within the Node.js context of the Pi coding agent",
+  "description_zh": "在 Pi 编码代理的 Node.js 上下文中运行 TypeScript",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

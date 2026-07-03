@@ -1,0 +1,13 @@
+{
+  "name": "pi-insights",
+  "path": "/packages/pi-insights",
+  "url": "https://pi.dev/packages/pi-insights",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 58,
+  "date_ms": 1776530834472,
+  "description_en": "AI coding assistant session analytics and insights for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

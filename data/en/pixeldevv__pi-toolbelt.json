@@ -1,0 +1,13 @@
+{
+  "name": "@pixeldevv/pi-toolbelt",
+  "path": "/packages/@pixeldevv/pi-toolbelt",
+  "url": "https://pi.dev/packages/@pixeldevv/pi-toolbelt",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 73,
+  "date_ms": 1779756063709,
+  "description_en": "Agent-safe control plane for local CLIs in Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

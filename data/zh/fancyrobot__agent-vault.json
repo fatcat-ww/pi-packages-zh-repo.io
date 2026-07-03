@@ -1,0 +1,6 @@
+{
+  "name": "@fancyrobot/agent-vault",
+  "description_en": "Durable project memory for coding agents. Obsidian-compatible vault with MCP server, pi package, and workflow support for Claude Code, OpenCode, pi, and Codex.",
+  "description_zh": "编码代理的持久项目记忆。与 Obsidian 兼容的保险库，带有 MCP 服务器、pi 包和 Claude Code、OpenCode、pi 和 Codex 的工作流支持",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

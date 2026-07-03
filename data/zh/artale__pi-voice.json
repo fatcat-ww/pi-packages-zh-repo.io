@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-voice",
+  "description_en": "Voice input for Pi. Multi-provider STT with Deepgram streaming, Groq Whisper, OpenAI Whisper. 56+ languages.",
+  "description_zh": "Pi 的语音输入。Deepgram 流式传输、Groq Whisper、OpenAI Whisper 的多提供商 STT。支持 56+ 种语言",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

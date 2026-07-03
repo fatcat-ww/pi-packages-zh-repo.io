@@ -1,0 +1,13 @@
+{
+  "name": "pi-gemini-search",
+  "path": "/packages/pi-gemini-search",
+  "url": "https://pi.dev/packages/pi-gemini-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782551103931,
+  "description_en": "Web search & research tools for the Pi coding agent, backed by the Gemini API with Google Search grounding — keeps raw page noise out of your context.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

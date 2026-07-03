@@ -1,0 +1,13 @@
+{
+  "name": "pi-agent-bus-node",
+  "path": "/packages/pi-agent-bus-node",
+  "url": "https://pi.dev/packages/pi-agent-bus-node",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 51,
+  "date_ms": 1777176880658,
+  "description_en": "Node.js runtime for pi-agent-bus — MessageBus, Agent base class, LLMProvider, TaskQueue",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@anhkhoa2109/pi-you-search",
+  "path": "/packages/@anhkhoa2109/pi-you-search",
+  "url": "https://pi.dev/packages/@anhkhoa2109/pi-you-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 63,
+  "date_ms": 1778742312618,
+  "description_en": "Pi extension for web_you_search and web_you_fetch tools powered by You.com",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

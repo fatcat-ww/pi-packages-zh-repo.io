@@ -1,0 +1,6 @@
+{
+  "name": "@isr4el-silv4/pi-script-tools",
+  "description_en": "Pi extension that auto-discovers shell scripts and registers them as tools",
+  "description_zh": "Pi 扩展，自动发现 shell 脚本并将其注册为工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

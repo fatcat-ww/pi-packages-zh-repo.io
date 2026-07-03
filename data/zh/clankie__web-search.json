@@ -1,0 +1,6 @@
+{
+  "name": "@clankie/web-search",
+  "description_en": "Headless web search and page extraction for clankie using CloakBrowser + Playwright",
+  "description_zh": "使用 CloakBrowser + Playwright 为 clankie 提供的无头网页搜索和页面提取",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

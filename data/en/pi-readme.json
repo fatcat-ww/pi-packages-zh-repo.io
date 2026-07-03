@@ -1,0 +1,11 @@
+{
+  "name": "pi-readme",
+  "path": "/packages/pi-readme",
+  "url": "https://pi.dev/packages/pi-readme",
+  "types": "",
+  "type_list": [],
+  "downloads": 140,
+  "date_ms": 1782406150735,
+  "description_en": "Pi-native README generator and linter for pi.dev packages — auto-generate and validate README.md files",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

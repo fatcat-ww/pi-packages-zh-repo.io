@@ -1,0 +1,13 @@
+{
+  "name": "pi-live",
+  "path": "/packages/pi-live",
+  "url": "https://pi.dev/packages/pi-live",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 23,
+  "date_ms": 1778488321277,
+  "description_en": "Expose the current Pi Coding Agent session through a protected live web app.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

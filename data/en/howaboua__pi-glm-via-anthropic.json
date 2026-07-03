@@ -1,0 +1,13 @@
+{
+  "name": "@howaboua/pi-glm-via-anthropic",
+  "path": "/packages/@howaboua/pi-glm-via-anthropic",
+  "url": "https://pi.dev/packages/@howaboua/pi-glm-via-anthropic",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 63,
+  "date_ms": 1774971088127,
+  "description_en": "Use Z.ai GLM models in pi through Z.ai's Anthropic-compatible endpoint.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

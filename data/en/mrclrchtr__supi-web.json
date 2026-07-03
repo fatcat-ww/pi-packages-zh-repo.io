@@ -1,0 +1,13 @@
+{
+  "name": "@mrclrchtr/supi-web",
+  "path": "/packages/@mrclrchtr/supi-web",
+  "url": "https://pi.dev/packages/@mrclrchtr/supi-web",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2618,
+  "date_ms": 1783012948727,
+  "description_en": "SuPi Web extension — fetch web pages as clean Markdown (web_fetch_md) and library docs via Context7 (web_docs_search, web_docs_fetch)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

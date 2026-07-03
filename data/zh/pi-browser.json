@@ -1,0 +1,6 @@
+{
+  "name": "pi-browser",
+  "description_en": "Playwright-backed pi extension that registers the pi-browser tool",
+  "description_zh": "由 Playwright 支持的 pi 扩展，注册 pi-browser 工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

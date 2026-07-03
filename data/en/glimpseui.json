@@ -1,0 +1,13 @@
+{
+  "name": "glimpseui",
+  "path": "/packages/glimpseui",
+  "url": "https://pi.dev/packages/glimpseui",
+  "types": "prompt",
+  "type_list": [
+    "prompt"
+  ],
+  "downloads": 11596,
+  "date_ms": 1778883060347,
+  "description_en": "Native micro-UI for scripts and agents — cross-platform WebView windows with bidirectional JSON communication",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

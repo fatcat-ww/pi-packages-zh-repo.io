@@ -1,0 +1,6 @@
+{
+  "name": "@danmademe/pi-provider-litellm",
+  "description_en": "Pi agent extension for LiteLLM proxy auto-discovery and model configuration",
+  "description_zh": "Pi 代理扩展，用于 LiteLLM 代理自动发现和模型配置",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

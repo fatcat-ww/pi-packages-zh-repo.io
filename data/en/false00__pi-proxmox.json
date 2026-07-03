@@ -1,0 +1,13 @@
+{
+  "name": "@false00/pi-proxmox",
+  "path": "/packages/@false00/pi-proxmox",
+  "url": "https://pi.dev/packages/@false00/pi-proxmox",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1804,
+  "date_ms": 1782274011098,
+  "description_en": "Production-focused Proxmox VE automation tools for the Pi coding agent — VMs, LXC, storage, cluster, firewall, backup, HA, replication, and access control via the REST API",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

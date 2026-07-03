@@ -1,0 +1,6 @@
+{
+  "name": "pi-dependency-safety",
+  "description_en": "Pi skill for reviewing npm-registry dependency safety across npm, pnpm, yarn, and bun before project initialization, feature work, package additions, or package updates.",
+  "description_zh": "Pi 技能：在项目初始化、功能开发、包添加或包更新前，通过 npm、pnpm、yarn 和 bun 审查 npm-registry 依赖安全性",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

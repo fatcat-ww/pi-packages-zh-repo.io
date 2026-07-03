@@ -1,0 +1,6 @@
+{
+  "name": "pi-fast-resume",
+  "description_en": "Fast session picker for pi — reads headers + first messages from 16KB partial reads instead of full-file parsing",
+  "description_zh": "pi 的快速会话选择器 — 从 16KB 部分读取读取标题和第一条消息，而不是完整文件解析",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

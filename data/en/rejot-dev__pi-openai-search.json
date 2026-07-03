@@ -1,0 +1,13 @@
+{
+  "name": "@rejot-dev/pi-openai-search",
+  "path": "/packages/@rejot-dev/pi-openai-search",
+  "url": "https://pi.dev/packages/@rejot-dev/pi-openai-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 50,
+  "date_ms": 1777906273876,
+  "description_en": "A pi package that injects OpenAI's native web_search tool into the provider request payload.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

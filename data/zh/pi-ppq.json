@@ -1,0 +1,6 @@
+{
+  "name": "pi-ppq",
+  "description_en": "PayPerQ model provider for pi — access 50+ LLMs with per-token billing and smart routing models (auto, autoclaw).",
+  "description_zh": "pi 的 PayPerQ 模型提供者 — 通过每标记计费和智能路由模型（auto、autoclaw）访问 50+ 个 LLM",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

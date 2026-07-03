@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-knowledge",
+  "path": "/packages/@artale/pi-knowledge",
+  "url": "https://pi.dev/packages/@artale/pi-knowledge",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 25,
+  "date_ms": 1772982589530,
+  "description_en": "Local knowledge graph. User-owned entity/relationship store with search and export. Zero cloud, JSON-backed.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

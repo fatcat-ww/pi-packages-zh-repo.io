@@ -1,0 +1,11 @@
+{
+  "name": "@nqbao/pi-sandbox",
+  "path": "/packages/@nqbao/pi-sandbox",
+  "url": "https://pi.dev/packages/@nqbao/pi-sandbox",
+  "types": "",
+  "type_list": [],
+  "downloads": 309,
+  "date_ms": 1780256234190,
+  "description_en": "OS-level sandbox for pi coding agent — macOS sandbox-exec / Linux bubblewrap kernel-enforced isolation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

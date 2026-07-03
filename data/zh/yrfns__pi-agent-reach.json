@@ -1,0 +1,6 @@
+{
+  "name": "@yrfns/pi-agent-reach",
+  "description_en": "Native pi extension wrapping Agent Reach CLI for 14 internet channels — search, read, status for Twitter, Reddit, Bilibili, 小红书, YouTube, GitHub, RSS, V2EX, LinkedIn",
+  "description_zh": "原生 Pi 扩展，封装 Agent Reach CLI，支持 14 个互联网频道 — Twitter、Reddit、Bilibili、小红书、YouTube、GitHub、RSS、V2EX、LinkedIn 的搜索、读取和状态查询",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

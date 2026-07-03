@@ -1,0 +1,6 @@
+{
+  "name": "pi-snake-timepass",
+  "description_en": "A centered Snake game that pops up automatically while Pi is working. Features 'Hard' and 'Easy' modes, adjustable speed, and wall wrap-around.",
+  "description_zh": "一个居中的贪吃蛇游戏，在 Pi 工作时自动弹出。具有'困难'和'简单'模式，可调节速度，以及墙壁环绕功能。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

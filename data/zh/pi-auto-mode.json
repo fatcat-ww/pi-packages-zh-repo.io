@@ -1,0 +1,6 @@
+{
+  "name": "pi-auto-mode",
+  "description_en": "A pi extension that re-implements Claude Code style auto mode with a two-stage tool-call classifier.",
+  "description_zh": "一个 pi 扩展，使用两阶段工具调用分类器重新实现 Claude Code 风格的自动模式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

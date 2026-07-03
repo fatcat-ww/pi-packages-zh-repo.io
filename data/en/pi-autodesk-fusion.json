@@ -1,0 +1,11 @@
+{
+  "name": "pi-autodesk-fusion",
+  "path": "/packages/pi-autodesk-fusion",
+  "url": "https://pi.dev/packages/pi-autodesk-fusion",
+  "types": "",
+  "type_list": [],
+  "downloads": 456,
+  "date_ms": 1781346465641,
+  "description_en": "Pi package that bridges the Autodesk Fusion Desktop MCP server into pi as native tools — real-time modeling and design edits in a live Fusion session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

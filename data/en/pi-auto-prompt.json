@@ -1,0 +1,14 @@
+{
+  "name": "pi-auto-prompt",
+  "path": "/packages/pi-auto-prompt",
+  "url": "https://pi.dev/packages/pi-auto-prompt",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 15,
+  "date_ms": 1779268402401,
+  "description_en": "Pi extension that injects project-local model-specific system prompt Markdown before each agent run.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@hdh/pi-contributions-bot",
+  "description_en": "Pi extension that gates git commit on CONTRIBUTING_BOT.md compliance",
+  "description_zh": "Pi 扩展，在遵循 CONTRIBUTING_BOT.md 规范的情况下限制 git 提交",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

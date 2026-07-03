@@ -1,0 +1,6 @@
+{
+  "name": "pi-tokensaver",
+  "description_en": "Give your Pi AI agent a semantic memory — bridges tokensave's Rust-powered local graph engine into your coding workflow for token-efficient codebase exploration",
+  "description_zh": "为您的 Pi AI 代理提供语义记忆 — 将 tokensave 的 Rust 驱动的本地图引擎桥接到您的编码工作流程中，实现令牌高效的代码库探索",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

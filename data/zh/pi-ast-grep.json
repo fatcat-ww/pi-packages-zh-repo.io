@@ -1,0 +1,6 @@
+{
+  "name": "pi-ast-grep",
+  "description_en": "A Pi extension that adds a read-only ast-grep structural search tool.",
+  "description_zh": "一个 Pi 扩展，添加了只读的 ast-grep 结构化搜索工具",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

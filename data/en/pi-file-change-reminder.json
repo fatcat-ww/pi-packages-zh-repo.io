@@ -1,0 +1,13 @@
+{
+  "name": "pi-file-change-reminder",
+  "path": "/packages/pi-file-change-reminder",
+  "url": "https://pi.dev/packages/pi-file-change-reminder",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 35,
+  "date_ms": 1774987905251,
+  "description_en": "Pi extension that injects reminder messages when specific files are modified.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

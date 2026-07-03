@@ -1,0 +1,13 @@
+{
+  "name": "@gericomaverick/pi-team-orchestrator",
+  "path": "/packages/@gericomaverick/pi-team-orchestrator",
+  "url": "https://pi.dev/packages/@gericomaverick/pi-team-orchestrator",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 93,
+  "date_ms": 1773309438617,
+  "description_en": "Pi extension for team/project orchestration with markdown-defined teams and session-backed state",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

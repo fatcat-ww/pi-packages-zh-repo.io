@@ -1,0 +1,6 @@
+{
+  "name": "pi-prefer-rg",
+  "description_en": "A pi extension that teaches the agent to prefer ripgrep over grep.",
+  "description_zh": "一个教导代理优先使用ripgrep而非grep的pi扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@koltmcbride/pi-loop",
+  "path": "/packages/@koltmcbride/pi-loop",
+  "url": "https://pi.dev/packages/@koltmcbride/pi-loop",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1472,
+  "date_ms": 1780163873151,
+  "description_en": "A pi coding-agent extension that runs a prompt repeatedly on a timer, pi event, or self-paced (Claude Code-style /loop)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

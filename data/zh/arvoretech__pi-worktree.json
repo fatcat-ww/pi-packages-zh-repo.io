@@ -1,0 +1,6 @@
+{
+  "name": "@arvoretech/pi-worktree",
+  "description_en": "PI extension to manage git worktrees across multi-repo workspaces with tree-themed names",
+  "description_zh": "Pi 扩展，用于管理跨多仓库工作区的 git worktree，使用树形主题名称",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

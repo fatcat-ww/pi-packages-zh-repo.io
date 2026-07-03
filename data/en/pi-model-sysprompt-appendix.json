@@ -1,0 +1,11 @@
+{
+  "name": "pi-model-sysprompt-appendix",
+  "path": "/packages/pi-model-sysprompt-appendix",
+  "url": "https://pi.dev/packages/pi-model-sysprompt-appendix",
+  "types": "",
+  "type_list": [],
+  "downloads": 40,
+  "date_ms": 1778173575660,
+  "description_en": "Append model-specific content to Pi system prompt before Project Context",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

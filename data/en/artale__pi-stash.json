@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-stash",
+  "path": "/packages/@artale/pi-stash",
+  "url": "https://pi.dev/packages/@artale/pi-stash",
+  "types": "",
+  "type_list": [],
+  "downloads": 30,
+  "date_ms": 1773496340681,
+  "description_en": "Prompt stash for Pi. Save, list, and restore prompt drafts. Like git stash for your prompts.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

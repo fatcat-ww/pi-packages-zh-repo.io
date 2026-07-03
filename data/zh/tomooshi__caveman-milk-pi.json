@@ -1,0 +1,6 @@
+{
+  "name": "@tomooshi/caveman-milk-pi",
+  "description_en": "pi extension that injects caveman terseness rules into the system prompt. Cache-safe, opt-in, plays nicely with condensed-milk and pi-vcc.",
+  "description_zh": "pi 扩展，将 caveman 简洁规则注入系统提示。缓存安全，可选使用，与 condensed-milk 和 pi-vcc 良好兼容。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

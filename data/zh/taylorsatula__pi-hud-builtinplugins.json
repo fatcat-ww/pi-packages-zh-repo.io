@@ -1,0 +1,6 @@
+{
+  "name": "@taylorsatula/pi-hud-builtinplugins",
+  "description_en": "Built-in HUD sections for pi-hud: clock, context budget, git status, and working directory. Registers via the hud_section EventBus contract.",
+  "description_zh": "pi-hud 的内置 HUD 部分：时钟、上下文预算、git 状态和工作目录。通过 hud_section EventBus 合约注册",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

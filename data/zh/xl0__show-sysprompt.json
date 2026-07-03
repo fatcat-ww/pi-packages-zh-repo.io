@@ -1,0 +1,6 @@
+{
+  "name": "@xl0/show-sysprompt",
+  "description_en": "Tiny Pi extension that shows the rendered system prompt and active tool schemas at startup.",
+  "description_zh": "小型 Pi 扩展，在启动时显示呈现的系统提示和活动工具模式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

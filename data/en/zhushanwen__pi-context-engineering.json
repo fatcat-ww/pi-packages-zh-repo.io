@@ -1,0 +1,13 @@
+{
+  "name": "@zhushanwen/pi-context-engineering",
+  "path": "/packages/@zhushanwen/pi-context-engineering",
+  "url": "https://pi.dev/packages/@zhushanwen/pi-context-engineering",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 767,
+  "date_ms": 1780799405787,
+  "description_en": "Progressive context compression for Pi — L0 zero-cost cleanup, L1 rule-based condensation, L2 emergency truncation, with recall mechanism.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

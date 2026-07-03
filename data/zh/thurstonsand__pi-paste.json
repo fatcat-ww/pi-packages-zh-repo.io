@@ -1,0 +1,6 @@
+{
+  "name": "@thurstonsand/pi-paste",
+  "description_en": "Pi extension for pasting your local Mac clipboard into remote gty ssh sessions",
+  "description_zh": "Pi 扩展，用于将本地 Mac 剪贴板粘贴到远程 gty ssh 会话中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

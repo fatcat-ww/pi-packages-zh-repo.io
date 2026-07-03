@@ -1,0 +1,13 @@
+{
+  "name": "pi-slim-tools",
+  "path": "/packages/pi-slim-tools",
+  "url": "https://pi.dev/packages/pi-slim-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782795772912,
+  "description_en": "Pi 扩展：将 bash/read/edit/write/grep/find/ls 的输出压缩为单行摘要，终端更清爽。按 Ctrl+O 展开。",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@whonixnetworks/pi-mattermost",
+  "path": "/packages/@whonixnetworks/pi-mattermost",
+  "url": "https://pi.dev/packages/@whonixnetworks/pi-mattermost",
+  "types": "",
+  "type_list": [],
+  "downloads": 618,
+  "date_ms": 1780923083250,
+  "description_en": "Mattermost bridge for Pi coding agent sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

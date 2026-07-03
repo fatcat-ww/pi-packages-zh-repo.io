@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-health",
+  "description_en": "Session health with error diagnosis for Pi. Detects error patterns, warns on degradation, tracks tool reliability.",
+  "description_zh": "Pi 的会话健康状态与错误诊断。检测错误模式，在性能下降时发出警告，跟踪工具可靠性。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

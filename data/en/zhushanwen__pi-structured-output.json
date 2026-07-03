@@ -1,0 +1,13 @@
+{
+  "name": "@zhushanwen/pi-structured-output",
+  "path": "/packages/@zhushanwen/pi-structured-output",
+  "url": "https://pi.dev/packages/@zhushanwen/pi-structured-output",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 911,
+  "date_ms": 1782234835515,
+  "description_en": "Structured output tool for Pi — enforces JSON Schema via tool call mechanism with Ajv validation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

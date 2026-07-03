@@ -1,0 +1,6 @@
+{
+  "name": "@sean_pedersen/pi-context-skills",
+  "description_en": "Pi coding agent extension that uses project context and the active LLM to select only relevant skills per project",
+  "description_zh": "Pi编码代理扩展，使用项目上下文和活动的LLM为每个项目选择仅相关的技能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

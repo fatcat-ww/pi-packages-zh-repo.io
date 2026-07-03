@@ -1,0 +1,6 @@
+{
+  "name": "@foxfirecodes/pi-stash",
+  "description_en": "Pi extension that adds a shortcut to stash and restore the current prompt.",
+  "description_zh": "添加快捷方式来暂存和恢复当前提示的 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

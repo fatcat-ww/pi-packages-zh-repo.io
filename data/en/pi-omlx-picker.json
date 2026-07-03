@@ -1,0 +1,11 @@
+{
+  "name": "pi-omlx-picker",
+  "path": "/packages/pi-omlx-picker",
+  "url": "https://pi.dev/packages/pi-omlx-picker",
+  "types": "",
+  "type_list": [],
+  "downloads": 1517,
+  "date_ms": 1782687869753,
+  "description_en": "Pi extension that discovers models from a local OMLX server and registers them as a native Pi provider.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

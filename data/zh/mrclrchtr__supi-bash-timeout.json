@@ -1,0 +1,6 @@
+{
+  "name": "@mrclrchtr/supi-bash-timeout",
+  "description_en": "SuPi bash-timeout extension — injects default timeout on bash tool calls",
+  "description_zh": "SuPi bash-timeout 扩展 - 在 bash 工具调用中注入默认超时",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

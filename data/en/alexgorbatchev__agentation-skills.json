@@ -1,0 +1,13 @@
+{
+  "name": "@alexgorbatchev/agentation-skills",
+  "path": "/packages/@alexgorbatchev/agentation-skills",
+  "url": "https://pi.dev/packages/@alexgorbatchev/agentation-skills",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 35,
+  "date_ms": 1774112870483,
+  "description_en": "Shared Agentation skills for coding agents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

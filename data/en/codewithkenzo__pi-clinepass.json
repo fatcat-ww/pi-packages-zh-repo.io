@@ -1,0 +1,13 @@
+{
+  "name": "@codewithkenzo/pi-clinepass",
+  "path": "/packages/@codewithkenzo/pi-clinepass",
+  "url": "https://pi.dev/packages/@codewithkenzo/pi-clinepass",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783031391223,
+  "description_en": "Native Pi provider extension for ClinePass OAuth models.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

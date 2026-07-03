@@ -1,0 +1,6 @@
+{
+  "name": "pi-context-prune",
+  "description_en": "Pi extension package for pruning future context while preserving original tool-call history.",
+  "description_zh": "Pi 扩展包，用于在保留原始工具调用历史的同时修剪未来上下文",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

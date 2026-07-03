@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-http",
+  "description_en": "Quick HTTP client for API testing. /http GET url | POST url -d body",
+  "description_zh": "用于 API 测试的快速 HTTP 客户端。/http GET url | POST url -d body",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

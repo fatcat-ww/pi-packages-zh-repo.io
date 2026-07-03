@@ -1,0 +1,11 @@
+{
+  "name": "@e9n/pi-web-dashboard",
+  "path": "/packages/@e9n/pi-web-dashboard",
+  "url": "https://pi.dev/packages/@e9n/pi-web-dashboard",
+  "types": "",
+  "type_list": [],
+  "downloads": 56,
+  "date_ms": 1777233143227,
+  "description_en": "Live agent dashboard for pi — SSE streaming, session view, and prompt submission",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

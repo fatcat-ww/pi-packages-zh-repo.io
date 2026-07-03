@@ -1,0 +1,13 @@
+{
+  "name": "pi-live-compaction",
+  "path": "/packages/pi-live-compaction",
+  "url": "https://pi.dev/packages/pi-live-compaction",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1354,
+  "date_ms": 1780777979451,
+  "description_en": "Live streaming compaction for Pi — structured summaries with preset routing, Liquid templates, files-touched manifests, and a full TUI settings panel.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

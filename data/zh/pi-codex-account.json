@@ -1,0 +1,6 @@
+{
+  "name": "pi-codex-account",
+  "description_en": "Pi extension to switch between multiple OpenAI Codex OAuth accounts and show usage for the active account.",
+  "description_zh": "Pi 扩展，用于在多个 OpenAI Codex OAuth 账户之间切换，并显示活动账户的使用情况",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

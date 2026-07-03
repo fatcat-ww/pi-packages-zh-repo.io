@@ -1,0 +1,14 @@
+{
+  "name": "pi-theme-flip",
+  "path": "/packages/pi-theme-flip",
+  "url": "https://pi.dev/packages/pi-theme-flip",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 20,
+  "date_ms": 1778629031379,
+  "description_en": "Pi package adding a non-blocking command to toggle light and dark themes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

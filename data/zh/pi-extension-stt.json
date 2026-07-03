@@ -1,0 +1,6 @@
+{
+  "name": "pi-extension-stt",
+  "description_en": "Pi extension package that adds local microphone speech-to-text via faster-whisper.",
+  "description_zh": "Pi 扩展包，通过 faster-whisper 添加本地麦克风语音转文本功能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

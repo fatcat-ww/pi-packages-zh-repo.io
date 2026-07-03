@@ -1,0 +1,13 @@
+{
+  "name": "pi-qwen-provider",
+  "path": "/packages/pi-qwen-provider",
+  "url": "https://pi.dev/packages/pi-qwen-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 65,
+  "date_ms": 1772962553224,
+  "description_en": "Qwen AI provider extension for Pi - OAuth authentication with qwen.ai",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

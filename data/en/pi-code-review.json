@@ -1,0 +1,13 @@
+{
+  "name": "pi-code-review",
+  "path": "/packages/pi-code-review",
+  "url": "https://pi.dev/packages/pi-code-review",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 163,
+  "date_ms": 1778755215825,
+  "description_en": "A Pi extension that provides automated, language-aware code review after the agent writes or modifies files.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-web-providers-az-cf",
+  "description_en": "Minimal Pi web providers extension for OpenAI-compatible/Azure Responses API and Cloudflare Browser Rendering markdown.",
+  "description_zh": "用于 OpenAI 兼容/Azure Responses API 和 Cloudflare 浏览器渲染 markdown 的最小 pi 网络提供程序扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

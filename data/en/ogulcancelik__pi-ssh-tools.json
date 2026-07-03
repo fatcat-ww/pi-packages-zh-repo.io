@@ -1,0 +1,13 @@
+{
+  "name": "@ogulcancelik/pi-ssh-tools",
+  "path": "/packages/@ogulcancelik/pi-ssh-tools",
+  "url": "https://pi.dev/packages/@ogulcancelik/pi-ssh-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 242,
+  "date_ms": 1779928060565,
+  "description_en": "Explicit SSH tools for pi. Toggle /ssh on for a host, then use ssh_read, ssh_write, ssh_edit, and ssh_bash without replacing local tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

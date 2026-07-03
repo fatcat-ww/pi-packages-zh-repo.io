@@ -1,0 +1,14 @@
+{
+  "name": "pi-tmux-task",
+  "path": "/packages/pi-tmux-task",
+  "url": "https://pi.dev/packages/pi-tmux-task",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 538,
+  "date_ms": 1782015510023,
+  "description_en": "A minimal tmux-based task manager for agents, with skills and notifications only.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

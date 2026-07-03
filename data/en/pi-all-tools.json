@@ -1,0 +1,13 @@
+{
+  "name": "pi-all-tools",
+  "path": "/packages/pi-all-tools",
+  "url": "https://pi.dev/packages/pi-all-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 443,
+  "date_ms": 1782709221625,
+  "description_en": "Enable all 7 built-in Pi tools by default (read, bash, edit, write, grep, find, ls)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

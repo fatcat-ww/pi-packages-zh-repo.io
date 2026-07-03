@@ -1,0 +1,11 @@
+{
+  "name": "@d3ara1n/pi-editor-shell",
+  "path": "/packages/@d3ara1n/pi-editor-shell",
+  "url": "https://pi.dev/packages/@d3ara1n/pi-editor-shell",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782829615252,
+  "description_en": "Replaces pi's default editor and status bar with a unified rounded-corner shell — no Nerd Font required",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

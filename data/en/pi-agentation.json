@@ -1,0 +1,13 @@
+{
+  "name": "pi-agentation",
+  "path": "/packages/pi-agentation",
+  "url": "https://pi.dev/packages/pi-agentation",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 54,
+  "date_ms": 1779125592471,
+  "description_en": "Pi extension that receives Agentation webhooks and turns them into queued user messages",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

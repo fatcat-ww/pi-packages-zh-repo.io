@@ -1,0 +1,13 @@
+{
+  "name": "pi-minimax-tools",
+  "path": "/packages/pi-minimax-tools",
+  "url": "https://pi.dev/packages/pi-minimax-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 136,
+  "date_ms": 1780042195338,
+  "description_en": "MiniMax web_search and understand_image tools for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-fast-mode",
+  "description_en": "Persistent fast-mode toggle for pi that injects service_tier for configured provider/model pairs.",
+  "description_zh": "pi 的持久快速模式切换，为配置的提供者/模型对注入 service_tier",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

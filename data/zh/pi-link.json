@@ -1,0 +1,6 @@
+{
+  "name": "pi-link",
+  "description_en": "WebSocket-based inter-terminal communication for Pi. Connect multiple Pi terminals over a local link network.",
+  "description_zh": "Pi 基于 WebSocket 的终端间通信。通过本地链接网络连接多个 Pi 终端。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@amaster.ai/pi-teamwork",
+  "path": "/packages/@amaster.ai/pi-teamwork",
+  "url": "https://pi.dev/packages/@amaster.ai/pi-teamwork",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 4353,
+  "date_ms": 1782723837440,
+  "description_en": "Pi extension for team collaboration and issue management via Multica",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

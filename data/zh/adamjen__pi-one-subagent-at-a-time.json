@@ -1,0 +1,6 @@
+{
+  "name": "@adamjen/pi-one-subagent-at-a-time",
+  "description_en": "Enforces sequential subagent execution — prevents concurrent subagent spawns that cause model swapping overhead on single-GPU setups.",
+  "description_zh": "强制顺序子代理执行 — 防止在单 GPU 设置上导致模型交换开销的并发子代理生成。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

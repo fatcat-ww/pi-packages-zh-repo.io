@@ -1,0 +1,11 @@
+{
+  "name": "@gnoviawan/pi-biome-lsp",
+  "path": "/packages/@gnoviawan/pi-biome-lsp",
+  "url": "https://pi.dev/packages/@gnoviawan/pi-biome-lsp",
+  "types": "",
+  "type_list": [],
+  "downloads": 65,
+  "date_ms": 1777535238340,
+  "description_en": "Biome lint/format/check integration for Pi, including daemon startup and post-edit checks.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

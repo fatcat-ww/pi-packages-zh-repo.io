@@ -1,0 +1,13 @@
+{
+  "name": "pi-compact-output",
+  "path": "/packages/pi-compact-output",
+  "url": "https://pi.dev/packages/pi-compact-output",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 41,
+  "date_ms": 1780003896757,
+  "description_en": "1 linha no output de ferramentas pi. Ctrl+O expande pro conteúdo completo.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

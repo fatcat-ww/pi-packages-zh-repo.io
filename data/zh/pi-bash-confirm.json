@@ -1,0 +1,6 @@
+{
+  "name": "pi-bash-confirm",
+  "description_en": "Pi package for confirming bash commands before execution with Telegram notifications",
+  "description_zh": "Pi 包，用于在执行前确认 bash 命令并带有 Telegram 通知",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

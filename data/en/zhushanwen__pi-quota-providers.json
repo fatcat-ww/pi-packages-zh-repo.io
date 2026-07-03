@@ -1,0 +1,11 @@
+{
+  "name": "@zhushanwen/pi-quota-providers",
+  "path": "/packages/@zhushanwen/pi-quota-providers",
+  "url": "https://pi.dev/packages/@zhushanwen/pi-quota-providers",
+  "types": "",
+  "type_list": [],
+  "downloads": 1586,
+  "date_ms": 1780976856174,
+  "description_en": "Quota provider data fetching and caching layer for Pi extensions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

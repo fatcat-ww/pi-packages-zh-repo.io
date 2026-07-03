@@ -1,0 +1,6 @@
+{
+  "name": "pi-workspace-context",
+  "description_en": "Pi extension for adding extra local workspace roots to the agent context.",
+  "description_zh": "Pi 扩展，用于向代理上下文添加额外的本地工作区根目录。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

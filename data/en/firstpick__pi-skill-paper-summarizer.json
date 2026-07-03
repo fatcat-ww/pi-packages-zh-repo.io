@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-paper-summarizer",
+  "path": "/packages/@firstpick/pi-skill-paper-summarizer",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-paper-summarizer",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 396,
+  "date_ms": 1780954609068,
+  "description_en": "Agents should invoke this skill for academic or technical papers, arXiv/PubMed/IEEE/ACM links, PDFs, methodology review, limitations, practical implications, or extracting findings for engineering decisions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-gh-cli",
+  "path": "/packages/pi-gh-cli",
+  "url": "https://pi.dev/packages/pi-gh-cli",
+  "types": "",
+  "type_list": [],
+  "downloads": 589,
+  "date_ms": 1780361734227,
+  "description_en": "Structured GitHub CLI tools for Pi agents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

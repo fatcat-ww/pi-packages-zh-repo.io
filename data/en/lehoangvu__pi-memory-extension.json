@@ -1,0 +1,13 @@
+{
+  "name": "@lehoangvu/pi-memory-extension",
+  "path": "/packages/@lehoangvu/pi-memory-extension",
+  "url": "https://pi.dev/packages/@lehoangvu/pi-memory-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 76,
+  "date_ms": 1776594218321,
+  "description_en": "Graphiti-lite memory extension package for Pi CLI.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

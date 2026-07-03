@@ -1,0 +1,6 @@
+{
+  "name": "pi-ollama-web-search",
+  "description_en": "pi extension adding Ollama web_search and web_fetch tools",
+  "description_zh": "添加 Ollama web_search 和 web_fetch 工具的 pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

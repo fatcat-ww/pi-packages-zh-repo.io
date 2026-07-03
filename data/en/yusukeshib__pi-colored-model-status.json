@@ -1,0 +1,13 @@
+{
+  "name": "@yusukeshib/pi-colored-model-status",
+  "path": "/packages/@yusukeshib/pi-colored-model-status",
+  "url": "https://pi.dev/packages/@yusukeshib/pi-colored-model-status",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782991729123,
+  "description_en": "Color-code the active model in pi's footer so you can tell at a glance which model family (opus, sonnet, fable, gpt, gemini, …) is in use.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

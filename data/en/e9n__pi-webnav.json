@@ -1,0 +1,11 @@
+{
+  "name": "@e9n/pi-webnav",
+  "path": "/packages/@e9n/pi-webnav",
+  "url": "https://pi.dev/packages/@e9n/pi-webnav",
+  "types": "",
+  "type_list": [],
+  "downloads": 29,
+  "date_ms": 1771319529750,
+  "description_en": "Unified navigation shell for pi-webserver — wraps all mounts in a shared nav layout with iframe routing",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

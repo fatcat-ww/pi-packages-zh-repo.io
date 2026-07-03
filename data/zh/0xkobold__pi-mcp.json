@@ -1,0 +1,6 @@
+{
+  "name": "@0xkobold/pi-mcp",
+  "description_en": "Model Context Protocol (MCP) integration for pi-coding-agent. Connect to any MCP server (stdio, SSE, StreamableHTTP, WebSocket) and use its tools, resources, and prompts natively.",
+  "description_zh": "pi-coding-agent 的模型上下文协议 (MCP) 集成。连接到任何 MCP 服务器（stdio、SSE、StreamableHTTP、WebSocket）并原生使用其工具、资源和提示。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

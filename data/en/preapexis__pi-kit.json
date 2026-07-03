@@ -1,0 +1,15 @@
+{
+  "name": "@preapexis/pi-kit",
+  "path": "/packages/@preapexis/pi-kit",
+  "url": "https://pi.dev/packages/@preapexis/pi-kit",
+  "types": "extension skill prompt",
+  "type_list": [
+    "extension",
+    "skill",
+    "prompt"
+  ],
+  "downloads": 3966,
+  "date_ms": 1783077410284,
+  "description_en": "Personal Pi coding-agent kit with safety extensions, status UI, prompt workflows, skills, and themes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

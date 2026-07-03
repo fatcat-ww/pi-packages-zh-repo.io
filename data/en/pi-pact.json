@@ -1,0 +1,11 @@
+{
+  "name": "pi-pact",
+  "path": "/packages/pi-pact",
+  "url": "https://pi.dev/packages/pi-pact",
+  "types": "",
+  "type_list": [],
+  "downloads": 406,
+  "date_ms": 1782931030563,
+  "description_en": "Improves Pi compaction by only compacting older history while keeping recent turns intact.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

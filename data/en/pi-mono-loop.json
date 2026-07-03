@@ -1,0 +1,13 @@
+{
+  "name": "pi-mono-loop",
+  "path": "/packages/pi-mono-loop",
+  "url": "https://pi.dev/packages/pi-mono-loop",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 108,
+  "date_ms": 1778280206083,
+  "description_en": "Pi extension that runs a prompt or slash command on a recurring interval",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@shog-lab/pi-toolkit",
+  "description_en": "Common pi-coding-agent extensions: web search (mmx) and MCP server bridge. NOTE: 0.3.0 removed spawn_subagent (→ @shog-lab/pi-subagent); 0.4.0 removed understand_image (models have native vision now); cron scheduling moved to @shog-lab/pi-bus; browser aut",
+  "description_zh": "通用的 pi-coding-agent 扩展：网络搜索 (mmx) 和 MCP 服务器桥接。注意：0.3.0 移除了 spawn_subagent (→ @shog-lab/pi-subagent)；0.4.0 移除了 understand_image（模型现在有原生视觉功能）；cron 调度已移至 @shog-lab/pi-bus；浏览器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

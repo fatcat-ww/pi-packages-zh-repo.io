@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-skill-network-diagnostics",
+  "description_en": "Agents should invoke this skill for connectivity, DNS, Pi-hole, port reachability, routing, firewall reachability, TLS/network timeouts, or service access failures. Provides structured network troubleshooting commands and interpretation.",
+  "description_zh": "代理应在连接性、DNS、Pi-hole、端口可达性、路由、防火墙可达性、TLS/网络超时或服务访问故障时调用此技能。提供结构化网络故障排除命令和解释",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

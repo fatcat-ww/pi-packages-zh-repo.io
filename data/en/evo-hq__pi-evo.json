@@ -1,0 +1,11 @@
+{
+  "name": "@evo-hq/pi-evo",
+  "path": "/packages/@evo-hq/pi-evo",
+  "url": "https://pi.dev/packages/@evo-hq/pi-evo",
+  "types": "",
+  "type_list": [],
+  "downloads": 3879,
+  "date_ms": 1782918216959,
+  "description_en": "Evo plugin for pi-coding-agent: optimize/discover/subagent skills + mid-run inject extension.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

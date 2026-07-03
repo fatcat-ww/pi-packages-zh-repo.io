@@ -1,0 +1,6 @@
+{
+  "name": "pi-voice-stt",
+  "description_en": "Provider-agnostic speech-to-text dictation extension for the Pi TUI.",
+  "description_zh": "Pi TUI 的提供程序无关的语音到文本听写扩展",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

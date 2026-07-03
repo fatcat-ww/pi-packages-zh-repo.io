@@ -1,0 +1,6 @@
+{
+  "name": "@oleg_tarasov/pi-zmx-status",
+  "description_en": "Show the current zmx session name in Pi's status bar.",
+  "description_zh": "在 Pi 的状态栏中显示当前 zmx 会话名称",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

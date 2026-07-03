@@ -1,0 +1,6 @@
+{
+  "name": "@gswangg/duncan-pi",
+  "description_en": "Session memory for pi — query dormant sessions, hand off context across session boundaries",
+  "description_zh": "pi 的会话记忆 — 查询休眠会话，跨会话边界传递上下文",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

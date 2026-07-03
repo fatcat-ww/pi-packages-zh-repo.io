@@ -1,0 +1,6 @@
+{
+  "name": "pi-immediate-compaction",
+  "description_en": "Immediate compaction extension for Pi CLI agent — proactive context window management with configurable thresholds",
+  "description_zh": "Pi CLI 代理的即时压缩扩展 — 具有可配置阈值的主动上下文窗口管理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

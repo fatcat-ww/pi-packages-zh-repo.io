@@ -1,0 +1,6 @@
+{
+  "name": "@therynamo/pi-changed-files",
+  "description_en": "Pi extension showing git-changed files in a floating overlay with diff counts",
+  "description_zh": "Pi 扩展，在浮动覆盖层中显示 git 更改的文件，带有差异计数",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

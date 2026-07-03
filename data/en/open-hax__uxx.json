@@ -1,0 +1,13 @@
+{
+  "name": "@open-hax/uxx",
+  "path": "/packages/@open-hax/uxx",
+  "url": "https://pi.dev/packages/@open-hax/uxx",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 553,
+  "date_ms": 1780083336557,
+  "description_en": "Open Hax UI component library with React primitives, shared design tokens, reusable themes, and color palettes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

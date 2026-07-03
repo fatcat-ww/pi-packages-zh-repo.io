@@ -1,0 +1,13 @@
+{
+  "name": "pi-immediate-compaction",
+  "path": "/packages/pi-immediate-compaction",
+  "url": "https://pi.dev/packages/pi-immediate-compaction",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 175,
+  "date_ms": 1780235881049,
+  "description_en": "Immediate compaction extension for Pi CLI agent — proactive context window management with configurable thresholds",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

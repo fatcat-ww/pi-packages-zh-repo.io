@@ -1,0 +1,6 @@
+{
+  "name": "@e9n/pi-cron",
+  "description_en": "Cron scheduler extension for pi — schedule recurring prompts as isolated subprocesses",
+  "description_zh": "pi 的 Cron 调度器扩展 — 将重复提示安排为隔离的子进程",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

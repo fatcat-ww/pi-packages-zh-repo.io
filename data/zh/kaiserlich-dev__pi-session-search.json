@@ -1,0 +1,6 @@
+{
+  "name": "@kaiserlich-dev/pi-session-search",
+  "description_en": "Full-text search across pi sessions with FTS5 index and overlay UI",
+  "description_zh": "使用 FTS5 索引和覆盖 UI 在 pi 会话中进行全文搜索",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

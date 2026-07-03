@@ -1,0 +1,13 @@
+{
+  "name": "pi-tmux-rename",
+  "path": "/packages/pi-tmux-rename",
+  "url": "https://pi.dev/packages/pi-tmux-rename",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 28,
+  "date_ms": 1778292679002,
+  "description_en": "Pi extension that automatically renames tmux windows to reflect the current conversation topic",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

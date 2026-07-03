@@ -1,0 +1,6 @@
+{
+  "name": "@ruminaider/notion-cli",
+  "description_en": "Notion CLI with full workspace access via OAuth. Manage pages, databases, comments, and Notion-flavored Markdown from the terminal.",
+  "description_zh": "具有完整工作区 OAuth 访问权限的 Notion CLI。从终端管理页面、数据库、评论和 Notion 风格的 Markdown",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

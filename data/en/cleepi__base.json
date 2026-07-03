@@ -1,0 +1,11 @@
+{
+  "name": "@cleepi/base",
+  "path": "/packages/@cleepi/base",
+  "url": "https://pi.dev/packages/@cleepi/base",
+  "types": "",
+  "type_list": [],
+  "downloads": 263,
+  "date_ms": 1780481360720,
+  "description_en": "Cleevio's base pi package: voice (system-prompt append) and theme. The first package every Cleevian installs.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

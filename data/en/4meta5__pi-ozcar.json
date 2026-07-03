@@ -1,0 +1,13 @@
+{
+  "name": "@4meta5/pi-ozcar",
+  "path": "/packages/@4meta5/pi-ozcar",
+  "url": "https://pi.dev/packages/@4meta5/pi-ozcar",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 39,
+  "date_ms": 1776103857307,
+  "description_en": "Pi-first audit extension package for structured security reviews and deterministic comparison exports",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

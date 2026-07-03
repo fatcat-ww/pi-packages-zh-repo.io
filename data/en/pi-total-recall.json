@@ -1,0 +1,13 @@
+{
+  "name": "pi-total-recall",
+  "path": "/packages/pi-total-recall",
+  "url": "https://pi.dev/packages/pi-total-recall",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1701,
+  "date_ms": 1781116602605,
+  "description_en": "Complete context stack for pi — persistent memory, session history search, and local knowledge search in one install.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

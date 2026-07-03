@@ -1,0 +1,13 @@
+{
+  "name": "pi-browser-debug",
+  "path": "/packages/pi-browser-debug",
+  "url": "https://pi.dev/packages/pi-browser-debug",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 50,
+  "date_ms": 1777970748589,
+  "description_en": "Pi extension for debugging active browser sessions via Chrome DevTools Protocol",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

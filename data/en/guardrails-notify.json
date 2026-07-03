@@ -1,0 +1,13 @@
+{
+  "name": "guardrails-notify",
+  "path": "/packages/guardrails-notify",
+  "url": "https://pi.dev/packages/guardrails-notify",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 48,
+  "date_ms": 1780535830344,
+  "description_en": "Pi extension that sends cmux, terminal, and native notifications when guardrails waits for approval.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

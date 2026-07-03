@@ -1,0 +1,11 @@
+{
+  "name": "pi-subagent-in-memory",
+  "path": "/packages/pi-subagent-in-memory",
+  "url": "https://pi.dev/packages/pi-subagent-in-memory",
+  "types": "",
+  "type_list": [],
+  "downloads": 88,
+  "date_ms": 1777034095515,
+  "description_en": "In-process subagent tool for pi with live TUI card widgets, JSONL session logging, and zero system-prompt overhead.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

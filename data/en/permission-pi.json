@@ -1,0 +1,13 @@
+{
+  "name": "permission-pi",
+  "path": "/packages/permission-pi",
+  "url": "https://pi.dev/packages/permission-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 70,
+  "date_ms": 1778966997823,
+  "description_en": "Layered permission control extension for pi-coding-agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

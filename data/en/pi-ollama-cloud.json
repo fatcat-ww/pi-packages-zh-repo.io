@@ -1,0 +1,11 @@
+{
+  "name": "pi-ollama-cloud",
+  "path": "/packages/pi-ollama-cloud",
+  "url": "https://pi.dev/packages/pi-ollama-cloud",
+  "types": "",
+  "type_list": [],
+  "downloads": 1927,
+  "date_ms": 1780693555371,
+  "description_en": "Ollama Cloud provider plugin for [Pi](https://github.com/badlogic/pi-mono) coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

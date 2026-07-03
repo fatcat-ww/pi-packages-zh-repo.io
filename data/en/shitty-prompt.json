@@ -1,0 +1,13 @@
+{
+  "name": "shitty-prompt",
+  "path": "/packages/shitty-prompt",
+  "url": "https://pi.dev/packages/shitty-prompt",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 33,
+  "date_ms": 1770759917674,
+  "description_en": "💩 Submit your hilariously broken prompts to shitty-prompt — pi coding agent extension",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

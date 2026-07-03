@@ -1,0 +1,13 @@
+{
+  "name": "@hyperprior/pi-ask",
+  "path": "/packages/@hyperprior/pi-ask",
+  "url": "https://pi.dev/packages/@hyperprior/pi-ask",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 33,
+  "date_ms": 1771219052964,
+  "description_en": "Structured question/answer tool for pi sessions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@dreki-gg/pi-firestore",
+  "description_en": "Firestore debugging tools for pi — query collections, inspect documents, and map data relationships",
+  "description_zh": "用于 pi 的 Firestore 调试工具 — 查询集合、检查文档和映射数据关系。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

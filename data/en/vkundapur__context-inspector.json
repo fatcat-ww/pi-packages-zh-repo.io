@@ -1,0 +1,13 @@
+{
+  "name": "@vkundapur/context-inspector",
+  "path": "/packages/@vkundapur/context-inspector",
+  "url": "https://pi.dev/packages/@vkundapur/context-inspector",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 162,
+  "date_ms": 1780119891886,
+  "description_en": "Pi coding agent extension: session context map and inspector. See a visual breakdown of context usage — prompts, tools, messages, token estimates — via the /context command.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

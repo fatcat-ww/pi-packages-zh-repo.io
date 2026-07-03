@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-sysmon",
+  "path": "/packages/@artale/pi-sysmon",
+  "url": "https://pi.dev/packages/@artale/pi-sysmon",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 42,
+  "date_ms": 1772991765141,
+  "description_en": "System monitor & resource manager. RAM/disk dashboard, process audit, memory hog detection, one-click cleanup. Carmack-style: measure everything, cut the waste.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

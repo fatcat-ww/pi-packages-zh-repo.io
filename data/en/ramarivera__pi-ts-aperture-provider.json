@@ -1,0 +1,13 @@
+{
+  "name": "@ramarivera/pi-ts-aperture-provider",
+  "path": "/packages/@ramarivera/pi-ts-aperture-provider",
+  "url": "https://pi.dev/packages/@ramarivera/pi-ts-aperture-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 419,
+  "date_ms": 1782467211500,
+  "description_en": "Config-driven aperture provider extraction for Pi-compatible extensions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

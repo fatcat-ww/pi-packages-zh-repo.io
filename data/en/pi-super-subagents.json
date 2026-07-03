@@ -1,0 +1,11 @@
+{
+  "name": "pi-super-subagents",
+  "path": "/packages/pi-super-subagents",
+  "url": "https://pi.dev/packages/pi-super-subagents",
+  "types": "",
+  "type_list": [],
+  "downloads": 156,
+  "date_ms": 1781921799453,
+  "description_en": "Pi extension for delegating tasks to subagents with chains, parallel execution, and TUI clarification",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

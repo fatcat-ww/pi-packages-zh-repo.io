@@ -1,0 +1,6 @@
+{
+  "name": "@kushagharahi/pi-llama-extensions",
+  "description_en": "Pi extensions for llama.cpp router — auto model discovery and tokens/second display",
+  "description_zh": "llama.cpp 路由器的 Pi 扩展 — 自动模型发现和每秒令牌显示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

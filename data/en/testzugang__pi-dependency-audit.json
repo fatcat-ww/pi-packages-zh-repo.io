@@ -1,0 +1,11 @@
+{
+  "name": "@testzugang/pi-dependency-audit",
+  "path": "/packages/@testzugang/pi-dependency-audit",
+  "url": "https://pi.dev/packages/@testzugang/pi-dependency-audit",
+  "types": "",
+  "type_list": [],
+  "downloads": 29,
+  "date_ms": 1779441607095,
+  "description_en": "Static dependency and supply-chain malware auditing skill for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

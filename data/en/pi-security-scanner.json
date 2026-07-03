@@ -1,0 +1,11 @@
+{
+  "name": "pi-security-scanner",
+  "path": "/packages/pi-security-scanner",
+  "url": "https://pi.dev/packages/pi-security-scanner",
+  "types": "",
+  "type_list": [],
+  "downloads": 41,
+  "date_ms": 1772159404379,
+  "description_en": "Security scanner and runtime protection for Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

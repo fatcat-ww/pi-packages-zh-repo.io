@@ -1,0 +1,6 @@
+{
+  "name": "@arvoretech/pi-changes-tracker",
+  "description_en": "PI extension that shows changed repos and files with /changed and /changes commands",
+  "description_zh": "显示已更改仓库和文件的 PI 扩展，带有 /changed 和 /changes 命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

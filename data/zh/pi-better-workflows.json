@@ -1,0 +1,6 @@
+{
+  "name": "pi-better-workflows",
+  "description_en": "pi-better-workflows — deterministic multi-agent orchestration for Pi. Faithful port of Claude Code's Workflow tool (agent/pipeline/parallel/phase/log) with background runs, resume-from-runId journaling, worktree isolation, and an extra rule teaching the L",
+  "description_zh": "pi-better-workflows — Pi 的确定性多代理编排。Claude Code Workflow 工具（agent/pipeline/parallel/phase/log）的忠实移植，具有后台运行、从 runId 恢复日志、工作区隔离和额外规则教导 L 的功能。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

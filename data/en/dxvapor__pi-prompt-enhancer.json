@@ -1,0 +1,14 @@
+{
+  "name": "@dxvapor/pi-prompt-enhancer",
+  "path": "/packages/@dxvapor/pi-prompt-enhancer",
+  "url": "https://pi.dev/packages/@dxvapor/pi-prompt-enhancer",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 40,
+  "date_ms": 1777796986188,
+  "description_en": "Prompt enhancer with comparison popup, version history, searchable model picker, and quick-enhance mode",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-system-prompt-manager",
+  "description_en": "Manage a library of named system prompts in pi, with per-session enable/disable, selection, and optional per-model scoping.",
+  "description_zh": "在 pi 中管理命名系统提示的库，具有每个会话的启用/禁用、选择和可选的按模型范围",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

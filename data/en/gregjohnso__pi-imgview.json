@@ -1,0 +1,13 @@
+{
+  "name": "@gregjohnso/pi-imgview",
+  "path": "/packages/@gregjohnso/pi-imgview",
+  "url": "https://pi.dev/packages/@gregjohnso/pi-imgview",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 82,
+  "date_ms": 1778040276074,
+  "description_en": "Display images from inside the pi coding agent: imgcat-style inline rendering in supported terminals, and one-click open in the system browser.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

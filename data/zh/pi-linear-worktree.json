@@ -1,0 +1,6 @@
+{
+  "name": "pi-linear-worktree",
+  "description_en": "Pi extension that fetches Linear issues and creates git worktrees to solve them",
+  "description_zh": "Pi 扩展，获取 Linear 问题并创建 git 工作树来解决它们",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

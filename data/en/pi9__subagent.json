@@ -1,0 +1,13 @@
+{
+  "name": "@pi9/subagent",
+  "path": "/packages/@pi9/subagent",
+  "url": "https://pi.dev/packages/@pi9/subagent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 528,
+  "date_ms": 1780108106482,
+  "description_en": "Pi extension that adds subagent delegation.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

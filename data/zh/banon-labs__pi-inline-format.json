@@ -1,0 +1,6 @@
+{
+  "name": "@banon-labs/pi-inline-format",
+  "description_en": "Strict Pi extension project with a Rust core subproject and a TypeScript extension wrapper.",
+  "description_zh": "严格的 Pi 扩展项目，包含 Rust 核心子项目和 TypeScript 扩展包装器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

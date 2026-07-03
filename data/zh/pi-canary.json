@@ -1,0 +1,6 @@
+{
+  "name": "pi-canary",
+  "description_en": "Pi extension: silently verifies agent context awareness every turn using hidden canary tokens. KV-cache friendly.",
+  "description_zh": "Pi 扩展：使用隐藏的 canary 令牌在每轮中静默验证代理上下文感知。KV-cache 友好。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@winnorton/cairn-pi",
+  "path": "/packages/@winnorton/cairn-pi",
+  "url": "https://pi.dev/packages/@winnorton/cairn-pi",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 137,
+  "date_ms": 1781198366193,
+  "description_en": "Cairn's authoring-and-orchestration loop for the Pi coding agent: /skill:spec, /skill:program, /skill:round-review, /skill:fast-execute, /skill:peer-review, /skill:note. Markdown skills only — no runtime code.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

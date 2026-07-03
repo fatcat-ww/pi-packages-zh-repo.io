@@ -1,0 +1,14 @@
+{
+  "name": "alps-pi",
+  "path": "/packages/alps-pi",
+  "url": "https://pi.dev/packages/alps-pi",
+  "types": "extension theme",
+  "type_list": [
+    "extension",
+    "theme"
+  ],
+  "downloads": 667,
+  "date_ms": 1782382878154,
+  "description_en": "Personal pi beautification extension with runtime TUI message frames, fixed bottom input, animations, and theme support.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

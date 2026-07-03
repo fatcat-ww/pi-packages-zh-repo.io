@@ -1,0 +1,13 @@
+{
+  "name": "pi-gh-dark-theme",
+  "path": "/packages/pi-gh-dark-theme",
+  "url": "https://pi.dev/packages/pi-gh-dark-theme",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 227,
+  "date_ms": 1780216294765,
+  "description_en": "Pi coding agent theme inspired by the VSCode GitHub Color Theme",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

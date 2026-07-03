@@ -1,0 +1,6 @@
+{
+  "name": "@timonclaeys/pi-github-skill-installer",
+  "description_en": "A pi extension to install agent skills directly from GitHub repositories.",
+  "description_zh": "一个 pi 扩展，用于直接从 GitHub 仓库安装代理技能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

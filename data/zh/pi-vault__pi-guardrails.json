@@ -1,0 +1,6 @@
+{
+  "name": "@pi-vault/pi-guardrails",
+  "description_en": "Pi extension for damage control - prevents dangerous operations, protects env files, gates destructive commands",
+  "description_zh": "Pi 的损害控制扩展 - 防止危险操作，保护环境文件，限制破坏性命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

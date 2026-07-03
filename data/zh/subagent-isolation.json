@@ -1,0 +1,6 @@
+{
+  "name": "subagent-isolation",
+  "description_en": "A pi extension that delegates tasks to a specialized subagent in an isolated pi process.",
+  "description_zh": "Pi 扩展，将任务委托给隔离 pi 进程中的专业子代理",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

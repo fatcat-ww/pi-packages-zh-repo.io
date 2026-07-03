@@ -1,0 +1,13 @@
+{
+  "name": "@cansiny0320/pi-mcp-adapter",
+  "path": "/packages/@cansiny0320/pi-mcp-adapter",
+  "url": "https://pi.dev/packages/@cansiny0320/pi-mcp-adapter",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 82,
+  "date_ms": 1779802520382,
+  "description_en": "MCP (Model Context Protocol) adapter extension for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-web-tools",
+  "path": "/packages/pi-web-tools",
+  "url": "https://pi.dev/packages/pi-web-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 73,
+  "date_ms": 1770387429611,
+  "description_en": "Web search via Exa, content extraction, and GitHub repo cloning for Pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

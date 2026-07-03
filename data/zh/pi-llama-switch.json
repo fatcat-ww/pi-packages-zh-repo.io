@@ -1,0 +1,6 @@
+{
+  "name": "pi-llama-switch",
+  "description_en": "Restart llama-server with different model configurations. For single-model setups where models need different flags (context size, vision projector, sampling params).",
+  "description_zh": "使用不同模型配置重启 llama-server。适用于单模型设置，其中模型需要不同的标志（上下文大小、视觉投影器、采样参数）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

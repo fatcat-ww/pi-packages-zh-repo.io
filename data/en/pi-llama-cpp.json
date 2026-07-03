@@ -1,0 +1,13 @@
+{
+  "name": "pi-llama-cpp",
+  "path": "/packages/pi-llama-cpp",
+  "url": "https://pi.dev/packages/pi-llama-cpp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 7272,
+  "date_ms": 1782622274583,
+  "description_en": "Pi extension for llama.cpp integration. Supports router, single and legacy models. Supports multiple servers.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

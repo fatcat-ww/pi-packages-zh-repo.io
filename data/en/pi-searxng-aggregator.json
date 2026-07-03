@@ -1,0 +1,11 @@
+{
+  "name": "pi-searxng-aggregator",
+  "path": "/packages/pi-searxng-aggregator",
+  "url": "https://pi.dev/packages/pi-searxng-aggregator",
+  "types": "",
+  "type_list": [],
+  "downloads": 72,
+  "date_ms": 1778490073286,
+  "description_en": "Search via a local SearXNG instance and aggregate results into per-topic JSON files",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@hypabolic/crossbar",
+  "description_en": "Connect the Pi coding agent to local & self-hosted LLMs — Ollama, LM Studio, llama.cpp, llama-swap, vLLM, and any OpenAI-compatible server. Auto-discovery, model switching, and zero-JSON in-TUI onboarding.",
+  "description_zh": "将 Pi 编码代理连接到本地和自托管 LLM — Ollama、LM Studio、llama.cpp、llama-swap、vLLM 和任何 OpenAI 兼容服务器。自动发现、模型切换和零 JSON 的 TUI 入门引导",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

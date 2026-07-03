@@ -1,0 +1,14 @@
+{
+  "name": "@tarmo-randma/pi-superpowers-adapter",
+  "path": "/packages/@tarmo-randma/pi-superpowers-adapter",
+  "url": "https://pi.dev/packages/@tarmo-randma/pi-superpowers-adapter",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 431,
+  "date_ms": 1780093788828,
+  "description_en": "Minimal Pi adapter for upstream obra/superpowers skills.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

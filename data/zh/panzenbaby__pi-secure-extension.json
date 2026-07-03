@@ -1,0 +1,6 @@
+{
+  "name": "@panzenbaby/pi-secure-extension",
+  "description_en": "A Pi extension that performs security audits on other extensions before install or update. Uses the currently selected AI model to analyze extension source code against configurable audit rules.",
+  "description_zh": "一个 Pi 扩展，在安装或更新前对其他扩展进行安全审计。使用当前选定的 AI 模型根据可配置的审计规则分析扩展源代码",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

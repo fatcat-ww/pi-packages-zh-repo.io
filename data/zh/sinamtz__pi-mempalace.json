@@ -1,0 +1,6 @@
+{
+  "name": "@sinamtz/pi-mempalace",
+  "description_en": "hasslefree and self-contained mempalace port for pi-coding-agent with SurrealDB-backed vector search, layered retrieval, and multi-process auto-server runtime",
+  "description_zh": "pi-coding-agent 的无忧自包含 mempalace 端口，具有 SurrealDB 支持的向量搜索、分层检索和多进程自动服务器运行时",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

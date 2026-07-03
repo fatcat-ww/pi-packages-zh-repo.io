@@ -1,0 +1,13 @@
+{
+  "name": "@benvargas/pi-openai-fast",
+  "path": "/packages/@benvargas/pi-openai-fast",
+  "url": "https://pi.dev/packages/@benvargas/pi-openai-fast",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 205,
+  "date_ms": 1779738049856,
+  "description_en": "OpenAI fast mode toggle for pi - Enables priority service tier on supported GPT-5 models",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

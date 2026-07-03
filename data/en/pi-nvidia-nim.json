@@ -1,0 +1,11 @@
+{
+  "name": "pi-nvidia-nim",
+  "path": "/packages/pi-nvidia-nim",
+  "url": "https://pi.dev/packages/pi-nvidia-nim",
+  "types": "",
+  "type_list": [],
+  "downloads": 541,
+  "date_ms": 1780398141782,
+  "description_en": "NVIDIA NIM API provider extension for pi coding agent — access 100+ models from build.nvidia.com",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

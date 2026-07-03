@@ -1,0 +1,11 @@
+{
+  "name": "@aaroncql/pim-agent",
+  "path": "/packages/@aaroncql/pim-agent",
+  "url": "https://pi.dev/packages/@aaroncql/pim-agent",
+  "types": "",
+  "type_list": [],
+  "downloads": 1128,
+  "date_ms": 1782444165117,
+  "description_en": "A Bun-native extension pack for Pi: web access, subagents, revamped core tools, ANSI-compatible themes, fzf-style completions, Telegram mode, and more.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

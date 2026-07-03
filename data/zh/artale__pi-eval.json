@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-eval",
+  "description_en": "Agent evaluation harness. Judge sessions on success, tool usage, efficiency, methodology. Inspired by opencc.",
+  "description_zh": "代理评估工具包。根据成功、工具使用、效率和方法论评估会话。灵感来自 opencc",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

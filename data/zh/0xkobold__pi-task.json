@@ -1,0 +1,6 @@
+{
+  "name": "@0xkobold/pi-task",
+  "description_en": "Kanban-style task management for pi agents — backlog, in-progress, review, blocked, done with SQLite persistence",
+  "description_zh": "面向 pi 代理的看板式任务管理 — 待办、进行中、审查、阻塞、已完成，使用 SQLite 持久化",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

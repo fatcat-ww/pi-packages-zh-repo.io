@@ -1,0 +1,6 @@
+{
+  "name": "@ravan08/pi-langfuse",
+  "description_en": "Langfuse observability extension for Pi coding agent. Sends traces to Langfuse for monitoring tokens, costs, latency, and tool calls.",
+  "description_zh": "Pi 编码代理的 Langfuse 可观测性扩展。将跟踪发送到 Langfuse，用于监控令牌、成本、延迟和工具调用",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

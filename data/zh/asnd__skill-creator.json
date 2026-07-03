@@ -1,0 +1,6 @@
+{
+  "name": "@asnd/skill-creator",
+  "description_en": "Turn any MCP server, OpenAPI spec, or GraphQL endpoint into a CLI at runtime.",
+  "description_zh": "在运行时将任何 MCP 服务器、OpenAPI 规范或 GraphQL 端点转换为 CLI。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

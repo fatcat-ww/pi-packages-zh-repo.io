@@ -1,0 +1,6 @@
+{
+  "name": "@winnorton/cairn-pi",
+  "description_en": "Cairn's authoring-and-orchestration loop for the Pi coding agent: /skill:spec, /skill:program, /skill:round-review, /skill:fast-execute, /skill:peer-review, /skill:note. Markdown skills only — no runtime code.",
+  "description_zh": "Cairn 的 Pi 编码代理编写和编排循环：/skill:spec、/skill:program、/skill:round-review、/skill:fast-execute、/skill:peer-review、/skill:note。仅限 Markdown 技能 — 无运行时代码。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

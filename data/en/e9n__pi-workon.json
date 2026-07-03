@@ -1,0 +1,11 @@
+{
+  "name": "@e9n/pi-workon",
+  "path": "/packages/@e9n/pi-workon",
+  "url": "https://pi.dev/packages/@e9n/pi-workon",
+  "types": "",
+  "type_list": [],
+  "downloads": 67,
+  "date_ms": 1777233176693,
+  "description_en": "Project context switching and initialization for pi — switch projects, detect stacks, scaffold AGENTS.md",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

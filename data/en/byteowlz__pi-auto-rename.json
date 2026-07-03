@@ -1,0 +1,13 @@
+{
+  "name": "@byteowlz/pi-auto-rename",
+  "path": "/packages/@byteowlz/pi-auto-rename",
+  "url": "https://pi.dev/packages/@byteowlz/pi-auto-rename",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 105,
+  "date_ms": 1775638871319,
+  "description_en": "Auto-Rename Extension for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

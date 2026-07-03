@@ -1,0 +1,13 @@
+{
+  "name": "pi-ghcp-headers",
+  "path": "/packages/pi-ghcp-headers",
+  "url": "https://pi.dev/packages/pi-ghcp-headers",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 20,
+  "date_ms": 1775406963564,
+  "description_en": "Pi extension to customize GitHub Copilot X-Initiator header behavior",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

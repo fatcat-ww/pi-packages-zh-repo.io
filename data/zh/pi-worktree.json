@@ -1,0 +1,6 @@
+{
+  "name": "pi-worktree",
+  "description_en": "Git worktree management for Pi — create isolated workspaces with one command, optionally launch in cmux/tmux.",
+  "description_zh": "Git worktree 管理 for Pi — 一个命令创建隔离的工作空间，可选择在 cmux/tmux 中启动",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

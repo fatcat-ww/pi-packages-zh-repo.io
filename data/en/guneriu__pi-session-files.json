@@ -1,0 +1,13 @@
+{
+  "name": "@guneriu/pi-session-files",
+  "path": "/packages/@guneriu/pi-session-files",
+  "url": "https://pi.dev/packages/@guneriu/pi-session-files",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782738911910,
+  "description_en": "Pi extension that tracks context files, files read, and files modified in your current session — with sorting and filtering",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

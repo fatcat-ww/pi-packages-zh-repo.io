@@ -1,0 +1,13 @@
+{
+  "name": "@kmiyh/pi-extensions-menu",
+  "path": "/packages/@kmiyh/pi-extensions-menu",
+  "url": "https://pi.dev/packages/@kmiyh/pi-extensions-menu",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 31,
+  "date_ms": 1776252735451,
+  "description_en": "Pi extension that adds a dedicated /extensions menu for browsing, enabling, disabling, and updating installed extensions.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

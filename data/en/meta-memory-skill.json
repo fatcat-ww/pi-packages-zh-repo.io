@@ -1,0 +1,13 @@
+{
+  "name": "meta-memory-skill",
+  "path": "/packages/meta-memory-skill",
+  "url": "https://pi.dev/packages/meta-memory-skill",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 226,
+  "date_ms": 1780886347676,
+  "description_en": "Agent Skill for two-stage brief/full meta-memory in research and coding workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

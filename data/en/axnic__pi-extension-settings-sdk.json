@@ -1,0 +1,13 @@
+{
+  "name": "@axnic/pi-extension-settings-sdk",
+  "path": "/packages/@axnic/pi-extension-settings-sdk",
+  "url": "https://pi.dev/packages/@axnic/pi-extension-settings-sdk",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 206,
+  "date_ms": 1776985495469,
+  "description_en": "Type-safe SDK for interacting with the pi-extension-settings panel (for extension authors).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

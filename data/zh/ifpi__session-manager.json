@@ -1,0 +1,6 @@
+{
+  "name": "@ifpi/session-manager",
+  "description_en": "TUI session manager for pi — browse, switch, and delete sessions grouped by project path.",
+  "description_zh": "pi 的 TUI 会话管理器 — 按项目路径浏览、切换和删除会话",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

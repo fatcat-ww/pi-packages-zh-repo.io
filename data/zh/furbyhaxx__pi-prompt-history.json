@@ -1,0 +1,6 @@
+{
+  "name": "@furbyhaxx/pi-prompt-history",
+  "description_en": "Slim Pi extension that keeps session-scoped prompt history and loads prior prompts into pi's native editor.",
+  "description_zh": "精简的 Pi 扩展，保持会话范围的提示历史记录，并将之前的提示加载到 pi 的原生编辑器中",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

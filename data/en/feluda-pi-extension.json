@@ -1,0 +1,11 @@
+{
+  "name": "feluda-pi-extension",
+  "path": "/packages/feluda-pi-extension",
+  "url": "https://pi.dev/packages/feluda-pi-extension",
+  "types": "",
+  "type_list": [],
+  "downloads": 324,
+  "date_ms": 1781025224059,
+  "description_en": "Pi package that exposes Feluda license analysis as a skill and custom tools.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

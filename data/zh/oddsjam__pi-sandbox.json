@@ -1,0 +1,6 @@
+{
+  "name": "@oddsjam/pi-sandbox",
+  "description_en": "OS-level sandbox for pi using @anthropic-ai/sandbox-runtime, with an in-pi configure wizard, shift+tab toggle, and longest-prefix project configs.",
+  "description_zh": "使用 @anthropic-ai/sandbox-runtime 的 pi 操作系统级沙箱，包含 pi 内配置向导、shift+tab 切换和最长前缀项目配置",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

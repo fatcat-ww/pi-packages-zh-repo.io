@@ -1,0 +1,6 @@
+{
+  "name": "@pandi-coding-agent/typescript-lsp",
+  "description_en": "Pi extension for TypeScript diagnostics feedback: runs tsc --noEmit on the coherent edge (agent_end) over touched files, plus a typescript_diagnostics tool and a /tsc command. Not a full LSP (no hover/go-to-def).",
+  "description_zh": "Pi 扩展，用于 TypeScript 诊断反馈：在 coherent edge（agent_end）上对修改过的文件运行 tsc --noEmit，并提供 typescript_diagnostics 工具和 /tsc 命令。不是完整的 LSP（无悬停/跳转定义）。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@narumitw/pi-codex-usage",
+  "description_en": "Pi extension that shows Codex ChatGPT subscription usage without requiring Codex CLI.",
+  "description_zh": "Pi扩展，无需Codex CLI即可显示Codex ChatGPT订阅使用情况。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

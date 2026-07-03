@@ -1,0 +1,13 @@
+{
+  "name": "@alexanderfortin/pi-freestyle-sandbox",
+  "path": "/packages/@alexanderfortin/pi-freestyle-sandbox",
+  "url": "https://pi.dev/packages/@alexanderfortin/pi-freestyle-sandbox",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 170,
+  "date_ms": 1778238699394,
+  "description_en": "Pi extension for running sandboxed subagents in Freestyle cloud VMs",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

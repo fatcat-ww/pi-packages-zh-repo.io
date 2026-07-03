@@ -1,0 +1,13 @@
+{
+  "name": "@howaboua/pi-skill-model-facing-api-design",
+  "path": "/packages/@howaboua/pi-skill-model-facing-api-design",
+  "url": "https://pi.dev/packages/@howaboua/pi-skill-model-facing-api-design",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 168,
+  "date_ms": 1780608538762,
+  "description_en": "Pi skill package for model-facing-api-design.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

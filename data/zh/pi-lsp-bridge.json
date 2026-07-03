@@ -1,0 +1,6 @@
+{
+  "name": "pi-lsp-bridge",
+  "description_en": "A config-driven Pi extension that connects language servers over stdio and exposes them as Pi tools",
+  "description_zh": "一个由配置驱动的 Pi 扩展，通过 stdio 连接语言服务器并将其作为 Pi 工具暴露",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

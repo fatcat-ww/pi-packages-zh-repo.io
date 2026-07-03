@@ -1,0 +1,11 @@
+{
+  "name": "visual-explainer",
+  "path": "/packages/visual-explainer",
+  "url": "https://pi.dev/packages/visual-explainer",
+  "types": "",
+  "type_list": [],
+  "downloads": 1472,
+  "date_ms": 1782373631740,
+  "description_en": "Agent skill that generates beautiful HTML pages for diagrams, diff reviews, plan reviews, slide decks, and data tables",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

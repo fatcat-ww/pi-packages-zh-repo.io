@@ -1,0 +1,6 @@
+{
+  "name": "pi-websearch-router",
+  "description_en": "Pi web search tool that auto-detects available API keys and routes to the right provider",
+  "description_zh": "Pi 网络搜索工具，自动检测可用的 API 密钥并路由到正确的提供者",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

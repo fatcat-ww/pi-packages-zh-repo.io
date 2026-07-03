@@ -1,0 +1,13 @@
+{
+  "name": "pi-btw-sidecar",
+  "path": "/packages/pi-btw-sidecar",
+  "url": "https://pi.dev/packages/pi-btw-sidecar",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 348,
+  "date_ms": 1783049516403,
+  "description_en": "Pi extension for persistent /btw side conversations with an isolated sidecar agent session.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@qmxme/pi-stats",
+  "path": "/packages/@qmxme/pi-stats",
+  "url": "https://pi.dev/packages/@qmxme/pi-stats",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 116,
+  "date_ms": 1779046666959,
+  "description_en": "Stats widget extension for pi - shows token throughput, usage, and duration",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

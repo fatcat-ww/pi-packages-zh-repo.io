@@ -1,0 +1,13 @@
+{
+  "name": "@bytetrue/pi-web-search",
+  "path": "/packages/@bytetrue/pi-web-search",
+  "url": "https://pi.dev/packages/@bytetrue/pi-web-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 108,
+  "date_ms": 1781941213026,
+  "description_en": "Pi extension: web_search + web_fetch with a zero-config free default (Bing, works in mainland China) and pluggable providers (DuckDuckGo, Bocha, Tavily, Exa, Brave, Jina, Firecrawl).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

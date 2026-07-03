@@ -1,0 +1,14 @@
+{
+  "name": "@mouhamadalhabash/pi-prompt-popup",
+  "path": "/packages/@mouhamadalhabash/pi-prompt-popup",
+  "url": "https://pi.dev/packages/@mouhamadalhabash/pi-prompt-popup",
+  "types": "extension prompt",
+  "type_list": [
+    "extension",
+    "prompt"
+  ],
+  "downloads": 0,
+  "date_ms": 1782802171341,
+  "description_en": "A Pi extension that opens a modal prompt editor with file autocomplete and photo paste support.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

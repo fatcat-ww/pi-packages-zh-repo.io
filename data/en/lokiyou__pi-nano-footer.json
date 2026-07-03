@@ -1,0 +1,13 @@
+{
+  "name": "@lokiyou/pi-nano-footer",
+  "path": "/packages/@lokiyou/pi-nano-footer",
+  "url": "https://pi.dev/packages/@lokiyou/pi-nano-footer",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 496,
+  "date_ms": 1780619623473,
+  "description_en": "Lightweight powerline-style footer for Pi Coding Agent that shows model, thinking level, directory, MCP status, context usage, tokens, and cost while keeping the built-in Working indicator.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

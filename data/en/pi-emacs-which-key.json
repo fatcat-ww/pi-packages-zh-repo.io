@@ -1,0 +1,11 @@
+{
+  "name": "pi-emacs-which-key",
+  "path": "/packages/pi-emacs-which-key",
+  "url": "https://pi.dev/packages/pi-emacs-which-key",
+  "types": "",
+  "type_list": [],
+  "downloads": 140,
+  "date_ms": 1779428935730,
+  "description_en": "Emacs-style prefix keys and which-key hints for Pi's interactive editor.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

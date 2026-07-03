@@ -1,0 +1,13 @@
+{
+  "name": "pi-doom",
+  "path": "/packages/pi-doom",
+  "url": "https://pi.dev/packages/pi-doom",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 138,
+  "date_ms": 1770059752263,
+  "description_en": "Play DOOM in your terminal with pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

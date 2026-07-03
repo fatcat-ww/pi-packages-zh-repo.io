@@ -1,0 +1,6 @@
+{
+  "name": "pi-proxy",
+  "description_en": "Smart proxy routing extension for pi - rule-based direct/proxy/fallback per domain",
+  "description_zh": "pi 的智能代理路由扩展 — 每个域基于规则的直接/代理/回退",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

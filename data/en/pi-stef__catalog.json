@@ -1,0 +1,13 @@
+{
+  "name": "@pi-stef/catalog",
+  "path": "/packages/@pi-stef/catalog",
+  "url": "https://pi.dev/packages/@pi-stef/catalog",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 5062,
+  "date_ms": 1781996307760,
+  "description_en": "Pi extension for managing skill/package catalogs.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

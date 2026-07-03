@@ -1,0 +1,6 @@
+{
+  "name": "claude-agent-sdk-pi",
+  "description_en": "This extension registers a custom provider that routes LLM calls through the **Claude Agent SDK** while **pi executes tools** and renders tool results in the TUI.",
+  "description_zh": "此扩展注册一个自定义提供程序，通过 **Claude Agent SDK** 路由 LLM 调用，同时 **pi 执行工具** 并在 TUI 中呈现工具结果",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

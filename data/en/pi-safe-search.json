@@ -1,0 +1,13 @@
+{
+  "name": "pi-safe-search",
+  "path": "/packages/pi-safe-search",
+  "url": "https://pi.dev/packages/pi-safe-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 842,
+  "date_ms": 1783065222791,
+  "description_en": "Pi extension: web_search and web_fetch with 8-stage prompt-injection sanitization and SSRF protection. Zero dependencies.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

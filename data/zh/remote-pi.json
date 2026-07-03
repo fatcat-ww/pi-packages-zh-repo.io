@@ -1,0 +1,6 @@
+{
+  "name": "remote-pi",
+  "description_en": "Mobile remote control and local agent mesh for the Pi coding agent. Pair your phone via QR over a relay, watch tool calls in real time, run multi-Pi sessions over a local Unix Domain Socket broker, and let agents talk to each other through structured requ",
+  "description_zh": "Pi 编码代理的移动远程控制和本地代理网格。通过中继上的 QR 配对手机，实时查看工具调用，通过本地 Unix Domain Socket 代理运行多 Pi 会话，并通过结构化请求让代理相互通信",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

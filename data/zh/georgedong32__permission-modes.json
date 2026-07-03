@@ -1,0 +1,6 @@
+{
+  "name": "@georgedong32/permission-modes",
+  "description_en": "Claude-Code-style permission modes (ask / plan / auto) for the pi coding agent — with per-mode model profiles, outside-cwd write tracking, and per-mode skill filtering.",
+  "description_zh": "pi 编码代理的 Claude-Code 式权限模式（询问 / 计划 / 自动）— 具有每模式模型配置文件、cwd 外写入跟踪和每模式技能过滤",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

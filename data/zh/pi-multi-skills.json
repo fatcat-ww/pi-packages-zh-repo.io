@@ -1,0 +1,6 @@
+{
+  "name": "pi-multi-skills",
+  "description_en": "Reference any installed pi skill from anywhere in your prompt using $skill_name syntax. Expands inline to <skill> XML (same format as Pi's native /skill:xxx) — no system prompt injection.",
+  "description_zh": "使用 $skill_name 语法从提示符的任何位置引用任何已安装的 pi 技能。内联扩展为 <skill> XML（与 Pi 原生 /skill:xxx 格式相同）— 无系统提示注入。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@kmiyh/pi-codex-plan-limits",
+  "description_en": "Pi extension that shows live Codex plan usage: remaining 5h and weekly limits, reset times, and cached fallback snapshots.",
+  "description_zh": "Pi 扩展，显示实时的 Codex 计划使用情况：剩余 5 小时和每周限制、重置时间和缓存的后备快照",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

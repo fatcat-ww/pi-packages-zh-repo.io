@@ -1,0 +1,6 @@
+{
+  "name": "pi-codebase-memory-mcp",
+  "description_en": "Pi package that bridges the codebase-memory-mcp server into pi as native tools — a tree-sitter knowledge graph for fast structural code search, call-path tracing, architecture overviews, and impact analysis.",
+  "description_zh": "将 codebase-memory-mcp 服务器桥接到 pi 中作为原生工具的 pi 包 — 用于快速结构代码搜索、调用路径追踪、架构概览和影响分析的 tree-sitter 知识图谱",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

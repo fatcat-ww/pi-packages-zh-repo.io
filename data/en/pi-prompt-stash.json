@@ -1,0 +1,13 @@
+{
+  "name": "pi-prompt-stash",
+  "path": "/packages/pi-prompt-stash",
+  "url": "https://pi.dev/packages/pi-prompt-stash",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 33,
+  "date_ms": 1771972934883,
+  "description_en": "Git-stash for your train of thought — save prompt drafts with ctrl+s, restore with ctrl+shift+s",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pi-glm-image-summary",
+  "path": "/packages/pi-glm-image-summary",
+  "url": "https://pi.dev/packages/pi-glm-image-summary",
+  "types": "",
+  "type_list": [],
+  "downloads": 30,
+  "date_ms": 1769994802082,
+  "description_en": "Pi extension that intercepts image reads when using glm-4.7 and sends them to glm-4.6v for detailed analysis",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

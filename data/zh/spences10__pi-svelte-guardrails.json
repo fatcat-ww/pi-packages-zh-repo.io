@@ -1,0 +1,6 @@
+{
+  "name": "@spences10/pi-svelte-guardrails",
+  "description_en": "Svelte 5 guardrails for Pi that block discouraged agent-written patterns before they land in code",
+  "description_zh": "Pi 的 Svelte 5 防护栏，阻止代理编写的不良模式进入代码",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

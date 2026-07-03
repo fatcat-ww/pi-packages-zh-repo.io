@@ -1,0 +1,13 @@
+{
+  "name": "@brngp/pi-voice",
+  "path": "/packages/@brngp/pi-voice",
+  "url": "https://pi.dev/packages/@brngp/pi-voice",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 103,
+  "date_ms": 1781824132648,
+  "description_en": "Hold-Space voice dictation extension for Pi using ffmpeg and Whisper.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

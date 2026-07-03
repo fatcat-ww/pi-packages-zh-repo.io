@@ -1,0 +1,13 @@
+{
+  "name": "@pi-unipi/utility",
+  "path": "/packages/@pi-unipi/utility",
+  "url": "https://pi.dev/packages/@pi-unipi/utility",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1153,
+  "date_ms": 1782924723231,
+  "description_en": "Utility commands and tools for Pi coding agent — lifecycle, diagnostics, cache, analytics, display, batch execution",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@hyperprior/pi-subagent",
+  "description_en": "Delegate tasks to isolated sub-agents (pi subprocesses)",
+  "description_zh": "将任务委托给隔离的子代理（pi 子进程）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@latitude-data/pi-telemetry",
+  "path": "/packages/@latitude-data/pi-telemetry",
+  "url": "https://pi.dev/packages/@latitude-data/pi-telemetry",
+  "types": "",
+  "type_list": [],
+  "downloads": 176,
+  "date_ms": 1781770177317,
+  "description_en": "Pi coding agent extension that streams sessions to Latitude as OTLP traces",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

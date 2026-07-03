@@ -1,0 +1,13 @@
+{
+  "name": "@artale/pi-infra",
+  "path": "/packages/@artale/pi-infra",
+  "url": "https://pi.dev/packages/@artale/pi-infra",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 52,
+  "date_ms": 1772983324989,
+  "description_en": "Platform engineering audit tool (Kelsey Hightower edition).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

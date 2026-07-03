@@ -1,0 +1,13 @@
+{
+  "name": "pi-clawd",
+  "path": "/packages/pi-clawd",
+  "url": "https://pi.dev/packages/pi-clawd",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 33,
+  "date_ms": 1777375669944,
+  "description_en": "Clawd on Desk integration for the pi coding agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

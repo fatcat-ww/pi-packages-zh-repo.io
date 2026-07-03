@@ -1,0 +1,6 @@
+{
+  "name": "@isr4el-silv4/loop-guard",
+  "description_en": "Pi extension that detects and prevents LLM loops in tool calls and reasoning",
+  "description_zh": "Pi 扩展，检测并防止工具调用和推理中的 LLM 循环。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

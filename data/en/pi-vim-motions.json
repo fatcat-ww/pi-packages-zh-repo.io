@@ -1,0 +1,11 @@
+{
+  "name": "pi-vim-motions",
+  "path": "/packages/pi-vim-motions",
+  "url": "https://pi.dev/packages/pi-vim-motions",
+  "types": "",
+  "type_list": [],
+  "downloads": 48,
+  "date_ms": 1779737129376,
+  "description_en": "Vim-style motion extension for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

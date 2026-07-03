@@ -1,0 +1,13 @@
+{
+  "name": "@casualjim/pi-heimdall",
+  "path": "/packages/@casualjim/pi-heimdall",
+  "url": "https://pi.dev/packages/@casualjim/pi-heimdall",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 355,
+  "date_ms": 1778814572837,
+  "description_en": "Guardian extension for pi — security guards that block accidental secret exposure, enforce command policies, protect .env files, and sandbox bash commands",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

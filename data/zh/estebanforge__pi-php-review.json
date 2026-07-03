@@ -1,0 +1,6 @@
+{
+  "name": "@estebanforge/pi-php-review",
+  "description_en": "PHP code-review tool for Pi. Grades your git diffs against a focused PHP 8.2+ rubric (4 sections, 16 entries: strict-types/typing, error handling, builtin correctness, security). Each entry has a bad/good pair; the LLM proposes a corrected snippet. Return",
+  "description_zh": "面向 Pi 的 PHP 代码审查工具。根据专注的 PHP 8.2+ 标准（4 个部分，16 个条目：strict-types/typing、错误处理、内置正确性、安全）对您的 git diff 进行评分。每个条目都有坏/好对；LLM 提出修正代码段。返回",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

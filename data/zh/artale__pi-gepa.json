@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-gepa",
+  "description_en": "Skill scanner and quality scorer for Pi. Scans, scores, and identifies weak skills. Pairs with pi-evolve for mutation.",
+  "description_zh": "Pi 的技能扫描和质量评分器。扫描、评分并识别薄弱技能。与 pi-evolve 配对进行变异",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

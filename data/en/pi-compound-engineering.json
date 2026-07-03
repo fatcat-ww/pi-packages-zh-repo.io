@@ -1,0 +1,13 @@
+{
+  "name": "pi-compound-engineering",
+  "path": "/packages/pi-compound-engineering",
+  "url": "https://pi.dev/packages/pi-compound-engineering",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 364,
+  "date_ms": 1782091344314,
+  "description_en": "Compound Engineering for Pi: brainstorm, plan, work, review, and compound.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

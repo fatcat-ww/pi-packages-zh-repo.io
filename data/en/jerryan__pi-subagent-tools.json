@@ -1,0 +1,13 @@
+{
+  "name": "@jerryan/pi-subagent-tools",
+  "path": "/packages/@jerryan/pi-subagent-tools",
+  "url": "https://pi.dev/packages/@jerryan/pi-subagent-tools",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 92,
+  "date_ms": 1782751100524,
+  "description_en": "Minimal pi extension: delegate, review, and explore via isolated subagent processes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@vtstech/pi-api",
+  "path": "/packages/@vtstech/pi-api",
+  "url": "https://pi.dev/packages/@vtstech/pi-api",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 210,
+  "date_ms": 1778718990130,
+  "description_en": "API Mode Switcher extension for Pi Coding Agent",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

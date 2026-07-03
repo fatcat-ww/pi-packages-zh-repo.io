@@ -1,0 +1,6 @@
+{
+  "name": "pi-skill-glab",
+  "description_en": "Pi skill for interacting with GitLab via the glab CLI",
+  "description_zh": "通过 glab CLI 与 GitLab 交互的 Pi 技能",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

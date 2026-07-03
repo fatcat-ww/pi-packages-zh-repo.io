@@ -1,0 +1,13 @@
+{
+  "name": "@the-forge-flow/memory-graph",
+  "path": "/packages/@the-forge-flow/memory-graph",
+  "url": "https://pi.dev/packages/@the-forge-flow/memory-graph",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 44,
+  "date_ms": 1777237655139,
+  "description_en": "Structured knowledge wiki: Claude Code plugin AND pi-coding-agent extension from one repo. LLM-maintained interlinked markdown vault that compounds over time.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

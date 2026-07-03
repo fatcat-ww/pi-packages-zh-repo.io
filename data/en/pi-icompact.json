@@ -1,0 +1,11 @@
+{
+  "name": "pi-icompact",
+  "path": "/packages/pi-icompact",
+  "url": "https://pi.dev/packages/pi-icompact",
+  "types": "",
+  "type_list": [],
+  "downloads": 29,
+  "date_ms": 1776818563111,
+  "description_en": "Interactive compaction extension for pi — sort session context into categories and choose how to summarize each one",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

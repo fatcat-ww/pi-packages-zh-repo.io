@@ -1,0 +1,6 @@
+{
+  "name": "fito-plugin",
+  "description_en": "Fito Plugin — fetch web content, extract knowledge components (execution facts, domain concepts, usage scenarios) from API/tool documentation, and generate content for social networks.",
+  "description_zh": "Fito 插件 — 获取网页内容，从 API/工具文档中提取知识组件（执行事实、领域概念、使用场景），并为社交网络生成内容",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

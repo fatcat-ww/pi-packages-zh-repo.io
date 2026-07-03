@@ -1,0 +1,13 @@
+{
+  "name": "@lincoln504/pi-research",
+  "path": "/packages/@lincoln504/pi-research",
+  "url": "https://pi.dev/packages/@lincoln504/pi-research",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 170,
+  "date_ms": 1776729458371,
+  "description_en": "A set of web research tools (search, scrape, and others) and research agent system that uses them safely and efficiently.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

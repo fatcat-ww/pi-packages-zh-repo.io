@@ -1,0 +1,11 @@
+{
+  "name": "@yandy0725/pi-subagents",
+  "path": "/packages/@yandy0725/pi-subagents",
+  "url": "https://pi.dev/packages/@yandy0725/pi-subagents",
+  "types": "",
+  "type_list": [],
+  "downloads": 48,
+  "date_ms": 1782663777688,
+  "description_en": "Focused, in-process sub-agent core for pi — autonomous agents plus a typed API and lifecycle events",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

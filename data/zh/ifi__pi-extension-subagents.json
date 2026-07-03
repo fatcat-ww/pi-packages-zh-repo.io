@@ -1,0 +1,6 @@
+{
+  "name": "@ifi/pi-extension-subagents",
+  "description_en": "Full-featured subagent orchestration extension for pi, built on top of nicobailon/pi-subagents.",
+  "description_zh": "pi 的全功能子代理编排扩展，构建在 nicobailon/pi-subagents 之上",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

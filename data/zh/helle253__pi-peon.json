@@ -1,0 +1,6 @@
+{
+  "name": "@helle253/pi-peon",
+  "description_en": "Pi extension that forwards pi lifecycle events to peon-ping / OpenPeon.",
+  "description_zh": "将 pi 生命周期事件转发到 peon-ping / OpenPeon 的 pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

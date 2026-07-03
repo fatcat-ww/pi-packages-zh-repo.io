@@ -1,0 +1,6 @@
+{
+  "name": "@ryan_nookpi/pi-extension-headroom",
+  "description_en": "Headroom token compression for pi — compress large tool results via a local Headroom proxy to reclaim context window.",
+  "description_zh": "pi 的 Headroom 令牌压缩 — 通过本地 Headroom 代理压缩大型工具结果以回收上下文窗口",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

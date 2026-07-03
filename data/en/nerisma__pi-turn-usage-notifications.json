@@ -1,0 +1,13 @@
+{
+  "name": "@nerisma/pi-turn-usage-notifications",
+  "path": "/packages/@nerisma/pi-turn-usage-notifications",
+  "url": "https://pi.dev/packages/@nerisma/pi-turn-usage-notifications",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782558670154,
+  "description_en": "Per-turn token and cost notification in pi (output, cache hit/miss, total cost).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

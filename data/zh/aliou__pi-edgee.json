@@ -1,0 +1,6 @@
+{
+  "name": "@aliou/pi-edgee",
+  "description_en": "Pi provider extension for [Edgee](https://www.edgee.ai), the Agent Gateway that compresses, routes, and observes LLM requests.",
+  "description_zh": "Pi 提供者扩展，用于 [Edgee](https://www.edgee.ai)，压缩、路由和观察 LLM 请求的代理网关",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

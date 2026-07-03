@@ -1,0 +1,13 @@
+{
+  "name": "@tridha643/pi-ask-mode",
+  "path": "/packages/@tridha643/pi-ask-mode",
+  "url": "https://pi.dev/packages/@tridha643/pi-ask-mode",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 32,
+  "date_ms": 1776128952000,
+  "description_en": "A pi package that adds ask mode: read-only investigative tools plus read-only bash.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

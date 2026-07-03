@@ -1,0 +1,13 @@
+{
+  "name": "pi-convex",
+  "path": "/packages/pi-convex",
+  "url": "https://pi.dev/packages/pi-convex",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 240,
+  "date_ms": 1777273958717,
+  "description_en": "Pi extension for Convex Cloud - queries, mutations, project management, and best practices validation",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

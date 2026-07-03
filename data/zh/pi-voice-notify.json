@@ -1,0 +1,6 @@
+{
+  "name": "pi-voice-notify",
+  "description_en": "Spoken voice summaries when your Pi agent finishes a response. Uses Kokoro TTS with configurable voices.",
+  "description_zh": "当您的 Pi 代理完成响应时提供语音摘要。使用 Kokoro TTS 和可配置的声音",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

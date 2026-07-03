@@ -1,0 +1,13 @@
+{
+  "name": "pi-go-review",
+  "path": "/packages/pi-go-review",
+  "url": "https://pi.dev/packages/pi-go-review",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 43,
+  "date_ms": 1776445085657,
+  "description_en": "Review Go code changes against the '100 Go Mistakes and How to Avoid Them' checklist (https://100go.co/). Registers a go_review tool that analyzes git diffs against all 101 common Go mistakes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

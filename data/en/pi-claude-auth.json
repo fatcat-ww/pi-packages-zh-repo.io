@@ -1,0 +1,11 @@
+{
+  "name": "pi-claude-auth",
+  "path": "/packages/pi-claude-auth",
+  "url": "https://pi.dev/packages/pi-claude-auth",
+  "types": "",
+  "type_list": [],
+  "downloads": 1393,
+  "date_ms": 1780576883045,
+  "description_en": "Pi coding agent extension that uses your Claude Code credentials — no separate login needed.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

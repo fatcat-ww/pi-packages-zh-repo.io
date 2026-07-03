@@ -1,0 +1,6 @@
+{
+  "name": "pi-cbm",
+  "description_en": "Extension that exposes `codebase-memory-mcp` as native Pi tools, adds auto-indexing and deliberate obtimizations for agent-workflows and token saving.",
+  "description_zh": "扩展，将 `codebase-memory-mcp` 作为原生 Pi 工具暴露，添加代理工作流和令牌保存的自动索引和 deliberate 优化",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@geminixiang/pi-diff",
+  "path": "/packages/@geminixiang/pi-diff",
+  "url": "https://pi.dev/packages/@geminixiang/pi-diff",
+  "types": "",
+  "type_list": [],
+  "downloads": 924,
+  "date_ms": 1782627824386,
+  "description_en": "Pi extension: open a GitHub-like git diff viewer in the browser.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

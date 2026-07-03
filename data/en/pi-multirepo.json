@@ -1,0 +1,11 @@
+{
+  "name": "pi-multirepo",
+  "path": "/packages/pi-multirepo",
+  "url": "https://pi.dev/packages/pi-multirepo",
+  "types": "",
+  "type_list": [],
+  "downloads": 26,
+  "date_ms": 1777628901055,
+  "description_en": "Pi extension for multi-repo tasks — worktrees, MRs, and tracker integration in one command",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

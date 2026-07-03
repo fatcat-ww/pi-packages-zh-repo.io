@@ -1,0 +1,6 @@
+{
+  "name": "@rolemodel/pi-omlx",
+  "description_en": "Auto-discovers models from an omlx endpoint and provides a UI to toggle model visibility",
+  "description_zh": "从 omlx 端点自动发现模型，并提供 UI 来切换模型可见性",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

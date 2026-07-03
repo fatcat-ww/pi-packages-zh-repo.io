@@ -1,0 +1,13 @@
+{
+  "name": "@carlosgtrz/pi-codex-aliases",
+  "path": "/packages/@carlosgtrz/pi-codex-aliases",
+  "url": "https://pi.dev/packages/@carlosgtrz/pi-codex-aliases",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 293,
+  "date_ms": 1780015923253,
+  "description_en": "Pi extension that adds personal and work aliases for the built-in OpenAI Codex provider.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

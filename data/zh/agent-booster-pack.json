@@ -1,0 +1,6 @@
+{
+  "name": "agent-booster-pack",
+  "description_en": "Agent Booster Pack for Pi: skills + Interface Design Gate runtime + proof-first runtime + whiteboarding guard + final value guard, in one install. Meta-package; depends on the four siblings.",
+  "description_zh": "Pi 的代理增强包：技能 + 接口设计门运行时 + 优先证明运行时 + 白板守卫 + 最终值守卫，一次安装。元包；依赖于四个兄弟包。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

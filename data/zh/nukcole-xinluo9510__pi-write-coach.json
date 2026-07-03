@@ -1,0 +1,6 @@
+{
+  "name": "@nukcole-xinluo9510/pi-write-coach",
+  "description_en": "Pi extension — coach the model to build large files incrementally, prevent truncated broken files",
+  "description_zh": "Pi 扩展 — 指导模型逐步构建大文件，防止截断的损坏文件。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

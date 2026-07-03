@@ -1,0 +1,11 @@
+{
+  "name": "linlic-agent",
+  "path": "/packages/linlic-agent",
+  "url": "https://pi.dev/packages/linlic-agent",
+  "types": "",
+  "type_list": [],
+  "downloads": 144,
+  "date_ms": 1781528278216,
+  "description_en": "基于 Pi Coding Agent 的本地科研研究 Agent MVP package",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-web-suite",
+  "description_en": "Web search, URL fetching, PDF extraction, and content extraction tools for the Pi coding agent. Cascading providers: Exa, AnySearch, Tavily.",
+  "description_zh": "Pi 编码代理的网页搜索、URL 获取、PDF 提取和内容提取工具。级联提供商：Exa、AnySearch、Tavily",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

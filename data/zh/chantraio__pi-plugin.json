@@ -1,0 +1,6 @@
+{
+  "name": "@chantraio/pi-plugin",
+  "description_en": "Connect Pi agents through Chantra channels: create event feeds, publish workflow messages, and build distributed agent pipelines.",
+  "description_zh": "通过 Chantra 频道连接 Pi 代理：创建事件源、发布工作流消息并构建分布式代理管道。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

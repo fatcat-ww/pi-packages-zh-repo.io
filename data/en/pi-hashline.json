@@ -1,0 +1,13 @@
+{
+  "name": "pi-hashline",
+  "path": "/packages/pi-hashline",
+  "url": "https://pi.dev/packages/pi-hashline",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1782830879768,
+  "description_en": "Hashline-compatible read/edit tools for Pi coding agent.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

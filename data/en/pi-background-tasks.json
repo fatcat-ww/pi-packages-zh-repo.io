@@ -1,0 +1,13 @@
+{
+  "name": "pi-background-tasks",
+  "path": "/packages/pi-background-tasks",
+  "url": "https://pi.dev/packages/pi-background-tasks",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 696,
+  "date_ms": 1780213843529,
+  "description_en": "Claude-Code-like named background shell task manager for Pi: bg_run tools, /bg commands, Shift+Down footer dock, bounded logs, kill/timeout safety, and completion wakeups.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

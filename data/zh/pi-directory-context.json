@@ -1,0 +1,6 @@
+{
+  "name": "pi-directory-context",
+  "description_en": "Pi extension package that injects working-directory environment context into the system prompt.",
+  "description_zh": "Pi 扩展包，将工作目录环境上下文注入系统提示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

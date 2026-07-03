@@ -1,0 +1,13 @@
+{
+  "name": "pi-invisible-continue",
+  "path": "/packages/pi-invisible-continue",
+  "url": "https://pi.dev/packages/pi-invisible-continue",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1376,
+  "date_ms": 1781881307983,
+  "description_en": "Invisible session continuation for pi — resume the agentic loop without sending ANY prompt the LLM can see",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

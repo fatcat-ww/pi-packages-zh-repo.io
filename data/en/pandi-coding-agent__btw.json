@@ -1,0 +1,13 @@
+{
+  "name": "@pandi-coding-agent/btw",
+  "path": "/packages/@pandi-coding-agent/btw",
+  "url": "https://pi.dev/packages/@pandi-coding-agent/btw",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783061676935,
+  "description_en": "Pi extension that adds a Claude-style /btw command: ask a quick side question about the current conversation, answered with no tools and never added to history.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

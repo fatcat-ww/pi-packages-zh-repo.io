@@ -1,0 +1,6 @@
+{
+  "name": "@pi-unipi/memory",
+  "description_en": "Persistent cross-session memory with MemPalace backend (auto-installed) and SQLite fallback for Pi coding agent",
+  "description_zh": "为 Pi 编码代理提供持久化的跨会话记忆功能，使用 MemPalace 后端（自动安装）和 SQLite 降级方案",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

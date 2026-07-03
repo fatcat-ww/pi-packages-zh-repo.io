@@ -1,0 +1,6 @@
+{
+  "name": "@artale/pi-params",
+  "description_en": "Generation parameter control for Pi. Set temperature, top_p, max_tokens, and other model params per conversation.",
+  "description_zh": "Pi 的生成参数控制。每次对话设置 temperature、top_p、max_tokens 和其他模型参数",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@yusukeshib/pi-notify",
+  "path": "/packages/@yusukeshib/pi-notify",
+  "url": "https://pi.dev/packages/@yusukeshib/pi-notify",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 186,
+  "date_ms": 1781384121177,
+  "description_en": "Native macOS notifications (via terminal-notifier) when the pi agent finishes a turn — status-aware, focus-aware, click-to-focus.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

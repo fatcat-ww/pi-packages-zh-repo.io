@@ -1,0 +1,6 @@
+{
+  "name": "pi-session-exporter",
+  "description_en": "Export Pi session history as clean Markdown for sharing in PRs, issues, docs, and Slack",
+  "description_zh": "将 Pi 会话历史导出为干净的 Markdown，用于在 PR、问题、文档和 Slack 中分享",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

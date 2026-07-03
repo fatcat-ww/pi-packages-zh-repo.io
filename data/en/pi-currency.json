@@ -1,0 +1,11 @@
+{
+  "name": "pi-currency",
+  "path": "/packages/pi-currency",
+  "url": "https://pi.dev/packages/pi-currency",
+  "types": "",
+  "type_list": [],
+  "downloads": 35,
+  "date_ms": 1777967758451,
+  "description_en": "Real-time currency conversion for the pi TUI footer cost display",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

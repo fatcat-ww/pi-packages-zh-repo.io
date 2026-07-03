@@ -1,0 +1,13 @@
+{
+  "name": "@dpaluy/shaping-skills",
+  "path": "/packages/@dpaluy/shaping-skills",
+  "url": "https://pi.dev/packages/@dpaluy/shaping-skills",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 32,
+  "date_ms": 1775271201567,
+  "description_en": "Cross-tool shaping, breadboarding, and transcript-to-document skills.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

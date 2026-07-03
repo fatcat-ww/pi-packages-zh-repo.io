@@ -1,0 +1,6 @@
+{
+  "name": "pi-od-mcp",
+  "description_en": "pi extension that bridges Open Design's od mcp stdio MCP server into pi tools.",
+  "description_zh": "pi 扩展，将 Open Design 的 od mcp stdio MCP 服务器桥接到 pi 工具中。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

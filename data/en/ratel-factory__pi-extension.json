@@ -1,0 +1,13 @@
+{
+  "name": "@ratel-factory/pi-extension",
+  "path": "/packages/@ratel-factory/pi-extension",
+  "url": "https://pi.dev/packages/@ratel-factory/pi-extension",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 428,
+  "date_ms": 1782036533804,
+  "description_en": "Ratel Factory — native Pi Coding Agent extension. Runs the Ratel orchestrator in-process (no HTTP service, no `ratel --serve`) and registers Pi commands, tools, lifecycle hooks, and a bundled skill so Pi users can run Ratel missions directly inside Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@capyup/pi-rtk",
+  "path": "/packages/@capyup/pi-rtk",
+  "url": "https://pi.dev/packages/@capyup/pi-rtk",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 49,
+  "date_ms": 1778522844720,
+  "description_en": "pi integration for rtk (Rust Token Killer) — transparently rewrites bash tool calls to rtk equivalents for 60-90% token savings.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

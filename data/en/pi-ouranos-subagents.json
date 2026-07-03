@@ -1,0 +1,11 @@
+{
+  "name": "pi-ouranos-subagents",
+  "path": "/packages/pi-ouranos-subagents",
+  "url": "https://pi.dev/packages/pi-ouranos-subagents",
+  "types": "",
+  "type_list": [],
+  "downloads": 180,
+  "date_ms": 1780596465551,
+  "description_en": "Delegate tasks to a fleet of 9 specialized subagents with isolated context. Supports single, parallel, and chained execution modes.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

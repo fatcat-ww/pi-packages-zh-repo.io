@@ -1,0 +1,13 @@
+{
+  "name": "@mancioshell/pi-board-agent",
+  "path": "/packages/@mancioshell/pi-board-agent",
+  "url": "https://pi.dev/packages/@mancioshell/pi-board-agent",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 233,
+  "date_ms": 1782165198314,
+  "description_en": "Autonomous GitHub Project (v2) board executor for Pi — picks Ready cards, implements them in parallel git worktrees via pi-dynamic-workflows, and opens one PR per plan.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

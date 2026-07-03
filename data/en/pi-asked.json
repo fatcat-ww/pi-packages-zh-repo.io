@@ -1,0 +1,13 @@
+{
+  "name": "pi-asked",
+  "path": "/packages/pi-asked",
+  "url": "https://pi.dev/packages/pi-asked",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 300,
+  "date_ms": 1781558413667,
+  "description_en": "Claude Code-style multi-question picker for pi. Tabbed picker with recommended answers, multi-select, and Other… text input.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

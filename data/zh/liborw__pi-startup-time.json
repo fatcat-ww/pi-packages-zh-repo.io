@@ -1,0 +1,6 @@
+{
+  "name": "@liborw/pi-startup-time",
+  "description_en": "pi package that measures startup time and shows the latest reading in the status line",
+  "description_zh": "pi 包，测量启动时间并在状态行显示最新读数",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-comms",
+  "path": "/packages/agent-comms",
+  "url": "https://pi.dev/packages/agent-comms",
+  "types": "",
+  "type_list": [],
+  "downloads": 2939,
+  "date_ms": 1780766548230,
+  "description_en": "Cross-harness communication mesh for LLM agents — rooms, DMs, presence, and real-time push delivery over TCP",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

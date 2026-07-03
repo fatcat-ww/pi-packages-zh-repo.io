@@ -1,0 +1,13 @@
+{
+  "name": "pi-tokf",
+  "path": "/packages/pi-tokf",
+  "url": "https://pi.dev/packages/pi-tokf",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 31,
+  "date_ms": 1779801603504,
+  "description_en": "pi extension that wraps commands through tokf for compressed output.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

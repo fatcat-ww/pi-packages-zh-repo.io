@@ -1,0 +1,11 @@
+{
+  "name": "pi-dev-workflow",
+  "path": "/packages/pi-dev-workflow",
+  "url": "https://pi.dev/packages/pi-dev-workflow",
+  "types": "",
+  "type_list": [],
+  "downloads": 42,
+  "date_ms": 1778667898362,
+  "description_en": "Developer workflow toolkit for pi: git agents, code review, Karpathy guidelines, themes",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

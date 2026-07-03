@@ -1,0 +1,6 @@
+{
+  "name": "pi-terminal-signals",
+  "description_en": "Pi extension that communicates agent lifecycle to the terminal via OSC 9;4 (progress) and OSC 133 (semantic prompts).",
+  "description_zh": "Pi 扩展，通过 OSC 9;4（进度）和 OSC 133（语义提示）将代理生命周期通信到终端",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

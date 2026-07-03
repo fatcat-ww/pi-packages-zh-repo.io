@@ -1,0 +1,6 @@
+{
+  "name": "pi-confluence",
+  "description_en": "Confluence integration for Pi Coding Agent — search, fetch, and save Confluence pages as Markdown with a TUI config editor",
+  "description_zh": "Pi 编码智能体的 Confluence 集成 — 使用 TUI 配置编辑器搜索、获取和保存 Confluence 页面为 Markdown 格式",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

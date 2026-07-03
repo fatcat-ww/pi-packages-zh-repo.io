@@ -1,0 +1,6 @@
+{
+  "name": "pi-vertex-ai-provider",
+  "description_en": "Pi package that enables Google Vertex AI ADC auth and adds latest Gemini Vertex models.",
+  "description_zh": "Pi 包，启用 Google Vertex AI ADC 认证并添加最新的 Gemini Vertex 模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

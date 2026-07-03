@@ -1,0 +1,6 @@
+{
+  "name": "pi-lore",
+  "description_en": "`pi-lore` gives Pi agents GHC-aware tools for Haskell codebases. In large projects, ordinary code discovery often means reading whole files, chasing imports by hand, and filling the model context with definitions that are unrelated or already known. Lore",
+  "description_zh": "`pi-lore` 为 Pi 代理提供 GHC 感知的 Haskell 代码库工具。在大型项目中，普通的代码发现通常意味着读取整个文件、手动跟踪导入，并用无关或已知的定义填充模型上下文。Lore",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

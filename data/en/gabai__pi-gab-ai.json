@@ -1,0 +1,13 @@
+{
+  "name": "@gabai/pi-gab-ai",
+  "path": "/packages/@gabai/pi-gab-ai",
+  "url": "https://pi.dev/packages/@gabai/pi-gab-ai",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 73,
+  "date_ms": 1779160812589,
+  "description_en": "Gab AI model provider and media tools package for Pi.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

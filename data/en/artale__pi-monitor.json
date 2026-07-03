@@ -1,0 +1,11 @@
+{
+  "name": "@artale/pi-monitor",
+  "path": "/packages/@artale/pi-monitor",
+  "url": "https://pi.dev/packages/@artale/pi-monitor",
+  "types": "",
+  "type_list": [],
+  "downloads": 34,
+  "date_ms": 1776789059328,
+  "description_en": "Real-time system resource monitoring for Pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

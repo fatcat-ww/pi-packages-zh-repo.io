@@ -1,0 +1,13 @@
+{
+  "name": "@schultzp2020/pi-cursor",
+  "path": "/packages/@schultzp2020/pi-cursor",
+  "url": "https://pi.dev/packages/@schultzp2020/pi-cursor",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 321,
+  "date_ms": 1779980217050,
+  "description_en": "Pi extension for Cursor subscription models via local OpenAI-compatible proxy",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

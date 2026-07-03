@@ -1,0 +1,11 @@
+{
+  "name": "@e9n/pi-mobile",
+  "path": "/packages/@e9n/pi-mobile",
+  "url": "https://pi.dev/packages/@e9n/pi-mobile",
+  "types": "",
+  "type_list": [],
+  "downloads": 29,
+  "date_ms": 1777233141524,
+  "description_en": "PWA mobile app for Pi agents — mounts on pi-webserver at /mobile",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

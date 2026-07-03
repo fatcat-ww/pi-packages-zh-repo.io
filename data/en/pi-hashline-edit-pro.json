@@ -1,0 +1,13 @@
+{
+  "name": "pi-hashline-edit-pro",
+  "path": "/packages/pi-hashline-edit-pro",
+  "url": "https://pi.dev/packages/pi-hashline-edit-pro",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 6226,
+  "date_ms": 1783021371191,
+  "description_en": "Strict hashline read/replace tool for pi-coding-agent with hash-anchored edits (3-char, 18-bit, perfect hashing)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@firstpick/pi-skill-patch-md",
+  "path": "/packages/@firstpick/pi-skill-patch-md",
+  "url": "https://pi.dev/packages/@firstpick/pi-skill-patch-md",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 385,
+  "date_ms": 1780954612014,
+  "description_en": "Agents should invoke this skill to create, update, or implement standardized PATCH.md documents that describe reproducible source code patches.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

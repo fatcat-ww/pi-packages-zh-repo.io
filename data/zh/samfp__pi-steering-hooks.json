@@ -1,0 +1,6 @@
+{
+  "name": "@samfp/pi-steering-hooks",
+  "description_en": "Deterministic tool-call guardrails for pi — enforce rules with before-tool hooks instead of prompts. Zero token cost, 100% reliability.",
+  "description_zh": "pi 的确定性工具调用护栏 — 使用工具前钩子而非提示强制执行规则。零令牌成本，100% 可靠性",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@masukomi/pi-rbenv",
+  "description_en": "Pi extension to automatically manage Ruby versions, and gem installed executables via rbenv",
+  "description_zh": "Pi 扩展，通过 rbenv 自动管理 Ruby 版本和 gem 安装的可执行文件",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

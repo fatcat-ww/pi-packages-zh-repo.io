@@ -1,0 +1,6 @@
+{
+  "name": "pi-repoprompt-cli",
+  "description_en": "Integrates RepoPrompt with Pi via RepoPrompt's `rp-cli` executable",
+  "description_zh": "通过 RepoPrompt 的 `rp-cli` 可执行文件将 RepoPrompt 与 Pi 集成",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

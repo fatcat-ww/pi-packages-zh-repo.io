@@ -1,0 +1,11 @@
+{
+  "name": "@primp9053/pi-subagent",
+  "path": "/packages/@primp9053/pi-subagent",
+  "url": "https://pi.dev/packages/@primp9053/pi-subagent",
+  "types": "",
+  "type_list": [],
+  "downloads": 0,
+  "date_ms": 1782583716219,
+  "description_en": "Concurrent sub-agents for pi. /sub <task> opens a fork-point selector so you can pick any user message as the sub's inherited context (Enter = latest); /subn <task> spawns from latest without the selector; status line shows main/sub1/sub2; alt+s cycles su",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

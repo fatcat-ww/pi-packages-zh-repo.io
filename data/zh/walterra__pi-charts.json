@@ -1,0 +1,6 @@
+{
+  "name": "@walterra/pi-charts",
+  "description_en": "Vega-Lite chart extension for pi coding agent - render data visualizations as inline images",
+  "description_zh": "pi coding agent 的 Vega-Lite 图表扩展 - 将数据可视化渲染为内联图像",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

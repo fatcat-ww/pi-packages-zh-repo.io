@@ -1,0 +1,6 @@
+{
+  "name": "pi-root-grant",
+  "description_en": "Pi extension that lets agents request temporary sudo-backed root access with explicit user approval.",
+  "description_zh": "Pi 扩展，允许代理请求带有显式用户批准的临时 sudo 支持的 root 访问权限",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

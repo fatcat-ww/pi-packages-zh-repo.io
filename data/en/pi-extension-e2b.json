@@ -1,0 +1,11 @@
+{
+  "name": "pi-extension-e2b",
+  "path": "/packages/pi-extension-e2b",
+  "url": "https://pi.dev/packages/pi-extension-e2b",
+  "types": "",
+  "type_list": [],
+  "downloads": 206,
+  "date_ms": 1780505886033,
+  "description_en": "E2B cloud sandbox integration for pi — redirects all tool execution to a remote E2B sandbox",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

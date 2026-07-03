@@ -1,0 +1,13 @@
+{
+  "name": "@wierdbytes/pi-tokyo-night",
+  "path": "/packages/@wierdbytes/pi-tokyo-night",
+  "url": "https://pi.dev/packages/@wierdbytes/pi-tokyo-night",
+  "types": "theme",
+  "type_list": [
+    "theme"
+  ],
+  "downloads": 212,
+  "date_ms": 1778284979330,
+  "description_en": "Tokyo Night themes for the pi coding agent — folke's Night, Storm, Moon, and Day palettes mapped to all 51 pi color tokens.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

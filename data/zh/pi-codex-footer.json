@@ -1,0 +1,6 @@
+{
+  "name": "pi-codex-footer",
+  "description_en": "Pi extension that adds a 2-line footer with live OpenAI Codex 5h/7d quota usage and reset timers.",
+  "description_zh": "pi 扩展，添加一个双行页脚，显示实时的 OpenAI Codex 5h/7d 配额使用情况和重置计时器",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-browser",
+  "path": "/packages/pi-browser",
+  "url": "https://pi.dev/packages/pi-browser",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 68,
+  "date_ms": 1779267039367,
+  "description_en": "Playwright-backed pi extension that registers the pi-browser tool",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

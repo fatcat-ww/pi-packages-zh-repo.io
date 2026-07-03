@@ -1,0 +1,13 @@
+{
+  "name": "pi-usage-bar",
+  "path": "/packages/pi-usage-bar",
+  "url": "https://pi.dev/packages/pi-usage-bar",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 600,
+  "date_ms": 1782141077313,
+  "description_en": "Pi footer/statusline and local usage ledger for per-session and per-project token attribution.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

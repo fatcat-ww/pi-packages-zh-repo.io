@@ -1,0 +1,6 @@
+{
+  "name": "pi-deepseek-peak-alert",
+  "description_en": "Pi extension that warns you with desktop notifications when using DeepSeek during peak pricing hours (2× rates)",
+  "description_zh": "Pi 扩展，在使用 DeepSeek 的高峰定价时段（2 倍费率）时通过桌面通知警告您",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

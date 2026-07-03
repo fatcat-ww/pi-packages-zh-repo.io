@@ -1,0 +1,13 @@
+{
+  "name": "@pandi-coding-agent/worktree",
+  "path": "/packages/@pandi-coding-agent/worktree",
+  "url": "https://pi.dev/packages/@pandi-coding-agent/worktree",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 0,
+  "date_ms": 1783061710206,
+  "description_en": "Pi extension to manage git worktrees: a /worktree command and a model-callable git_worktree tool (list/add/open/remove/prune).",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@yangnay/pi-mcp-bridge",
+  "path": "/packages/@yangnay/pi-mcp-bridge",
+  "url": "https://pi.dev/packages/@yangnay/pi-mcp-bridge",
+  "types": "",
+  "type_list": [],
+  "downloads": 33,
+  "date_ms": 1774945418959,
+  "description_en": "Standalone pi extension that bridges multiple MCP servers with on-demand connections.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

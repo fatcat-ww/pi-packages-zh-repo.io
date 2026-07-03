@@ -1,0 +1,13 @@
+{
+  "name": "pi-cursor-sdk",
+  "path": "/packages/pi-cursor-sdk",
+  "url": "https://pi.dev/packages/pi-cursor-sdk",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 10189,
+  "date_ms": 1783028552771,
+  "description_en": "pi provider extension backed by @cursor/sdk local agents",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

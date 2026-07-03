@@ -1,0 +1,6 @@
+{
+  "name": "@brain0pia/pi-notify",
+  "description_en": "Pi package that sends Telegram notifications after each completed agent response.",
+  "description_zh": "Pi 包，在每个代理响应完成后发送 Telegram 通知",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

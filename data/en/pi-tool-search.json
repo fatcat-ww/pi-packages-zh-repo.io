@@ -1,0 +1,13 @@
+{
+  "name": "pi-tool-search",
+  "path": "/packages/pi-tool-search",
+  "url": "https://pi.dev/packages/pi-tool-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 103,
+  "date_ms": 1777016635790,
+  "description_en": "Hide all tools behind a manifest-aware tool_search — LLM enables tools by name on demand",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

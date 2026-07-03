@@ -1,0 +1,11 @@
+{
+  "name": "pi-thinking-only-guard",
+  "path": "/packages/pi-thinking-only-guard",
+  "url": "https://pi.dev/packages/pi-thinking-only-guard",
+  "types": "",
+  "type_list": [],
+  "downloads": 189,
+  "date_ms": 1781453102771,
+  "description_en": "Auto-recover trapped tool calls from thinking blocks for Qwen3.6 and similar models",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

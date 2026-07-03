@@ -1,0 +1,13 @@
+{
+  "name": "pi-morphllm-plugin",
+  "path": "/packages/pi-morphllm-plugin",
+  "url": "https://pi.dev/packages/pi-morphllm-plugin",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 142,
+  "date_ms": 1777973306836,
+  "description_en": "Morph runtime extension package for Pi Coding Agent with tools, hooks, and compaction",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@lnittman/pi-prompts",
+  "description_en": "Shared system-prompt scaffolding for pi-coding-agent forks — date/time injection, context files, skills block, standard guidelines, and the buildSystemPrompt composer.",
+  "description_zh": "用于 pi-coding-agent 分支的共享系统提示脚手架 — 日期/时间注入、上下文文件、技能块、标准指南和 buildSystemPrompt 编排器。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

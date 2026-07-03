@@ -1,0 +1,13 @@
+{
+  "name": "pi-commandcode-provider",
+  "path": "/packages/pi-commandcode-provider",
+  "url": "https://pi.dev/packages/pi-commandcode-provider",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1064,
+  "date_ms": 1781619734700,
+  "description_en": "pi custom provider for Command Code API (commandcode.ai)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

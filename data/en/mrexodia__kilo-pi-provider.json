@@ -1,0 +1,11 @@
+{
+  "name": "@mrexodia/kilo-pi-provider",
+  "path": "/packages/@mrexodia/kilo-pi-provider",
+  "url": "https://pi.dev/packages/@mrexodia/kilo-pi-provider",
+  "types": "",
+  "type_list": [],
+  "downloads": 39,
+  "date_ms": 1772992814058,
+  "description_en": "Kilo provider extension for Pi. Access 300+ AI models through the Kilo Gateway.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

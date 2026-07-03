@@ -1,0 +1,6 @@
+{
+  "name": "@hemocode/pi-model-selector",
+  "description_en": "A Pi extension that automatically selects the best model based on remaining usage quotas across various providers (Claude, OpenAI, Gemini, etc.).",
+  "description_zh": "Pi 扩展，根据各种提供商（Claude、OpenAI、Gemini 等）的剩余使用配额自动选择最佳模型",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

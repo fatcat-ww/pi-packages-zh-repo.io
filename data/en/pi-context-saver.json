@@ -1,0 +1,13 @@
+{
+  "name": "pi-context-saver",
+  "path": "/packages/pi-context-saver",
+  "url": "https://pi.dev/packages/pi-context-saver",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 46,
+  "date_ms": 1773423514176,
+  "description_en": "Pi extension that prevents context bloat by automatically sandboxing heavy tool outputs (bash, web_search, fetch_content, exa_search, read) to temp files",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

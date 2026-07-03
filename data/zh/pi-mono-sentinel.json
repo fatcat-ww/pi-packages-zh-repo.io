@@ -1,0 +1,6 @@
+{
+  "name": "pi-mono-sentinel",
+  "description_en": "Pi extension that guards against content-based secret leaks and indirect script execution",
+  "description_zh": "pi 扩展，防止基于内容的秘密泄露和间接脚本执行",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

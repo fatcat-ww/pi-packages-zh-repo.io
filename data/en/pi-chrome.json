@@ -1,0 +1,13 @@
+{
+  "name": "pi-chrome",
+  "path": "/packages/pi-chrome",
+  "url": "https://pi.dev/packages/pi-chrome",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 7365,
+  "date_ms": 1782436553466,
+  "description_en": "Let Pi use your existing signed-in Chrome profile after explicit authorization.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

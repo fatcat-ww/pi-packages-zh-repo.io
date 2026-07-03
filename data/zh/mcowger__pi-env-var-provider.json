@@ -1,0 +1,6 @@
+{
+  "name": "@mcowger/pi-env-var-provider",
+  "description_en": "Pi extension: register a custom OpenAI-compatible provider from environment variables. Configure baseUrl, apiKey, and models via env vars without editing models.json.",
+  "description_zh": "Pi 扩展：从环境变量注册自定义的 OpenAI 兼容提供商。通过环境变量配置 baseUrl、apiKey 和 models，无需编辑 models.json。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

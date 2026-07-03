@@ -1,0 +1,6 @@
+{
+  "name": "pi-model-discovery",
+  "description_en": "Pi extension that discovers provider models, enriches metadata, caches results, and registers them dynamically.",
+  "description_zh": "Pi 扩展，发现提供者模型、丰富元数据、缓存结果并动态注册它们",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

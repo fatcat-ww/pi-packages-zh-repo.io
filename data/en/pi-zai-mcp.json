@@ -1,0 +1,13 @@
+{
+  "name": "pi-zai-mcp",
+  "path": "/packages/pi-zai-mcp",
+  "url": "https://pi.dev/packages/pi-zai-mcp",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 1704,
+  "date_ms": 1782577137860,
+  "description_en": "Unofficial pi package that exposes Z.ai MCP server tools for web search, URL reading, repository reading, and vision workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "pi-epicflow",
+  "description_en": "Pi skill + prompt + agents for shipping multi-feature work autonomously: decompose a design.md into a DAG of small features, each on its own git worktree+branch off a long-lived epic branch, squash-merged back, then opened as a single PR. Halt only when t",
+  "description_zh": "Pi 技能 + 提示 + 代理，用于自主发布多功能工作：将 design.md 分解为小功能的 DAG，每个功能都在其自己的 git 工作树+分支上，从长期存在的 epic 分支分出，然后 squash-merge 回来，作为单个 PR 打开。仅在 t",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@arnavpadwal/pi-backup",
+  "description_en": "Backup and restore your entire pi configuration — shareable zip, excludes API keys",
+  "description_zh": "备份和恢复整个 pi 配置 — 可共享的 zip，排除 API 密钥",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

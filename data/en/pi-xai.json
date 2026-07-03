@@ -1,0 +1,11 @@
+{
+  "name": "pi-xai",
+  "path": "/packages/pi-xai",
+  "url": "https://pi.dev/packages/pi-xai",
+  "types": "",
+  "type_list": [],
+  "downloads": 553,
+  "date_ms": 1783018581076,
+  "description_en": "Pi extension for xAI text generation via Responses API — reasoning, multi-agent, structured outputs, tools",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

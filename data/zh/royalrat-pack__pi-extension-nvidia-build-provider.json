@@ -1,0 +1,6 @@
+{
+  "name": "@royalrat-pack/pi-extension-nvidia-build-provider",
+  "description_en": "Pi extension that adds NVIDIA Build API models with /login support and /model integration.",
+  "description_zh": "添加 NVIDIA Build API 模型，支持 /login 和 /model 集成的 Pi 扩展。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@bytesbrains/pi-auditor",
+  "description_en": "Audit repo files for RAG digestibility — find god files, measure chunk fragmentation, and generate split suggestions.",
+  "description_zh": "审计仓库文件的 RAG 可消化性 — 查找 god 文件，测量块碎片化，并生成拆分建议",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

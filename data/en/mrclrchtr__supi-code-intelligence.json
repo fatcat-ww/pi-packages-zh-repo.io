@@ -1,0 +1,13 @@
+{
+  "name": "@mrclrchtr/supi-code-intelligence",
+  "path": "/packages/@mrclrchtr/supi-code-intelligence",
+  "url": "https://pi.dev/packages/@mrclrchtr/supi-code-intelligence",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 2499,
+  "date_ms": 1783012978216,
+  "description_en": "SuPi Code Intelligence extension — architecture briefs, caller/callee analysis, impact assessment, and pattern search for pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

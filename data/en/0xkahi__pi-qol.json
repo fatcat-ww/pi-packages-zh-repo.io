@@ -1,0 +1,13 @@
+{
+  "name": "@0xkahi/pi-qol",
+  "path": "/packages/@0xkahi/pi-qol",
+  "url": "https://pi.dev/packages/@0xkahi/pi-qol",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 508,
+  "date_ms": 1781898700331,
+  "description_en": "quality of life pi extensions",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

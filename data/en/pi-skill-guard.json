@@ -1,0 +1,13 @@
+{
+  "name": "pi-skill-guard",
+  "path": "/packages/pi-skill-guard",
+  "url": "https://pi.dev/packages/pi-skill-guard",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 327,
+  "date_ms": 1781251800347,
+  "description_en": "Pi extension that intercepts 'tool not found' errors: injects skill documentation for matching skill names and falls back to bash for unknown tools with a command argument",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

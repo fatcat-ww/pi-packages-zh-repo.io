@@ -1,0 +1,11 @@
+{
+  "name": "@quant-pi/ext",
+  "path": "/packages/@quant-pi/ext",
+  "url": "https://pi.dev/packages/@quant-pi/ext",
+  "types": "",
+  "type_list": [],
+  "downloads": 17,
+  "date_ms": 1777980784228,
+  "description_en": "Small, hand-written, composable modules for pi-agent — inspired by mini.nvim, focused on simple, predictable building blocks for coding agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

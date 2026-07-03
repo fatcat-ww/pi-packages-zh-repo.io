@@ -1,0 +1,6 @@
+{
+  "name": "pi-sidebar",
+  "description_en": "Floating right sidebar for pi with git diff/status and session metadata.",
+  "description_zh": "Pi 的浮动右侧边栏，包含 git diff/状态和会话元数据。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

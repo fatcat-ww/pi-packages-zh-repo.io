@@ -1,0 +1,6 @@
+{
+  "name": "pi-mono-loop",
+  "description_en": "Pi extension that runs a prompt or slash command on a recurring interval",
+  "description_zh": "Pi 扩展，以固定间隔运行提示或斜杠命令",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

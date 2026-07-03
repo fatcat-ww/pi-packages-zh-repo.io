@@ -1,0 +1,13 @@
+{
+  "name": "@xynogen/pix-sudo",
+  "path": "/packages/@xynogen/pix-sudo",
+  "url": "https://pi.dev/packages/@xynogen/pix-sudo",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 945,
+  "date_ms": 1782806598944,
+  "description_en": "Pi tool — sudo_run with interactive PAM password prompt (PAM via sudo -S)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

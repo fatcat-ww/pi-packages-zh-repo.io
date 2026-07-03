@@ -1,0 +1,13 @@
+{
+  "name": "yoyo-pi",
+  "path": "/packages/yoyo-pi",
+  "url": "https://pi.dev/packages/yoyo-pi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 354,
+  "date_ms": 1780565297578,
+  "description_en": "Polished pi extension pack: Vim prompt editing, choice pickers, themes, status bars, file/todo sidebars, context snapshots, and plan mode.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

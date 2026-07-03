@@ -1,0 +1,11 @@
+{
+  "name": "pi-markitdown",
+  "path": "/packages/pi-markitdown",
+  "url": "https://pi.dev/packages/pi-markitdown",
+  "types": "",
+  "type_list": [],
+  "downloads": 58,
+  "date_ms": 1777230225748,
+  "description_en": "pi extension wrapping markitdown CLI",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

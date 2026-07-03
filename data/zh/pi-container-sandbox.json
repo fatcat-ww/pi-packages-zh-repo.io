@@ -1,0 +1,6 @@
+{
+  "name": "pi-container-sandbox",
+  "description_en": "pi coding-agent extension that runs every read/write/edit/bash op inside a per-session Linux container (Apple `container` or Docker).",
+  "description_zh": "pi coding-agent 扩展，在每个会话的 Linux 容器（Apple `container` 或 Docker）内运行每次读取/写入/编辑/bash 操作。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

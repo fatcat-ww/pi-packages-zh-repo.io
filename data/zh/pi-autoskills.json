@@ -1,0 +1,6 @@
+{
+  "name": "pi-autoskills",
+  "description_en": "Audited autoskills-style installer for pi. Detect stack, discover vetted skills, audit upstream bundles, cache locally, install safely.",
+  "description_zh": "pi 的审核式 autoskills 风格安装程序。检测堆栈、发现经过审核的技能、审核上游包、本地缓存、安全安装",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

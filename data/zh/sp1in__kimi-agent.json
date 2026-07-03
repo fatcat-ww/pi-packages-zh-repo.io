@@ -1,0 +1,6 @@
+{
+  "name": "@sp1in/kimi-agent",
+  "description_en": "Kimi CLI bridge — type /kimi, scan QR code, chat with Kimi from WeChat",
+  "description_zh": "Kimi CLI 桥接 — 输入 /kimi，扫描二维码，从微信与 Kimi 聊天",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

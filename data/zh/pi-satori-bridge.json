@@ -1,0 +1,6 @@
+{
+  "name": "pi-satori-bridge",
+  "description_en": "Pi extension package that proxies Satori MCP tools through satori-cli",
+  "description_zh": "通过 satori-cli 代理 Satori MCP 工具的 Pi 扩展包",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

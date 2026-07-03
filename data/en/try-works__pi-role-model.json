@@ -1,0 +1,11 @@
+{
+  "name": "@try-works/pi-role-model",
+  "path": "/packages/@try-works/pi-role-model",
+  "url": "https://pi.dev/packages/@try-works/pi-role-model",
+  "types": "",
+  "type_list": [],
+  "downloads": 275,
+  "date_ms": 1782678711554,
+  "description_en": "Pi package for connecting Pi to an externally running Role-Model runtime.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

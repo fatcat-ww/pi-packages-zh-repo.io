@@ -1,0 +1,13 @@
+{
+  "name": "oira666_pi-web-search",
+  "path": "/packages/oira666_pi-web-search",
+  "url": "https://pi.dev/packages/oira666_pi-web-search",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 312,
+  "date_ms": 1780303866507,
+  "description_en": "Provider-native web search for pi across Google Gemini, OpenAI, and Anthropic, plus Gemini URL Context",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

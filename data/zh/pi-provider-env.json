@@ -1,0 +1,6 @@
+{
+  "name": "pi-provider-env",
+  "description_en": "Pi extension: registers OpenAI-completions and/or Anthropic-messages providers from environment variables (OPENAI_ENV_*, ANTHROPIC_ENV_*)",
+  "description_zh": "Pi 扩展：从环境变量 (OPENAI_ENV_*, ANTHROPIC_ENV_*) 注册 OpenAI-completions 和/或 Anthropic-messages 提供程序",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

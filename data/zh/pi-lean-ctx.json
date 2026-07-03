@@ -1,0 +1,6 @@
+{
+  "name": "pi-lean-ctx",
+  "description_en": "Pi Coding Agent extension — routes bash/read/grep/find/ls through lean-ctx for strong token savings. The embedded MCP bridge (on by default) adds a persistent session cache so unchanged re-reads cost ~13 tokens.",
+  "description_zh": "Pi Coding Agent 扩展 — 将 bash/read/grep/find/ls 路由到 lean-ctx 以实现显著的 token 节省。嵌入式 MCP 桥（默认开启）添加持久会话缓存，因此未更改的重新读取仅需约 13 个 token。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

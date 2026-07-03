@@ -1,0 +1,6 @@
+{
+  "name": "pi-workbench",
+  "description_en": "Terminal workbench for switching between live Pi sessions using tmux.",
+  "description_zh": "使用 tmux 在多个活动 Pi 会话之间切换的终端工作台。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

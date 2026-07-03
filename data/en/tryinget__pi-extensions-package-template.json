@@ -1,0 +1,13 @@
+{
+  "name": "@tryinget/pi-extensions-package-template",
+  "path": "/packages/@tryinget/pi-extensions-package-template",
+  "url": "https://pi.dev/packages/@tryinget/pi-extensions-package-template",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 87,
+  "date_ms": 1772949903795,
+  "description_en": "Copier template + CLI for bootstrapping production-ready pi extension packages inside a monorepo",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

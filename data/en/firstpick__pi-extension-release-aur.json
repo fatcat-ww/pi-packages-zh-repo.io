@@ -1,0 +1,14 @@
+{
+  "name": "@firstpick/pi-extension-release-aur",
+  "path": "/packages/@firstpick/pi-extension-release-aur",
+  "url": "https://pi.dev/packages/@firstpick/pi-extension-release-aur",
+  "types": "extension skill",
+  "type_list": [
+    "extension",
+    "skill"
+  ],
+  "downloads": 1800,
+  "date_ms": 1780954502259,
+  "description_en": "Pi commands and skill for deterministic AUR setup, review, and release workflows.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

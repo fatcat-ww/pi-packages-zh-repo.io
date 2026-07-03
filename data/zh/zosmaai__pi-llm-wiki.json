@@ -1,0 +1,6 @@
+{
+  "name": "@zosmaai/pi-llm-wiki",
+  "description_en": "Self-maintaining LLM Wiki for Pi — Karpathy-pattern knowledge base with immutable source capture, automated ingestion, search, linting, and Obsidian-compatible vault. auto-updating personal & company wiki.",
+  "description_zh": "Pi 的自我维护 LLM Wiki — Karpathy 模式的知识库，具有不可变源捕获、自动化摄取、搜索、检查和与 Obsidian 兼容的保管库。自动更新的个人和公司 wiki。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

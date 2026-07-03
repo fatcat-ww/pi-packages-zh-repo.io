@@ -1,0 +1,6 @@
+{
+  "name": "@cglab/pi-rtk",
+  "description_en": "RTK (Rust Token Killer) integration for pi — transparent bash command rewriting for 60-90% token savings",
+  "description_zh": "pi的RTK（Rust Token Killer）集成 — 透明bash命令重写，节省60-90%的令牌",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-tool-transparency",
+  "path": "/packages/pi-tool-transparency",
+  "url": "https://pi.dev/packages/pi-tool-transparency",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 454,
+  "date_ms": 1780133122800,
+  "description_en": "Pi extension — require purpose before tool calls, show purpose in widget panel",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

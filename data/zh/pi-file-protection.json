@@ -1,0 +1,6 @@
+{
+  "name": "pi-file-protection",
+  "description_en": "Pi extension that confirms before delete/edit operations - protects files from accidental changes",
+  "description_zh": "在删除/编辑操作前确认的 Pi 扩展 - 保护文件免受意外更改。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

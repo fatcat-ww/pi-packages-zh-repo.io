@@ -1,0 +1,11 @@
+{
+  "name": "@diegopetrucci/pi-claude-fast",
+  "path": "/packages/@diegopetrucci/pi-claude-fast",
+  "url": "https://pi.dev/packages/@diegopetrucci/pi-claude-fast",
+  "types": "",
+  "type_list": [],
+  "downloads": 659,
+  "date_ms": 1782197109020,
+  "description_en": "A pi extension that enables Anthropic Claude Fast mode for supported Claude Opus models by injecting speed=fast.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

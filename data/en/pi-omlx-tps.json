@@ -1,0 +1,11 @@
+{
+  "name": "pi-omlx-tps",
+  "path": "/packages/pi-omlx-tps",
+  "url": "https://pi.dev/packages/pi-omlx-tps",
+  "types": "",
+  "type_list": [],
+  "downloads": 313,
+  "date_ms": 1782084221846,
+  "description_en": "Pi extension that shows OMLX inference data in the processing prompt",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

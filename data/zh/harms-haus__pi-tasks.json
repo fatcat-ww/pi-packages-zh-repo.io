@@ -1,0 +1,6 @@
+{
+  "name": "@harms-haus/pi-tasks",
+  "description_en": "pi-coding-agent extension: phased task workflow with dependency tracking and strict status gating",
+  "description_zh": "pi-coding-agent扩展：具有依赖跟踪和严格状态门控的分阶段任务工作流",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

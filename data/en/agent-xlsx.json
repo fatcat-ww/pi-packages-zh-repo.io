@@ -1,0 +1,13 @@
+{
+  "name": "agent-xlsx",
+  "path": "/packages/agent-xlsx",
+  "url": "https://pi.dev/packages/agent-xlsx",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 101,
+  "date_ms": 1776168401510,
+  "description_en": "Agent-friendly CLI for reading and editing xlsx files (skill package)",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

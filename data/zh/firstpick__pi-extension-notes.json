@@ -1,0 +1,6 @@
+{
+  "name": "@firstpick/pi-extension-notes",
+  "description_en": "Local notes CRUD extension for Pi with optional rule-note prompt injection.",
+  "description_zh": "Pi 的本地笔记 CRUD 扩展，可选择性地注入规则提示",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-context-injector",
+  "path": "/packages/pi-context-injector",
+  "url": "https://pi.dev/packages/pi-context-injector",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 356,
+  "date_ms": 1783049515977,
+  "description_en": "Pi extension that injects project context into first-turn prompts and compaction continuity messages.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

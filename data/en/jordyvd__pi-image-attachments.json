@@ -1,0 +1,13 @@
+{
+  "name": "@jordyvd/pi-image-attachments",
+  "path": "/packages/@jordyvd/pi-image-attachments",
+  "url": "https://pi.dev/packages/@jordyvd/pi-image-attachments",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 59,
+  "date_ms": 1773776871297,
+  "description_en": "Image attachments for Pi, including draft placeholders and screenshot tool-result promotion.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "pi-safety-modes",
+  "path": "/packages/pi-safety-modes",
+  "url": "https://pi.dev/packages/pi-safety-modes",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 63,
+  "date_ms": 1778533200550,
+  "description_en": "Pi package providing safety modes for tool-call guardrails",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

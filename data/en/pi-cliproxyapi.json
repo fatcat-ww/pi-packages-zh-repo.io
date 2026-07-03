@@ -1,0 +1,13 @@
+{
+  "name": "pi-cliproxyapi",
+  "path": "/packages/pi-cliproxyapi",
+  "url": "https://pi.dev/packages/pi-cliproxyapi",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 849,
+  "date_ms": 1783080377090,
+  "description_en": "Pi extension for corporate management of model providers via a single CliProxyAPI endpoint",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

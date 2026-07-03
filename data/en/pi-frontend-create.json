@@ -1,0 +1,13 @@
+{
+  "name": "pi-frontend-create",
+  "path": "/packages/pi-frontend-create",
+  "url": "https://pi.dev/packages/pi-frontend-create",
+  "types": "skill",
+  "type_list": [
+    "skill"
+  ],
+  "downloads": 330,
+  "date_ms": 1778867499292,
+  "description_en": "A Pi skill that creates distinctive, production-grade frontend interfaces that avoid common AI design patterns. Generates authentic, contextually-aware designs with real craft.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

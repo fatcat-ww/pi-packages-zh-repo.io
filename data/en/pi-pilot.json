@@ -1,0 +1,11 @@
+{
+  "name": "pi-pilot",
+  "path": "/packages/pi-pilot",
+  "url": "https://pi.dev/packages/pi-pilot",
+  "types": "",
+  "type_list": [],
+  "downloads": 31,
+  "date_ms": 1777619043537,
+  "description_en": "A Copilot Autopilot-inspired workflow: research, subagent exploration, questions, plan and execute.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

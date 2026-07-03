@@ -1,0 +1,6 @@
+{
+  "name": "pi-webveil",
+  "description_en": "Pi extension: web_search and web_fetch tools backed by webveil. A drop-in, anonymity-capable replacement for Ollama's web_search/web_fetch.",
+  "description_zh": "Pi 扩展：由 webveil 支持的 web_search 和 web_fetch 工具。Ollama 的 web_search/web_fetch 的可替代、具有匿名能力的替代品",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

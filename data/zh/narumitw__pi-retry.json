@@ -1,0 +1,6 @@
+{
+  "name": "@narumitw/pi-retry",
+  "description_en": "Public pi extension that retries empty-detail, Codex websocket-limit, and stalled provider errors.",
+  "description_zh": "公共pi扩展，重试空详情、Codex websocket限制和停滞的提供程序错误。",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

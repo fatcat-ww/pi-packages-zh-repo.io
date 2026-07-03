@@ -1,0 +1,11 @@
+{
+  "name": "@open-cursor/pi-agent",
+  "path": "/packages/@open-cursor/pi-agent",
+  "url": "https://pi.dev/packages/@open-cursor/pi-agent",
+  "types": "",
+  "type_list": [],
+  "downloads": 134,
+  "date_ms": 1781100292380,
+  "description_en": "Cursor agent provider extension for pi — use Cursor's models and agent directly from pi",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

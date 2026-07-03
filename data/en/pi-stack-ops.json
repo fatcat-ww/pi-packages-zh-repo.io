@@ -1,0 +1,11 @@
+{
+  "name": "pi-stack-ops",
+  "path": "/packages/pi-stack-ops",
+  "url": "https://pi.dev/packages/pi-stack-ops",
+  "types": "",
+  "type_list": [],
+  "downloads": 566,
+  "date_ms": 1781558459206,
+  "description_en": "Stax-first Pi package for spec/ADR-led stacked PR workflows with specialized agents.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

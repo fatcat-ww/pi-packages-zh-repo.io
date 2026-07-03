@@ -1,0 +1,13 @@
+{
+  "name": "pi-embark",
+  "path": "/packages/pi-embark",
+  "url": "https://pi.dev/packages/pi-embark",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 326,
+  "date_ms": 1780469933934,
+  "description_en": "Pi extension and remote task runner for dispatching Embark jobs through a Cloudflare broker to remote Pi workers.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

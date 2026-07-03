@@ -1,0 +1,13 @@
+{
+  "name": "pi-a2a-communication",
+  "path": "/packages/pi-a2a-communication",
+  "url": "https://pi.dev/packages/pi-a2a-communication",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 106,
+  "date_ms": 1773570604812,
+  "description_en": "Enterprise-grade A2A (Agent2Agent) protocol implementation for pi coding agent - enables multi-node, multi-agent collaboration across enterprise environments",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}

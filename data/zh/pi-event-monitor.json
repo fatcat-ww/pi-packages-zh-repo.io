@@ -1,0 +1,6 @@
+{
+  "name": "pi-event-monitor",
+  "description_en": "Event-driven monitors for pi sessions: shell streams and file watchers that wake the session that started them.",
+  "description_zh": "Pi 会话的事件驱动监视器：shell 流和文件监视器，唤醒启动它们的会话",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

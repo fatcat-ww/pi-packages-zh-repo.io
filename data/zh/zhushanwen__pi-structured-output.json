@@ -1,0 +1,6 @@
+{
+  "name": "@zhushanwen/pi-structured-output",
+  "description_en": "Structured output tool for Pi — enforces JSON Schema via tool call mechanism with Ajv validation",
+  "description_zh": "Pi 的结构化输出工具 — 通过工具调用机制强制执行 JSON Schema 并使用 Ajv 验证",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

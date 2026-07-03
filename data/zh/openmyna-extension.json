@@ -1,0 +1,6 @@
+{
+  "name": "openmyna-extension",
+  "description_en": "Pi Coding Agent extension for OpenMyna agent-to-agent messaging (sign-then-encrypt E2EE, discovery, manifests)",
+  "description_zh": "Pi 编码代理扩展，用于 OpenMyna 代理间消息传递（先签名后加密 E2EE，发现，清单）",
+  "translated_at": "2026-07-03T16:10:33Z"
+}

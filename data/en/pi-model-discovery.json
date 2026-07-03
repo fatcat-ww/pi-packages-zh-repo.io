@@ -1,0 +1,13 @@
+{
+  "name": "pi-model-discovery",
+  "path": "/packages/pi-model-discovery",
+  "url": "https://pi.dev/packages/pi-model-discovery",
+  "types": "extension",
+  "type_list": [
+    "extension"
+  ],
+  "downloads": 376,
+  "date_ms": 1783049603326,
+  "description_en": "Pi extension that discovers provider models, enriches metadata, caches results, and registers them dynamically.",
+  "scraped_at": "2026-07-03T16:10:33Z"
+}
