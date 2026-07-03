@@ -119,9 +119,10 @@ pi-packages-zh/
 
 ```bash
 pip install -r requirements.txt
-export LLM_BASE_URL=https://api.astrdark.cyou/v1
-export LLM_API_KEY=sk-your_key_here
-export LLM_MODEL=glm-4.5-flash
+export ZAI_API_KEY=your_key_here
+export ZAI_MODEL=glm-4.7-flash
+# 可选：默认已使用智谱官方 API
+# export ZAI_BASE_URL=https://open.bigmodel.cn/api/paas/v4
 
 # 抓取 + diff + 翻译 + 合并 + 生成 HTML（全套）
 python scripts/scrape.py
@@ -203,11 +204,13 @@ python scripts/scrape.py --max-pages 2 --dry-run
 
 仓库 Settings → Secrets and variables → Actions → New repository secret：
 
-- Name: `LLM_BASE_URL`
-- Value: `https://api.astrdark.cyou/v1`
+- Name: `ZAI_API_KEY`
+- Value: 你的智谱 API Key
 
-- Name: `LLM_API_KEY`
-- Value: 你的 sk
+可选：如果要覆盖默认智谱官方端点，再添加：
+
+- Name: `ZAI_BASE_URL`
+- Value: `https://open.bigmodel.cn/api/paas/v4`
 
 ### 2. 启用 GitHub Pages
 

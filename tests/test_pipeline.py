@@ -102,38 +102,97 @@ class DiffTests(unittest.TestCase):
 
 
 class TranslateTests(unittest.TestCase):
-    def test_call_llm_uses_openai_compatible_http_api(self):
+    def test_call_llm_uses_bigmodel_sdk(self):
         calls = []
 
+        class FakeMessage:
+            content = '[{"i":0,"zh":"一"}]'
+
+        class FakeChoice:
+            message = FakeMessage()
+
         class FakeResponse:
-            status_code = 200
-            text = '{"ok": true}'
+            choices = [FakeChoice()]
 
-            def json(self):
-                return {'choices': [{'message': {'content': '[{"i":0,"zh":"一"}]'}}]}
+        class FakeCompletions:
+            def create(self, **kwargs):
+                calls.append(('payload', kwargs))
+                return FakeResponse()
 
-        def fake_post(url, headers, json, timeout):
-            calls.append((url, headers, json, timeout))
-            return FakeResponse()
+        class FakeChat:
+            completions = FakeCompletions()
+
+        class FakeClient:
+            def __init__(self, **kwargs):
+                calls.append(('client', kwargs))
+                self.chat = FakeChat()
 
         env = {
-            'LLM_BASE_URL': 'https://api.astrdark.cyou/v1',
-            'LLM_API_KEY': 'sk-test',
-            'LLM_MODEL': 'glm-4.5-flash',
+            'ZAI_BASE_URL': 'https://example.test/api/paas/v4',
+            'ZAI_API_KEY': 'sk-test',
+            'ZAI_MODEL': 'glm-4.7-flash',
         }
         with patch.dict(os.environ, env, clear=False), \
-                patch.object(translate_script.requests, 'post', fake_post):
+                patch.object(translate_script, 'ZhipuAiClient', FakeClient):
             content, err = translate_script.call_llm('prompt', 'system', timeout=12)
 
         self.assertIsNone(err)
         self.assertEqual(content, '[{"i":0,"zh":"一"}]')
-        url, headers, payload, timeout = calls[0]
-        self.assertEqual(url, 'https://api.astrdark.cyou/v1/chat/completions')
-        self.assertEqual(headers['Authorization'], 'Bearer sk-test')
-        self.assertEqual(payload['model'], 'glm-4.5-flash')
+        client_call, client_kwargs = calls[0]
+        payload_call, payload = calls[1]
+        self.assertEqual(client_call, 'client')
+        self.assertEqual(payload_call, 'payload')
+        self.assertEqual(client_kwargs['api_key'], 'sk-test')
+        self.assertEqual(client_kwargs['base_url'],
+                         'https://example.test/api/paas/v4/')
+        self.assertEqual(client_kwargs['timeout'], 12)
+        self.assertEqual(payload['model'], 'glm-4.7-flash')
         self.assertEqual(payload['messages'][0]['content'], 'system')
         self.assertEqual(payload['messages'][1]['content'], 'prompt')
-        self.assertEqual(timeout, 12)
+        self.assertEqual(payload['thinking'], {'type': 'disabled'})
+
+    def test_call_llm_uses_bigmodel_defaults(self):
+        calls = []
+
+        class FakeMessage:
+            content = '[{"i":0,"zh":"一"}]'
+
+        class FakeChoice:
+            message = FakeMessage()
+
+        class FakeResponse:
+            choices = [FakeChoice()]
+
+        class FakeCompletions:
+            def create(self, **kwargs):
+                calls.append(('payload', kwargs))
+                return FakeResponse()
+
+        class FakeChat:
+            completions = FakeCompletions()
+
+        class FakeClient:
+            def __init__(self, **kwargs):
+                calls.append(('client', kwargs))
+                self.chat = FakeChat()
+
+        env = {'ZAI_API_KEY': 'sk-test'}
+        with patch.dict(os.environ, env, clear=True), \
+                patch.object(translate_script, 'ZhipuAiClient', FakeClient):
+            content, err = translate_script.call_llm('prompt', 'system')
+
+        self.assertIsNone(err)
+        self.assertEqual(content, '[{"i":0,"zh":"一"}]')
+        client_kwargs = calls[0][1]
+        payload = calls[1][1]
+        self.assertEqual(client_kwargs['base_url'],
+                         'https://open.bigmodel.cn/api/paas/v4/')
+        self.assertEqual(payload['model'], 'glm-4.7-flash')
+
+    def test_call_llm_reports_cloudflare_challenge_as_fatal(self):
+        err = translate_script.format_llm_exception(
+            Exception('<!DOCTYPE html><title>Just a moment...</title>'))
+        self.assertIn('FATAL: LLM endpoint returned a Cloudflare challenge', err)
 
     def test_rejects_partial_translation_array(self):
         arr, err = translate_script.parse_translation_array(

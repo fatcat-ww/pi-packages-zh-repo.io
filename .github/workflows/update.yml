@@ -101,9 +101,9 @@ jobs:
       - name: Translate new/modified packages
         if: env.SKIP_PR != 'true' && env.NEED_TRANSLATION == 'true'
         env:
-          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
-          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
-          LLM_MODEL: glm-4.5-flash
+          ZAI_API_KEY: ${{ secrets.ZAI_API_KEY }}
+          ZAI_BASE_URL: ${{ secrets.ZAI_BASE_URL }}
+          ZAI_MODEL: glm-4.7-flash
         run: python scripts/translate.py
 
       - name: Merge to packages.json
