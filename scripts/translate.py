@@ -9,9 +9,9 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 try:
-    from zai import ZhipuAiClient
-except ImportError:
-    ZhipuAiClient = None
+    from scripts.llm_client import call_llm
+except ModuleNotFoundError:
+    from llm_client import call_llm
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_EN_DIR = REPO_ROOT / 'data' / 'en'
@@ -21,93 +21,9 @@ META_FILE = REPO_ROOT / 'data' / '_meta.json'
 
 BATCH_SIZE = 50
 LLM_TIMEOUT = 180  # seconds per call
-DEFAULT_LLM_BASE_URL = 'https://open.bigmodel.cn/api/paas/v4'
-DEFAULT_LLM_MODEL = 'glm-4.7-flash'
 MAX_ATTEMPTS = 3
 RETRY_DELAY_SECONDS = 3
 BATCH_DELAY_SECONDS = 1.0
-
-
-def call_llm(prompt, system_prompt, timeout=LLM_TIMEOUT):
-    """Call BigModel through the official Python SDK."""
-    client = create_llm_client(timeout)
-    try:
-        response = client.chat.completions.create(**build_llm_payload(
-            prompt, system_prompt))
-    except Exception as exc:
-        return None, format_llm_exception(exc)
-    return extract_llm_content(response)
-
-
-def create_llm_client(timeout):
-    if ZhipuAiClient is None:
-        raise RuntimeError("zai-sdk is required. Install with: pip install zai-sdk")
-    kwargs = {
-        'api_key': get_api_key(),
-        'timeout': timeout,
-    }
-    base_url = (
-        os.environ.get('ZAI_BASE_URL', '').strip()
-        or os.environ.get('LLM_BASE_URL', '').strip()
-        or DEFAULT_LLM_BASE_URL
-    )
-    kwargs['base_url'] = base_url.rstrip('/') + '/'
-    return ZhipuAiClient(**kwargs)
-
-
-def get_api_key():
-    value = (
-        os.environ.get('ZAI_API_KEY', '').strip()
-        or os.environ.get('LLM_API_KEY', '').strip()
-    )
-    if not value:
-        raise RuntimeError("ZAI_API_KEY or LLM_API_KEY is required")
-    return value
-
-
-def build_llm_payload(prompt, system_prompt):
-    return {
-        'model': get_model_name(),
-        'messages': [
-            {'role': 'system', 'content': system_prompt},
-            {'role': 'user', 'content': prompt},
-        ],
-        'temperature': 0.2,
-        'thinking': {'type': os.environ.get('LLM_THINKING', 'disabled')},
-    }
-
-
-def get_model_name():
-    return (
-        os.environ.get('ZAI_MODEL', '').strip()
-        or os.environ.get('LLM_MODEL', '').strip()
-        or DEFAULT_LLM_MODEL
-    )
-
-
-def extract_llm_content(response):
-    choices = getattr(response, 'choices', None)
-    if not choices:
-        return None, "LLM response missing choices"
-    content = getattr(getattr(choices[0], 'message', None), 'content', '')
-    if not content:
-        return None, "LLM response missing message content"
-    return content, None
-
-
-def format_llm_exception(exc):
-    text = str(exc)
-    if is_cloudflare_challenge_text(text):
-        return (
-            "FATAL: LLM endpoint returned a Cloudflare challenge page. "
-            "Use an API endpoint that accepts non-browser POST requests, or "
-            "disable Cloudflare challenge/WAF rules for /v1/chat/completions."
-        )
-    return f"LLM request failed: {text[:300]}"
-
-
-def is_cloudflare_challenge_text(text):
-    return 'just a moment' in text.lower()
 
 
 def parse_translation_array(content, expected_count):
@@ -218,8 +134,8 @@ def filter_untranslated_slugs(slugs):
 def require_llm_config(slugs_to_translate):
     if not slugs_to_translate:
         return
-    if not (os.environ.get('ZAI_API_KEY') or os.environ.get('LLM_API_KEY')):
-        print("ERROR: ZAI_API_KEY or LLM_API_KEY required when translation is needed",
+    if not os.environ.get('SILICONFLOW_API_KEY', '').strip():
+        print("ERROR: SILICONFLOW_API_KEY required when translation is needed",
               file=sys.stderr)
         sys.exit(1)
 

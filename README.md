@@ -119,10 +119,11 @@ pi-packages-zh/
 
 ```bash
 pip install -r requirements.txt
-export ZAI_API_KEY=your_key_here
-export ZAI_MODEL=glm-4.7-flash
-# 可选：默认已使用智谱官方 API
-# export ZAI_BASE_URL=https://open.bigmodel.cn/api/paas/v4
+export SILICONFLOW_API_KEY=sk-your_key_here
+
+# 翻译固定使用 SiliconFlow:
+# https://api.siliconflow.cn/v1
+# deepseek-ai/DeepSeek-V4-Flash
 
 # 抓取 + diff + 翻译 + 合并 + 生成 HTML（全套）
 python scripts/scrape.py
@@ -204,13 +205,8 @@ python scripts/scrape.py --max-pages 2 --dry-run
 
 仓库 Settings → Secrets and variables → Actions → New repository secret：
 
-- Name: `ZAI_API_KEY`
-- Value: 你的智谱 API Key
-
-可选：如果要覆盖默认智谱官方端点，再添加：
-
-- Name: `ZAI_BASE_URL`
-- Value: `https://open.bigmodel.cn/api/paas/v4`
+- Name: `SILICONFLOW_API_KEY`
+- Value: 你的 SiliconFlow API Key
 
 ### 2. 启用 GitHub Pages
 
