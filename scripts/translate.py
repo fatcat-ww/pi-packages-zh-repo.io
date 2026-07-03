@@ -187,7 +187,7 @@ def run_batch(batch_idx, batch_count, batch_slugs, translated_at, system_prompt)
     items, slug_to_en = build_batch_items(batch_slugs)
     prompt = build_batch_prompt(items)
     for attempt in range(1, MAX_ATTEMPTS + 1):
-        content, err = call_llm(prompt, system_prompt)
+        content, err = call_llm(prompt, system_prompt, timeout=LLM_TIMEOUT)
         if err:
             print(f"  Batch {batch_idx}/{batch_count} attempt {attempt} ERROR: {err}",
                   flush=True)

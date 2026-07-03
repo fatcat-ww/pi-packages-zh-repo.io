@@ -180,7 +180,10 @@ class TranslateTests(unittest.TestCase):
             zh_dir = root / 'data' / 'zh'
             write_json(en_dir / 'pkg.json', en_record('pkg', 'desc'))
 
-            def fake_call_llm(prompt, system_prompt):
+            calls = []
+
+            def fake_call_llm(prompt, system_prompt, timeout):
+                calls.append((prompt, system_prompt, timeout))
                 return '[{"i": 0, "zh": "译文"}]', None
 
             attrs = {'DATA_EN_DIR': en_dir, 'DATA_ZH_DIR': zh_dir}
@@ -190,6 +193,7 @@ class TranslateTests(unittest.TestCase):
                 done = translate_script.run_batch(1, 1, ['pkg'], 'now', 'system')
 
             self.assertEqual(done, 1)
+            self.assertEqual(calls[0][2], translate_script.LLM_TIMEOUT)
             translated = json.loads((zh_dir / 'pkg.json').read_text())
             self.assertEqual(translated['description_zh'], '译文')
 
